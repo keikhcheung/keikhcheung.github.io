@@ -12,7 +12,7 @@ extras:       "With Delphine Delfieu, Paul-Henri Dumas, Léa Guiraud, and Mélis
 ---
 
 
-<div class="image entry thin" markdown="1">
+<div class="image entry" markdown="1">
 ![Logos of Chamrousse Tourist Office (top) and our adaptations (bottom)](/images/chamrousse01-alt.jpg)
 </div>
 
@@ -23,8 +23,10 @@ The design of Chamrousse Tourist Office website dates from 2010. Its *informatio
 We started the website redesign project with an analytical research of Chamrousse Tourist Office in order to understand more in-depth its services and its commercial characteristics. A *benchmark study* was also carried out so as to compare its position amongst other current competitors.
 </div>
 
-<div class="image entry" markdown="1">
-![Screenshot of the Chamrousse Tourist Office website](/images/chamrousse02.jpg)
+<div class="image entry" markdown="0">
+<a href="/images/chamrousse02.jpg" class="progressive replace">
+<img src="/images-pre/chamrousse02-pre.jpg" class="preview h" alt="imageeeeeeee" />
+</a>
 </div>
 
 <div class="entry thin" markdown="1">
@@ -33,11 +35,11 @@ We produced *paper mockups* for *rapid user tests* in a given scenario designate
 </div>
 
 <div class="image entry" markdown="1">
-![Team building multilayer paper mockups](/images/chamrousse03.jpg)
+[![Team building multilayer paper mockups](/images-pre/chamrousse03-pre.jpg){:class="preview h"}](/images/chamrousse03.jpg){:class="progressive replace"}
 </div>
 
 <div class="image entry" markdown="1">
-![An example viewport of the accommodation reservation mockup](/images/chamrousse03-2.jpg)
+[![An example viewport of the accommodation reservation mockup](/images-pre/chamrousse03-2-pre.jpg){:class="preview h"}](/images/chamrousse03-2.jpg){:class="progressive replace"}
 </div>
 
 <div class="entry thin" markdown="1">
@@ -46,11 +48,11 @@ We designed a new *visual identity* from organic elements from the nature so as 
 </div>
 
 <div class="image entry" markdown="1">
-![Moodboard showing our colour scheme and visual elements](/images/chamrousse04.jpg)
+[![Moodboard showing our colour scheme and visual elements](/images-pre/chamrousse04-pre.jpg){:class="preview h"}](/images/chamrousse04.jpg){:class="progressive replace"}
 </div>
 
 <div class="image entry" markdown="1">
-![Moodboard showing the design of graphic elements for the website](/images/chamrousse04-2.jpg)
+[![Moodboard showing the design of graphic elements for the website](/images-pre/chamrousse04-2-pre.jpg){:class="preview h"}](/images/chamrousse04-2.jpg){:class="progressive replace"}
 </div>
 
 <div class="entry thin" markdown="1">
@@ -59,22 +61,22 @@ In the end, we put our ideas on to *wireframes* and wrote an *analytical report*
 </div>
 
 <div class="image entry thin" markdown="1">
-![Wireframe screenshot of the landing page](/images/chamrousse05.jpg)
+[![Wireframe screenshot of the landing page](/images-pre/chamrousse05-pre.jpg){:class="preview h"}](/images/chamrousse05.jpg){:class="progressive replace"}
 
 </div>
 
 <div class="image entry thin" markdown="1">
-![Wireframe screenshot of the activity page](/images/chamrousse05-2.jpg)
+[![Wireframe screenshot of the activity page](/images-pre/chamrousse05-2-pre.jpg){:class="preview h"}](/images/chamrousse05-2.jpg){:class="progressive replace"}
 </div>
 
 <div class="image entry thin" markdown="1">
-![Wireframe screenshot of the accommodation page](/images/chamrousse05-3.jpg)
+[![Wireframe screenshot of the accommodation page](/images-pre/chamrousse05-3-pre.jpg){:class="preview h"}](/images/chamrousse05-3.jpg){:class="progressive replace"}
 </div>
 
 <div class="image entry thin" markdown="1">
-![Interface design for the landing page](/images/chamrousse06.jpg)
+[![Interface design for the landing page](/images-pre/chamrousse06-pre.jpg){:class="preview h"}](/images/chamrousse06.jpg){:class="progressive replace"}
 </div>
 
 <div class="image entry thin" markdown="1">
-![Interface design for the accommodation reservation page](/images/chamrousse06-2.jpg)
+[![Interface design for the accommodation reservation page](/images-pre/chamrousse06-2-pre.jpg){:class="preview h"}](/images/chamrousse06-2.jpg){:class="progressive replace"}
 </div>
