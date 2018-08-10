@@ -361,12 +361,16 @@ article {
     }
 
     .post-content .photo.entry {
-        @extend .post-content .image.entry;
+        padding-left: 0;
+        margin-right: 0;
         margin-bottom: 0;
     }
 
     .post-content .photo.entry img {
-        @extend .post-content .image.entry img;
+        max-height: none;
+        margin-right: 0;
+        max-width: 103%; /* Magnify img to cover the RIGHT to create full bleed look */
+        margin-left: -1.5%; /* Remove the LEFT table wrapper inner borderto create full bleed look */
     }
 
     #tintoretto {
