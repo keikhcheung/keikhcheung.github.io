@@ -33,7 +33,7 @@ In each *phase*, our team pulled tasks from *backlog* to *sprint* and decided wh
 </div>
 
 <div class="image entry" markdown="1">
-![Product owner (top right) prioritising her criteria and scrum master leading the scrum team to estimate necessary time and resources](/images/compactcity02.jpg)
+[![Product owner (top right) prioritising her criteria and scrum master leading the scrum team to estimate necessary time and resources](/images-pre/compactcity02-pre.jpg){:class="preview h"}](/images/compactcity02.jpg){:class="progressive replace"}
 </div>
 
 <div class="entry thin" markdown="1">
@@ -42,7 +42,7 @@ During each 7-minute *sprint*, each team member constructs his/her responsible p
 </div>
 
 <div class="image entry thin" markdown="1">
-![Team members building his/her assigned part of the city](/images/compactcity03-compressed.jpg)
+[![Team members building his/her assigned part of the city](/images-pre/compactcity03-compressed-pre.jpg){:class="preview h"}](/images/compactcity03-compressed.jpg){:class="progressive replace"}
 </div>
 
 <div class="entry" markdown="1">
@@ -51,11 +51,11 @@ At the end of each phase, the product owner *evaluated* our production. Accepted
 </div>
 
 <div class="image entry" markdown="1">
-![Product owner assessing the production by the end of each sprint](/images/compactcity04.jpg)
+[![Product owner assessing the production by the end of each sprint](/images-pre/compactcity04-pre.jpg){:class="preview h"}](/images/compactcity04.jpg){:class="progressive replace"}
 </div>
 
 <div class="image entry" markdown="1">
-![Project progress: the 13 criteria assigned as in the ‘backlog’, ‘sprint’, and ‘done‘](/images/compactcity05-ratio.jpg)
+[![Project progress: the 13 criteria assigned as in the ‘backlog’, ‘sprint’, and ‘done‘](/images-pre/compactcity05-ratio-pre.jpg){:class="preview h"}](/images/compactcity05-ratio.jpg){:class="progressive replace"}
 </div>
 
 <div class="entry thin" markdown="1">
@@ -64,7 +64,7 @@ As *iterations* followed, our team approached and materialised her ideal city st
 </div>
 
 <div class="image entry thin" markdown="1">
-![Construction of the ideal city in progress](/images/compactcity06.jpg)
+[![Construction of the ideal city in progress](/images-pre/compactcity06-pre.jpg){:class="preview h"}](/images/compactcity06.jpg){:class="progressive replace"}
 </div>
 
 <div class="entry" markdown="1">
@@ -75,9 +75,9 @@ She then named her ideal city **‘Compact City‘** and *presented* it to the p
 </div>
 
 <div class="image entry" markdown="1">
-![Product owner presenting her ‘Compact City’ to the audience](/images/compactcity07.jpg)
+[![Product owner presenting her ‘Compact City’ to the audience](/images-pre/compactcity07-pre.jpg){:class="preview h"}](/images/compactcity07.jpg){:class="progressive replace"}
 </div>
 
 <div class="image entry" markdown="1">
-![Bird’s-eye view of ‘Compact City’](/images/compactcity08-ratio.jpg)
+[![Bird’s-eye view of ‘Compact City’](/images-pre/compactcity08-ratio-pre.jpg){:class="preview h"}](/images/compactcity08-ratio.jpg){:class="progressive replace"}
 </div>
