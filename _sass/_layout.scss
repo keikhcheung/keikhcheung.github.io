@@ -360,6 +360,15 @@ article {
         margin-left: -1.5%; /* Remove the LEFT table wrapper inner borderto create full bleed look */
     }
 
+    .post-content .photo.entry {
+        @extend .post-content .image.entry;
+        margin-bottom: 0;
+    }
+
+    .post-content .photo.entry img {
+        @extend .post-content .image.entry img;
+    }
+
     #tintoretto {
         text-align: center;
         background: $grey-color-light;
