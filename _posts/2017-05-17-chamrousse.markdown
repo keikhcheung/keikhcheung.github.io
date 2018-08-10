@@ -25,7 +25,7 @@ We started the website redesign project with an analytical research of Chamrouss
 
 <div class="image entry" markdown="0">
 <a href="/images/chamrousse02.jpg" class="progressive replace">
-<img src="/images-pre/chamrousse02-pre.jpg" class="preview h" alt="imageeeeeeee" />
+<img src="/images-pre/chamrousse02-pre.jpg" class="preview h" alt="Screenshot of the Chamrousse Tourist Office website" />
 </a>
 </div>
 
