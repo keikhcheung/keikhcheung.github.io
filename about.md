@@ -49,7 +49,7 @@ Jun 2012 - Mar 2013
 Clients: European Union Academic Programme Hong Kong, Longs International Ltd.
 </div>
 
-<div class="entry" markdown="1">
+<div class="entry wide" markdown="1">
 ## \> Education
 Aug 2016 - Jun 2018  
 *École Normale Supérieure de Lyon*  
