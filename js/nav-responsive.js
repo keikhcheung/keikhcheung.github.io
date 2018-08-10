@@ -1,9 +1,7 @@
 /* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon */
 function openHamburger() {
     var x = document.getElementById("hamburger");
-    console.log(x);
     var y = document.getElementsByClassName("nav-wrapper");
-    console.log(y);
     var z = document.getElementsByClassName("icon");
     if (x.className === "navigation") {
         x.className += " responsive";
