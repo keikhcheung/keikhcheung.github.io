@@ -99,6 +99,7 @@
         position: relative; /* Keep page links ~~absolute~~ relative */
         opacity: 0;
         visibility: hidden;
+        overflow-y: scroll;
         -webkit-transition: all .25s ease-in-out;
            -moz-transition: all .25s ease-in-out;
              -o-transition: all .25s ease-in-out;
@@ -126,6 +127,7 @@
         float: none;
         opacity: 1;
         visibility: visible;
+        overflow-y: scroll;
         text-align: left;
         padding-left: 2.5%; /* Instead of margin-left for background to cover the slit space */
         padding-bottom: 20vh; /* For space from the bottom on mobile */
