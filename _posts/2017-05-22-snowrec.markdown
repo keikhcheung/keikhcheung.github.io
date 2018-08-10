@@ -13,7 +13,7 @@ extras:       "With Delphine Delfieu, Paul-Henri Dumas, Léa Guiraud, and Mélis
 
 
 <div class="image entry thin" markdown="1">
-![Logos of SnowRec and the interconnected ski goggles](/images/snowrec01.png)
+[![Logos of SnowRec and the interconnected ski goggles](/images/snowrec01.png){:class="preview"}](/images/snowrec01.png){:class="progressive replace"}
 </div>
 
 <div class="entry" markdown="1">
@@ -28,7 +28,7 @@ We thus prioritised to invent **a mechanism which simplify taking and sharing sk
 </div>
 
 <div class="image entry" markdown="1">
-![Team brainstroming on the activities, environments, objects, users, and interactions related to ski resort](/images/snowrec02.jpg)
+[![Team brainstroming on the activities, environments, objects, users, and interactions related to ski resort](/images-pre/snowrec02-pre.jpg){:class="preview"}](/images/snowrec02.jpg){:class="progressive replace"}
 </div>
 
 <div class="entry" markdown="1">
@@ -37,7 +37,7 @@ Here is our service product ecosystem corresponding to the problem - *SnowRec*. 
 </div>
 
 <div class="image entry" markdown="1">
-![Graphical instructions of how the turn on the camera in the tutor's ski goggles](/images/snowrec03.jpg)
+[![Graphical instructions of how the turn on the camera in the tutor's ski goggles](/images-pre/snowrec03-pre.jpg){:class="preview"}](/images/snowrec03.jpg){:class="progressive replace"}
 </div>
 
 <div class="entry" markdown="1">
@@ -48,7 +48,7 @@ Through the application, tutor can **evaluate students' performance, distribute 
 </div>
 
 <div class="image entry" markdown="1">
-![Graphical instructions of how the SnorRec appliaction works](/images/snowrec04.jpg)
+[![Graphical instructions of how the SnorRec appliaction works](/images-pre/snowrec04-pre.jpg){:class="preview"}](/images/snowrec04.jpg){:class="progressive replace"}
 </div>
 
 <div class="entry" markdown="1">
@@ -57,7 +57,7 @@ We built some simple *wireframes* to test our concept. Following the feedbacks i
 </div>
 
 <div class="image entry thin" markdown="1">
-![Screenshots of the first version wireframes on mobile and desktop](/images/snowrec05.jpg)
+[![Screenshots of the first version wireframes on mobile and desktop](/images-pre/snowrec05-pre.jpg){:class="preview"}](/images/snowrec05.jpg){:class="progressive replace"}
 </div>
 
 <div class="entry thin" markdown="1">
@@ -66,7 +66,7 @@ As we wanted to make our ecosystem fun and educative to users and pay tribute to
 </div>
 
 <div class="image entry" markdown="1">
-![Icons, colour swatches, mood board, and award badges](/images/snowrec06.jpg)
+[![Icons, colour swatches, mood board, and award badges](/images-pre/snowrec06-pre.jpg){:class="preview"}](/images/snowrec06.jpg){:class="progressive replace"}
 </div>
 
 <div class="entry thin" markdown="1">
@@ -80,9 +80,9 @@ Eventually, we wrote a detailed *design process report* and set up an *exhibitio
 </div>
 
 <div class="image entry" markdown="1">
-![Screenshots of the final interactive prototype](/images/snowrec07.jpg)
+[![Screenshots of the final interactive prototype](/images-pre/snowrec07-ratio-pre.jpg){:class="preview"}](/images/snowrec07-ratio.jpg){:class="progressive replace"}
 </div>
 
 <div class="image entry" markdown="1">
-![Our exhibition booth for SnowRec](/images/snowrec08.jpg)
+[![Our exhibition booth for SnowRec](/images-pre/snowrec08-pre.jpg){:class="preview"}](/images/snowrec08.jpg){:class="progressive replace"}
 </div>
