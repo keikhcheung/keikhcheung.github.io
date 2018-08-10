@@ -1,9 +1,17 @@
 # Kolgrímur Völundarson
 Kei Ka-hei Cheung
 
-This is a portfolio site under construction.
+## 20180810
 
-Jan 2018
+Portfolio built on Jekyll and GitHub Pages.
+
+Special thanks to [Kat Fukui](http://katfukui.com) for her documentation on Jekyll and GitHub Pages with which this site has been established.
+
+---
+
+## Jan 2018
+
+This is a portfolio site under construction.
 
 Current portfolio:  
 http://kolgrimur-volundarson-design.tumblr.com
@@ -16,3 +24,7 @@ https://github.com/keikhcheung/keikhcheung.github.io/
 
 Customised homepage at:  
 http://keikhcheung.github.io/
+
+---
+
+Copyright © Ka Hei Cheung 2010-2018. All rights reserved.

@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<article class="post horizontal">
+
+  <header class="post-header entry">
+
+    <h1 class="post-title">{{ page.title }}</h1>
+    
+    <div class="post-info">
+      <p class="project-caption">{{ page.caption}}</p>
+      <p class="project-date">{{ page.projdate }}, {{page.type}}</p>
+      <p class="project-intro">{{ page.intro }}</p>
+      <p class="project-extras">{{ page.extras }}</p>
+    </div>
+
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+</article>

@@ -1,0 +1,88 @@
+<header class="site-header">
+  
+  <div id="bar">
+    <h1><a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+    <a href="javascript:void(0);" class="icon" onclick="openHamburger()">&#8801;</a>
+  </div>
+
+  <!-- Semi-dynamic navigation menu -->
+  <nav role="navigation" class="nav-wrapper">
+    <div class="navigation" id="hamburger">
+      <a class="site-about"{% if page.title == "About" %} id="active"{% endif %} href="{{ site.baseurl }}/about">{% if page.title == "About" %}»&nbsp;{% endif %}o’ kei</a>
+      {% assign projects = site.posts | sort:"date" | reverse %}
+      <!-- Category UX/UI -->
+      <p class="category">UX/UI</p>
+      <ul>
+        {% for p in projects %}
+          {% if p.category == "ux-ui" %}
+            <li>
+              <!-- If current page, link proceeds with "» " -->
+              <a {% if p.url == page.url %}id="active"{% endif %} href="{{ p.url | prepend: site.baseurl }}">{% if p.url == page.url %}»&nbsp;{% endif %}{{ p.title }}</a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+
+      <!-- Category products -->
+      <p class="category">products</p>
+      <ul>
+        {% for p in projects %}
+          {% if p.category == "products" %}
+            <li>
+              <a {% if p.url == page.url %}id="active"{% endif %} href="{{ p.url | prepend: site.baseurl }}">{% if p.url == page.url %}»&nbsp;{% endif %}{{ p.title }}</a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+
+      <!-- Category shorts -->
+      <p class="category">shorts</p>
+      <ul>
+        {% for p in projects %}
+          {% if p.category == "shorts" %}
+            <li>
+              <a {% if p.url == page.url %}id="active"{% endif %} href="{{ p.url | prepend: site.baseurl }}">{% if p.url == page.url %}»&nbsp;{% endif %}{{ p.title }}</a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+
+      <!-- Category photography -->
+      <p class="category">photography</p>
+      <ul>
+        {% for p in projects %}
+          {% if p.category == "photography" %}
+            <li>
+              <a {% if p.url == page.url %}id="active"{% endif %} href="{{ p.url | prepend: site.baseurl }}">{% if p.url == page.url %}»&nbsp;{% endif %}{{ p.title }}</a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+
+      <!-- Category graphics -->
+      <p class="category">graphics</p>
+      <ul>
+        {% for p in projects %}
+          {% if p.category == "graphics" %}
+            <li>
+              <a {% if p.url == page.url %}id="active"{% endif %} href="{{ p.url | prepend: site.baseurl }}">{% if p.url == page.url %}»&nbsp;{% endif %}{{ p.title }}</a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+
+      <!-- Category drawings -->
+      <p class="category">drawings</p>
+      <ul>
+        {% for p in projects %}
+          {% if p.category == "drawings" %}
+            <li>
+              <a {% if p.url == page.url %}id="active"{% endif %} href="{{ p.url | prepend: site.baseurl }}">{% if p.url == page.url %}»&nbsp;{% endif %}{{ p.title }}</a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+  </nav>
+
+</header>

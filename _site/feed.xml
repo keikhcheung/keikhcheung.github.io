@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kei ka-hei cheung</title>
+    <description>Portfolio of Kei Ka-hei Cheung.
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 10 Aug 2018 00:56:30 +0100</pubDate>
+    <lastBuildDate>Fri, 10 Aug 2018 00:56:30 +0100</lastBuildDate>
+    <generator>Jekyll v3.7.0</generator>
+    
+      <item>
+        <title>horizons</title>
+        <description>&lt;div class=&quot;photo entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/photos/horizon-01.jpg&quot; alt=&quot;The quenching horizon&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;photo entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/photos/horizon-02.jpg&quot; alt=&quot;The reluctant horizon&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;photo entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/photos/horizon-03.jpg&quot; alt=&quot;Horizon of tension&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;photo entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/photos/horizon-04.jpg&quot; alt=&quot;The bonding horizon&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;photo entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/photos/hong-kong-06.jpg&quot; alt=&quot;The hazy horizon&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 09 Aug 2018 23:51:37 +0100</pubDate>
+        <link>http://localhost:4000/photography/2018/08/09/horizon.html</link>
+        <guid isPermaLink="true">http://localhost:4000/photography/2018/08/09/horizon.html</guid>
+        
+        
+        <category>photography</category>
+        
+      </item>
+    
+      <item>
+        <title>hong kong</title>
+        <description>&lt;div class=&quot;photo entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/photos/hong-kong-01.jpg&quot; alt=&quot;Metro exit&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;photo entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/photos/hong-kong-02.jpg&quot; alt=&quot;Metro in rush hour&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;photo entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/photos/hong-kong-03.jpg&quot; alt=&quot;Cha chaan teng&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;photo entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/photos/hong-kong-04.jpg&quot; alt=&quot;Chaa lau&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;photo entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/photos/hong-kong-05.jpg&quot; alt=&quot;McDonald's&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;photo entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/photos/hong-kong-08.jpg&quot; alt=&quot;The living gap&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;photo entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/photos/hong-kong-09.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;photo entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/photos/hong-kong-10.jpg&quot; alt=&quot;Speed 24&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;photo entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/photos/hong-kong-11.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;photo entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/photos/hong-kong-12.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;photo entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/photos/hong-kong-13.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;photo entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/photos/hong-kong-14.jpg&quot; alt=&quot;Chong's Store&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;photo entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/photos/hong-kong-15.jpg&quot; alt=&quot;Old temple of Demu (Mother Earth), Guanyin (Goddess of Mercy), and Daisi (God of the ghosts)&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;photo entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/photos/hong-kong-16.jpg&quot; alt=&quot;Subtropical delivery&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;photo entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/photos/hong-kong-17.jpg&quot; alt=&quot;Lego block&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;photo entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/photos/hong-kong-18.jpg&quot; alt=&quot;Lego piles&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;photo entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/photos/hong-kong-06.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;photo entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/photos/hong-kong-19.jpg&quot; alt=&quot;Oasis in the sea&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 09 Aug 2018 23:30:00 +0100</pubDate>
+        <link>http://localhost:4000/photography/2018/08/09/hong-kong.html</link>
+        <guid isPermaLink="true">http://localhost:4000/photography/2018/08/09/hong-kong.html</guid>
+        
+        
+        <category>photography</category>
+        
+      </item>
+    
+      <item>
+        <title>dancing lights</title>
+        <description>&lt;div class=&quot;photo entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/photos/dancing-lights-01.jpg&quot; alt=&quot;Dancing lights in the front&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;photo entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/photos/dancing-lights-02.jpg&quot; alt=&quot;Dancing lights in the middle&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;photo entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/photos/dancing-lights-03.jpg&quot; alt=&quot;Dancing lights at the back&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 09 Aug 2018 15:51:00 +0100</pubDate>
+        <link>http://localhost:4000/photography/2018/08/09/dancing-light.html</link>
+        <guid isPermaLink="true">http://localhost:4000/photography/2018/08/09/dancing-light.html</guid>
+        
+        
+        <category>photography</category>
+        
+      </item>
+    
+      <item>
+        <title>Tintoretto2Go</title>
+        <description>&lt;div class=&quot;image entry thin&quot; id=&quot;tintoretto&quot;&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;/images/tintoretto-preview.gif&quot; alt=&quot;Preview of the application&quot; /&gt;&lt;/p&gt;
+	&lt;figcaption&gt;Courtesy: &lt;i&gt;denkwerk GmbH&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;entry&quot;&gt;
+  &lt;h2 id=&quot;treasure-hunt-in-the-city&quot;&gt;&amp;gt;  Treasure hunt in the city&lt;/h2&gt;
+  &lt;p&gt;In the celebration of the 500&lt;sup&gt;th&lt;/sup&gt; birthday of the Italian artist &lt;em&gt;Jacopo Tintoretto&lt;/em&gt;, &lt;em&gt;&lt;i&gt;&lt;a href=&quot;https://www.wallraf.museum&quot; target=&quot;_blank&quot;&gt;Wallraf-Richartz Museum&lt;/a&gt;&lt;/i&gt;&lt;/em&gt; in Cologne, Germany held a &lt;a href=&quot;https://www.wallraf.museum/2017-10-06-tintoretto/&quot; target=&quot;_blank&quot;&gt;dedicated exhibition&lt;/a&gt; featuring his &lt;em&gt;&lt;a href=&quot;https://www.wallraf.museum/2017-10-06-tintoretto/exponate/&quot; target=&quot;_blank&quot;&gt;Renaissance paintings&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
+
+  &lt;p&gt;&lt;em&gt;&lt;i&gt;&lt;a href=&quot;https://www.denkwerk.com&quot; target=&quot;_blank&quot;&gt;denkwerk GmbH&lt;/a&gt;&lt;/i&gt;&lt;/em&gt; had the idea of using &lt;em&gt;visual recognition&lt;/em&gt; and &lt;em&gt;augmented reality (AR)&lt;/em&gt; to &lt;strong&gt;hijack advertisement posters in the city and replacing them with artwork&lt;/strong&gt;, allowing people to discover the hidden gems within Tintoretto’s paintings.&lt;/p&gt;
+
+  &lt;p&gt;In this project, my role was to create an engaging experience for this &lt;em&gt;&lt;a href=&quot;https://www.tintoretto2go.de&quot; target=&quot;_blank&quot;&gt;‘city hunt’ game&lt;/a&gt;&lt;/em&gt; in Cologne and Berlin.&lt;/p&gt;
+
+  &lt;p&gt;This app has won the &lt;a href=&quot;https://www.denkwerk.com/news/376-gold-rush&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Gold Medal&lt;/strong&gt;&lt;/a&gt; in &lt;em&gt;‘Digital Out Of Home’&lt;/em&gt; category of the &lt;a href=&quot;http://www.goldenawardmontreux.com/winners2018/winners2018-digital.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Golden Awards of Montreux 2018&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;image entry&quot;&gt;
+&lt;iframe src=&quot;http://player.vimeo.com/video/240458476&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;entry&quot;&gt;
+  &lt;p&gt;&amp;gt;&lt;br /&gt;
+At the beginning, I studied the licensed paintings, dug into the &lt;em&gt;literature review&lt;/em&gt; in different languages, and found out interesting highlights in the paintings.&lt;/p&gt;
+
+  &lt;p&gt;I then collaborated with visual designers to create &lt;em&gt;storyboards&lt;/em&gt; for the expecience.&lt;/p&gt;
+
+  &lt;p&gt;We met with the museum curator to present our ideas and collected feedback from the artistic point of view.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;image entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/tintoretto-storyboard-loop.gif&quot; alt=&quot;Example of storyboard evolution&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;entry&quot;&gt;
+  &lt;p&gt;&amp;gt;&lt;br /&gt;
+Later, I also worked with copywriters, 3D artists and developers to implement our concepts into the game &lt;em&gt;prototype&lt;/em&gt;.
+I directed &lt;em&gt;user tests&lt;/em&gt; to gather remarks for improving the game experience and conducted on-site tests for &lt;em&gt;quality control&lt;/em&gt;.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;image entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/tintoretto-test.jpg&quot; alt=&quot;On-site user test&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 06 Aug 2018 14:06:00 +0100</pubDate>
+        <link>http://localhost:4000/ux-ui/2018/08/06/tintoretto.html</link>
+        <guid isPermaLink="true">http://localhost:4000/ux-ui/2018/08/06/tintoretto.html</guid>
+        
+        
+        <category>ux-ui</category>
+        
+      </item>
+    
+      <item>
+        <title>Together we are stronger!</title>
+        <description>&lt;div class=&quot;entry&quot;&gt;
+  &lt;h2 id=&quot;a-diverse-mosaic&quot;&gt;&amp;gt;  A diverse mosaic&lt;/h2&gt;
+
+  &lt;p&gt;In 2018, I participated again in the annual &lt;em&gt;&lt;i&gt;&lt;a href=&quot;http://lisboanarua.com/blog/2018/02/15/esta-aberto-concurso-sardinhas-festas-lisboa-2018/&quot; target=&quot;_blank&quot;&gt;Concurso Sardinhas&lt;/a&gt;&lt;/i&gt;&lt;/em&gt; organised by &lt;em&gt;&lt;i&gt;Empresa de Gestão de Equipamentos e Animação Cultural&lt;/i&gt;&lt;/em&gt; in celebration of &lt;em&gt;&lt;i&gt;Festa de Lisboa&lt;/i&gt;&lt;/em&gt;. This yearly contest consists of making art in the form of sardine.&lt;/p&gt;
+
+  &lt;p&gt;This year, I had the idea from the aminal nature of sardine - &lt;em&gt;forage fish&lt;/em&gt;. In the ocean, sardines swim together in schools. They usuallly form a big group of fish to move around. Of course deep down they are all different individuals. But together they are stronger.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;image entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/sardinhas18.jpg&quot; alt=&quot;Together we are stronger!&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;entry&quot;&gt;
+  &lt;p&gt;&amp;gt;&lt;br /&gt;
+I started with the idea of &lt;em&gt;immitating&lt;/em&gt; a &lt;em&gt;child drawing&lt;/em&gt; fish in different colours. I then continued by exploring the combination of colours and the forms of representing sardines. I further tried bringing different sizes, thicknesses, positions, and postures of each together. I concluded on to the style of &lt;em&gt;Asian paintbrush&lt;/em&gt; to represent their form.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;image entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/sardinhas18-01.jpg&quot; alt=&quot;Draft 1&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;image entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/sardinhas18-02.jpg&quot; alt=&quot;Draft 1&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;entry thin&quot;&gt;
+  &lt;p&gt;&amp;gt;&lt;br /&gt;
+Eventually, all the individually unique sardines formed a beautiful, lively mosaic of themselves. Together they are one!&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 31 Mar 2018 23:56:40 +0100</pubDate>
+        <link>http://localhost:4000/graphics/2018/04/01/sardinhas-2018.html</link>
+        <guid isPermaLink="true">http://localhost:4000/graphics/2018/04/01/sardinhas-2018.html</guid>
+        
+        
+        <category>graphics</category>
+        
+      </item>
+    
+      <item>
+        <title>Danse des sardines - printemps</title>
+        <description>&lt;div class=&quot;entry&quot;&gt;
+  &lt;h2 id=&quot;a-season-to-celebrate&quot;&gt;&amp;gt;  A season to celebrate&lt;/h2&gt;
+
+  &lt;p&gt;I participated in the &lt;em&gt;&lt;i&gt;&lt;a href=&quot;http://lisboanarua.com/festasdelisboa/2017/05/24/sardinhas-vencedoras-2017/&quot; target=&quot;_blank&quot;&gt;Concurso Sardinhas 2017&lt;/a&gt;&lt;/i&gt;&lt;/em&gt; organised by &lt;em&gt;&lt;i&gt;Empresa de Gestão de Equipamentos e Animação Cultural&lt;/i&gt;&lt;/em&gt; in celebration of &lt;em&gt;&lt;i&gt;Festa de Lisboa&lt;/i&gt;&lt;/em&gt;. This yearly contest consists of making art in the form of sardine.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;image entry thin buffer&quot; id=&quot;sardine-17&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/sardinhas17-07-gh.png&quot; alt=&quot;Final version of sardine - Spring&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;entry&quot;&gt;
+  &lt;p&gt;&amp;gt;&lt;br /&gt;
+I started by cutting spaces within the given sardine silhoutte template. I then had the idea of morphing these spaces and forms into a &lt;em&gt;ballerina&lt;/em&gt;, dancing to celebrate the festival of Lisbon. I played with hiding multiple sardines on the ballerina. I then smoothened the contours and tried adding mild and, later, vivid colours to the spaces with reference to &lt;em&gt;colouring books&lt;/em&gt; for children and &lt;em&gt;stained glass windows&lt;/em&gt; of churches.&lt;/p&gt;
+
+  &lt;p&gt;The sardines became a ballerina, the ballerina became Spring.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;image entry thin buffer&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/sardinhas17-loop-gh.gif&quot; alt=&quot;Development of sardine - Spring&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;entry&quot;&gt;
+  &lt;p&gt;&amp;lt;&lt;br /&gt;
+Imagining that children could play with this colouring template, for making this colour model more &lt;em&gt;accessible&lt;/em&gt; to children with sight conditions, when the illustration/graphics are passed to greyscale, the ballerina can be still obviously seen.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 31 Mar 2018 17:47:00 +0100</pubDate>
+        <link>http://localhost:4000/graphics/2018/03/31/sardinhas-2017.html</link>
+        <guid isPermaLink="true">http://localhost:4000/graphics/2018/03/31/sardinhas-2017.html</guid>
+        
+        
+        <category>graphics</category>
+        
+      </item>
+    
+      <item>
+        <title>MesInfos</title>
+        <description>&lt;div class=&quot;image entry thin&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/mesinfos01.jpg&quot; alt=&quot;Logos of MesInfos and la Fing&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;entry&quot;&gt;
+  &lt;p&gt;&amp;gt;&lt;br /&gt;
+&lt;em&gt;&lt;i&gt;&lt;a href=&quot;http://mesinfos.fing.org/english/&quot; target=&quot;_blank&quot;&gt;MesInfos&lt;/a&gt;&lt;/i&gt;&lt;/em&gt; is a project initiated by the &lt;em&gt;&lt;i&gt;&lt;a href=&quot;http://fing.org/?About-Fing&quot; target=&quot;_blank&quot;&gt;Fondation Internet Nouvelle Génération (la Fing)&lt;/a&gt;&lt;/i&gt;&lt;/em&gt; which aims to &lt;em&gt;regain control on our personal data&lt;/em&gt; created upon usage of difference services, scattered across various providers. Through data, it allows individuals to look back at their own behaviour in the past, understand the causes and consequences, and to take necessary adjustment to their future actions in their own needs. Via the platform &lt;em&gt;&lt;a href=&quot;https://cozy.io/en/&quot;&gt;Cozy Cloud&lt;/a&gt;&lt;/em&gt;, users can centralise their data in a personal, secure cloud, powered by &lt;em&gt;&lt;i&gt;la Fing&lt;/i&gt;&lt;/em&gt;, &lt;em&gt;Cozy Cloud&lt;/em&gt; and the community of open source developers.&lt;/p&gt;
+
+  &lt;p&gt;In this project, we collaborate with &lt;em&gt;&lt;i&gt;la Fing&lt;/i&gt;&lt;/em&gt; and &lt;em&gt;Cozy Cloud&lt;/em&gt;. Our focus is on the user’s aspect and how we can improve user experience in order to &lt;strong&gt;better attract potential target users&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;image entry&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/6Wh8HMRKP4U?rel=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;entry&quot;&gt;
+  &lt;p&gt;&amp;gt;&lt;br /&gt;
+We held a meeting with our client to &lt;em&gt;better understand&lt;/em&gt; their ambition in this project, their needs and how we could assist them. We then brought out intensive &lt;em&gt;analyses&lt;/em&gt; of the existing alpha platform and of the feedback provided on the test user forum.&lt;/p&gt;
+
+  &lt;p&gt;We conducted several &lt;em&gt;user interviews&lt;/em&gt; so as to comprehend more directly problems they encounter upon usage and to discern their expectations.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;image entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/mesinfos03.jpg&quot; alt=&quot;Team member Sophie analysing the existing services on the alpha platform of Cozy Cloud&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;entry&quot;&gt;
+  &lt;p&gt;&amp;gt;&lt;br /&gt;
+We then grouped our discoveries into three major &lt;em&gt;problems&lt;/em&gt;. We cross-studied them with the platform’s &lt;em&gt;user profile types&lt;/em&gt;. We &lt;em&gt;brainstormed&lt;/em&gt; on possible interventions and solutions. Then we further shaped all our ideas, crystalised them into &lt;em&gt;3 scenarios&lt;/em&gt; which correspond to &lt;em&gt;3 personae&lt;/em&gt;, evaluated the advantages and limits of each, and objectively &lt;em&gt;presented&lt;/em&gt; them to our client.&lt;/p&gt;
+
+  &lt;p&gt;Our client appreciated our production. Under the time constraint in the academic framework, they selected the 3&lt;sup&gt;rd&lt;/sup&gt; scenario, which aims to &lt;strong&gt;fortify the unique selling points (USPs)&lt;/strong&gt; of the platform within its own self, but can also be versatilely used as promotions for new feature in future development.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;image entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/mesinfos04.jpg&quot; alt=&quot;Team studying the underlying problems and mapping them into three scenarios&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;image entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/mesinfos05-compressed.jpg&quot; alt=&quot;Persona and scenario selected by our client (left) and the other two (right)&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;entry&quot;&gt;
+  &lt;p&gt;&amp;gt;&lt;br /&gt;
+Subsequently, for solving the problem of the selected scenario, we invented &lt;em&gt;3 usage cases&lt;/em&gt;, as per &lt;em&gt;3 different unique selling points (USPs)&lt;/em&gt; which the platform could bring to its users. We concretised their implementation in the form of &lt;em&gt;visual storytelling&lt;/em&gt;. Our strategy adopted here is to omit as much as possible the complicated technical aspect, but to &lt;strong&gt;emphasise the direct, observable benefits&lt;/strong&gt; which the platform can bring to them.&lt;/p&gt;
+
+  &lt;p&gt;We did a &lt;em&gt;benchmark&lt;/em&gt; to see how existing digital service platforms promote themselves before building &lt;em&gt;&lt;a href=&quot;https://invis.io/9UBH1AVTG#/231254425_1-accueil&quot; target=&quot;_blank&quot;&gt;visual mock-ups&lt;/a&gt;&lt;/em&gt; integrated into the beta version of the platform for our client.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;image entry thin&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/mesinfos06.jpg&quot; alt=&quot;Visual mock-ups emphasising the USPs of Cozy Cloud platform&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;entry thin&quot;&gt;
+  &lt;p&gt;&amp;gt;&lt;br /&gt;
+Finally, we &lt;em&gt;pitched&lt;/em&gt; our project in front of the jury, which was composed of professors and other projects’ clients. We wrote as well an &lt;em&gt;advisory report&lt;/em&gt; detailing our approches, analyses, concepts, recommendations, and a suggested development &lt;em&gt;road map&lt;/em&gt;.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;image entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/mesinfos07.jpg&quot; alt=&quot;Team pitching our project and speaking with our client&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;image entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/mesinfos-soutenance-commanditaire.jpg&quot; alt=&quot;An ending slide&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 15 Jun 2017 21:53:00 +0100</pubDate>
+        <link>http://localhost:4000/ux-ui/2017/06/15/mesinfos.html</link>
+        <guid isPermaLink="true">http://localhost:4000/ux-ui/2017/06/15/mesinfos.html</guid>
+        
+        
+        <category>ux-ui</category>
+        
+      </item>
+    
+      <item>
+        <title>L'Œuvre de ma vie</title>
+        <description>&lt;div class=&quot;entry&quot;&gt;
+  &lt;p&gt;&amp;gt;&lt;br /&gt;
+Everything started with &lt;em&gt;Mozart’s Requiem in D minor, K. 626&lt;/em&gt;, a song around which our short had to encircle.&lt;/p&gt;
+
+  &lt;p&gt;In the following 36 hours, we created everything of our short: &lt;em&gt;plot&lt;/em&gt; and &lt;em&gt;script&lt;/em&gt;, &lt;em&gt;screenplay&lt;/em&gt;, &lt;em&gt;casting&lt;/em&gt;, &lt;em&gt;acting&lt;/em&gt;, &lt;em&gt;shooting&lt;/em&gt;, &lt;em&gt;montage&lt;/em&gt;, &lt;em&gt;sound&lt;/em&gt; and &lt;em&gt;music post-production&lt;/em&gt;.&lt;/p&gt;
+
+  &lt;h2 id=&quot;synopsis&quot;&gt;Synopsis&lt;/h2&gt;
+  &lt;p&gt;One day, &lt;i&gt;Monsieur&lt;/i&gt; receives a medical letter which declares his critical health situation and his imminent death. Disheartened by this news, he laments in tears, until the servants bring him to his bucket list, of which the last item - create his life-time masterpiece - remains unchecked…&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;image entry&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/wAw07WYBI6k?rel=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 15 Jun 2017 21:53:00 +0100</pubDate>
+        <link>http://localhost:4000/shorts/2017/06/15/l-oevre-de-ma-vie.html</link>
+        <guid isPermaLink="true">http://localhost:4000/shorts/2017/06/15/l-oevre-de-ma-vie.html</guid>
+        
+        
+        <category>shorts</category>
+        
+      </item>
+    
+      <item>
+        <title>MuseoPic Analytics</title>
+        <description>&lt;div class=&quot;image entry thin&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/museopic01.jpg&quot; alt=&quot;Logos of MuseoPic&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;entry&quot;&gt;
+  &lt;p&gt;&amp;gt;&lt;br /&gt;
+&lt;em&gt;&lt;i&gt;&lt;a href=&quot;http://www.museopic.com&quot; target=&quot;_blank&quot;&gt;MuseoPic&lt;/a&gt;&lt;/i&gt;&lt;/em&gt; is a smartphone application which aims at &lt;strong&gt;enhancing classic museum visit experience&lt;/strong&gt;. Through &lt;em&gt;visual recognition&lt;/em&gt;, &lt;em&gt;augmented reality&lt;/em&gt; and &lt;em&gt;geolocation&lt;/em&gt;, visitors can instantly obtain supplementary information about exhibits, interact with showpieces, explore museums in a ludic way and create personalised collections which they can review anytime later without venue constraints.&lt;/p&gt;
+
+  &lt;p&gt;In this project, my team and I work on the design of &lt;em&gt;data analytics&lt;/em&gt;, a platform which is dedicated to &lt;em&gt;museum personnel&lt;/em&gt;. This analytic tool visualises raw data generated by &lt;em&gt;&lt;i&gt;MuseoPic&lt;/i&gt;&lt;/em&gt; application end users and help the personnel in &lt;strong&gt;exhibition evaluation, content management and strategy development&lt;/strong&gt; in an atypical way.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;image entry&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/48McP4qGOJU?rel=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;entry&quot;&gt;
+  &lt;p&gt;&amp;gt;&lt;br /&gt;
+In order to understand better functional procedures, organisation and typical usage of museums, we conducted several &lt;em&gt;interviews&lt;/em&gt; with our &lt;em&gt;target users&lt;/em&gt;, namely the museum director, quality control attaché and content manager.&lt;/p&gt;
+
+  &lt;p&gt;We then &lt;em&gt;analysed&lt;/em&gt; their &lt;em&gt;jobs to be done (JTBD)&lt;/em&gt;, their &lt;em&gt;needs&lt;/em&gt;, and their exhibition life cycles. We outlined noticeable &lt;em&gt;problems&lt;/em&gt;. &lt;em&gt;Brainstorming&lt;/em&gt; sessions were then carried out to invent possible solutions.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;image entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/museopic03.jpg&quot; alt=&quot;Team analysing the JTBD and the needs of different museum staff members&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;entry thin&quot;&gt;
+  &lt;p&gt;&amp;gt;&lt;br /&gt;
+We presented our ideas in &lt;em&gt;scenarios&lt;/em&gt; to our client, exchanged comments and feedbacks. We gradually brought our concepts to life by building quick and dirty &lt;em&gt;paper mock-ups&lt;/em&gt;, &lt;em&gt;iterative evaluation&lt;/em&gt; and &lt;em&gt;digital wireframes&lt;/em&gt;.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;image entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/museopic04.jpg&quot; alt=&quot;Team meeting our client (top) and transforming paper mock-ups into digital wireframes&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;entry thin&quot;&gt;
+  &lt;p&gt;&amp;gt;&lt;br /&gt;
+We &lt;em&gt;pitched&lt;/em&gt; our project in front of our client and external audience. We further collected feedbacks and suggestions.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;image entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/museopic05.jpg&quot; alt=&quot;Team pitching our project in front of public audience&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;entry thin&quot;&gt;
+  &lt;p&gt;&amp;gt;&lt;br /&gt;
+We finalised our project by fine-tuning our &lt;em&gt;digital prototypes&lt;/em&gt;. We handed the deliverables to our client together with our &lt;em&gt;UX strategy advice&lt;/em&gt;.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;image entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/museopic-loop.gif&quot; alt=&quot;Some screenshots of one digital prototype in loop&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 22 May 2017 21:56:00 +0100</pubDate>
+        <link>http://localhost:4000/ux-ui/2017/05/22/museopic-analytics.html</link>
+        <guid isPermaLink="true">http://localhost:4000/ux-ui/2017/05/22/museopic-analytics.html</guid>
+        
+        
+        <category>ux-ui</category>
+        
+      </item>
+    
+      <item>
+        <title>Compact City</title>
+        <description>&lt;div class=&quot;entry&quot;&gt;
+  &lt;p&gt;&amp;gt;&lt;br /&gt;
+This is a &lt;em&gt;simulation&lt;/em&gt; of &lt;em&gt;Scrum framework&lt;/em&gt; of &lt;em&gt;Agile development principles&lt;/em&gt; for &lt;em&gt;project management&lt;/em&gt;. The objective is to construct an ideal city for a product owner in 30 minutes.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Contraints&lt;/strong&gt; are &lt;em&gt;3 iteration phases&lt;/em&gt; at maximum, each consists of a &lt;em&gt;7-minute sprint&lt;/em&gt; in which our team try to build the city up phase by phase with Lego and drawings.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;image entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/compactcity01.jpg&quot; alt=&quot;Team members assembling Lego pieces.&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;entry&quot;&gt;
+  &lt;p&gt;&amp;gt;&lt;br /&gt;
+The &lt;em&gt;product owner&lt;/em&gt; listed &lt;strong&gt;13 criteria&lt;/strong&gt; for her ideal city: a sushi restaurant, a hospital, a digital co-working place, an art gallery, a giant park, a concert hall, an Olympic swimming pool, an organic food store, a Belgian bar, an art house cinema, a game bar, a tram system and a beach.&lt;/p&gt;
+
+  &lt;p&gt;Our &lt;em&gt;scrum master&lt;/em&gt; led the scrum team in estimating time and resources needed to realise each criterion. The product owner prioritised her criteria upon personal preference.&lt;/p&gt;
+
+  &lt;p&gt;In each &lt;em&gt;phase&lt;/em&gt;, our team pulled tasks from &lt;em&gt;backlog&lt;/em&gt; to &lt;em&gt;sprint&lt;/em&gt; and decided which tasks to be accomplished by whom.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;image entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/compactcity02.jpg&quot; alt=&quot;Product owner (top right) prioritising her criteria and scrum master leading the scrum team to estimate necessary time and resources&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;entry thin&quot;&gt;
+  &lt;p&gt;&amp;gt;&lt;br /&gt;
+During each 7-minute &lt;em&gt;sprint&lt;/em&gt;, each team member constructs his/her responsible part of the city.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;image entry thin&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/compactcity03-compressed.jpg&quot; alt=&quot;Team members building his/her assigned part of the city&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;entry&quot;&gt;
+  &lt;p&gt;&amp;gt;&lt;br /&gt;
+At the end of each phase, the product owner &lt;em&gt;evaluated&lt;/em&gt; our production. Accepted criteria were moved from &lt;em&gt;sprint&lt;/em&gt; and marked as &lt;em&gt;done&lt;/em&gt;, whereas unsatisfactory ones were rejected back to &lt;em&gt;backlog&lt;/em&gt;. Comments were also given if any specific &lt;em&gt;modification&lt;/em&gt; was wanted.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;image entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/compactcity04.jpg&quot; alt=&quot;Product owner assessing the production by the end of each sprint&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;image entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/compactcity05.jpg&quot; alt=&quot;Project progress: the 13 criteria assigned as in the ‘backlog’, ‘sprint’, and ‘done‘&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;entry thin&quot;&gt;
+  &lt;p&gt;&amp;gt;&lt;br /&gt;
+As &lt;em&gt;iterations&lt;/em&gt; followed, our team approached and materialised her ideal city step by step.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;image entry thin&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/compactcity06.jpg&quot; alt=&quot;Construction of the ideal city in progress&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;entry&quot;&gt;
+  &lt;p&gt;&amp;gt;&lt;br /&gt;
+By the end of the third iteration, all criteria were satisfied with an additional leading element added: a private mansion for the project owner.&lt;/p&gt;
+
+  &lt;p&gt;She then named her ideal city &lt;strong&gt;‘Compact City‘&lt;/strong&gt; and &lt;em&gt;presented&lt;/em&gt; it to the public.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;image entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/compactcity07.jpg&quot; alt=&quot;Product owner presenting her ‘Compact City’ to the audience&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;image entry&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/compactcity08.jpg&quot; alt=&quot;Bird’s-eye view of ‘Compact City’&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 22 May 2017 21:56:00 +0100</pubDate>
+        <link>http://localhost:4000/ux-ui/2017/05/22/compact-city.html</link>
+        <guid isPermaLink="true">http://localhost:4000/ux-ui/2017/05/22/compact-city.html</guid>
+        
+        
+        <category>ux-ui</category>
+        
+      </item>
+    
+  </channel>
+</rss>

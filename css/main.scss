@@ -1,0 +1,71 @@
+---
+---
+@charset "utf-8";
+
+// Our variables
+$base-font-family: 'Inconsolata', monospace, sans-serif;
+$base-font-size:   13px;
+$base-font-weight: 400;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+$letter-spacing: -0.02em;
+$title-font-family: 'Inconsolata', monospace, sans-serif;
+
+$spacing-unit:      30px;
+
+$text-color:        #808080;
+$background-color:  #fff;
+$brand-color:       #808080;
+$hover-color:       #b0b0b0;
+
+$beige:             #f1e5c2;
+$white:             #fff;
+$grey-color:        #828282;
+$grey-color-light:  lighten($grey-color, 40%);
+$grey-color-dark:   darken($grey-color, 25%);
+
+$a-active:          #FF3D0C; // Carrot orange
+$yellow:            #FFCA0C;
+
+$nav-text:          #303030;
+$nav-link:          #808080;
+$h-color:           #424242;
+$h-one:             $base-font-size * 1.4;
+$h-two:             $base-font-size * 1.2;
+$h-three:           $base-font-size * 1.1;
+$h-four:            $base-font-size;
+
+// Width of the content area
+$content-width:     900px;
+
+$entry-w:           350px;
+$entry-h:           600px;
+$max-w:             2000px;
+$photo-h:           450px;
+
+$on-palm:           800px; // 600px
+$on-laptop:         800px;
+
+
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "base",
+        "layout",
+        "syntax-highlighting"
+;

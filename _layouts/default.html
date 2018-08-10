@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="page-content">
+      {{ content }}
+    </div>
+
+    <!-- Gradual content load delay -->
+    <script type="text/javascript">
+      $(document).ready(function() {
+        $("div.page-content, #bar, .nav-wrapper, .site-footer").css("display", "hidden");
+        $("div.page-content").delay(700);
+        $(".site-footer").delay(1200);
+        $("#bar, .nav-wrapper, div.page-content, .site-footer").fadeIn(800);
+        $("a.transition").click(function(event){
+          event.preventDefault();
+          linkLocation = this.href;
+          $("div.page-content, .site-footer").fadeOut(1000, redirectPage);
+        });
+        function redirectPage() {
+          window.location = linkLocation;
+        }
+      });
+    </script>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
