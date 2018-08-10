@@ -1,0 +1,586 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>MesInfos</title>
+  <meta name="description" content="  ">
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="http://localhost:4000/ux-ui/2017/06/15/mesinfos.html">
+  <link rel="alternate" type="application/rss+xml" title="kei ka-hei cheung" href="http://localhost:4000/feed.xml">
+
+  <!-- Hamburger menu -->
+  <script src="/js/nav-responsive.js"></script>
+
+  <!-- Inconsolata Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700" rel="stylesheet" type="text/css">
+
+  <!-- JQuery -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js" type="text/javascript"></script>
+
+  <!-- Horizontal scroll on desktop -->
+  <script type="text/javascript" charset="utf-8">
+    if (document.documentElement.clientWidth /* screen.width */ >= 800 && navigator.platform != 'MacIntel') { 
+        document.write('<script src="/js/h-scroll.js" type="text/javascript" charset="utf-8"><\/script>');
+      }
+  </script>
+
+  <!-- Table wrapper entry: horizontal on desktop, vertical on mobile -->
+  <script type="text/javascript" charset="utf-8">
+    if (document.documentElement.clientWidth /* screen.width */ >= 800) { 
+      $(function(){
+        $(".horizontal").wrapInner("<table><tr>");
+        $(".entry").wrap("<td>");
+      });
+    } else {
+      $(function(){
+        $(".horizontal").wrapInner("<table>");
+        $(".entry").wrap("<tr><td>");
+      });
+    }
+  </script>
+
+  <!-- Table wrapper entry backup -->
+  <!--
+  <script type="text/javascript" charset="utf-8">
+      $(function(){
+        $(".horizontal").wrapInner("<table><tr>");
+        $(".entry").wrap("<td>");
+      });
+  </script>
+  -->
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <!--
+  <div class="wrapper">
+  -->
+  <div id="bar">
+    <h1><a class="site-title" href="/">kei ka-hei cheung</a></h1>
+    <a href="javascript:void(0);" class="icon" onclick="openHamburger()">&#8801;</a>
+  </div>
+
+  <!-- Semi-dynamic navigation menu -->
+  <nav role="navigation" class="nav-wrapper">
+    <div class="navigation" id="hamburger">
+      <a class="site-about" href="/about">o’ kei</a>
+      
+      <!-- Category UX/UI -->
+      <p class="category">UX/UI</p>
+      <ul>
+        
+          
+        
+          
+        
+          
+        
+          
+            <li>
+              <!-- If current page, link proceeds with "» " -->
+              <a  href="/ux-ui/2018/08/06/tintoretto.html">Tintoretto2Go</a>
+            </li>
+          
+        
+          
+        
+          
+        
+          
+            <li>
+              <!-- If current page, link proceeds with "» " -->
+              <a id="active" href="/ux-ui/2017/06/15/mesinfos.html">»&nbsp;MesInfos</a>
+            </li>
+          
+        
+          
+        
+          
+            <li>
+              <!-- If current page, link proceeds with "» " -->
+              <a  href="/ux-ui/2017/05/22/museopic-analytics.html">MuseoPic Analytics</a>
+            </li>
+          
+        
+          
+            <li>
+              <!-- If current page, link proceeds with "» " -->
+              <a  href="/ux-ui/2017/05/22/compact-city.html">Compact City</a>
+            </li>
+          
+        
+          
+            <li>
+              <!-- If current page, link proceeds with "» " -->
+              <a  href="/ux-ui/2017/05/22/snowrec.html">SnowRec</a>
+            </li>
+          
+        
+          
+        
+          
+            <li>
+              <!-- If current page, link proceeds with "» " -->
+              <a  href="/ux-ui/2017/05/17/chamrousse.html">Chamrousse</a>
+            </li>
+          
+        
+          
+        
+          
+            <li>
+              <!-- If current page, link proceeds with "» " -->
+              <a  href="/ux-ui/2016/01/21/cat-food-delivery-2.html">Food Right Meow 3</a>
+            </li>
+          
+        
+          
+            <li>
+              <!-- If current page, link proceeds with "» " -->
+              <a  href="/ux-ui/2016/01/20/cat-food-delivery-3.html">Food Right Meow 2</a>
+            </li>
+          
+        
+          
+        
+          
+        
+          
+        
+      </ul>
+
+      <!-- Category products -->
+      <p class="category">products</p>
+      <ul>
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+            <li>
+              <a  href="/products/2016/04/11/linear.html">Linear</a>
+            </li>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      </ul>
+
+      <!-- Category shorts -->
+      <p class="category">shorts</p>
+      <ul>
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+            <li>
+              <a  href="/shorts/2017/06/15/l-oevre-de-ma-vie.html">L'Œuvre de ma vie</a>
+            </li>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      </ul>
+
+      <!-- Category photography -->
+      <p class="category">photography</p>
+      <ul>
+        
+          
+            <li>
+              <a  href="/photography/2018/08/09/horizon.html">horizons</a>
+            </li>
+          
+        
+          
+            <li>
+              <a  href="/photography/2018/08/09/hong-kong.html">hong kong</a>
+            </li>
+          
+        
+          
+            <li>
+              <a  href="/photography/2018/08/09/dancing-light.html">dancing lights</a>
+            </li>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      </ul>
+
+      <!-- Category graphics -->
+      <p class="category">graphics</p>
+      <ul>
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+            <li>
+              <a  href="/graphics/2018/04/01/sardinhas-2018.html">Together we are stronger!</a>
+            </li>
+          
+        
+          
+            <li>
+              <a  href="/graphics/2018/03/31/sardinhas-2017.html">Danse des sardines - printemps</a>
+            </li>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+            <li>
+              <a  href="/graphics/2017/05/22/visual-poetry.html">Visual Poetry</a>
+            </li>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      </ul>
+
+      <!-- Category drawings -->
+      <p class="category">drawings</p>
+      <ul>
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+            <li>
+              <a  href="/drawings/2015/06/03/live-drawings.html">live</a>
+            </li>
+          
+        
+          
+            <li>
+              <a  href="/drawings/2015/06/03/assorted-drawings.html">assorted</a>
+            </li>
+          
+        
+      </ul>
+    </div>
+  </nav>
+
+  <!--
+  </div>
+  -->
+
+</header>
+
+
+    <div class="page-content">
+      <article class="post horizontal">
+  <!--
+  <div class="wrapper">
+  -->
+    <header class="post-header entry">
+      <h1 class="post-title">MesInfos</h1>
+      <div class="post-info">
+        <p class="project-caption">full-scale UX design project direction and management</p>
+        <p class="project-date">December 2016-May 2017, academic group project</p>
+        <p class="project-intro">Promoting the impact of a digital ‘Self Data’ service.</p>
+        <p class="project-extras">With Sophie Bruneton and Flavien Auffret.</p>
+      </div>
+        <!-- DEL
+        
+        -->
+    </header>
+  <!--
+  </div>
+  -->
+
+  <div class="post-content" itemprop="articleBody">
+    <div class="image entry thin">
+  <p><img src="/images/mesinfos01.jpg" alt="Logos of MesInfos and la Fing" /></p>
+</div>
+
+<div class="entry">
+  <p>&gt;<br />
+<em><i><a href="http://mesinfos.fing.org/english/" target="_blank">MesInfos</a></i></em> is a project initiated by the <em><i><a href="http://fing.org/?About-Fing" target="_blank">Fondation Internet Nouvelle Génération (la Fing)</a></i></em> which aims to <em>regain control on our personal data</em> created upon usage of difference services, scattered across various providers. Through data, it allows individuals to look back at their own behaviour in the past, understand the causes and consequences, and to take necessary adjustment to their future actions in their own needs. Via the platform <em><a href="https://cozy.io/en/">Cozy Cloud</a></em>, users can centralise their data in a personal, secure cloud, powered by <em><i>la Fing</i></em>, <em>Cozy Cloud</em> and the community of open source developers.</p>
+
+  <p>In this project, we collaborate with <em><i>la Fing</i></em> and <em>Cozy Cloud</em>. Our focus is on the user’s aspect and how we can improve user experience in order to <strong>better attract potential target users</strong>.</p>
+</div>
+
+<div class="image entry">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Wh8HMRKP4U?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+</div>
+
+<div class="entry">
+  <p>&gt;<br />
+We held a meeting with our client to <em>better understand</em> their ambition in this project, their needs and how we could assist them. We then brought out intensive <em>analyses</em> of the existing alpha platform and of the feedback provided on the test user forum.</p>
+
+  <p>We conducted several <em>user interviews</em> so as to comprehend more directly problems they encounter upon usage and to discern their expectations.</p>
+</div>
+
+<div class="image entry">
+  <p><img src="/images/mesinfos03.jpg" alt="Team member Sophie analysing the existing services on the alpha platform of Cozy Cloud" /></p>
+</div>
+
+<div class="entry">
+  <p>&gt;<br />
+We then grouped our discoveries into three major <em>problems</em>. We cross-studied them with the platform’s <em>user profile types</em>. We <em>brainstormed</em> on possible interventions and solutions. Then we further shaped all our ideas, crystalised them into <em>3 scenarios</em> which correspond to <em>3 personae</em>, evaluated the advantages and limits of each, and objectively <em>presented</em> them to our client.</p>
+
+  <p>Our client appreciated our production. Under the time constraint in the academic framework, they selected the 3<sup>rd</sup> scenario, which aims to <strong>fortify the unique selling points (USPs)</strong> of the platform within its own self, but can also be versatilely used as promotions for new feature in future development.</p>
+</div>
+
+<div class="image entry">
+  <p><img src="/images/mesinfos04.jpg" alt="Team studying the underlying problems and mapping them into three scenarios" /></p>
+</div>
+
+<div class="image entry">
+  <p><img src="/images/mesinfos05-compressed.jpg" alt="Persona and scenario selected by our client (left) and the other two (right)" /></p>
+</div>
+
+<div class="entry">
+  <p>&gt;<br />
+Subsequently, for solving the problem of the selected scenario, we invented <em>3 usage cases</em>, as per <em>3 different unique selling points (USPs)</em> which the platform could bring to its users. We concretised their implementation in the form of <em>visual storytelling</em>. Our strategy adopted here is to omit as much as possible the complicated technical aspect, but to <strong>emphasise the direct, observable benefits</strong> which the platform can bring to them.</p>
+
+  <p>We did a <em>benchmark</em> to see how existing digital service platforms promote themselves before building <em><a href="https://invis.io/9UBH1AVTG#/231254425_1-accueil" target="_blank">visual mock-ups</a></em> integrated into the beta version of the platform for our client.</p>
+</div>
+
+<div class="image entry thin">
+  <p><img src="/images/mesinfos06.jpg" alt="Visual mock-ups emphasising the USPs of Cozy Cloud platform" /></p>
+</div>
+
+<div class="entry thin">
+  <p>&gt;<br />
+Finally, we <em>pitched</em> our project in front of the jury, which was composed of professors and other projects’ clients. We wrote as well an <em>advisory report</em> detailing our approches, analyses, concepts, recommendations, and a suggested development <em>road map</em>.</p>
+</div>
+
+<div class="image entry">
+  <p><img src="/images/mesinfos07.jpg" alt="Team pitching our project and speaking with our client" /></p>
+</div>
+
+<div class="image entry">
+  <p><img src="/images/mesinfos-soutenance-commanditaire.jpg" alt="An ending slide" /></p>
+</div>
+
+  </div>
+
+</article>
+
+    </div>
+
+    <!-- Gradual content load delay -->
+    <script type="text/javascript">
+      $(document).ready(function() {
+        $("div.page-content, #bar, .nav-wrapper, .site-footer").css("display", "hidden");
+        $("div.page-content").delay(700);
+        $(".site-footer").delay(1200);
+        $("#bar, .nav-wrapper, div.page-content, .site-footer").fadeIn(800);
+        $("a.transition").click(function(event){
+          event.preventDefault();
+          linkLocation = this.href;
+          $("div.page-content, .site-footer").fadeOut(1000, redirectPage);
+        });
+        function redirectPage() {
+          window.location = linkLocation;
+        }
+      });
+    </script>
+
+    <footer class="site-footer">
+
+  <!--
+  <div class="wrapper">
+  -->
+
+    <!--
+    kei ka-hei cheung
+
+    <p>
+      <a href="https://github.com/keikhcheung/keikhcheung.github.io/" target="_blank">View on GitHub</a>
+    </p>
+    -->
+
+    <!-- Copyright backup
+    <p>
+      Copyright &copy;&nbsp;2010-<script type="text/javascript">
+      var d = new Date()
+      document.write(d.getFullYear())
+      </script>
+      <br />
+      Ka Hei Cheung<br />
+      All rights reserved
+    </p>
+    -->
+
+
+    <script type="text/javascript" charset="utf-8">
+      var d = new Date;
+      var y = d.getFullYear();
+      if (document.documentElement.clientWidth /* screen.width */ >= 800) { 
+        document.write('<p>Copyright &copy;&nbsp;2010-' + y + '<br />Ka Hei Cheung<br />All rights reserved</p>');
+      } else {
+        document.write('<p>Copyright &copy;&nbsp;2010-' + y + ' Ka Hei Cheung<br />All rights reserved</p>');
+      }
+    </script>
+
+  <!--
+  </div>
+  -->
+
+</footer>
+
+
+  </body>
+
+</html>

@@ -1,0 +1,85 @@
+---
+layout:       post-clean
+title:        "hong kong"
+date:         2018-08-09 23:30:00 +0100
+category:     photography
+thumbnail:    /photos/hong-kong-10.jpg
+caption:      "photography & poetry"
+type:         "personal project"
+projdate:     "Aug 2010-Aug 2016"
+intro:        "A land which I was once used to."
+extras:       ""
+---
+
+
+<div class="photo entry" markdown="1">
+![Metro exit](/photos/hong-kong-01.jpg)
+</div>
+
+<div class="photo entry" markdown="1">
+![Metro in rush hour](/photos/hong-kong-02.jpg)
+</div>
+
+<div class="photo entry" markdown="1">
+![Cha chaan teng](/photos/hong-kong-03.jpg)
+</div>
+
+<div class="photo entry" markdown="1">
+![Chaa lau](/photos/hong-kong-04.jpg)
+</div>
+
+<div class="photo entry" markdown="1">
+![McDonald's](/photos/hong-kong-05.jpg)
+</div>
+
+<div class="photo entry" markdown="1">
+![The living gap](/photos/hong-kong-08.jpg)
+</div>
+
+<div class="photo entry" markdown="1">
+![](/photos/hong-kong-09.jpg)
+</div>
+
+<div class="photo entry" markdown="1">
+![Speed 24](/photos/hong-kong-10.jpg)
+</div>
+
+<div class="photo entry" markdown="1">
+![](/photos/hong-kong-11.jpg)
+</div>
+
+<div class="photo entry" markdown="1">
+![](/photos/hong-kong-12.jpg)
+</div>
+
+<div class="photo entry" markdown="1">
+![](/photos/hong-kong-13.jpg)
+</div>
+
+<div class="photo entry" markdown="1">
+![Chong's Store](/photos/hong-kong-14.jpg)
+</div>
+
+<div class="photo entry" markdown="1">
+![Old temple of Demu (Mother Earth), Guanyin (Goddess of Mercy), and Daisi (God of the ghosts)](/photos/hong-kong-15.jpg)
+</div>
+
+<div class="photo entry" markdown="1">
+![Subtropical delivery](/photos/hong-kong-16-compressed.jpg)
+</div>
+
+<div class="photo entry" markdown="1">
+![Lego block](/photos/hong-kong-17.jpg)
+</div>
+
+<div class="photo entry" markdown="1">
+![Lego piles](/photos/hong-kong-18.jpg)
+</div>
+
+<div class="photo entry" markdown="1">
+![](/photos/hong-kong-06.jpg)
+</div>
+
+<div class="photo entry" markdown="1">
+![Oasis in the sea](/photos/hong-kong-19.jpg)
+</div>

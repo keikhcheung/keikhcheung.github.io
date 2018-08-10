@@ -1,0 +1,80 @@
+---
+layout:       post
+title:        "Chamrousse"
+date:         2017-05-17 22:26:00 +0200
+category:     ux-ui
+thumbnail:    /images/chamrousse01-alt.jpg
+caption:      "website interface design"
+type:         "academic group project"
+projdate:     "September-November 2016"
+intro:        "Redesigning the website interface of Chamrousse Tourist Office"
+extras:       "With Delphine Delfieu, Paul-Henri Dumas, Léa Guiraud, and Mélissa Dufour."
+---
+
+
+<div class="image entry thin" markdown="1">
+![Logos of Chamrousse Tourist Office (top) and our adaptations (bottom)](/images/chamrousse01-alt.jpg)
+</div>
+
+<div class="entry" markdown="1">
+\>  
+The design of Chamrousse Tourist Office website dates from 2010. Its *information architecture* does not correspond to today's netizens' needs: **information is hidden** in sub-pages; **important alerts are submerged** with promotional messages; **navigation paths are multiple** around the website but **contents are not as various**.
+
+We started the website redesign project with an analytical research of Chamrousse Tourist Office in order to understand more in-depth its services and its commercial characteristics. A *benchmark study* was also carried out so as to compare its position amongst other current competitors.
+</div>
+
+<div class="image entry" markdown="1">
+![Screenshot of the Chamrousse Tourist Office website](/images/chamrousse02.jpg)
+</div>
+
+<div class="entry thin" markdown="1">
+\>  
+We produced *paper mockups* for *rapid user tests* in a given scenario designated to ski resort visitors, in order to collect feedbacks, analyse them and further adjust our design.
+</div>
+
+<div class="image entry" markdown="1">
+![Team building multilayer paper mockups](/images/chamrousse03.jpg)
+</div>
+
+<div class="image entry" markdown="1">
+![An example viewport of the accommodation reservation mockup](/images/chamrousse03-2.jpg)
+</div>
+
+<div class="entry thin" markdown="1">
+\>  
+We designed a new *visual identity* from organic elements from the nature so as to highlight a refreshing atmosphere for users. We created a visual *moodboard* together with a new visual design for *interface* elements for the website.
+</div>
+
+<div class="image entry" markdown="1">
+![Moodboard showing our colour scheme and visual elements](/images/chamrousse04.jpg)
+</div>
+
+<div class="image entry" markdown="1">
+![Moodboard showing the design of graphic elements for the website](/images/chamrousse04-2.jpg)
+</div>
+
+<div class="entry thin" markdown="1">
+\>  
+In the end, we put our ideas on to *wireframes* and wrote an *analytical report* on our design process.
+</div>
+
+<div class="image entry thin" markdown="1">
+![Wireframe screenshot of the landing page](/images/chamrousse05.jpg)
+
+</div>
+
+<div class="image entry thin" markdown="1">
+![Wireframe screenshot of the activity page](/images/chamrousse05-2.jpg)
+</div>
+
+<div class="image entry thin" markdown="1">
+![Wireframe screenshot of the accommodation page](/images/chamrousse05-3.jpg)
+</div>
+
+<div class="image entry thin" markdown="1">
+![Interface design for the landing page](/images/chamrousse06.jpg)
+</div>
+
+<div class="image entry thin" markdown="1">
+![Interface design for the accommodation reservation page](/images/chamrousse06-2.jpg)
+</div>

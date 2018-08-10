@@ -1,0 +1,39 @@
+---
+layout:       post
+title:        "Danse des sardines - printemps"
+date:         2018-03-31 18:47:00 +0200
+category:     graphics
+thumbnail:    /images/sardinhas17-07-gh.png
+caption:      "illustration & computer graphics"
+type:         "contest"
+projdate:     "February-March 2017"
+intro:        "Sardines dancing with Spring.<br />In celebration of <i>Festa de Lisboa 2017</i>."
+extras:       ""
+---
+
+
+<div class="entry" markdown="1">
+## \>  A season to celebrate
+
+I participated in the *<i>[Concurso Sardinhas 2017](http://lisboanarua.com/festasdelisboa/2017/05/24/sardinhas-vencedoras-2017/){:target="_blank"}</i>* organised by *<i>Empresa de Gestão de Equipamentos e Animação Cultural</i>* in celebration of *<i>Festa de Lisboa</i>*. This yearly contest consists of making art in the form of sardine.
+</div>
+
+<div class="image entry thin buffer" id="sardine-17" markdown="1">
+![Final version of sardine - Spring](/images/sardinhas17-07-gh.png)
+</div>
+
+<div class="entry" markdown="1">
+\>  
+I started by cutting spaces within the given sardine silhoutte template. I then had the idea of morphing these spaces and forms into a *ballerina*, dancing to celebrate the festival of Lisbon. I played with hiding multiple sardines on the ballerina. I then smoothened the contours and tried adding mild and, later, vivid colours to the spaces with reference to *colouring books* for children and *stained glass windows* of churches.
+
+The sardines became a ballerina, the ballerina became Spring.
+</div>
+
+<div class="image entry thin buffer" markdown="1">
+![Development of sardine - Spring](/images/sardinhas17-loop-gh.gif)
+</div>
+
+<div class="entry" markdown="1">
+<  
+Imagining that children could play with this colouring template, for making this colour model more *accessible* to children with sight conditions, when the illustration/graphics are passed to greyscale, the ballerina can be still obviously seen.
+</div>
