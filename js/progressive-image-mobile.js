@@ -4,7 +4,7 @@ if (window.addEventListener && window.requestAnimationFrame && document.getEleme
 
   // start
   var pItem = document.getElementsByClassName('progressive replace'), pCount, timer;
-
+console.log(pItem)
   // scroll and resize events
   window.addEventListener('scroll', scroller, false);
   window.addEventListener('resize', scroller, false);
@@ -15,12 +15,14 @@ if (window.addEventListener && window.requestAnimationFrame && document.getEleme
     var observer = new MutationObserver(function() {
       if (pItem.length !== pCount) inView();
     });
+
     observer.observe(document.body, { subtree: true, childList: true, attributes: true, characterData: true });
 
   }
 
   // initial check
-  inView();
+  document.addEventListener('load', kickOff);
+  var kickOff = setTimeout(inView, 1000);
 
 
   // throttled scroll/resize
@@ -36,7 +38,7 @@ if (window.addEventListener && window.requestAnimationFrame && document.getEleme
 
   // image in view?
   function inView() {
-
+console.log('working')
     if (pItem.length) requestAnimationFrame(function() {
 
       var wT = window.pageYOffset, wB = wT + window.innerHeight, cRect, pT, pB, p = 0;
@@ -63,7 +65,7 @@ if (window.addEventListener && window.requestAnimationFrame && document.getEleme
 
   // replace with full image
   function loadFullImage(item) {
-
+console.log('loading')
     var href = item && (item.getAttribute('data-href') || item.href);
     if (!href) return;
 

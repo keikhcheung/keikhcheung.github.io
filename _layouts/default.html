@@ -14,10 +14,9 @@
     <!-- Gradual content load delay -->
     <script type="text/javascript">
       $(document).ready(function() {
-        $("div.page-content, #bar, .nav-wrapper, .site-footer").css("display", "hidden");
         $("div.page-content").delay(700);
         $(".site-footer").delay(1200);
-        $("#bar, .nav-wrapper, div.page-content, .site-footer").fadeIn(800);
+        $("#bar, .nav-wrapper, div.page-content, .site-footer").css('visibility', 'visible').hide().fadeIn(800);
         $("a.transition").click(function(event){
           event.preventDefault();
           linkLocation = this.href;
@@ -30,6 +29,10 @@
     </script>
 
     {% include footer.html %}
+
+    <!-- Progressive lazy load -->
+    <link rel="stylesheet" href="/css/progressive-image.css">
+    <script src="/js/progressive-image.js" defer></script>
 
   </body>
 
