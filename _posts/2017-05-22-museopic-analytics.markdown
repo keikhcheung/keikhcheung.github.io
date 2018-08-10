@@ -13,7 +13,7 @@ extras:       "With Lénaïc Faure and Constance Grandin."
 
 
 <div class="image entry thin" markdown="1">
-![Logos of MuseoPic](/images/museopic01.jpg)
+[![Logos of MuseoPic](/images-pre/museopic01-pre.jpg){:class="preview"}](/images/museopic01.jpg){:class="progressive replace"}
 </div>
 
 <div class="entry" markdown="1">
@@ -35,7 +35,7 @@ We then *analysed* their *jobs to be done (JTBD)*, their *needs*, and their exhi
 </div>
 
 <div class="image entry" markdown="1">
-![Team analysing the JTBD and the needs of different museum staff members](/images/museopic03.jpg)
+[![Team analysing the JTBD and the needs of different museum staff members](/images-pre/museopic03-ratio-pre.jpg){:class="preview h"}](/images/museopic03-ratio.jpg){:class="progressive replace"}
 </div>
 
 <div class="entry thin" markdown="1">
@@ -44,7 +44,7 @@ We presented our ideas in *scenarios* to our client, exchanged comments and feed
 </div>
 
 <div class="image entry" markdown="1">
-![Team meeting our client (top) and transforming paper mock-ups into digital wireframes](/images/museopic04.jpg)
+[![Team meeting our client (top) and transforming paper mock-ups into digital wireframes](/images-pre/museopic04-pre.jpg){:class="preview h"}](/images/museopic04.jpg){:class="progressive replace"}
 </div>
 
 <div class="entry thin" markdown="1">
@@ -53,7 +53,7 @@ We *pitched* our project in front of our client and external audience. We furthe
 </div>
 
 <div class="image entry" markdown="1">
-![Team pitching our project in front of public audience](/images/museopic05.jpg)
+[![Team pitching our project in front of public audience](/images-pre/museopic05-pre.jpg){:class="preview h"}](/images/museopic05.jpg){:class="progressive replace"}
 </div>
 
 <div class="entry thin" markdown="1">
@@ -62,5 +62,5 @@ We finalised our project by fine-tuning our *digital prototypes*. We handed the 
 </div>
 
 <div class="image entry" markdown="1">
-![Some screenshots of one digital prototype in loop](/images/museopic-loop.gif)
+[![Some screenshots of one digital prototype in loop](/images/museopic-loop-1.jpg){:class="preview h"}](/images/museopic-loop.gif){:class="progressive replace"}
 </div>

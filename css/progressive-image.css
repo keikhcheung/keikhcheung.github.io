@@ -24,6 +24,11 @@ a.progressive:hover {
   border: 0 none;
 }
 
+.progressive img.preview {
+  filter: blur(2vw);
+  transform: scale(1.03);
+}
+
 .progressive img.preview.w {
   filter: blur(2vw);
   transform: scale(1.03);
