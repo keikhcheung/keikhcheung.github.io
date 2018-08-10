@@ -20,7 +20,7 @@ This is a *simulation* of *Scrum framework* of *Agile development principles* fo
 </div>
 
 <div class="image entry" markdown="1">
-![Team members assembling Lego pieces.](/images/compactcity01.jpg)
+[![Team members assembling Lego pieces](/images-pre/compactcity01-pre.jpg){:class="preview h"}](/images/compactcity01.jpg){:class="progressive replace"}
 </div>
 
 <div class="entry" markdown="1">
@@ -55,7 +55,7 @@ At the end of each phase, the product owner *evaluated* our production. Accepted
 </div>
 
 <div class="image entry" markdown="1">
-![Project progress: the 13 criteria assigned as in the ‘backlog’, ‘sprint’, and ‘done‘](/images/compactcity05.jpg)
+![Project progress: the 13 criteria assigned as in the ‘backlog’, ‘sprint’, and ‘done‘](/images/compactcity05-ratio.jpg)
 </div>
 
 <div class="entry thin" markdown="1">
@@ -79,5 +79,5 @@ She then named her ideal city **‘Compact City‘** and *presented* it to the p
 </div>
 
 <div class="image entry" markdown="1">
-![Bird’s-eye view of ‘Compact City’](/images/compactcity08.jpg)
+![Bird’s-eye view of ‘Compact City’](/images/compactcity08-ratio.jpg)
 </div>
