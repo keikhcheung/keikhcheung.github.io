@@ -3,7 +3,7 @@ layout:       post
 title:        "Together we are stronger!"
 date:         2018-04-01 00:56:40 +0200
 category:     graphics
-thumbnail:    /images/sardinhas18.jpg
+thumbnail:    /images/sardinhas18-compressed.jpg
 caption:      "illustration"
 type:         "contest"
 projdate:     "March 2018"
@@ -21,7 +21,7 @@ This year, I had the idea from the aminal nature of sardine - *forage fish*. In 
 </div>
 
 <div class="image entry" markdown="1">
-![Together we are stronger!](/images/sardinhas18.jpg)
+![Together we are stronger!](/images/sardinhas18-compressed.jpg)
 </div>
 
 <div class="entry" markdown="1">
