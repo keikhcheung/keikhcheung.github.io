@@ -118,16 +118,17 @@
     }
 
     .navigation.responsive {
-        margin-top: 60px; /* Cover the gap after header bar of .site-title */
-               padding-top: 21px; /* Adjust for TOP distance for menu 1st item, compare to .post-title preload y-position */
+        margin-top: 71px; /* Cover the gap after header bar of .site-title */
+        padding-top: 11px; /* Adjust for TOP distance for menu 1st item, compare to .post-title preload y-position */
         background-color: $white;
-        height: 100vh;
+        height: 80vh;
         width: 100vw;
         float: none;
         opacity: 1;
         visibility: visible;
         text-align: left;
         padding-left: 2.5%; /* Instead of margin-left for background to cover the slit space */
+        padding-bottom: 20vh; /* For space from the bottom on mobile */
         position: fixed;
         z-index: 2;
         -webkit-transition: all .25s ease-in-out;
