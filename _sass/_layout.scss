@@ -330,7 +330,12 @@ article {
         margin-right: $spacing-unit / 3;
 
         img {
-            max-height: $photo-h;
+            height: $photo-h;
+            width: auto;
+
+            @include media-query($on-palm) {
+                height: auto;
+            }
         }
     }
 }
