@@ -12,8 +12,10 @@ extras:       "With Delphine Delfieu, Paul-Henri Dumas, Léa Guiraud, and Mélis
 ---
 
 
-<div class="image entry" markdown="1">
-![Logos of Chamrousse Tourist Office (top) and our adaptations (bottom)](/images/chamrousse01-alt.jpg)
+<div class="image entry" markdown="0">
+<a href="/images/chamrousse01-alt.jpg" class="progressive replace">
+<img src="/images-pre/chamrousse01-alt-pre.jpg" class="preview h" alt="Screenshot of the Chamrousse Tourist Office website" />
+</a>
 </div>
 
 <div class="entry" markdown="1">
