@@ -28,7 +28,7 @@ We thus prioritised to invent **a mechanism which simplify taking and sharing sk
 </div>
 
 <div class="image entry" markdown="1">
-[![Team brainstroming on the activities, environments, objects, users, and interactions related to ski resort](/images-pre/snowrec02.jpg){:class="preview h"}](/images/snowrec02-pre.jpg){:class="progressive replace"}
+[![Team brainstroming on the activities, environments, objects, users, and interactions related to ski resort](/images-pre/snowrec02-pre.jpg){:class="preview h"}](/images/snowrec02.jpg){:class="progressive replace"}
 </div>
 
 <div class="entry" markdown="1">
