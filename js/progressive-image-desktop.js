@@ -4,7 +4,7 @@ if (window.addEventListener && window.requestAnimationFrame && document.getEleme
 
   // start
   var pItem = document.getElementsByClassName('progressive replace'), pCount, timer;
-console.log(pItem)
+
   // scroll and resize events
   window.addEventListener('scroll', scroller, false);
   window.addEventListener('resize', scroller, false);
@@ -47,12 +47,7 @@ console.log(pItem)
         cRect = pItem[p].getBoundingClientRect();
         pL = wL + cRect.left;
         pR = pL + cRect.width;
-console.log('wL ' + wL)
-console.log('wR ' + wR)
-console.log(cRect)
-console.log('pL ' + pL)
-console.log('pR ' + pR)
-console.log('-----')
+
         if (wR > pL && wL < pR) {
           loadFullImage(pItem[p]);
           pItem[p].classList.remove('replace');
@@ -70,7 +65,7 @@ console.log('-----')
 
   // replace with full image
   function loadFullImage(item) {
-console.log('loading')
+
     var href = item && (item.getAttribute('data-href') || item.href);
     if (!href) return;
 

@@ -3,7 +3,7 @@ layout:       post
 title:        "Together we are stronger!"
 date:         2018-04-01 00:56:40 +0200
 category:     graphics
-thumbnail:    /images/sardinhas18-compressed.jpg
+thumbnail:    /images/sardinhas18-compressed-ratio.jpg
 caption:      "illustration"
 type:         "contest"
 projdate:     "March 2018"
@@ -21,7 +21,8 @@ This year, I had the idea from the aminal nature of sardine - *forage fish*. In 
 </div>
 
 <div class="image entry" markdown="1">
-![Together we are stronger!](/images/sardinhas18-compressed.jpg)
+[![Together we are stronger!](/images-pre/sardinhas18-compressed-ratio-pre.jpg){:class="preview h"}](/images/sardinhas18-compressed-ratio.jpg){:class="progressive replace"}
+
 </div>
 
 <div class="entry" markdown="1">
@@ -30,11 +31,11 @@ I started with the idea of *immitating* a *child drawing* fish in different colo
 </div>
 
 <div class="image entry" markdown="1">
-![Draft 1](/images/sardinhas18-01.jpg)
+[![Draft 1](/images-pre/sardinhas18-01-pre.jpg){:class="preview h"}](/images/sardinhas18-01.jpg){:class="progressive replace"}
 </div>
 
 <div class="image entry" markdown="1">
-![Draft 1](/images/sardinhas18-02.jpg)
+[![Draft 2](/images-pre/sardinhas18-02-pre.jpg){:class="preview h"}](/images/sardinhas18-02.jpg){:class="progressive replace"}
 </div>
 
 <div class="entry thin" markdown="1">

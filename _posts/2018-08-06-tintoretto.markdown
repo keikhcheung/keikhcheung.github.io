@@ -44,7 +44,7 @@ We met with the museum curator to present our ideas and collected feedback from 
 </div>
 
 <div class="image entry" markdown="1">
-![Example of storyboard evolution](/images/tintoretto-storyboard-loop.gif)
+[![Example of storyboard evolution](/images-pre/tintoretto-storyboard-loop-ratio-pre.jpg){:class="preview h"}](/images/tintoretto-storyboard-loop-ratio.gif){:class="progressive replace"}
 </div>
 
 <div class="entry" markdown="1">
@@ -54,5 +54,5 @@ I directed *user tests* to gather remarks for improving the game experience and 
 </div>
 
 <div class="image entry" markdown="1">
-![On-site user test](/images/tintoretto-test.jpg)
+[![Draft 2](/images-pre/tintoretto-test-compressed-pre.jpg){:class="preview h"}](/images/tintoretto-test-compressed.jpg){:class="progressive replace"}
 </div>

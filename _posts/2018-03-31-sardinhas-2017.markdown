@@ -19,7 +19,7 @@ I participated in the *<i>[Concurso Sardinhas 2017](http://lisboanarua.com/festa
 </div>
 
 <div class="image entry thin buffer" id="sardine-17" markdown="1">
-![Final version of sardine - Spring](/images/sardinhas17-07-gh.png)
+[![Final version of sardine - Spring](/images-pre/sardinhas17-07-gh-pre.png){:class="preview h"}](/images/sardinhas17-07-gh.png){:class="progressive replace"}
 </div>
 
 <div class="entry" markdown="1">
@@ -30,7 +30,7 @@ The sardines became a ballerina, the ballerina became Spring.
 </div>
 
 <div class="image entry thin buffer" markdown="1">
-![Development of sardine - Spring](/images/sardinhas17-loop-gh.gif)
+[![Development of sardine - Spring](/images-pre/sardinhas17-loop-gh-pre.jpg){:class="preview h"}](/images/sardinhas17-loop-gh.gif){:class="progressive replace"}
 </div>
 
 <div class="entry" markdown="1">

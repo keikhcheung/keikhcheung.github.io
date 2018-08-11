@@ -32,7 +32,13 @@
 
     <!-- Progressive lazy load -->
     <link rel="stylesheet" href="/css/progressive-image.css">
-    <script src="/js/progressive-image.js" defer></script>
+    <script type="text/javascript" charset="utf-8">
+      if (document.documentElement.clientWidth /* screen.width */ >= 800) { 
+        document.write('<script src="/js/progressive-image-desktop.js" defer><\/script>');
+      } else {
+        document.write('<script src="/js/progressive-image-mobile.js" defer><\/script>');
+      }
+    </script>
 
   </body>
 

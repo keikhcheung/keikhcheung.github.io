@@ -13,73 +13,74 @@ extras:       ""
 
 
 <div class="photo entry" markdown="1">
-![Metro exit](/photos/hong-kong-01.jpg)
+[![Metro exit](/photos-pre/hong-kong-01-pre.jpg){:class="preview h"}](/photos/hong-kong-01.jpg){:class="progressive replace"}
+
 </div>
 
 <div class="photo entry" markdown="1">
-![Metro in rush hour](/photos/hong-kong-02.jpg)
+[![Metro in rush hour](/photos-pre/hong-kong-02-pre.jpg){:class="preview h"}](/photos/hong-kong-02.jpg){:class="progressive replace"}
 </div>
 
 <div class="photo entry" markdown="1">
-![Cha chaan teng](/photos/hong-kong-03.jpg)
+[![Cha chaan teng](/photos-pre/hong-kong-03-pre.jpg){:class="preview h"}](/photos/hong-kong-03.jpg){:class="progressive replace"}
 </div>
 
 <div class="photo entry" markdown="1">
-![Chaa lau](/photos/hong-kong-04.jpg)
+[![Chaa lau](/photos-pre/hong-kong-04-pre.jpg){:class="preview h"}](/photos/hong-kong-04.jpg){:class="progressive replace"}
 </div>
 
 <div class="photo entry" markdown="1">
-![McDonald's](/photos/hong-kong-05.jpg)
+[![McDonald's](/photos-pre/hong-kong-05-pre.jpg){:class="preview h"}](/photos/hong-kong-05.jpg){:class="progressive replace"}
 </div>
 
 <div class="photo entry" markdown="1">
-![The living gap](/photos/hong-kong-08.jpg)
+[![The living gap](/photos-pre/hong-kong-08-pre.jpg){:class="preview h"}](/photos/hong-kong-08.jpg){:class="progressive replace"}
 </div>
 
 <div class="photo entry" markdown="1">
-![](/photos/hong-kong-09.jpg)
+[![](/photos-pre/hong-kong-09-pre.jpg){:class="preview h"}](/photos/hong-kong-09.jpg){:class="progressive replace"}
 </div>
 
 <div class="photo entry" markdown="1">
-![Speed 24](/photos/hong-kong-10.jpg)
+[![Speed 24](/photos-pre/hong-kong-10-pre.jpg){:class="preview h"}](/photos/hong-kong-10.jpg){:class="progressive replace"}
 </div>
 
 <div class="photo entry" markdown="1">
-![](/photos/hong-kong-11.jpg)
+[![](/photos-pre/hong-kong-11-pre.jpg){:class="preview h"}](/photos/hong-kong-11.jpg){:class="progressive replace"}
 </div>
 
 <div class="photo entry" markdown="1">
-![](/photos/hong-kong-12.jpg)
+[![](/photos-pre/hong-kong-12-pre.jpg){:class="preview h"}](/photos/hong-kong-12.jpg){:class="progressive replace"}
 </div>
 
 <div class="photo entry" markdown="1">
-![](/photos/hong-kong-13.jpg)
+[![](/photos-pre/hong-kong-13-pre.jpg){:class="preview h"}](/photos/hong-kong-13.jpg){:class="progressive replace"}
 </div>
 
 <div class="photo entry" markdown="1">
-![Chong's Store](/photos/hong-kong-14.jpg)
+[![Chong's Store exit](/photos-pre/hong-kong-14-pre.jpg){:class="preview h"}](/photos/hong-kong-14.jpg){:class="progressive replace"}
 </div>
 
 <div class="photo entry" markdown="1">
-![Old temple of Demu (Mother Earth), Guanyin (Goddess of Mercy), and Daisi (God of the ghosts)](/photos/hong-kong-15.jpg)
+[![Old temple of Demu (Mother Earth), Guanyin (Goddess of Mercy), and Daisi (God of the ghosts)](/photos-pre/hong-kong-15-pre.jpg){:class="preview h"}](/photos/hong-kong-15.jpg){:class="progressive replace"}
 </div>
 
 <div class="photo entry" markdown="1">
-![Subtropical delivery](/photos/hong-kong-16-compressed.jpg)
+[![Subtropical delivery](/photos-pre/hong-kong-16-compressed-pre.jpg){:class="preview h"}](/photos/hong-kong-16-compressed.jpg){:class="progressive replace"}
 </div>
 
 <div class="photo entry" markdown="1">
-![Lego block](/photos/hong-kong-17.jpg)
+[![Lego block](/photos-pre/hong-kong-17-pre.jpg){:class="preview h"}](/photos/hong-kong-17.jpg){:class="progressive replace"}
 </div>
 
 <div class="photo entry" markdown="1">
-![Lego piles](/photos/hong-kong-18.jpg)
+[![Lego piles](/photos-pre/hong-kong-18-pre.jpg){:class="preview h"}](/photos/hong-kong-18.jpg){:class="progressive replace"}
 </div>
 
 <div class="photo entry" markdown="1">
-![](/photos/hong-kong-06.jpg)
+[![](/photos-pre/hong-kong-06-pre.jpg){:class="preview h"}](/photos/hong-kong-06.jpg){:class="progressive replace"}
 </div>
 
 <div class="photo entry" markdown="1">
-![Oasis in the sea](/photos/hong-kong-19.jpg)
+[![Oasis in the sea](/photos-pre/hong-kong-19-pre.jpg){:class="preview h"}](/photos/hong-kong-19.jpg){:class="progressive replace"}
 </div>

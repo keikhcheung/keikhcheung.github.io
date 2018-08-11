@@ -13,13 +13,13 @@ extras:       ""
 
 
 <div class="photo entry" markdown="1">
-![Dancing lights in the front](/photos/dancing-lights-01.jpg)
+[![Dancing lights in the front](/photos-pre/dancing-lights-01-pre.jpg){:class="preview h"}](/photos/dancing-lights-01.jpg){:class="progressive replace"}
 </div>
 
 <div class="photo entry" markdown="1">
-![Dancing lights in the middle](/photos/dancing-lights-02.jpg)
+[![Dancing lights in the middle](/photos-pre/dancing-lights-02-pre.jpg){:class="preview h"}](/photos/dancing-lights-02.jpg){:class="progressive replace"}
 </div>
 
 <div class="photo entry" markdown="1">
-![Dancing lights at the back](/photos/dancing-lights-03.jpg)
+[![Dancing lights at the back](/photos-pre/dancing-lights-03-pre.jpg){:class="preview h"}](/photos/dancing-lights-03.jpg){:class="progressive replace"}
 </div>

@@ -4,6 +4,14 @@ a.progressive {
   padding: 0;
 }
 
+@media screen and (max-width: 799px) {
+  a.progressive {
+    max-width: 103%; /* Magnify img to cover the RIGHT to create full bleed look */
+    margin-left: -1.5%; /* Remove the LEFT table wrapper inner borderto create full bleed look */
+    margin-right: -1.5%; /* Remove the RIGHT table wrapper inner borderto create full bleed look */
+  }
+}
+
 a.progressive:hover {
   background: transparent;
 }
@@ -58,7 +66,21 @@ a.progressive:hover {
     width: 103% !important; /* Magnify img to cover the RIGHT to create full bleed look */
     height: auto; /* Clear $entry-h inheritable from deskop */
     max-height: none;
-    margin-left: -1.5%; /* Remove the LEFT table wrapper inner borderto create full bleed look */
+  }
+}
+
+.photo.entry .progressive img.preview.h {
+  filter: blur(2vw);
+  transform: scale(1.03);
+  height: 450px; /* $entry-h */
+  /* width: auto; OBSOLETE */
+}
+
+@media screen and (max-width: 799px) {
+  .photo.entry .progressive img.preview.h {
+    width: 103vw !important; /* Magnify img to cover the RIGHT to create full bleed look */
+    height: auto; /* Clear $entry-h inheritable from deskop */
+    max-height: none;
   }
 }
 
