@@ -6,9 +6,8 @@ a.progressive {
 
 @media screen and (max-width: 799px) {
   a.progressive {
-    max-width: 103%; /* Magnify img to cover the RIGHT to create full bleed look */
+    max-width: 100%; /* Full bleed look */
     margin-left: -1.5%; /* Remove the LEFT table wrapper inner borderto create full bleed look */
-    margin-right: -1.5%; /* Remove the RIGHT table wrapper inner borderto create full bleed look */
   }
 }
 
