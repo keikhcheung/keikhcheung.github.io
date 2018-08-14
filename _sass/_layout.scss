@@ -347,7 +347,7 @@ article {
         margin-bottom: $spacing-unit;
         min-width: $entry-w;
         height: auto;
-        margin-right: 4%;
+        margin-right: 7%; /* Instead of 4% to give more space on the RIGHT to the paragraph */
         padding-left: 2%;
         max-height: none;
     }
@@ -360,6 +360,7 @@ article {
     .post-content .image.entry img, .post-content .image.entry iframe {
         max-height: none;
         margin-right: 0;
+        max-width: 101vw; /* Instead of 100% to shrink the img within vw */
         max-width: 103%; /* Magnify img to cover the RIGHT to create full bleed look */
         margin-left: -1.5%; /* Remove the LEFT table wrapper inner borderto create full bleed look */
     }
