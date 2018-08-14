@@ -382,17 +382,17 @@ article {
     .post-content .photo.entry img {
         max-height: none;
         margin-right: 0;
-        max-width: 103%; /* Magnify img to cover the RIGHT to create full bleed look */
-        margin-left: -1.5%; /* Remove the LEFT table wrapper inner borderto create full bleed look */
+        max-width: 101vw;
+        /* max-width: 103%; /* Magnify img to cover the RIGHT to create full bleed look */
+        /* margin-left: -1.5%; /* Remove the LEFT table wrapper inner borderto create full bleed look */
     }
 
     #tintoretto {
         text-align: center;
         background: $grey-color-light;
-        max-width: 103vw; /* Magnify img to cover the RIGHT to create full bleed look */
+        max-width: 101vw; /* Magnify img to cover the RIGHT to create full bleed look */
         margin-left: -1.5%; /* Remove the LEFT table wrapper inner borderto create full bleed look */
-        margin-right: -1.5%; /* Remove the RIGHT table wrapper inner borderto create full bleed look */
-        padding: $spacing-unit;
+        padding: $spacing-unit 0 $spacing-unit 0;
 
         figure {
             margin-bottom: 0;
