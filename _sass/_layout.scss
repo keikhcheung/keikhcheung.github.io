@@ -369,7 +369,7 @@ article {
     .post-content .image.entry img, .post-content .image.entry iframe {
         max-height: none;
         margin-right: 0;
-        max-width: 101vw; /* Instead of 100% to shrink the img within vw */
+        max-width: 102vw; /* Instead of 100% to shrink the img within vw */
     }
 
     .post-content .image.entry iframe {
@@ -385,7 +385,7 @@ article {
     .post-content .photo.entry img {
         max-height: none;
         margin-right: 0;
-        max-width: 101vw;
+        max-width: 102vw;
         /* max-width: 103%; /* Magnify img to cover the RIGHT to create full bleed look */
         /* margin-left: -1.5%; /* Remove the LEFT table wrapper inner borderto create full bleed look */
     }
@@ -393,7 +393,7 @@ article {
     #tintoretto {
         text-align: center;
         background: $grey-color-light;
-        max-width: 101vw; /* Magnify img to cover the RIGHT to create full bleed look */
+        max-width: 102vw; /* Magnify img to cover the RIGHT to create full bleed look */
         margin-left: -1.5%; /* Remove the LEFT table wrapper inner borderto create full bleed look */
         padding: $spacing-unit 0 $spacing-unit 0;
 
