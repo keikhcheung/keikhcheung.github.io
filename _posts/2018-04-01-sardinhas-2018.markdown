@@ -40,5 +40,5 @@ I started with the idea of *immitating* a *child drawing* fish in different colo
 
 <div class="entry thin" markdown="1">
 \>  
-Eventually, all the individually unique sardines formed a beautiful, lively mosaic of themselves. Together they are one!
+Eventually, all the individually unique sardines formed a beautiful, lively *mosaic* of themselves. **Together they are one!**
 </div>

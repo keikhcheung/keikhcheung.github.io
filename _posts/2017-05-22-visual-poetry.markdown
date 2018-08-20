@@ -21,7 +21,7 @@ extras:       ""
 
 I always have the habit of bringing an analogue camera with me wherever I go. I use it to record places where I find the atmosphere impressive. Sometimes, when it arrives, I transform my feelings into loose stanzas of words.
 
-This 56-page booklet is an attempt to mix these two ordinary practices and find a new formula of creation in between.
+This 56-page booklet is an attempt to mix these two ordinary practices and find a *new formula of creation* in between.
 </div>
 
 <div class="image entry" markdown="1">
