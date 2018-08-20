@@ -6,7 +6,7 @@ category:     ux-ui
 thumbnail:    /images/chamrousse01-alt.jpg
 caption:      "website interface design"
 type:         "academic group project"
-projdate:     "Sep - Nov 2016"
+projdate:     "September-November 2016"
 intro:        "Redesigning the website interface of Chamrousse Tourist Office"
 extras:       "With Delphine Delfieu, Paul-Henri Dumas, Léa Guiraud, and Mélissa Dufour."
 ---
