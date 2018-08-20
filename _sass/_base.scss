@@ -16,7 +16,7 @@ html {
 
     /* DISABLE horizontal scrolling on mobile */
     @include media-query($on-palm) {
-    overflow-x: hidden;
+        overflow-x: hidden;
     /* Prevent the device from scaling to the body content-box */
     /*
     -webkit-box-sizing: border-box;
