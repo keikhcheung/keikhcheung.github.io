@@ -40,6 +40,10 @@ body {
     font-feature-settings: "kern" 1;
     font-kerning: normal;
     letter-spacing: $letter-spacing;
+
+    @include media-query($on-palm) {
+        overflow-x: hidden;
+    }
 }
 
 
