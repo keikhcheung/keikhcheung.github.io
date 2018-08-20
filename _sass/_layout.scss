@@ -13,7 +13,7 @@
     float: left;
     position: fixed;
     margin-left: 25px;
-    padding: 18px 10px 20px 20px; /* ATTENTION Ajustment with a.active in _base.scss upon changes! */
+    padding: $spacing-unit * 0.5 10px 20px 20px; /* ATTENTION Ajustment with a.active in _base.scss upon changes! */
     opacity: 0.85;
     filter: alpha(opacity = 85);
     z-index: 1;
@@ -184,7 +184,7 @@
  * Page content
  */
 .page-content {
-    padding: 23px 0 0 0;
+    padding: $spacing-unit * 0.65 0 0 0;
     visibility: hidden;
 
     @include media-query($on-palm) {
