@@ -6,7 +6,7 @@ category:     ux-ui
 thumbnail:    /images/compactcity01.jpg
 caption:      "agile implementation in scrum framework"
 type:         "academic group project"
-projdate:     "February 2017"
+projdate:     "Feb 2017"
 intro:        "Prototyping an ideal city in 30 minutes."
 extras:       ""
 ---

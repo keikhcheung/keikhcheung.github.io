@@ -6,7 +6,7 @@ category:     photography
 thumbnail:    /photos/hong-kong-10.jpg
 caption:      "photography & poetry"
 type:         "personal project"
-projdate:     "Aug 2010-Aug 2016"
+projdate:     "Aug 2010 - Aug 2016"
 intro:        "A land which I was once used to."
 extras:       ""
 ---

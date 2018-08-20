@@ -6,7 +6,7 @@ category:     ux-ui
 thumbnail:    /images/mesinfos04.jpg
 caption:      "full-scale UX design project direction and management"
 type:         "academic group project"
-projdate:     "December 2016-May 2017"
+projdate:     "Dec 2016 - May 2017"
 intro:        "Promoting the impact of a digital ‘Self Data’ service."
 extras:       "With Sophie Bruneton and Flavien Auffret."
 ---

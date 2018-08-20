@@ -6,7 +6,7 @@ category:     graphics
 thumbnail:    /images/sardinhas18-compressed-ratio.jpg
 caption:      "illustration"
 type:         "contest"
-projdate:     "March 2018"
+projdate:     "Mar 2018"
 intro:        "In celebration of <i>Festa de Lisboa 2018</i>."
 extras:       ""
 ---

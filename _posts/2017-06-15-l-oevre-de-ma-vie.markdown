@@ -6,7 +6,7 @@ category:     shorts
 thumbnail:    
 caption:      "short film production"
 type:         "independent group project"
-projdate:     "February 2017"
+projdate:     "Feb 2017"
 intro:        "Short film produced from scratch in 36 hours."
 extras:       "Nicolas Carion, Ka Hei Cheung, Milo Donnelly, Adrien Foutelet, Amélie Josserand, Guilhem Manchon, and Romain Versaevel.</p><p>With the support of <i>Champ Libre</i> association and <i>ensmédia</i>."
 ---

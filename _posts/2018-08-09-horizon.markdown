@@ -6,7 +6,7 @@ category:     photography
 thumbnail:    /photos/horizon-01.jpg
 caption:      "photography & poetry"
 type:         "personal project"
-projdate:     "Aug 2010-Jun 2016"
+projdate:     "Aug 2010 - Jun 2016"
 intro:        "Horizons which I can call."
 extras:       ""
 ---

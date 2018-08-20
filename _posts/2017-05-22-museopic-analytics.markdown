@@ -6,7 +6,7 @@ category:     ux-ui
 thumbnail:    /images/museopic-loop-1.jpg
 caption:      "data analytic tool design"
 type:         "academic group project"
-projdate:     "January-April 2017"
+projdate:     "Jan - Apr 2017"
 intro:        "Design of a digital solution for museum personnel for exhibition evaluation."
 extras:       "With Lénaïc Faure and Constance Grandin."
 ---

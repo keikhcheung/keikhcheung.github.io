@@ -6,7 +6,7 @@ category:     ux-ui
 thumbnail:    /images/snowrec01.png
 caption:      "service and desktop-mobile application interface design"
 type:         "academic group project"
-projdate:     "November-December 2016"
+projdate:     "Nov - Dec 2016"
 intro:        "Service innovation for winter sports learning experience."
 extras:       "With Delphine Delfieu, Paul-Henri Dumas, Léa Guiraud, and Mélissa Dufour."
 ---

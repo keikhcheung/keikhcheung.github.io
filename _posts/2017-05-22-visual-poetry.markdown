@@ -6,7 +6,7 @@ category:     graphics
 thumbnail:    /images/vp01-pdf-ratio.jpg
 caption:      "photography & poetry"
 type:         "personal project"
-projdate:     "May 2010-September 2013"
+projdate:     "May 2010 - Sep 2013"
 intro:        "56 pages of traces of atmosphere and feelings."
 extras:       ""
 ---
