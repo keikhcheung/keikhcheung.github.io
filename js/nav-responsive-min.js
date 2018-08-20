@@ -1,0 +1,1 @@
+function openHamburger(){var e=document.getElementById("hamburger"),a=document.getElementsByClassName("nav-wrapper"),n=document.getElementsByClassName("icon");"navigation"===e.className?(e.className+=" responsive",a[0].className+=" responsive",n[0].innerHTML="&#10799;"):(e.className="navigation",a[0].className="nav-wrapper",n[0].innerHTML="&#8801;")}
