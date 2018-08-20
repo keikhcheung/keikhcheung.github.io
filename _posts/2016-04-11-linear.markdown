@@ -6,7 +6,7 @@ category:     products
 thumbnail:    /images/linear01.jpg
 caption:      "chair design"
 type:         "academic personal project"
-projdate:     "September 2015-January 2016"
+projdate:     "Sep 2015 - Jan 2016"
 intro:        "Exploring the possibilities to form a sitting surface from one simple line"
 extras:       ""
 ---
