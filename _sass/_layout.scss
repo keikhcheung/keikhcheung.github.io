@@ -184,7 +184,7 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit * 0.65 0 0 0;
+    padding: 23px 0 0 0;
     visibility: hidden;
 
     @include media-query($on-palm) {
