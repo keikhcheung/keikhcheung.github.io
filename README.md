@@ -1,7 +1,7 @@
 # Change Log
 Kei Ka-hei Cheung
 
-##20180821
+## 20180821
 
 Lazy load for images thanks to the script by [Craig Buckler](https://github.com/craigbuckler/progressive-image.js), optimisation for mobile, and SEO.
 
