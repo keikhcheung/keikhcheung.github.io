@@ -3,11 +3,11 @@ layout:       post
 title:        "Together we are stronger!"
 date:         2018-04-01 00:56:40 +0200
 category:     graphics
-thumbnail:    /images/sardinhas18-compressed-ratio.jpg
+image:        /images/sardinhas18-compressed-ratio.jpg
 caption:      "illustration"
 type:         "contest"
 projdate:     "Mar 2018"
-intro:        "In celebration of <i>Festa de Lisboa 2018</i>."
+description:  "In celebration of <i>Festa de Lisboa 2018</i>."
 extras:       ""
 ---
 

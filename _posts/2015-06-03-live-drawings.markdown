@@ -3,11 +3,11 @@ layout:       post-clean
 title:        "live"
 date:         2015-06-03 03:44:00 +0800
 category:     drawings
-thumbnail:    /images/F1-fb-ratio.jpg
+image:        /images/F1-fb-ratio.jpg
 caption:      "Live drawings of body figures and movements"
 type:         ""
 projdate:     ""
-intro:        ""
+description:  ""
 extras:       ""
 ---
 

@@ -3,11 +3,11 @@ layout:       post
 title:        "Danse des sardines - printemps"
 date:         2018-03-31 18:47:00 +0200
 category:     graphics
-thumbnail:    /images/sardinhas17-07-gh.png
+image:        /images/sardinhas17-07-gh.png
 caption:      "illustration & computer graphics"
 type:         "contest"
 projdate:     "Feb - Mar 2017"
-intro:        "Sardines dancing with Spring.<br />In celebration of <i>Festa de Lisboa 2017</i>."
+description:  "Sardines dancing with Spring.<br />In celebration of <i>Festa de Lisboa 2017</i>."
 extras:       ""
 ---
 

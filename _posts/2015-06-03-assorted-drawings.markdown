@@ -3,11 +3,11 @@ layout:       post-clean
 title:        "assorted"
 date:         2015-06-03 03:42:00 +0800
 category:     drawings
-thumbnail:    /images/D00-ratio.jpg
+image:        /images/D00-ratio.jpg
 caption:      ""
 type:         ""
 projdate:     ""
-intro:        ""
+description:  ""
 extras:       ""
 ---
 

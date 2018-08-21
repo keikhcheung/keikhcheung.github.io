@@ -3,11 +3,11 @@ layout:       post
 title:        "Compact City"
 date:         2017-05-22 22:56:00 +0200
 category:     ux-ui
-thumbnail:    /images/compactcity01.jpg
+image:        /images/compactcity01.jpg
 caption:      "agile implementation in scrum framework"
 type:         "academic group project"
 projdate:     "Feb 2017"
-intro:        "Prototyping an ideal city in 30 minutes."
+description:  "Prototyping an ideal city in 30 minutes."
 extras:       ""
 ---
 

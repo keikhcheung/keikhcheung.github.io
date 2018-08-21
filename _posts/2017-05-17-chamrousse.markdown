@@ -3,11 +3,11 @@ layout:       post
 title:        "Chamrousse"
 date:         2017-05-17 22:26:00 +0200
 category:     ux-ui
-thumbnail:    /images/chamrousse01-alt.jpg
+image:        /images/chamrousse01-alt.jpg
 caption:      "website interface design"
 type:         "academic group project"
 projdate:     "Sep - Nov 2016"
-intro:        "Redesigning the website interface of Chamrousse Tourist Office"
+description:  "Redesigning the website interface of Chamrousse Tourist Office"
 extras:       "With Delphine Delfieu, Paul-Henri Dumas, Léa Guiraud, and Mélissa Dufour."
 ---
 

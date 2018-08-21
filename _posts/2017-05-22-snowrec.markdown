@@ -3,11 +3,11 @@ layout:       post
 title:        "SnowRec"
 date:         2017-05-22 22:26:00 +0200
 category:     ux-ui
-thumbnail:    /images/snowrec01.png
+image:        /images/snowrec01.png
 caption:      "service and desktop-mobile application interface design"
 type:         "academic group project"
 projdate:     "Nov - Dec 2016"
-intro:        "Service innovation for winter sports learning experience."
+description:  "Service innovation for winter sports learning experience."
 extras:       "With Delphine Delfieu, Paul-Henri Dumas, Léa Guiraud, and Mélissa Dufour."
 ---
 

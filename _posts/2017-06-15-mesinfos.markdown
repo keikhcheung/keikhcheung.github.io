@@ -3,11 +3,11 @@ layout:       post
 title:        "MesInfos"
 date:         2017-06-15 22:53:00 +0200
 category:     ux-ui
-thumbnail:    /images/mesinfos04.jpg
+image:        /images/mesinfos04.jpg
 caption:      "full-scale UX design project direction and management"
 type:         "academic group project"
 projdate:     "Dec 2016 - May 2017"
-intro:        "Promoting the impact of a digital ‘Self Data’ service."
+description:  "Promoting the impact of a digital ‘Self Data’ service."
 extras:       "With Sophie Bruneton and Flavien Auffret."
 ---
 

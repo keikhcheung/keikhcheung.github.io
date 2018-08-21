@@ -1,7 +1,8 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout:       page
+title:        About
+permalink:    /about/
+image:        /images/keikhcheung.jpg
 ---
 
 <div class="photo entry" markdown="1">

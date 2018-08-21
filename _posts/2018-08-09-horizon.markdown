@@ -3,11 +3,11 @@ layout:       post-clean
 title:        "horizons"
 date:         2018-08-09 23:51:37 +0100
 category:     photography
-thumbnail:    /photos/horizon-01.jpg
+image:        /photos/horizon-01.jpg
 caption:      "photography & poetry"
 type:         "personal project"
 projdate:     "Aug 2010 - Jun 2016"
-intro:        "Horizons which I can call."
+description:  "Horizons which I can call."
 extras:       ""
 ---
 

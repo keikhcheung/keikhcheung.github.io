@@ -3,11 +3,11 @@ layout:       post
 title:        "MuseoPic Analytics"
 date:         2017-05-22 22:56:00 +0200
 category:     ux-ui
-thumbnail:    /images/museopic-loop-1.jpg
+image:        /images/museopic-loop-1.jpg
 caption:      "data analytic tool design"
 type:         "academic group project"
 projdate:     "Jan - Apr 2017"
-intro:        "Design of a digital solution for museum personnel for exhibition evaluation."
+description:  "Design of a digital solution for museum personnel for exhibition evaluation."
 extras:       "With Lénaïc Faure and Constance Grandin."
 ---
 

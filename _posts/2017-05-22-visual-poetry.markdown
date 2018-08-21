@@ -3,11 +3,11 @@ layout:       post
 title:        "Visual Poetry"
 date:         2017-05-22 22:56:00 +0800
 category:     graphics
-thumbnail:    /images/vp01-pdf-ratio.jpg
+image:        /images/vp01-pdf-ratio.jpg
 caption:      "photography & poetry"
 type:         "personal project"
 projdate:     "May 2010 - Sep 2013"
-intro:        "56 pages of traces of atmosphere and feelings."
+description:  "56 pages of traces of atmosphere and feelings."
 extras:       ""
 ---
 

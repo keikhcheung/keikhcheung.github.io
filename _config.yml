@@ -10,9 +10,26 @@ title: kei ka-hei cheung
 realname:  Kei Ka-hei Cheung
 email: kei.khcheung@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Portfolio of Kei Ka-hei Cheung.
+  Portfolio of Kei Ka-hei Cheung, Information Architect based in Lyon, France. This portfolio showcases predominantly his Experience Design projects for digital services and the Internet of thigns, as well as his works in product (chair furniture) design, short film production, photography, graphics, and drawings.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://keikhcheung.com" # the base hostname & protocol for your site
+author:
+  twitter: keikhcheung
+twitter:
+  username: keikhcheung
+  card: summary
+facebook:
+  publisher: https://www.facebook.com/kei.khcheung
+social:
+  name: Kei Ka-hei Cheung
+  links:
+    - https://twitter.com/keikhcheung
+    - https://www.linkedin.com/in/kei-cheung/
+    - https://www.facebook.com/kei.khcheung
+    - https://github.com/keikhcheung
+    - https://dribbble.com/keikhcheung
+lang: en_GB
+
 twitter_username: keikhcheung
 github_username:  keikhcheung
 linkedin_username: kei-cheung
@@ -24,3 +41,6 @@ repo: https://github.com/keikhcheung/keikhcheung.github.io/
 
 # Build settings
 markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag

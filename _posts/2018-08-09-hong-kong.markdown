@@ -3,11 +3,11 @@ layout:       post-clean
 title:        "hong kong"
 date:         2018-08-09 23:30:00 +0100
 category:     photography
-thumbnail:    /photos/hong-kong-10.jpg
+image:        /photos/hong-kong-10.jpg
 caption:      "photography & poetry"
 type:         "personal project"
 projdate:     "Aug 2010 - Aug 2016"
-intro:        "A land which I was once used to."
+description:  "A land which I was once used to."
 extras:       ""
 ---
 

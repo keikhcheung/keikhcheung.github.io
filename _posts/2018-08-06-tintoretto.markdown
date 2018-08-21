@@ -3,11 +3,11 @@ layout:       post
 title:        "Tintoretto2Go"
 date:         2018-08-06 14:06:00 +0100
 category:     ux-ui
-thumbnail:    /images/tintoretto-screenshot-1.jpg
+image:        /images/tintoretto-screenshot-1.jpg
 caption:      "user experience gamification"
 type:         "professional project"
 projdate:     "Jun 2016 - Nov 2017"
-intro:        "Hijack advertisements in the city with art!"
+description:  "Hijack advertisements in the city with art!"
 extras:       "In <i>denkwerk GmbH</i> for Wallraf-Richartz Museum & Fondation Corboud."
 ---
 
