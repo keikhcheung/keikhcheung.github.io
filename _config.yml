@@ -13,8 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Portfolio of Kei Ka-hei Cheung, Information Architect based in Lyon, France. Showcase for chiefly Experience Design projects for digital services and the Internet of things; as well as product design, short film production, photography, graphics, and drawings.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://keikhcheung.com" # the base hostname & protocol for your site
-author:
-  twitter: keikhcheung
+author: keikhcheung
 twitter:
   username: keikhcheung
   card: summary
