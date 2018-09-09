@@ -25,7 +25,7 @@ He attended <i>École Normale Supérieure de Lyon</i> for his Master in Informat
 
 <div class="entry wide" markdown="1">
 ## \> Work Experience
-since Sep 2018
+since Sep 2018  
 *Experience Design Specialist* @ denkwerk GmbH, Cologne, Germany  
 Digital service design, platform conceptualisation, user experience design researches and analyses, and workshop organisation.
 
