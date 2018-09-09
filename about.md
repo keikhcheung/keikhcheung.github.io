@@ -11,7 +11,7 @@ image:        /images/keikhcheung.jpg
 
 <div class="entry" markdown="1">
 # Kei Ka-hei Cheung
-Kei is an *information architect* based in Lyon, France. He works predominantly in *experience design* for digital services and the Internet of things.
+Kei is an *information architect* based in Cologne, Germany. He works predominantly in *experience design* for digital services and the Internet of things.
 
 In his own time, he likes to explore *photography*, *contemporary art*, and *front-end coding*. He has passion for *typography*, *graphic design*, *cinema*, and *modern literature*.
 
