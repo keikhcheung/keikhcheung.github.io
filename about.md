@@ -6,7 +6,7 @@ image:        /images/keikhcheung.jpg
 ---
 
 <div class="photo entry" markdown="1">
-[![Portrait of Kei](/images-pre/keikhcheung-pre.jpg){:class="preview h"}](/images/keikhcheung.jpg){:class="progressive replace"}
+[![Portrait of Kei](/images-pre/keikhcheung-pre.jpg){:class="preview"}](/images/keikhcheung.jpg){:class="progressive replace"}
 </div>
 
 <div class="entry" markdown="1">
