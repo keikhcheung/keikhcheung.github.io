@@ -5,7 +5,7 @@ permalink:    /about/
 image:        /images/keikhcheung.jpg
 ---
 
-<div class="photo entry" markdown="1">
+<div class="image entry" markdown="1">
 [![Portrait of Kei](/images-pre/keikhcheung-pre.jpg){:class="preview h"}](/images/keikhcheung.jpg){:class="progressive replace"}
 </div>
 
