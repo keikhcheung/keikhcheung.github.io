@@ -23,7 +23,7 @@ extras:       "In <i>denkwerk GmbH</i> for Wallraf-Richartz Museum & Fondation C
 ## \>  Treasure hunt in the city
 In the celebration of the 500<sup>th</sup> birthday of the Italian artist *Jacopo Tintoretto*, *<i>[Wallraf-Richartz Museum](https://www.wallraf.museum){:target="_blank"}</i>* in Cologne, Germany held a [dedicated exhibition](https://www.wallraf.museum/2017-10-06-tintoretto/){:target="_blank"} featuring his *[Renaissance paintings](https://www.wallraf.museum/2017-10-06-tintoretto/exponate/){:target="_blank"}*.
 
-*<i>[denkwerk GmbH](https://www.denkwerk.com){:target="_blank"}</i>* had the idea of using *visual recognition* and *augmented reality (AR)* to **hijack advertisement posters in the city and replacing them with artwork**, allowing people to discover the hidden gems within Tintoretto's paintings, especially [bringing a younger generation to the Renaissance art](http://www.pipipi.de/tintoretto_en.html){:target="_blank"}.
+*<i>[denkwerk GmbH](https://www.denkwerk.com){:target="_blank"}</i>* had the idea of using *visual recognition* and *augmented reality (AR)* to **hijack advertisement posters in the city and replacing them with artwork**, allowing people to discover the hidden gems within Tintoretto's paintings, especially bringing [a younger generation](http://www.pipipi.de/tintoretto_en.html){:target="_blank"} to the Renaissance art.
 
 In this project, my role was to create an engaging experience for this *[‘city hunt’ game](https://www.tintoretto2go.de){:target="_blank"}* in Cologne and Berlin.
 
