@@ -27,7 +27,7 @@ In the celebration of the 500<sup>th</sup> birthday of the Italian artist *Jacop
 
 In this project, my role was to create an engaging experience for this *[‘city hunt’ game](https://www.tintoretto2go.de){:target="_blank"}* in Cologne and Berlin.
 
-This app has won the [**Gold Medal**](https://www.denkwerk.com/news/376-gold-rush){:target="_blank"} in *'Digital Out Of Home'* category of the [**Golden Awards of Montreux 2018**](http://www.goldenawardmontreux.com/winners2018/winners2018-digital.html){:target="_blank"} and the [**Bronze Lovie Awards 2018**](https://winners.lovieawards.eu/#!y=2018&m=274){:target="_blank"} for the best user experience in 'Mobile & Applications'.
+This app has won the [**Gold Medal**](https://www.denkwerk.com/news/376-gold-rush){:target="_blank"} in *'Digital Out Of Home'* category of the [**Golden Awards of Montreux 2018**](http://www.goldenawardmontreux.com/winners2018/winners2018-digital.html){:target="_blank"} and the [**Bronze Lovie Awards 2018**](https://winners.lovieawards.eu/#!y=2018&m=274){:target="_blank"} for the *best user experience* in *'Mobile & Applications'*.
 </div>
 
 <div class="image entry" markdown="0">
