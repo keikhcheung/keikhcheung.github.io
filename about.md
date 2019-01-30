@@ -74,5 +74,5 @@ French Civilisation, Sociology, Politics and Language.
 Supplementary courses: French Art, French Cinema and Portuguese Language.
 
 ## \> Publications
-<i>'User Experience of Voice Assistants: Exploration of Anticipatory Assistance with Augmented Sensitivity to Usage Environments' Context'</i>. DUMAS - Dépôt Universitaire de Mémoires Après Soutenance, 15 May 2018, [dumas.ccsd.cnrs.fr/dumas-01981716](https://dumas.ccsd.cnrs.fr/dumas-01981716){:target="_blank"}.
+<i>'User Experience of Voice Assistants: Exploration of Anticipatory Assistance with Augmented Sensitivity to Usage Environments' Context'</i>. DUMAS - Dépôt Universitaire de Mémoires Après Soutenance, Archive ouverte HAL, 15 May 2018, [dumas.ccsd.cnrs.fr/dumas-01981716](https://dumas.ccsd.cnrs.fr/dumas-01981716){:target="_blank"}.
 </div>
