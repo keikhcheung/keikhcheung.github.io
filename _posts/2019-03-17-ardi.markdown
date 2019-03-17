@@ -14,7 +14,7 @@ extras:       "In <i>denkwerk GmbH</i> with Microsoft."
 
 <div class="image entry thin" markdown="0">
 <figure>
-	<video autoplay="autoplay" loop="loop" width="690" height="365">
+	<video autoplay="autoplay" loop="loop" width="460" height="243">
 		<source src="/videos/Ardi-Logo-Screen-Recording.mp4" type="video/mp4">
 	</video>
 	<figcaption>Courtesy: <i>denkwerk GmbH</i></figcaption>
