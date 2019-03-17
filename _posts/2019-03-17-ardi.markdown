@@ -1,0 +1,29 @@
+---
+layout:       post
+title:        "Ardi"
+date:         2019-03-17 18:05:00 +0100
+category:     ux-ui
+image:        /images/tintoretto-screenshot-1.jpg
+caption:      "AI for business"
+type:         "professional project"
+projdate:     "since January 2019"
+description:  "Enhance research with AI."
+extras:       "In <i>denkwerk GmbH</i> with Microsoft."
+---
+
+
+<div class="image entry thin" markdown="0">
+<figure>
+<iframe src="/videos/Ardi-Logo-Screen-Recording.mp4" width="690" height="365" frameborder="0"></iframe>
+	<figcaption>Courtesy: <i>denkwerk GmbH</i></figcaption>
+</figure>
+</div>
+
+<div class="entry" markdown="1">
+## \>  AI for Research
+As a participation in the Microsoft AI Award 2019 Agency Edition, *<i>[denkwerk GmbH](https://www.denkwerk.com){:target="_blank"}</i>* had the idea of incorporating AI into design agency's workflow.
+
+*Ardi* is an **AI-powered research tool** which aims to facilitate the research practices that design agencies perform routinely. It targets the problem of cumbersome (re)searching work and uses *Microsoft Azure Cognitive Services* to detect, collect, cluster and summarise results. With the use of text analytics and content-sensitive algorithms, Ardi enhances the research workflow, raises efficiency in insight discovery, reduces the cost of research processes, unlocks and verbalises knowledge, and advances human communication and creation.
+
+This project has won the [**2<sup>nd</sup> place**](https://www.denkwerk.com/news/391-gesucht-gefunden-gewonnen-ardi-gewinnt-microsoft-ai-award){:target="_blank"} in *'AI for Businesses'* category of the **Microsoft AI Award 2019 – Agency Edition**.
+</div>
