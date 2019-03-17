@@ -84,7 +84,7 @@ Supplementary courses: French Art, French Cinema and Portuguese Language.
 Project: Ardi  
 Recipient: denkwerk GmbH
 
-*Lovie Awards 2018*
+*Lovie Awards 2018*  
 Bronze, Best User Experience, ‘Mobile & Applications’  
 Project: Tintoretto2Go  
 Recipient: denkwerk GmbH  
