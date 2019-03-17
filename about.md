@@ -79,26 +79,26 @@ Supplementary courses: French Art, French Cinema and Portuguese Language.
 
 <div class="entry" markdown="1">
 ## \> Awards
-*Microsoft AI Award 2019* – Agency Edition
-2<sup>nd</sup> Place, AI for Business
-Project: Ardi
+*Microsoft AI Award 2019* – Agency Edition  
+2<sup>nd</sup> Place, AI for Business  
+Project: Ardi  
 Recipient: denkwerk GmbH
 
 *Lovie Awards 2018*
-Bronze, Best User Experience, ‘Mobile & Applications’
-Project: Tintoretto2Go
-Recipient: denkwerk GmbH
+Bronze, Best User Experience, ‘Mobile & Applications’  
+Project: Tintoretto2Go  
+Recipient: denkwerk GmbH  
 Client: Wallraf-Richartz Museum & Fondation Corboud
 
-*Annual Multimedia Awards 2019*
-SILBER, ‘Digitale Sonderformate’
-Project: Tintoretto2Go
-Recipient: denkwerk GmbH
+*Annual Multimedia Awards 2019*  
+SILBER, ‘Digitale Sonderformate’  
+Project: Tintoretto2Go  
+Recipient: denkwerk GmbH  
 Client: Wallraf-Richartz Museum & Fondation Corboud
 
-*Golden Awards of Montreux 2018*
-Gold Medal, ‘Digital Out of Home’
-Project: Tintoretto2Go
-Recipient: denkwerk GmbH
+*Golden Awards of Montreux 2018*  
+Gold Medal, ‘Digital Out of Home’  
+Project: Tintoretto2Go  
+Recipient: denkwerk GmbH  
 Client: Wallraf-Richartz Museum & Fondation Corboud
 </div>
