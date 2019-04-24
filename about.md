@@ -21,6 +21,7 @@ He attended <i>École Normale Supérieure de Lyon</i> for his Master in Informat
 [Email](mailto:kei.khcheung@gmail.com)
 [Twitter](https://twitter.com/keikhcheung){:target="_blank"}
 [LinkedIn](https://www.linkedin.com/in/kei-cheung/){:target="_blank"}
+[Medium](https://medium.com/@keikhcheung){:target="_blank"}
 </div>
 
 <div class="entry wide" markdown="1">
@@ -79,8 +80,10 @@ Supplementary courses: French Art, French Cinema and Portuguese Language.
 
 <div class="entry" markdown="1">
 ## \> Awards
-*The Webby Awards 2019*
-Winner for Best Visual Design - Function and Nominee for Culture & Events, 'Apps, Mobile, and Voice'
+*The Webby Awards 2019*  
+Winner for Best Visual Design - Function  
+Nominee for Culture & Events  
+'Apps, Mobile, and Voice'  
 Project: Tintoretto2Go  
 Recipient: denkwerk GmbH  
 Client: Wallraf-Richartz Museum & Fondation Corboud
