@@ -79,6 +79,12 @@ Supplementary courses: French Art, French Cinema and Portuguese Language.
 
 <div class="entry" markdown="1">
 ## \> Awards
+*The Webby Awards 2019*
+Winner for Best Visual Design - Function and Nominee for Culture & Events, 'Apps, Mobile, and Voice'
+Project: Tintoretto2Go  
+Recipient: denkwerk GmbH  
+Client: Wallraf-Richartz Museum & Fondation Corboud
+
 *Microsoft AI Award 2019* – Agency Edition  
 2<sup>nd</sup> Place, AI for Business  
 Project: Ardi  
