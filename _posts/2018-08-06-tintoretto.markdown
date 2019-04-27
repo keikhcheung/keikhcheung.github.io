@@ -15,7 +15,7 @@ extras:       "In <i>denkwerk GmbH</i> for Wallraf-Richartz Museum & Fondation C
 <div class="image entry thin" markdown="0" id="tintoretto">
 <figure>
 <p><img src="/images/tintoretto-preview.gif" alt="Preview of the application" /></p>
-	<figcaption>Courtesy: <i>denkwerk GmbH</i></figcaption>
+<figcaption>Courtesy: <i>denkwerk GmbH</i></figcaption>
 </figure>
 </div>
 
