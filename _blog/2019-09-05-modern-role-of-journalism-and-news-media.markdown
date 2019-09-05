@@ -22,7 +22,7 @@ Information is abundant and harsh these days. Everyone sounds like shouting, if 
 <figcaption>Do you feel like messy tribbles raining over your head?<br />Image: <a href="https://giphy.com/gifs/star-trek-mess-tribbles-108KUzjTMEp2gw" target="_blank">Giphy</a></figcaption>
 </figure>
 
-Last weekend I attended the [Campfire Festival 2019](https://campfirefestival.org) in Düsseldorf, Germany. It is an event about the relation between journalism, media, human and the digital world. The talks were multidimensional, cross-disciplinary and inspiring. It made me ponder over the role of journalism and news media in our current time—what and whom it is for—and question its utility and effectiveness.
+Last weekend I attended the [Campfire Festival 2019](https://campfirefestival.org){:target="_blank"} in Düsseldorf, Germany. It is an event about the relation between journalism, media, human and the digital world. The talks were multidimensional, cross-disciplinary and inspiring. It made me ponder over the role of journalism and news media in our current time—what and whom it is for—and question its utility and effectiveness.
 
 <i>Disclaimer: I am not a professional journalist. Comments here are, therefore, only from a regular newspaper reader, media watcher's external point of view.</i>
 
@@ -57,7 +57,7 @@ The first aspect consists of reconnecting reader groups.
 
 Press and news media should not represent *the one voice* they want to propagate, but *the voices* which exist in the setting. It is understandable that journalists and media houses hold their own interest scope and standpoints. How news stories are followed, collected, analysed, cut, shaped, and presented to the public subsequently depends on them. Loss of information is inevitable during the production chain. Yet, instead of simply persuading the public of their perspective, the bigger picture should not be forgotten.
 
-Take Brexit as an example. Before the universal suffrage in 2016, as Rachel Oldroyd presented in her talk in Campfire Festival, Remain news media had overlooked the local voices and misjudged the proportion adhering to Leave. Coverage (especially analyses) for the other side was scarce. It was only until the ballots were counted that the public (and politicians) learnt - in the hard way - to have to deal with alternative voices seriously. Had they known more about casting situation beforehand, the current deadlock situation of Brexit probably would have looked very different.
+Take Brexit as an example. Before the universal suffrage in 2016, as [Rachel Oldroyd](https://twitter.com/Raoldroyd){:target="_blank"} presented in [her talk in Campfire Festival](https://sched.co/UBen){:target="_blank"}, Remain news media had overlooked the local voices and misjudged the proportion adhering to Leave. Coverage (especially analyses) for the other side was scarce. It was only until the ballots were counted that the public (and politicians) learnt - in the hard way - to have to deal with alternative voices seriously. Had they known more about casting situation beforehand, the current deadlock situation of Brexit probably would have looked very different.
 
 <figure>
 <p><img src="/images-blog/Kids-in-zorbs.jpg" alt="Kids in zorbs" /></p>
