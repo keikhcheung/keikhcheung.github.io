@@ -90,7 +90,7 @@
         {% for p in blogposts %}
           {% if p.category == "blog" %}
             <li>
-              <a {% if p.url == page.url %}id="active"{% endif %} href="{{ p.url | prepend: site.baseurl }}">{% if p.url == page.url %}»&nbsp;{% endif %}{{ p.title }}</a>
+              <a {% if p.url == page.url %}id="active"{% endif %} href="{{ p.url | prepend: site.baseurl }}">{% if p.url == page.url %}»&nbsp;{% endif %}{{ p.stitle }}</a>
             </li>
           {% endif %}
         {% endfor %}
