@@ -82,6 +82,18 @@
           {% endif %}
         {% endfor %}
       </ul>
+
+      <!-- Category blog -->
+      <p class="category">blog</p>
+      <ul>
+        {% for p in projects %}
+          {% if p.category == "blog" %}
+            <li>
+              <a {% if p.url == page.url %}id="active"{% endif %} href="{{ p.url | prepend: site.baseurl }}">{% if p.url == page.url %}»&nbsp;{% endif %}{{ p.title }}</a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
     </div>
   </nav>
 
