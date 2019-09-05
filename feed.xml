@@ -26,7 +26,7 @@ layout: null
         {% endfor %}
       </item>
     {% endfor %}
-    {% for post in site.posts.blog limit:10 %}
+    {% for post in site.blog limit:10 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <description>{{ post.content | xml_escape }}</description>

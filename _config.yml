@@ -41,5 +41,9 @@ repo: https://github.com/keikhcheung/keikhcheung.github.io/
 # Build settings
 markdown: kramdown
 
+#load blog
+collections:
+  blog
+
 plugins:
   - jekyll-seo-tag

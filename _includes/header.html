@@ -10,7 +10,7 @@
     <div class="navigation" id="hamburger">
       <a class="site-about"{% if page.title == "About" %} id="active"{% endif %} href="{{ site.baseurl }}/about">{% if page.title == "About" %}»&nbsp;{% endif %}o’ kei</a>
       {% assign projects = site.posts | sort:"date" | reverse %}
-      {% assign blogposts = site.posts.blog | sort:"date" | reverse %}
+      {% assign blogposts = site.blog | sort:"date" | reverse %}
       <!-- Category UX/UI -->
       <p class="category">UX/UI</p>
       <ul>
