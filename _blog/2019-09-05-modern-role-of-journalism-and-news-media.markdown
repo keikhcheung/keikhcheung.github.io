@@ -3,7 +3,7 @@ layout:       post
 title:        "Modern Role of Journalism and News Media"
 date:         2019-09-06 00:35:00 +0200
 category:     blog
-image:        /images/tintoretto-screenshot-1.jpg
+image:        /images-blog/This-Is-Fine.gif
 caption:      "Dummy post"
 type:         "blog post"
 projdate:     "6 September 2019"
