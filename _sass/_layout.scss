@@ -324,6 +324,10 @@ article {
         }
     }
 
+    .divider {
+        text-align: center;
+    }
+
     .image.entry img, .image.entry iframe {
         max-height: $entry-h;
         vertical-align: top; /* For sticking inline img to top; !important */
