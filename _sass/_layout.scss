@@ -241,6 +241,10 @@ article {
     min-width: $entry-w * 0.7; /* 0.7 instead of 0.8 for .image.entry of 3 images in a column */
 }
 
+.entry.blog {
+    min-width: $entry-w * 2;
+}
+
 .post-header {
     /* padding: $spacing-unit 0; DEL */
 }
@@ -322,11 +326,11 @@ article {
         vertical-align: top; /* For sticking inline img to top; !important */
     }
 
-    .image.entry figure p {
+    .image.entry figure p, .entry.blog figure p {
         margin-bottom: $spacing-unit / 3;
     }
 
-    .photo.entry {
+    .photo.entry, .entry.blog {
         margin-right: $spacing-unit / 3;
 
         img {
@@ -337,6 +341,10 @@ article {
                 height: auto;
             }
         }
+    }
+
+    .entry.blog p:last-child {
+        margin-bottom: $spacing-unit;
     }
 }
 

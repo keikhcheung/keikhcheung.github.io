@@ -12,17 +12,7 @@ extras:       "Journalism is supposed to help us understand the world and to emp
 ---
 
 
-<div class="image entry thin" markdown="0">
-<figure>
-	<video autoplay loop muted width="460" height="243">
-		<source src="/videos/Ardi-Logo-Screen-Recording.mp4" type="video/mp4">
-	</video>
-	<figcaption>Courtesy: <i>denkwerk GmbH</i></figcaption>
-</figure>
-</div>
-
-<div class="entry" markdown="1">
-## \>  
+<div class="entry blog" markdown="1">
 Information is abundant and harsh these days. Everyone sounds like shouting, if not throttling, at each other. At least it is what it feels like when you read online. When you turn to newspapers or broadcast media, it does not seem much better either. Conflicts, wars, disasters, contradictory reports and opinions. It is confusing and you are in the middle of the entanglement.
 
 ![Messy, messy tribbles](Messy-Messy-Tribbles.gif)
