@@ -5,11 +5,11 @@ stitle:       "modern role of journalism"
 date:         2019-09-06 00:35:00 +0200
 category:     blog
 image:        /images-blog/This-Is-Fine.gif
-caption:      "Does news help us? Do we become enlightened or puzzled by consuming news? How can journalism better help solve problems?"
-type:         ""
+caption:      ""
+type:         "news"
 projdate:     "6 September 2019"
-description:  "Journalism is supposed to help us understand the world and to empower us to make better judgements. Today, it faces ever bigger challenges. Can news media and the press withstand their position?"
-extras:       ""
+description:  "Does news help us? Do we become enlightened or puzzled by consuming news? How can journalism better help solve problems?"
+extras:       "Journalism is supposed to help us understand the world and to empower us to make better judgements. Today, it faces ever bigger challenges. Can news media and the press withstand their position?"
 ---
 
 
@@ -81,11 +81,11 @@ It is a duty for the press to report happenings to the public, be it cheery or d
 <figcaption>Knowing the facts is step 1; understanding the complexities is step 2; solving problems is step 3.<br />Image: <a href="https://gph.is/2h8wI3B" target="_blank">Giphy</a>; <a href="https://youtu.be/0oBx7Jg4m-o" target="_blank">Adult Swim</a></figcaption>
 </figure>
 
-\* \* \*
+<p class="divider">* * *</p>
 
 Journalism is supposed to help us understand the world and to empower us to make better judgements. Its ultimate function is to engage people's conscience in action and to stimulate social improvements. The audience of today are turning doubtful of its authenticity and becoming bewildered amidst the concurrent intricacies. Journalists are, hence, in the most critical position ever to connect with the people, to converge crowds of different opinions on the round table, to objectively lay down all sides of the truth, and to supply the public with quality references, in the hope of steering the group towards resolution.&#9830;
 
-\* \* \*
+<p class="divider">* * *</p>
 
 ## \> References
 
