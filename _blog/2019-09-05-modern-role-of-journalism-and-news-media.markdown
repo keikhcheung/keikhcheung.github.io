@@ -14,6 +14,7 @@ extras:       ""
 
 
 <div class="entry blog" markdown="1">
+\>  
 Information is abundant and harsh these days. Everyone sounds like shouting, if not throttling, at each other. At least it is what it feels like when you read online. When you turn to newspapers or broadcast media, it does not seem much better either. Conflicts, wars, disasters, contradictory reports and opinions. It is confusing and you are in the middle of the entanglement.
 
 <figure>
@@ -82,7 +83,7 @@ It is a duty for the press to report happenings to the public, be it cheery or d
 
 \* \* \*
 
-Journalism is supposed to help us understand the world and to empower us to make better judgements. Its ultimate function is to engage people's conscience in action and to stimulate social improvements. The audience of today are turning doubtful of its authenticity and becoming bewildered amidst the concurrent intricacies. Journalists are, hence, in the most critical position ever to connect with the people, to converge crowds of different opinions on the round table, to objectively lay down all sides of the truth, and to supply the public with quality references, in the hope of steering the group towards resolution. &#9830;
+Journalism is supposed to help us understand the world and to empower us to make better judgements. Its ultimate function is to engage people's conscience in action and to stimulate social improvements. The audience of today are turning doubtful of its authenticity and becoming bewildered amidst the concurrent intricacies. Journalists are, hence, in the most critical position ever to connect with the people, to converge crowds of different opinions on the round table, to objectively lay down all sides of the truth, and to supply the public with quality references, in the hope of steering the group towards resolution.&#9830;
 
 \* \* \*
 
