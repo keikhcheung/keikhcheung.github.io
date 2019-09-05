@@ -331,6 +331,10 @@ article {
 
     .entry.blog figure {
         text-align: center;
+
+        img {
+            max-width: $entry-w * 2;
+        }
     }
 
     .image.entry figure p, .entry.blog figure p {
@@ -350,8 +354,8 @@ article {
         }
     }
 
-    .entry.blog p:last-child {
-        margin-bottom: $spacing-unit;
+    div:last-of-type .entry.blog {
+        margin-bottom: $spacing-unit * 2;
     }
 }
 
