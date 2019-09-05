@@ -43,7 +43,7 @@ markdown: kramdown
 
 #load blog
 collections:
-  blog
+  - blog
 
 plugins:
   - jekyll-seo-tag
