@@ -10,6 +10,7 @@
     <div class="navigation" id="hamburger">
       <a class="site-about"{% if page.title == "About" %} id="active"{% endif %} href="{{ site.baseurl }}/about">{% if page.title == "About" %}»&nbsp;{% endif %}o’ kei</a>
       {% assign projects = site.posts | sort:"date" | reverse %}
+      {% assign blogposts = site.posts.blog | sort:"date" | reverse %}
       <!-- Category UX/UI -->
       <p class="category">UX/UI</p>
       <ul>
@@ -86,7 +87,7 @@
       <!-- Category blog -->
       <p class="category">blog</p>
       <ul>
-        {% for p in projects %}
+        {% for p in blogposts %}
           {% if p.category == "blog" %}
             <li>
               <a {% if p.url == page.url %}id="active"{% endif %} href="{{ p.url | prepend: site.baseurl }}">{% if p.url == page.url %}»&nbsp;{% endif %}{{ p.title }}</a>
