@@ -15,8 +15,6 @@ extras:       "Journalism is supposed to help us understand the world and to emp
 <div class="entry blog" markdown="1">
 Information is abundant and harsh these days. Everyone sounds like shouting, if not throttling, at each other. At least it is what it feels like when you read online. When you turn to newspapers or broadcast media, it does not seem much better either. Conflicts, wars, disasters, contradictory reports and opinions. It is confusing and you are in the middle of the entanglement.
 
-![Messy, messy tribbles](Messy-Messy-Tribbles.gif)
-
 <figure>
 <p><img src="/images-blog/Messy-Messy-Tribbles.gif" alt="Messy, messy tribbles" /></p>
 <figcaption>Do you feel like messy tribbles raining over your head?<br />Image: <a href="https://giphy.com/gifs/star-trek-mess-tribbles-108KUzjTMEp2gw" target="_blank">Giphy</a></figcaption>
@@ -83,7 +81,7 @@ It is a duty for the press to report happenings to the public, be it cheery or d
 
 \* \* \*
 
-Journalism is supposed to help us understand the world and to empower us to make better judgements. Its ultimate function is to engage people's conscience in action and to stimulate social improvements. The audience of today are turning doubtful of its authenticity and becoming bewildered amidst the concurrent intricacies. Journalists are, hence, in the most critical position ever to connect with the people, to converge crowds of different opinions on the round table, to objectively lay down all sides of the truth, and to supply the public with quality references, in the hope of steering the group towards resolution.
+Journalism is supposed to help us understand the world and to empower us to make better judgements. Its ultimate function is to engage people's conscience in action and to stimulate social improvements. The audience of today are turning doubtful of its authenticity and becoming bewildered amidst the concurrent intricacies. Journalists are, hence, in the most critical position ever to connect with the people, to converge crowds of different opinions on the round table, to objectively lay down all sides of the truth, and to supply the public with quality references, in the hope of steering the group towards resolution. &#9830;
 
 \* \* \*
 
@@ -93,8 +91,4 @@ Journalism is supposed to help us understand the world and to empower us to make
 2. Chalmers, Hanna. In Media We Trust? How Our Views of the Media Are Changing. Ipsos Knowledge Centre, 3 Jan. 2019, p. 7–9, [www.ipsos.com/en/media-we-trust-how-our-views-media-are-changing](https://www.ipsos.com/en/media-we-trust-how-our-views-media-are-changing){:target="_blank"}.
 3. Haagerup, Ulrik. 'Constructive Journalism - What, how and why?'. Campfire Festival 2019. CORRECTIV Verlag und Vertrieb für die Gesellschaft UG, 31 Aug. 2019, Düsseldorf, [sched.co/U6HI](https://sched.co/U6HI){:target="_blank"}.
 4. Karknu. 'Why Is Journalism Needed in a Democratic Society?' Media Guide, 29 Nov. 2015, [mediaguide.fi/mediaguide/?p=20](https://mediaguide.fi/mediaguide/?p=20){:target="_blank"}.
-
-\* \* \*
-
-Kei is an Experience Designer based currently in Cologne. He has a sociopolitical studies background and holds a master's degree in Information Architecture.
 </div>

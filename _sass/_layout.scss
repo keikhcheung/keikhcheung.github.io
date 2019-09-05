@@ -242,7 +242,10 @@ article {
 }
 
 .entry.blog {
-    min-width: $entry-w * 2;
+    min-width: $entry-w * 1.4;
+    max-width: $entry-w * 2.2;
+    margin-top: $spacing-unit * 2;
+    margin-left: $spacing-unit;
 }
 
 .post-header {
@@ -324,6 +327,10 @@ article {
     .image.entry img, .image.entry iframe {
         max-height: $entry-h;
         vertical-align: top; /* For sticking inline img to top; !important */
+    }
+
+    .entry.blog figure {
+        text-align: center;
     }
 
     .image.entry figure p, .entry.blog figure p {
