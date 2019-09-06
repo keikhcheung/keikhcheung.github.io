@@ -9,7 +9,7 @@ caption:      ""
 type:         "reflection"
 projdate:     "6 September 2019"
 description:  "Does news help us? Do we become enlightened or puzzled by consuming news? How can journalism better help solve problems?"
-extras:       "Journalism is supposed to help us understand the world and to empower us to make better judgements. Today, it faces ever bigger challenges. Can news media and the press withstand them and retain their position?"
+extras:       "Journalism is supposed to help us understand the world and to empower us to make better judgements. Today, it faces ever bigger challenges. Can news media and the press withstand them and retain their base?"
 ---
 
 
