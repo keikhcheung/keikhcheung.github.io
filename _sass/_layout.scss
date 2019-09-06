@@ -342,6 +342,12 @@ article {
 
         img {
             max-width: $entry-w * 2.2;
+            width: auto;
+            margin: 0 auto;
+
+            @include media-query($on-palm) {
+                height: auto;
+            }
         }
     }
 
@@ -349,11 +355,11 @@ article {
         margin-bottom: $spacing-unit / 3;
     }
 
-    .photo.entry, .entry.blog {
+    .photo.entry {
         margin-right: $spacing-unit / 3;
 
         img {
-            /* height: $photo-h; */
+            height: $photo-h;
             width: auto;
             margin: 0 auto;
 
