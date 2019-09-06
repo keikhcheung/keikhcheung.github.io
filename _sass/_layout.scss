@@ -359,7 +359,7 @@ article {
         margin-right: $spacing-unit / 3;
 
         img {
-            height: $photo-h;
+            height: $photo-h !important;
             width: auto;
             margin: 0 auto;
 
