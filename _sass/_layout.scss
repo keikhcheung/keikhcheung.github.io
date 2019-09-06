@@ -414,7 +414,7 @@ article {
     .post-content .entry.blog img, .post-content .entry.blog iframe, .post-content .entry.blog figure img, .post-content .entry.blog figure frame {
         max-height: none;
         margin-right: 0;
-        width: 101vw !important; /* Instead of 100% to shrink the img within vw */
+        max-width: 101vw !important; /* Instead of 100% to shrink the img within vw */
         margin-left: -2.1%; /* Remove the LEFT table wrapper inner borderto create full bleed look */
     }
 
