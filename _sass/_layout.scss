@@ -358,7 +358,7 @@ article {
         }
     }
 
-    tr div:last-of-type .entry.blog {
+    div.entry.blog > *:last-child {
         margin-bottom: $spacing-unit * 2;
     }
 }
