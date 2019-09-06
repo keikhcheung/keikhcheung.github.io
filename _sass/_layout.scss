@@ -371,6 +371,10 @@ article {
         z-index: 0;
     }
 
+    .post-header {
+        max-width: none !important;
+    }
+
     .post-clean {
         padding-top: 66px;
     }
