@@ -355,6 +355,7 @@ article {
         img {
             /* height: $photo-h; */
             width: auto;
+            margin: 0 auto;
 
             @include media-query($on-palm) {
                 height: auto;
