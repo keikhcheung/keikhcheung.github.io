@@ -336,8 +336,12 @@ article {
     .entry.blog figure {
         text-align: center;
 
+        p {
+            text-align: center;
+        }
+
         img {
-            max-width: $entry-w * 2;
+            max-width: $entry-w * 2.2;
         }
     }
 
@@ -349,7 +353,7 @@ article {
         margin-right: $spacing-unit / 3;
 
         img {
-            height: $photo-h;
+            /* height: $photo-h; */
             width: auto;
 
             @include media-query($on-palm) {
