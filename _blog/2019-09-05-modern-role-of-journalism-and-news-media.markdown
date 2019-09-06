@@ -40,7 +40,7 @@ In recent years we have observed a drop of confidence in traditional press. Dist
 <figure>
 <p>
 <a class="progress replace" href="/images-blog/Trust-Shift-Media.png">
-<img class="preview h" src="/images-pre/Trust-Shift-Media-pre.jpg" alt="Trust shift in news media">
+<img class="preview" src="/images-pre/Trust-Shift-Media-pre.jpg" alt="Trust shift in news media">
 </a>
 </p>
 <figcaption>Trust in print and broadcast generally slides in established media markets (Chalmers 7–9).</figcaption>
@@ -70,7 +70,7 @@ Take Brexit as an example. Before the universal suffrage in 2016, as [Rachel Old
 <figure>
 <p>
 <a class="progress replace" href="/images-blog/Kids-in-zorbs.jpg">
-<img class="preview h" src="/images-pre/Kids-in-zorbs-pre.jpg" alt="Kids in zorbs">
+<img class="preview" src="/images-pre/Kids-in-zorbs-pre.jpg" alt="Kids in zorbs">
 </a>
 </p>
 <figcaption>Are news media creating bubbles and putting us inside?<br />Image: <a href="https://www.flickr.com/photos/bensutherland/4088676907/in/photostream/" target="_blank">Ben Sutherland</a></figcaption>
