@@ -360,6 +360,10 @@ article {
 
     div.entry.blog > *:last-child {
         padding-bottom: $spacing-unit * 2.5;
+
+        @include media-query($on-palm) {
+            padding-bottom: 0;
+        }
     }
 }
 
@@ -372,7 +376,7 @@ article {
     }
 
     .post-header {
-        max-width: none !important;
+        max-width: 0;
     }
 
     .post-clean {
@@ -389,7 +393,7 @@ article {
     }
 
     .entry.blog {
-        margin-left: none !important;
+        margin-left: 0;
         margin-right: 2%;
     }
 
