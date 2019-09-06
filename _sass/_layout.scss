@@ -379,9 +379,14 @@ article {
         margin-bottom: $spacing-unit;
         min-width: $entry-w;
         height: auto;
-        margin-right: 7%; /* Instead of 4% to give more space on the RIGHT to the paragraph */
+        margin-right: 7vw; /* Instead of 4% to give more space on the RIGHT to the paragraph */
         padding-left: 2%;
         max-height: none;
+    }
+
+    .entry.blog {
+        margin-left: none;
+        margin-right: 2%;
     }
 
     .post-content .image.entry {
