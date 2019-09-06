@@ -70,7 +70,7 @@ Take Brexit as an example. Before the universal suffrage in 2016, as [Rachel Old
 <figure>
 <p>
 <a class="progress replace" href="/images-blog/Kids-in-zorbs.jpg">
-<img class="preview" src="/images-pre/Kids-in-zorbs-pre.jpg" alt="Kids in zorbs">
+<img class="preview h" src="/images-pre/Kids-in-zorbs-pre.jpg" alt="Kids in zorbs">
 </a>
 </p>
 <figcaption>Are news media creating bubbles and putting us inside?<br />Image: <a href="https://www.flickr.com/photos/bensutherland/4088676907/in/photostream/" target="_blank">Ben Sutherland</a></figcaption>
