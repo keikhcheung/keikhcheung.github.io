@@ -18,11 +18,7 @@ extras:       "Journalism is supposed to help us understand the world and to emp
 Information is abundant and harsh these days. Everyone sounds like shouting, if not throttling, at each other. At least it is what it feels like when you read online. When you turn to newspapers or broadcast media, it does not seem much better either. Conflicts, wars, disasters, contradictory reports and opinions. It is confusing and you are in the middle of the entanglement.
 
 <figure>
-<p>
-<a class="progress replace" href="/images-blog/Messy-Messy-Tribbles.gif">
-<img class="preview" src="/images-pre/Messy-Messy-Tribbles-pre.jpg" alt="Messy, messy tribbles">
-</a>
-</p>
+<p><a class="progress replace" href="/images-blog/Messy-Messy-Tribbles.gif"><img class="preview" src="/images-pre/Messy-Messy-Tribbles-pre.jpg" alt="Messy, messy tribbles"></a></p>
 <figcaption>Do you feel like messy tribbles raining over your head?<br />Image: <a href="https://giphy.com/gifs/star-trek-mess-tribbles-108KUzjTMEp2gw" target="_blank">Giphy</a></figcaption>
 </figure>
 
@@ -38,11 +34,7 @@ Boundaries of journalism might be flexible. Its core function, nevertheless, rem
 In recent years we have observed a drop of confidence in traditional press. Distrust in news media is mounting. They are increasingly considered biased. 'Information is framed and presented only in ways which comply with their own stance.' Or even, 'journalists are fabricating "fake news" to influence public opinion and their actions'. These might have used to be just a few sparing, salty remarks, before politicians made them popular and now become more alarming. In Hanna Chalmers' report, the significance of the shift in media trustworthiness perception is highlighted. Traditional media (i.e. television, radio, newspapers and magazines) are generally respected by the public, as their entry barriers remain relatively high (e.g. expensive to produce, limited outlets). Nonetheless, their perceived reliability is tarnishing the most.
 
 <figure>
-<p>
-<a class="progress replace" href="/images-blog/Trust-Shift-Media.png">
-<img class="preview" src="/images-pre/Trust-Shift-Media-pre.jpg" alt="Trust shift in news media">
-</a>
-</p>
+<p><a class="progress replace" href="/images-blog/Trust-Shift-Media.png"><img class="preview" src="/images-pre/Trust-Shift-Media-pre.jpg" alt="Trust shift in news media"></a></p>
 <figcaption>Trust in print and broadcast generally slides in established media markets (Chalmers 7–9).</figcaption>
 </figure>
 
@@ -68,11 +60,7 @@ Press and news media should not represent *the one voice* they want to propagate
 Take Brexit as an example. Before the universal suffrage in 2016, as [Rachel Oldroyd](https://twitter.com/Raoldroyd){:target="_blank"} presented in [her talk in Campfire Festival](https://sched.co/UBen){:target="_blank"}, Remain news media had overlooked the local voices and misjudged the proportion adhering to Leave. Coverage (especially analyses) for the other side was scarce. It was only until the ballots were counted that the public (and politicians) learnt - in the hard way - to have to deal with alternative voices seriously. Had they known more about casting situation beforehand, the current deadlock situation of Brexit probably would have looked very different.
 
 <figure>
-<p>
-<a class="progress replace" href="/images-blog/Kids-in-zorbs.jpg">
-<img class="preview" src="/images-pre/Kids-in-zorbs-pre.jpg" alt="Kids in zorbs">
-</a>
-</p>
+<p><a class="progress replace" href="/images-blog/Kids-in-zorbs.jpg"><img class="preview" src="/images-pre/Kids-in-zorbs-pre.jpg" alt="Kids in zorbs"></a></p>
 <figcaption>Are news media creating bubbles and putting us inside?<br />Image: <a href="https://www.flickr.com/photos/bensutherland/4088676907/in/photostream/" target="_blank">Ben Sutherland</a></figcaption>
 </figure>
 
@@ -89,9 +77,7 @@ Thanks to the Internet and all the communication technologies, information can f
 It is a duty for the press to report happenings to the public, be it cheery or disheartening. Still, we should not forget, as a higher goal, journalism is to provoke thinking, better judgements, discussions and eventually social progress. If knowing the facts is the step no. 1 (journalism), and understanding how complexities are formed and interrelated is the step no. 2 (investigative journalism), estimating what sorts of solutions could be applied would sensibly be the step no. 3 (constructive journalism). Journalists have been steadily monitoring how the world evolves. They have the expertise in analogising events and comparing solutions across the globe and time. They could make use of their broad vision and intellectuality to mirror possible, practicable solutions which have happened elsewhere (Haagerup 'Constructive Journalism - What, how and why?'). Instead of simply throwing cold, hard facts at readers' face, news press and media could guide the public towards solutions and consequently encourage advances.
 
 <figure>
-<p><a class="progress replace" href="/images-blog/This-Is-Fine.gif">
-<img class="preview" src="/images-pre/This-Is-Fine-pre.jpg" alt="This is fine">
-</a></p>
+<p><a class="progress replace" href="/images-blog/This-Is-Fine.gif"><img class="preview" src="/images-pre/This-Is-Fine-pre.jpg" alt="This is fine"></a></p>
 <figcaption>Knowing the facts is step 1; understanding the complexities is step 2; solving problems is step 3.<br />Image: <a href="https://gph.is/2h8wI3B" target="_blank">Giphy</a>; <a href="https://youtu.be/0oBx7Jg4m-o" target="_blank">Adult Swim</a></figcaption>
 </figure>
 
