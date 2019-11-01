@@ -426,13 +426,13 @@ article {
         margin-right: 0 !important;
     }
 
-    .post-content .image.entry img, .post-content .image.entry iframe {
+    .post-content .image.entry img, .post-content .image.entry iframe,.post-content .image.entry video {
         max-height: none;
         margin-right: 0;
         max-width: 101vw; /* Instead of 100% to shrink the img within vw */
     }
 
-    .post-content .entry.blog img, .post-content .entry.blog iframe, .post-content .entry.blog figure img, .post-content .entry.blog figure frame {
+    .post-content .entry.blog img, .post-content .entry.blog iframe, .post-content .entry.blog figure img, .post-content .entry.blog figure frame, .post-content .entry.blog video {
         max-height: none;
         margin-right: 0;
         width: 100vw !important; /* OBSOLETE Instead of 100% to shrink the img within vw */
