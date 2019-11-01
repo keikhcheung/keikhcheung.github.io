@@ -404,6 +404,11 @@ article {
             padding-left: 2%;
             padding-right: 4%; /* Instead of 3% to give more space on the RIGHT to the paragraph */
         }
+
+        figure p {
+            padding-left: 0 !important; /* Cancel mobile image padding */
+            padding-right: 0 !important; /* Cancel mobile image padding */
+        }
     }
 
     .post-content .entry.blog {
