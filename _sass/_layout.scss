@@ -441,8 +441,9 @@ article {
 
     .post-content .photo.entry img {
         max-height: none;
-        /* margin-right: 0; */
+        /* margin-right: 0; Removed for not aligning photo on image to the right on mobile */
         max-width: 101vw;
+        height: auto !important; /* Not restricting image height on mobile => 101vw, auto height */
         /* max-width: 103%; /* Magnify img to cover the RIGHT to create full bleed look */
         /* margin-left: -1.5%; /* Remove the LEFT table wrapper inner borderto create full bleed look */
     }
