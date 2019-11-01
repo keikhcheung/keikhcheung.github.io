@@ -70,7 +70,7 @@
         height: auto;
 
         h1 {
-            padding-left: 2.5%; /* Keep (container of .site-title) aligned with .post-content */
+            padding-left: 2%; /* Keep (container of .site-title) aligned with .post-content; Change from 2.5% to 2% to align with body text */
             z-index: 3;
         }
 
