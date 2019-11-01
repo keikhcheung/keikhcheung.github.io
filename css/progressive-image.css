@@ -7,7 +7,7 @@ a.progressive {
 @media screen and (max-width: 799px) {
   a.progressive {
     max-width: 101vw; /* Full bleed look */
-    margin-left: -1.5%; /* Remove the LEFT table wrapper inner borderto create full bleed look */
+    /* margin-left: -1.5%; OBSOLETE Remove the LEFT table wrapper inner borderto create full bleed look */
   }
 }
 
