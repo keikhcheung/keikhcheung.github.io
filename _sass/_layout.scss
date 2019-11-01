@@ -398,7 +398,7 @@ article {
 
     .entry, .entry.wide, .entry.thin, .entry.blog {
         margin-bottom: $spacing-unit;
-        min-width: $entry-w;
+        min-width: $entry-w-mobile;
         height: auto;
         max-height: none;
         margin-right: 0; /* Solve 320px screen hidden text on the right */
