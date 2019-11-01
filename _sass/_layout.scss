@@ -475,6 +475,10 @@ article {
         }
     }
 
+    .post-content .image.entry figcaption {
+        text-align: center;
+    }
+
     .buffer {
         padding-left: $spacing-unit * 2 !important;
         padding-right: $spacing-unit * 2 !important;
