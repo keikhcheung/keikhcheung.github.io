@@ -437,7 +437,6 @@ article {
         padding-left: 0;
         margin-right: 0 !important;
         margin-bottom: 0;
-        padding-bottom: 10px; /* Add spacing for photography pages on mobile */
     }
 
     .post-content .photo.entry img {
@@ -445,8 +444,13 @@ article {
         /* margin-right: 0; Removed for not aligning photo on image to the right on mobile */
         max-width: 101vw;
         height: auto !important; /* Not restricting image height on mobile => 101vw, auto height */
+        padding-bottom: 10px; /* Add spacing for photography pages on mobile */
         /* max-width: 103%; /* Magnify img to cover the RIGHT to create full bleed look */
         /* margin-left: -1.5%; /* Remove the LEFT table wrapper inner borderto create full bleed look */
+    }
+
+    .post-content .photo.entry figcaption {
+        margin-top: -10px;
     }
 
     #tintoretto {
