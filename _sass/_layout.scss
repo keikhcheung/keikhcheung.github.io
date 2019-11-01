@@ -398,12 +398,12 @@ article {
         margin-bottom: $spacing-unit;
         min-width: $entry-w;
         height: auto;
-        padding-left: 2%;
         max-height: none;
 
-        /* p {
-            padding-right: 3%; Instead of 4% to give more space on the RIGHT to the paragraph
-        } */
+        p {
+            padding-left: 2%;
+            /* padding-right: 3%; Instead of 4% to give more space on the RIGHT to the paragraph */
+        }
     }
 
     .post-content .entry.blog {
