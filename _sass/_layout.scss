@@ -399,18 +399,18 @@ article {
         min-width: $entry-w;
         height: auto;
         max-height: none;
+    }
 
-        /*
+    .entry.blog {
         p, h1, h2, h3, h4, h5, h6 {
             padding-left: 2%;
-            padding-right: 4%; /* Instead of 3% to give more space on the RIGHT to the paragraph
+            padding-right: 4%; /* Instead of 3% to give more space on the RIGHT to the paragraph */
         }
 
         figure p {
-            padding-left: 0 !important; /* Cancel mobile image padding
-            padding-right: 0 !important; /* Cancel mobile image padding
+            padding-left: 0 !important; /* Cancel mobile image padding */
+            padding-right: 0 !important; /* Cancel mobile image padding */
         }
-        */
     }
 
     .post-content .entry.blog {
