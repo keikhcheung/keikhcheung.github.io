@@ -400,7 +400,7 @@ article {
         height: auto;
         max-height: none;
 
-        p {
+        p, h1, h2, h3, h4, h5, h6 {
             padding-left: 2%;
             /* padding-right: 3%; Instead of 4% to give more space on the RIGHT to the paragraph */
         }
