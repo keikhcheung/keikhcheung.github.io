@@ -422,7 +422,8 @@ article {
     }
 
     .post-content .image.entry {
-        padding-left: 0;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
         margin-right: 0 !important;
     }
 
