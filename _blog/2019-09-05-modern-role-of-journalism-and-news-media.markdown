@@ -20,7 +20,7 @@ Information is abundant and harsh these days. Everyone sounds like shouting, if 
 <figure>
 <p>
 <a class="progressive replace" href="/images-blog/Messy-Messy-Tribbles.gif">
-<img class="preview small" src="/images-pre/Messy-Messy-Tribbles-pre.jpg" width="400" height="auto" alt="Messy, messy tribbles">
+<img class="preview" src="/images-pre/Messy-Messy-Tribbles-pre.jpg" width="400" height="auto" alt="Messy, messy tribbles">
 </a>
 </p>
 <figcaption>Do you feel like messy tribbles raining over your head?<br />Image: <a href="https://giphy.com/gifs/star-trek-mess-tribbles-108KUzjTMEp2gw" target="_blank">Giphy</a></figcaption>
@@ -91,7 +91,7 @@ It is a duty for the press to report happenings to the public, be it cheery or d
 
 <figure>
 <p><a class="progressive replace" href="/images-blog/This-Is-Fine.gif">
-<img class="preview small" src="/images-pre/This-Is-Fine-pre.jpg" width="480" height="auto" alt="This is fine">
+<img class="preview" src="/images-pre/This-Is-Fine-pre.jpg" width="480" height="auto" alt="This is fine">
 </a></p>
 <figcaption>Knowing the facts is step 1; understanding the complexities is step 2; solving problems is step 3.<br />Image: <a href="https://gph.is/2h8wI3B" target="_blank">Giphy</a>; <a href="https://youtu.be/0oBx7Jg4m-o" target="_blank">Adult Swim</a></figcaption>
 </figure>
