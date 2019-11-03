@@ -77,14 +77,10 @@ if (window.addEventListener && window.requestAnimationFrame && document.getEleme
     }
     img.src = href;
     // add check if image width < 770 (for centred img in blog posts)
-    if (img.width >= 770) {
-      img.className = 'reveal';
-      console.log(img.width);
-      console.log(img.className);
-    } else {
+    if (img.width < 770) {
       img.className = 'reveal small';
-      console.log(img.width);
-      console.log(img.className);
+    } else {
+      img.className = 'reveal';
     }
     if (img.complete) addImg();
     else img.onload = addImg;
