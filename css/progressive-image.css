@@ -84,9 +84,10 @@ a.progressive:hover {
 }
 
 .progressive img.reveal {
-  position: absolute;
-  left: 0;
-  top: 0;
+  position: relative;
+  /* left: 0;
+  top: 0; */
+  transform: translateY(-100%);
   will-change: transform, opacity;
   animation: progressiveReveal 0.5s ease-out; /* Instead of 1s to increase rhythm */
 }
