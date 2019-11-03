@@ -95,8 +95,8 @@ a.progressive:hover {
   position: absolute;
   left: 50%;
   top: 0;
-  transform: translate(-50%, 0) !important;
   -webkit-transform: translate(-50%, 0) !important;
+  transform: translate(-50%, 0) !important;
   will-change: transform, opacity;
   animation: progressiveReveal 500s ease-out; /* Instead of 1s to increase rhythm */
 }

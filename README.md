@@ -1,6 +1,14 @@
 # Change Log
 Kei Ka-hei Cheung
 
+## 20191103
+
+Correct padding-left for text on mobile.
+
+On blog post, move post-header to the top of post-content (post-blog layout).
+
+Fix progress img reveal position on blog (width >= 770 centred, othersize position absolute).
+
 ## 20190906
 
 Introduction of blog.
