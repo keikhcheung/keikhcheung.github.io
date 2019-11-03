@@ -77,7 +77,7 @@ if (window.addEventListener && window.requestAnimationFrame && document.getEleme
     }
     img.src = href;
     // add check if image width < 770 (for centred img in blog posts)
-    if (img.naturalWidth < 770) {
+    if (img.Width < 770) {
       img.className = 'reveal small';
     } else {
       img.className = 'reveal';
