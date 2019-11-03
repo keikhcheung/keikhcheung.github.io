@@ -97,7 +97,7 @@ a.progressive:hover {
   top: 0;
   transform: translate(-50%) !important;
   will-change: transform, opacity;
-  animation: progressiveReveal 500s ease-out; /* Instead of 1s to increase rhythm */
+  animation: progressiveReveal 0.5s ease-out; /* Instead of 1s to increase rhythm */
 }
 
 @keyframes progressiveReveal {

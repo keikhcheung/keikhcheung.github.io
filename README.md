@@ -7,7 +7,7 @@ Correct padding-left for text on mobile.
 
 On blog post, move post-header to the top of post-content (post-blog layout).
 
-Fix progress img reveal position on blog (width >= 770 centred, othersize position absolute).
+Fix progress img reveal position on blog (width >= 770 centred, othersize position absolute). Problem with transform: translate across browsers.
 
 ## 20190906
 
