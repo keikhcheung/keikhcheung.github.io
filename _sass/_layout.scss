@@ -347,7 +347,7 @@ article {
 
         img {
             max-width: $entry-w * 2.2;
-            width: auto;
+            /* width: auto; OBSOLETE Seems to prevent preview img height */
             margin: 0 auto;
 
             @include media-query($on-palm) {
