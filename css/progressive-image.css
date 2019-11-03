@@ -91,14 +91,16 @@ a.progressive:hover {
   animation: progressiveReveal 0.5s ease-out; /* Instead of 1s to increase rhythm */
 }
 
+/* FAIL translate(-50%) on Safari and Chrome
 .progressive img.reveal.small {
   position: absolute;
   left: 50%;
   top: 0;
   transform: translate(-50%) !important;
   will-change: transform, opacity;
-  animation: progressiveReveal 0.5s ease-out; /* Instead of 1s to increase rhythm */
+  animation: progressiveReveal 0.5s ease-out; /* Instead of 1s to increase rhythm 
 }
+*/
 
 @keyframes progressiveReveal {
   0% { transform: scale(1.03); opacity: 0; }
