@@ -244,12 +244,16 @@ article {
 .entry.blog {
     min-width: $entry-w * 1.4;
     max-width: $entry-w * 2.2;
-    margin-left: $spacing-unit;
+    /* margin-left: $spacing-unit; OBSOLETE Removed due to merged post-header */
 }
 
 .post-header {
     /* padding: $spacing-unit 0; DEL */
     max-width: $entry-w;
+}
+
+.post.blog .post-header {
+    max-width: $entry-w * 2.2; /* Same as .entry.blog */
 }
 
 .post-title {

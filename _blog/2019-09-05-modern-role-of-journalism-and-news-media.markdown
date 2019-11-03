@@ -20,7 +20,7 @@ Information is abundant and harsh these days. Everyone sounds like shouting, if 
 <figure>
 <p>
 <a class="progressive replace" href="/images-blog/Messy-Messy-Tribbles.gif">
-<img class="preview" src="/images-pre/Messy-Messy-Tribbles-pre.jpg" alt="Messy, messy tribbles">
+<img class="preview h" src="/images-pre/Messy-Messy-Tribbles-pre.jpg" alt="Messy, messy tribbles">
 </a>
 </p>
 <figcaption>Do you feel like messy tribbles raining over your head?<br />Image: <a href="https://giphy.com/gifs/star-trek-mess-tribbles-108KUzjTMEp2gw" target="_blank">Giphy</a></figcaption>
@@ -41,7 +41,7 @@ In recent years we have observed a drop of confidence in traditional press. Dist
 <figure>
 <p>
 <a class="progressive replace" href="/images-blog/Trust-Shift-Media.png">
-<img class="preview" src="/images-pre/Trust-Shift-Media-pre.jpg" alt="Trust shift in news media">
+<img class="preview h" src="/images-pre/Trust-Shift-Media-pre.jpg" alt="Trust shift in news media">
 </a>
 </p>
 <figcaption>Trust in print and broadcast generally slides in established media markets (Chalmers 7–9).</figcaption>
@@ -71,7 +71,7 @@ Take Brexit as an example. Before the universal suffrage in 2016, as [Rachel Old
 <figure>
 <p>
 <a class="progressive replace" href="/images-blog/Kids-in-zorbs.jpg">
-<img class="preview" src="/images-pre/Kids-in-zorbs-pre.jpg" alt="Kids in zorbs">
+<img class="preview h" src="/images-pre/Kids-in-zorbs-pre.jpg" alt="Kids in zorbs">
 </a>
 </p>
 <figcaption>Are news media creating bubbles and putting us inside?<br />Image: <a href="https://www.flickr.com/photos/bensutherland/4088676907/in/photostream/" target="_blank">Ben Sutherland</a></figcaption>
@@ -91,7 +91,7 @@ It is a duty for the press to report happenings to the public, be it cheery or d
 
 <figure>
 <p><a class="progressive replace" href="/images-blog/This-Is-Fine.gif">
-<img class="preview" src="/images-pre/This-Is-Fine-pre.jpg" alt="This is fine">
+<img class="preview h" src="/images-pre/This-Is-Fine-pre.jpg" alt="This is fine">
 </a></p>
 <figcaption>Knowing the facts is step 1; understanding the complexities is step 2; solving problems is step 3.<br />Image: <a href="https://gph.is/2h8wI3B" target="_blank">Giphy</a>; <a href="https://youtu.be/0oBx7Jg4m-o" target="_blank">Adult Swim</a></figcaption>
 </figure>
