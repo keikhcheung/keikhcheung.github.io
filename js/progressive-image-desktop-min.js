@@ -74,6 +74,7 @@ if (window.addEventListener && window.requestAnimationFrame && document.getEleme
     if (item.dataset) {
       img.srcset = item.dataset.srcset || '';
       img.sizes = item.dataset.sizes || '';
+      console.log(img.sizes);
     }
     img.src = href;
     // add check if image width < 770 (for centred img in blog posts)
