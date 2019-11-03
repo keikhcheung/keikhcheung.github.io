@@ -1,5 +1,5 @@
 ---
-layout:       post
+layout:       post-blog
 title:        "Modern Role of Journalism and News Media"
 stitle:       "modern role of journalism"
 date:         2019-09-06 00:35:00 +0200
