@@ -415,6 +415,11 @@ article {
             padding-right: 4%; /* Instead of 3% to give more space on the RIGHT to the paragraph */
         }
 
+        figcaption {
+            padding-left: 7%;
+            padding-right: 7.5%
+        }
+
         figure p {
             padding-left: 0 !important; /* Cancel mobile image padding */
             padding-right: 0 !important; /* Cancel mobile image padding */
