@@ -31,6 +31,7 @@ Last weekend I attended the [Campfire Festival 2019](https://campfirefestival.o
 <i>Disclaimer: I am not a professional journalist. Comments here are, therefore, only from a regular newspaper reader, media watcher's external point of view.</i>
 
 ## \> Has journalism failed itself?
+
 ### What is journalism for?
 Boundaries of journalism might be flexible. Its core function, nevertheless, remains conveying information (Karknu); by extension, empowering the informed (American Press Institute). Journalism has long tasked itself with a civic role. It has the duty to monitor powers, to observe them, and to report information back to the public. It is even regarded as the Fourth Estate, to counter the executive, legislative and judicial powers. In a liberal society, it even holds higher goals to fulfil: to educate citizens, to foster their critical thinking, to provoke discussions and exchange of views and ideas - so as to catalyse progress in society as a whole.
 
