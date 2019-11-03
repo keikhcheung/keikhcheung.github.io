@@ -254,6 +254,7 @@ article {
 
 .post.blog .post-header {
     max-width: $entry-w * 2.2; /* Same as .entry.blog */
+    margin-bottom: $spacing-unit;
 }
 
 .post-title {
