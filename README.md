@@ -1,6 +1,10 @@
 # Change Log
 Kei Ka-hei Cheung
 
+## 20191110
+
+Republish GitHub Pages site.
+
 ## 20191103
 
 Correct padding-left for text on mobile.
