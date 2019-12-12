@@ -20,7 +20,7 @@ extras:       "With Delphine Delfieu, Paul-Henri Dumas, Léa Guiraud, and Mélis
 
 <div class="entry" markdown="1">
 \>  
-The design of Chamrousse Tourist Office website dates from 2010. Its *information architecture* does not correspond to today's netizens' needs: **information is hidden** in sub-pages; **important alerts are submerged** with promotional messages; **navigation paths are multiple** around the website but **contents are not as various**.
+The design of Chamrousse Tourism Office website dates from 2010. Its *information architecture* does not correspond to today's netizens' needs: **information is hidden** in sub-pages; **important alerts are submerged** with promotional messages; **navigation paths are multiple** around the website but **contents are not as various**.
 
 We started the website redesign project with an analytical research of Chamrousse Tourist Office in order to understand more in-depth its services and its commercial characteristics. A *benchmark study* was also carried out so as to compare its position amongst other current competitors.
 </div>
