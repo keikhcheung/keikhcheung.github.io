@@ -28,7 +28,7 @@ He attended <i>École Normale Supérieure de Lyon</i> for his Master in Informat
 ## \> Work Experience
 since Sep 2018  
 *Experience Designer* @ denkwerk GmbH, Cologne, Germany  
-User research, experience design, digital solution strategy, service analyses and conceptualisation, and design workshop organisation.
+User research, experience design, design system development, digital solution strategy, service analyses and conceptualisation (B2B & B2C), and design workshop organisation.
 
 May - Nov 2017  
 *UX Design (Intern)* @ denkwerk GmbH, Cologne, Germany  
