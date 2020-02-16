@@ -6,7 +6,7 @@ category:     ux-ui
 image:        /images/tintoretto-screenshot-1.jpg
 caption:      "user experience gamification"
 type:         "professional project"
-projdate:     "Jun 2016 - Nov 2017"
+projdate:     "Jun-Nov 2017"
 description:  "Hijack advertisements in the city with art!"
 extras:       "In <i>denkwerk GmbH</i> for Wallraf-Richartz Museum & Fondation Corboud."
 ---
