@@ -58,7 +58,7 @@ extras:       ""
 </div>
 
 <div class="photo entry" markdown="1">
-[![Chong's Store exit](/photos-pre/hong-kong-14-pre.jpg){:class="preview h"}](/photos/hong-kong-14.jpg){:class="progressive replace"}
+[![Chong's Store](/photos-pre/hong-kong-14-pre.jpg){:class="preview h"}](/photos/hong-kong-14.jpg){:class="progressive replace"}
 </div>
 
 <div class="photo entry" markdown="1">
