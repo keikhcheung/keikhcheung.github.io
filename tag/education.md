@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: relaunch"
-tag: relaunch
+title: "Tag: education"
+tag: education
 robots: noindex
 ---

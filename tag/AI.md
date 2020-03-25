@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: relaunch"
-tag: relaunch
+title: "Tag: AI"
+tag: AI
 robots: noindex
 ---
