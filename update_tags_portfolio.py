@@ -23,7 +23,7 @@ import git
 
 
 #%% Define paths.
-post_dir = '_posts/'
+post_dir = '_posts/portfolio/'
 tag_dir = 'tag/'
 
 
