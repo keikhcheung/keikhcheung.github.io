@@ -1,0 +1,26 @@
+/*------------------------------------*\
+  Components > Post
+\*------------------------------------*/
+
+.c-copyright {
+  font-size: $font-size-root;
+  line-height: $line-height-root;
+  color: $color-lg;
+  text-align: center;
+  letter-spacing: -0.03em;
+  margin-top: $base-spacing-unit;
+
+  @include mq($until: desktop) {
+    font-size: $font-size-root-tb;
+    line-height: $line-height-root-tb;
+  }
+
+  @include mq($until: tablet) {
+    font-size: $font-size-root-mb;
+    line-height: $line-height-root-mb;
+  }
+
+  p {
+    margin-bottom: 0;
+  }
+}

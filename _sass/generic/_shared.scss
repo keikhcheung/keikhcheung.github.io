@@ -1,0 +1,40 @@
+/*------------------------------------*\
+  Generic > Shared
+\*------------------------------------*/
+
+/**
+ * Shared declarations for certain elements.
+ * Always declare margins in the same direction:
+ * csswizardry.com/2012/06/single-direction-margin-declarations
+ */
+address,
+blockquote, p, pre,
+dl, ol, ul,
+figure,
+hr,
+table,
+fieldset {
+  margin-bottom: double($base-spacing-unit);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: $base-spacing-unit;
+}
+/**
+ * Consistent indentation for lists.
+ */
+dd, ol, ul {
+  list-style-position: outside;
+  /* margin-left: 1em; If removed, on $font-size-tiny: half-bullet off-screen; despite out-of-screen bullets on iPad & iPad mini. But invisable at all on $font-size-base. */
+  /* Now workign for both ol and ul, same starting pixel for the first letter */
+  margin-left: 1.65em;
+  padding-left: $base-spacing-unit;
+
+  @include mq($until: desktop) {
+  	margin-left: 1.6em;
+  }
+
+  @include mq($until: tablet) {
+  	margin-left: 1.3em;
+  }
+}

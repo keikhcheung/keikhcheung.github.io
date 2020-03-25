@@ -1,45 +1,63 @@
 <!DOCTYPE html>
-<html lang="en_GB">
+<html lang='en'>
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
+<body>
 
-    {% include header.html %}
+  {% include analytics.html %}
 
-    <div class="page-content">
-      {{ content }}
-    </div>
+    <!--
+    <div class='js-off-canvas-container c-off-canvas-container'>
+      {\% include header.html %}
+    -->
 
-    <!-- Gradual content load delay -->
-    <script type="text/javascript">
-      $(document).ready(function() {
-        $("div.page-content").delay(700);
-        $(".site-footer").delay(1200);
-        $("#bar, .nav-wrapper, div.page-content, .site-footer").css('visibility', 'visible').hide().fadeIn(800);
-        $("a.transition").click(function(event){
-          event.preventDefault();
-          linkLocation = this.href;
-          $("div.page-content, .site-footer").fadeOut(1000, redirectPage);
-        });
-        function redirectPage() {
-          window.location = linkLocation;
-        }
-      });
-    </script>
+      <!-- Added div.content here for links.scss to append &UpperRightArrow; ('\2197') to a:after within content area of the webpage -->
+      <div class="content">
 
-    {% include footer.html %}
+        <div class="c-progress-bar" id="scrollBar"></div>
 
-    <!-- Progressive lazy load -->
-    <link rel="stylesheet" href="/css/progressive-image-min.css">
-    <script type="text/javascript" charset="utf-8">
-      if (document.documentElement.clientWidth /* screen.width */ >= 800) { 
-        document.write('<script src="/js/progressive-image-desktop-min.js" defer><\/script>');
-      } else {
-        document.write('<script src="/js/progressive-image-mobile-min.js" defer><\/script>');
-      }
-    </script>
+        {{ content }}
 
-  </body>
+      </div>
+
+      <!--- ⚠️ Draggable has to be put after [[ content ]] for z-index stacking order;
+                but not in footer as the the 'top' position will be erroneous upon dragging! --->
+      <!-- Draggable container -- >
+      <div id="containment-wrapper">
+
+        <!-- Pin to bottom -->
+        <div class='o-grid__col o-grid__col--1-4-s pin-layer'>
+
+          <a {% if page.url != '/' %}href="{{ '/index.html' | prepend: site.url }}"{% endif %} class="drag-dot">
+          <!-- Draggable -->
+          <div id="draggable" class="ui-widget-content">
+            <span>kei<sup>&UpperRightArrow;</sup></span>
+          </div>
+          </a>
+
+        </div>
+
+      </div>
+
+      {% include footer.html %}
+    <!-- </div> -->
+
+  <script src="{{ '/js/jquery-3.1.1.min.js' | prepend: site.baseurl }}"> </script>
+  <script src="{{ '/js/evil-icons.min.js' | prepend: site.baseurl }}">   </script>
+  <script src="{{ '/js/jquery.fitvids.js' | prepend: site.baseurl }}">   </script>
+  <script src="{{ '/js/app.js' | prepend: site.baseurl }}">              </script>
+
+  <!-- jQuery Draggable -->
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script src="{{ '/js/draggable.js' | prepend: site.baseurl }}"></script>
+
+  <!-- marquee.js -->
+  <script src="{{ '/js/marquee.js' | prepend: site.baseurl }}"></script>
+
+  <!-- scroll indicator progress bar -->
+  <script src="{{ '/js/progress-bar.js' | prepend: site.baseurl }}"></script>
+</body>
 
 </html>

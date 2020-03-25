@@ -1,0 +1,35 @@
+<div class='o-grid__col'>
+<div class="marquee">
+<div class="marquee--content">
+<h4 class="item-collection-1">
+# blog ## article ## writing ## thoughts ## blog ## article ## writing ## thoughts #</h4><h4 class="item-collection-2"># blog ## article ## writing ## thoughts ## blog ## article ## writing ## thoughts #</h4>
+</div>
+</div>
+</div>
+
+<!--- { for post in paginator.posts } --->
+{% for post in site.categories.blog %}
+  <div class='o-grid__col o-grid__col--2-4-l'>
+    <a href='{{ post.url | prepend: site.baseurl }}' class='c-post-card {% if forloop.first == true %} c-post-card--first {% endif %} {% if forloop.last == true %} c-post-card--last {% endif %} blog'>
+      <h2 class='c-post-card__title'>{{ post.title }}</h2>
+      <p class='c-post-card__excerpt'>
+        {{ post.lead | strip_html | truncatewords: 30, '…' }}
+      </p>
+      <span class='c-post-card__date'>{{ post.date | date: '%d %b %Y' }}</span>
+    </a>
+  </div>
+{% endfor %}
+
+<!--
+{% for page in site.pages %}
+  {% unless page.name == '404.md' %}
+    {% if page.title %}
+        <ul class='c-nav o-plain-list'>
+          <li class='c-nav__item' role='presentation'>
+            <a class='c-nav__link' href='{{ page.url | prepend: site.baseurl }}'>{{ page.title }}</a>
+          </li>
+        </ul>
+    {% endif %}
+  {% endunless %}
+{% endfor %}
+-->

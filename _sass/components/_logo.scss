@@ -1,0 +1,24 @@
+/*------------------------------------*\
+  Components > Logo
+\*------------------------------------*/
+
+.c-logo {
+  &__link {
+    font-size: $font-size-small;
+    font-weight: $font-weight-bolder;
+    transition: $global-transition;
+
+    @include mq($until: desktop) {
+      font-size: $font-size-medium-tb;
+    }
+    
+    @include mq($until: tablet) {
+      font-size: $font-size-medium-mb;
+    }
+
+    @include attention() {
+      color: $color-brand;
+      text-decoration: none;
+    }
+  }
+}

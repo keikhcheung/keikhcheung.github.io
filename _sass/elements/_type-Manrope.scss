@@ -1,0 +1,211 @@
+/*------------------------------------*\
+  Elements > Typography
+\*------------------------------------*/
+
+$font-size-h1:  80px; /* 36px */
+$font-size-h2:  60px; /* 28px */
+$font-size-h3:  52px; /* 24px */
+$font-size-h4:  40px; /* 20px */
+$font-size-h5:  32px; /* 18px */
+$font-size-h6:  24px; /* 16px */
+
+$font-size-h1-tb:  64px; /* 36px */
+$font-size-h2-tb:  48px; /* 28px */
+$font-size-h3-tb:  40px; /* 24px */
+$font-size-h4-tb:  32px; /* 20px */
+$font-size-h5-tb:  28px; /* 18px */
+$font-size-h6-tb:  20px; /* 16px */
+
+$font-size-h1-mb:  48px; /* 36px */
+$font-size-h2-mb:  36px; /* 28px */
+$font-size-h3-mb:  28px; /* 24px */
+$font-size-h4-mb:  24px; /* 20px */
+$font-size-h5-mb:  20px; /* 18px */
+$font-size-h6-mb:  16px; /* 16px */
+
+
+/* Trying variable font --> _fonts.scss */
+@font-face {
+  font-family: 'Manrope';
+  src: url(/fonts/ManropeGX.ttf) format("truetype-variations");
+  font-style: normal;
+  font-variation-settings: 'wght' 500;
+  font-variation-ligatures: normal;
+  font-weight: 200 800;
+  font-stretch: 50% 200%; /* not avaialble yet */
+}
+
+/* End trial */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: inherit;
+  line-height: 1.3;
+//font-weight: $font-weight-bold;
+//overflow-wrap: break-word;;
+//-webkit-hyphens: auto;
+//   -moz-hyphens: auto;
+//    -ms-hyphens: auto;
+//        hyphens: auto;
+  font-variation-settings: 800;
+}
+
+h1 {
+  font-size: $font-size-h1;
+  
+  &:not(.c-post__title) {
+    margin-top: quadruple($base-spacing-unit);
+  }
+
+  @include mq($until: desktop) {
+    font-size: $font-size-h1-tb;
+  }
+
+  @include mq($until: tablet) {
+    font-size: $font-size-h1-mb;
+
+    &:not(.c-post__title) {
+      margin-top: double($base-spacing-unit);
+    }
+  }
+}
+
+h2 {
+  font-size: $font-size-h2;
+
+  &:not(.c-post__title, .c-post-card__title) {
+    margin-top: quadruple($base-spacing-unit);
+  }
+
+  @include mq($until: desktop) {
+    font-size: $font-size-h2-tb;
+  }
+
+  @include mq($until: tablet) {
+    font-size: $font-size-h2-mb;
+
+    &:not(.c-post__title, .c-post-card__title) {
+      margin-top: double($base-spacing-unit);
+    }
+  }
+}
+
+h3 {
+  font-size: $font-size-h3;
+  font-style: italic;
+
+  &:not(.c-post__title, .c-post-card__title) {
+    margin-top: double($base-spacing-unit);
+  }
+
+  @include mq($until: desktop) {
+    font-size: $font-size-h3-tb;
+  }
+
+  @include mq($until: tablet) {
+    font-size: $font-size-h3-mb;
+  }
+}
+
+h4 {
+  font-size: $font-size-h4;
+  color: $color-brand;
+
+  @include mq($until: desktop) {
+    font-size: $font-size-h4-tb;
+  }
+
+  @include mq($until: tablet) {
+    font-size: $font-size-h4-mb;
+  }
+}
+
+h5 {
+  font-size: $font-size-h5;
+  font-style: italic;
+  color: $color-brand;
+
+  @include mq($until: desktop) {
+    font-size: $font-size-h5-tb;
+  }
+
+  @include mq($until: tablet) {
+    font-size: $font-size-h5-mb;
+  }
+}
+
+h6 {
+  font-size: $font-size-h6;
+  color: $color-brand;
+
+  @include mq($until: desktop) {
+    font-size: $font-size-h6-tb;
+  }
+
+  @include mq($until: tablet) {
+    font-size: $font-size-h6-mb;
+  }
+}
+
+em {
+/*background-image: linear-gradient(180deg, transparent 70%, rgba(255,255,0,0.8) 0);*/
+  background-image: linear-gradient(180deg, transparent 70%, $color-brand-highlight 0);
+/*background-image: linear-gradient(180deg, transparent 60%, $color-brand 60%, $color-brand 97%, transparent 0);*/
+//border-bottom: 5px solid $color-brand;
+//color: $color-brand;
+  font-style: normal;
+}
+
+.client {
+  color: $color-lg;
+}
+
+.extras {
+  color: $color-lg;
+  font-size: $font-size-tiny;
+  line-height: $line-height-tiny;
+
+  @include mq($until: desktop) {
+    font-size: $font-size-tiny-tb;
+    line-height: $line-height-tiny-tb;
+  }
+
+  @include mq($until: tablet) {
+    font-size: $font-size-tiny-mb;
+    line-height: $line-height-tiny-mb;
+  }
+
+  em {
+    color: $color-lg;
+  }
+
+  h5 {
+  //font-style: initial;
+    color: $color-lg;
+  }
+
+  ul {
+    list-style-type: circle;
+  }
+}
+
+.project:before {
+  content: '\25A9';   /* ▩ Square with diagonal crosshatch fill */
+}
+
+.blog:before {
+  content: '\25C9';   /* ◉ Fisheye */
+}
+
+.fun + a:before {
+  content: '\25C7';   /* ◇ White diamond */
+  padding-right: 0.05em;
+
+  @include attention() {
+    color: $color-text;
+  }
+}

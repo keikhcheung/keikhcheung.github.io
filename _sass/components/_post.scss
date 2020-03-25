@@ -1,0 +1,87 @@
+/*------------------------------------*\
+  Components > Post
+\*------------------------------------*/
+
+.c-post {
+  margin: 0 auto;
+  max-width: 1280px;
+
+  &__title {
+  //font-size: double($font-size-tiny-mb);
+    font-size: $font-size-h2;
+    margin-bottom: $base-spacing-unit;
+
+    @include mq($until: desktop) {
+      font-size: $font-size-h2-tb;
+    }
+
+    @include mq($until: tablet) {
+      font-size: $font-size-h2-mb;
+    }
+
+    /*
+    @include mq($from: desktop) {
+      font-size: double($font-size-tiny);
+    }
+
+    @include mq($from: tablet) {
+    //font-size: double($font-size-tiny-tb);
+    }
+    */
+  }
+
+  &__lead {
+    font-style: italic;
+  //padding-top: quadruple($base-spacing-unit);
+    margin-bottom: double($base-spacing-unit);
+
+    @include mq($until: desktop) {
+    //padding-top: double($base-spacing-unit);
+    margin-bottom: $base-spacing-unit;
+    }
+
+    @include mq($until: tablet) {
+    //padding-top: double($base-spacing-unit);
+      margin-bottom: half($base-spacing-unit);
+    }
+  }
+
+  &__date {
+  //position: relative;
+  //padding-top: $base-spacing-unit;
+    display: block;
+    margin-bottom: double($base-spacing-unit);
+    font-size: $font-size-tiny;
+    font-weight: $font-weight-bold;
+    line-height: $line-height-tiny;
+    color: $color-lg;
+
+    @include mq($until: desktop) {
+      font-size: $font-size-tiny-tb;
+      margin-bottom: $base-spacing-unit;
+    }
+
+    @include mq($until: tablet) {
+      font-size: $font-size-tiny-mb;
+      margin-bottom: half($base-spacing-unit);
+    }
+
+    
+    /*
+    &:after {
+      position: absolute;
+      content: '';
+      top: 0;
+      left: 50%;
+      height: 1px;
+      width: quadruple($base-spacing-unit);
+      background: $bg-color-gray;
+      transform: translateX(-50%);
+    }
+    */
+  }
+
+  &__image {
+    margin: 0 auto $base-spacing-unit;
+  }
+}

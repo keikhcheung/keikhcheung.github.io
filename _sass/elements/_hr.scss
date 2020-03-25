@@ -1,0 +1,36 @@
+/*------------------------------------*\
+  Elements > hr
+\*------------------------------------*/
+
+hr {
+//height: 1px;
+  margin: double($base-spacing-unit) 0;
+
+  border: 0;
+
+//background-color: $color-border;
+
+  position: relative;
+  padding: $base-spacing-unit;
+  text-align: center;
+//color: $color-lg;
+
+  @include mq($from: tablet) {
+    padding: double($base-spacing-unit);
+  }
+
+  &:before {
+  	position: absolute;
+  	font-size: $font-size-tiny;
+  	content:'\002A\2003\002A\2003\002A';   /* \002A = asterisk; \2003 = em spacel \2002 = en space; \00A0 = &nbsp; */
+  	transform: translate(-50%, -50%);
+
+    @include mq($until: desktop) {
+    font-size: $font-size-tiny-tb;
+  }
+
+  	@include mq($until: tablet) {
+    font-size: $font-size-tiny-mb;
+  }
+  }
+}

@@ -1,0 +1,27 @@
+/*------------------------------------*\
+  Elements > video (from img)
+\*------------------------------------*/
+
+video {
+  display: block;
+  max-width: 100%;
+  font-style: italic;
+  margin-left: auto;    /* Centre-align smaller images */
+  margin-right: auto;   /* Centre-align smaller images */
+}
+
+.e-iframe {
+  overflow: hidden;
+  // Calculated from the aspect ration of the content (in case of 16:9 it is 9/16= 0.5625)
+  padding-top: 56.25%;
+  position: relative;
+//z-index: 0;   /* Hide .e-ifram layer below Draggable; as it changes resets stacking context order */
+
+  & iframe {
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+  }
+}

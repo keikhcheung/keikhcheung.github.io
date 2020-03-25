@@ -1,18 +1,39 @@
 ---
 layout: default
-image:  /images/site-social-201808.jpg
 ---
-<article class="post horizontal">
-  <div class="post-content">
-    <div class="entry" id="homepage">
-      <p class="huge-text">Hi!👋🏼</p>
-    </div>
-    <div class="image entry">
-      <figure>
-        <p><img src="https://i.giphy.com/l1OFKXTihj41W.gif" title="Chimpanzee taking off its shirt in GIF"/ ></p>
-        <figcaption><a href="https://giphy.com/gifs/romy-monkey-stripping-cute-l1OFKXTihj41W" target="_blank" class="source">Romy on Giphy<sup><small><small>&nbsp;&#8599;</small></small></sup></a></figcaption>
-      </figure>
+
+<div class='o-wrapper'>
+  <div class='o-grid'>
+    <div class='o-grid__col'>
+      <div class='c-intro'>
+        <h1 class='c-post__title'>{{ site.title }}</h1>
+        {% capture intro %}{% include intro.md %}{% endcapture %}
+        {{ intro | markdownify }}
+      </div>
     </div>
   </div>
 
-</article>
+  <div class='o-grid'>
+    <div class='o-grid__col'>
+      <div class='c-projects'>
+        {% capture intro %}{% include projects.md %}{% endcapture %}
+        {{ intro | markdownify }}
+      </div>
+    </div>
+
+    {% include blog.html %}
+
+    <div class='o-grid__col'>
+      <div class='c-projects'>
+        {% capture intro %}{% include fun.md %}{% endcapture %}
+        {{ intro | markdownify }}
+      </div>
+    </div>
+  </div>
+
+  <!--- Skip for now
+  <div class='o-grid'>
+    {% include pagination.html %}
+  </div>
+  --->
+</div>

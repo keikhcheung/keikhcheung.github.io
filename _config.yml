@@ -6,45 +6,47 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: kei ka-hei cheung
-realname:  Kei Ka-hei Cheung
-email: kei.khcheung@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Portfolio of Kei Ka-hei Cheung, Information Architect based in Cologne, Germany. Showcase for chiefly Experience Design projects for digital services and the Internet of things; as well as product design, short film production, photography, graphics, and drawings.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://keikhcheung.com" # the base hostname & protocol for your site
-author: keikhcheung
+title:       kei ka-hei cheung
+email:       kei.khcheung@gmail.com
+tagline:     '' # A short description used as part of the title tag of the home page like 'title | tagline'.
+description: ''
+baseurl:     '' # The subpath of your site, e.g. /blog
+url:         'https://keikhcheung.com/' # The base hostname & protocol for your site
 twitter:
-  username: keikhcheung
-  card: summary
-facebook:
-  publisher: https://www.facebook.com/kei.khcheung
-social:
-  name: Kei Ka-hei Cheung
-  links:
-    - https://twitter.com/keikhcheung
-    - https://www.linkedin.com/in/kei-cheung/
-    - https://www.facebook.com/kei.khcheung
-    - https://github.com/keikhcheung
-    - https://dribbble.com/keikhcheung
-lang: en_GB
+  username:  keikhcheung
+  card:      summary
+github:      https://github.com/keikhcheung
+linkedin:    https://www.linkedin.com/in/kei-cheung/
+facebook:    ''
 
-twitter_username: keikhcheung
-github_username:  keikhcheung
-linkedin_username: kei-cheung
-dribbble_username: keikhcheung
-repo: https://github.com/keikhcheung/keikhcheung.github.io/
+markdown:  kramdown
+permalink: pretty
+paginate:  10
 
-# Project URL
-# permalink:   /work/:title/
-
-# Build settings
-markdown: kramdown
-
-#load blog
-collections:
-  blog:
-    output: true
+sass:
+  style: compressed
 
 plugins:
+  - jekyll-paginate
+  - jekyll/tagging
   - jekyll-seo-tag
+
+include:
+  - _pages
+
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+
+# Tags
+tag_page_dir:         tag
+tag_page_layout:      tag_page
+tag_permalink_style:  pretty
+
+# Pages path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
