@@ -18,6 +18,7 @@ layout: default
   </div>
 
   <div class='o-grid'>
+    <!--- originally {\% for post in page.posts %\} --->
     {% for post in site.tags[page.tag] %}
       {% include post-card.html %}
     {% endfor %}
