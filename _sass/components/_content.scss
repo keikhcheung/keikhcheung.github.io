@@ -1,0 +1,24 @@
+/*------------------------------------*\
+  Components > Content
+\*------------------------------------*/
+
+.c-content, .c-content-photo {
+  a:not(.c-btn) {
+    /* text-decoration: underline;
+       text-decoration-skip: ink;
+    */
+
+    @include attention() {
+      color: $color-link-hover;
+    }
+  }
+
+  /* Lease space at page bottom for draggable not to cover content */
+  @include mq($from: tablet) {
+  	padding-bottom: double($base-spacing-unit);
+  }
+
+  @include mq($from: desktop) {
+  	padding-bottom: quadruple($base-spacing-unit);
+  }
+}

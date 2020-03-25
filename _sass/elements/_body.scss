@@ -1,0 +1,30 @@
+/*------------------------------------*\
+  Elements > Page
+\*------------------------------------*/
+
+body {
+  color: $color-text;
+  font-size: $font-size-base;
+  font-family: $font-base;
+  font-variant-ligatures: none;   /* Disable ligatures to maintain monospace */
+  line-height: $line-height-base;
+  letter-spacing: -0.05em;
+
+  -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
+
+  @include mq($until: desktop) {
+    font-size: $font-size-base-tb;
+    line-height: $line-height-base-tb;
+  }
+
+  @include mq($until: tablet) {
+    font-size: $font-size-base-mb;
+    line-height: $line-height-base-mb;
+  }
+}
+
+*::selection {
+  color: $color-white;
+  background: $color-brand;
+}

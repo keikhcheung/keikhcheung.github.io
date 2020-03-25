@@ -1,0 +1,48 @@
+/*------------------------------------*\
+  Trumbs > Typography
+\*------------------------------------*/
+
+.u-font-medium  {
+  font-size: $font-size-medium;
+  line-height: $line-height-medium;
+
+  @include mq($until: desktop) {
+    font-size: $font-size-medium-tb;
+    line-height: $line-height-medium-tb;
+  }
+
+   @include mq($until: tablet) {
+    font-size: $font-size-medium-mb;
+    line-height: $line-height-medium-mb;
+  }
+}
+
+.u-font-small {
+  font-size: $font-size-small;
+  line-height: $line-height-small;
+
+   @include mq($until: desktop) {
+    font-size: $font-size-small-tb;
+    line-height: $line-height-small-tb;
+  }
+
+   @include mq($until: tablet) {
+    font-size: $font-size-small-mb;
+    line-height: $line-height-small-mb;
+  }
+}
+
+.u-font-tiny {
+  font-size: $font-size-tiny;
+  line-height: $line-height-tiny;
+
+   @include mq($until: desktop) {
+    font-size: $font-size-tiny-tb;
+    line-height: $line-height-tiny-tb;
+  }
+
+   @include mq($until: tablet) {
+    font-size: $font-size-tiny-mb;
+    line-height: $line-height-tiny-mb;
+  }
+}

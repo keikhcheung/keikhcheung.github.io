@@ -1,0 +1,32 @@
+/*------------------------------------*\
+  Elements > code & pre
+\*------------------------------------*/
+
+pre,
+code {
+  font-family: $font-monospace;
+  background-color: $bg-color-gray;
+}
+
+pre {
+  overflow: auto;
+  padding: double($base-spacing-unit);
+  margin-bottom: $base-spacing-unit;
+  font-size: $font-size-tiny;
+  line-height: $line-height-tiny;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+
+  @include mq($until: desktop) {
+    font-size: $font-size-tiny-tb;
+    line-height: $line-height-tiny-tb;
+  }
+
+  @include mq($until: tablet) {
+    font-size: $font-size-tiny-mb;
+    line-height: $line-height-tiny-mb;
+  }
+}
+
+li code,
+p code { padding: quarter($base-spacing-unit) half($base-spacing-unit); }

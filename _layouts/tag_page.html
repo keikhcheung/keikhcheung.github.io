@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<!---
+  Now scrollbar included in default layout
+
+<div class="c-progress-bar" id="scrollBar"></div>
+
+--->
+
+<div class='o-wrapper'>
+
+  <div class='o-grid'>
+    <div class='o-grid__col'>
+      <h1 class='c-post__title'>#{{ page.tag }}</h1>
+    </div>
+  </div>
+
+  <div class='o-grid'>
+    {% for post in page.posts %}
+      {% include post-card.liquid %}
+    {% endfor %}
+  </div>
+
+  <div class='o-grid'>
+    {% include pagination.html %}
+  </div>
+</div>

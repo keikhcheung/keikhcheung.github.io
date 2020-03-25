@@ -1,0 +1,56 @@
+/*------------------------------------*\
+  Elements > Marquee
+\*------------------------------------*/
+
+.marquee {
+
+//height: 80px;
+//margin: 0 auto;
+  overflow: hidden;
+  white-space: nowrap;
+//font-family: 'Space Mono', monospace;
+
+  &--content{
+    display: inline-block;
+    margin-top: 5px;
+    animation: marquee linear infinite;
+
+  }
+
+  /* Hide marquee text layer below Draggable; as marquee.js changes the animation (transform) property and resets stacking context order */
+  position: relative;
+  z-index: -1;
+
+  /* Overwrite normal h4{display: block;} */
+  h4 {
+    display: inline;
+    color: $color-text;
+  }
+
+}
+
+.item-collection-1 {
+  position: relative;
+  left: 0%;
+  animation: swap linear infinite;
+}
+
+@keyframes swap {
+  0%, 50% {
+    left: 0%;
+  }
+  50.01%,
+  100% {
+    left: 100%;
+  }
+}
+
+/* Transition */
+@keyframes marquee {
+  0% {
+    transform: translateX(0)
+  }
+  100% {
+    transform: translateX(-100%)
+  }
+}

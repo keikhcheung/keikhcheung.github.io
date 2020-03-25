@@ -1,0 +1,22 @@
+/*------------------------------------*\
+  Components > Social Navigation
+\*------------------------------------*/
+
+.c-social-nav {
+  font-size: $font-size-root;
+  line-height: $line-height-root;
+
+  &__item {
+    display: inline-block;
+  }
+
+  &__icon {
+    fill: $color-text;
+    vertical-align: middle;
+    transition: $global-transition;
+
+    @include attention() {
+      fill: $color-brand;
+    }
+  }
+}

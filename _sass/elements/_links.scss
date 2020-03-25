@@ -1,0 +1,47 @@
+/*------------------------------------*\
+  Elements > Links
+\*------------------------------------*/
+
+a {
+  text-decoration: none;
+  color: $color-link;
+  transition: $global-transition;
+  text-decoration-skip-ink: auto;
+
+
+  &--current {
+    color: $color-brand;
+
+    .home-template &:not(:hover) {
+      color: $color-link;
+    }
+  }
+
+  @include attention() {
+    color: $color-link-hover;
+  }
+}
+
+///* Added div.content on default.html layout for only links in the content area of the page; exclude pagination links */
+/*
+div.content a:not(.c-pagination, .c-post-card):after, .c-post-card__excerpt:after {
+  position: relative;
+  top: -0.5em;
+  font-size: 0.83em;
+  line-height: 1em;
+  content: '\2197';   /* North East Arrow &#8599 ↗ * /
+}
+*/
+
+a.drag-dot {
+  color: $color-text !important;
+  text-decoration: none;
+  transition: none;
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Opera and Firefox */
+}

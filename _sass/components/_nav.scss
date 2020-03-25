@@ -1,0 +1,115 @@
+/*------------------------------------*\
+  Components > Site Navigation
+\*------------------------------------*/
+
+.c-nav {
+  &__item {
+    font-size: $font-size-medium;
+
+    @include mq($until: desktop) {
+      font-size: $font-size-base-tb;
+    }
+
+    @include mq($until: tablet) {
+      font-size: $font-size-base-mb;
+    }
+  }
+
+  &__link {
+    display: block;
+    transition: $global-transition;
+
+    &--current {
+      color: $color-brand;
+
+      .home-template &:not(:hover) {
+        color: $color-link;
+      }
+    }
+
+    @include attention() {
+      color: $color-brand;
+      text-decoration: none;
+    }
+  }
+}
+
+/* Draggable navigation */
+#containment-wrapper {
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  pointer-events: none;
+}
+
+.pin-layer {
+  pointer-events: none;
+  bottom: 0px;
+  position: fixed;
+  padding-left: $base-spacing-unit;
+  padding-bottom: $base-spacing-unit;
+}
+
+#draggable {
+  pointer-events: auto;
+  width: 20vw;   /* 20vw minimum to contain #draggable text */
+  height: 20vw;
+  position: relative;
+  left: 0px;
+  padding: half($base-spacing-unit);
+  z-index: 10;
+  text-align: center;
+  line-height: 16.3vw;
+
+  /* Breaking earlier for smaller #draggable on horizontal iPhone SE */
+  @include mq($from: 500px) {
+    width: 15vw;
+    height: 15vw;
+    line-height: 13vw;
+  }
+
+  @include mq($from: desktop) {
+    width: 150px;
+    height: 150px;
+    line-height: 130px;
+  }
+
+  /* Circle backgroud */
+  background: $color-brand;
+  border-radius: 50%;
+
+  &:hover {
+    background: $color-link-hover;
+    /* No transition here. Otherwise, the dragging motion is delayed and click into the link. */
+    //transition: $global-transition;
+  }
+
+  &:focus {
+    background: $color-link-hover;
+    /* No transition here. Otherwise, the dragging motion is delayed and click into the link. */
+    //transition: none;
+  }
+}
+
+.ui-draggable {
+  cursor: move;
+  display: block;
+  color: $color-text;
+
+  &:hover {
+    color: $color-white;
+    /* No transition here. Otherwise, the dragging motion is delayed and click into the link. */
+    //transition: $global-transition;
+  }
+
+  &:focus {
+    color: $color-white;
+    /* No transition here. Otherwise, the dragging motion is delayed and click into the link. */
+    //transition: none;
+  }
+}
+
+.ui-draggable-handle {
+  -ms-touch-action: none;
+  touch-action: none;
+}

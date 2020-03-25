@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<!---
+  Now scrollbar included in default layout
+
+<div class="c-progress-bar" id="scrollBar"></div>
+
+--->
+
+{% if page.image %}
+  <meta itemprop='og:image' content='{{ base_path }}{{ page.image }}'>
+{% endif %}
+
+<div class='o-wrapper'>
+
+  <div class='o-grid'>
+    <div class='o-grid__col'>
+      <article class='c-post'>
+        <h1 class='c-post__title u-text-left'>{{ page.title }}</h1>
+
+        <div class='c-post__lead'>{% if page.lead %}{{ page.lead }}{% endif %}</div>
+
+        <h5 class="extras">{{ page.time }}</h5>
+
+        <div class='c-content-photo'>
+          {{ content }}
+        </div>
+
+        <div class='c-tags'>
+          {% for tag in page.tags %}
+            <a href='{{ site.baseurl }}/tag/{{ tag }}'>{{ tag }}</a>
+          {% endfor %}
+        </div>
+      </article>
+    </div>
+  </div>

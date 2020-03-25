@@ -1,0 +1,76 @@
+/*------------------------------------*\
+  Elements > img, figure
+\*------------------------------------*/
+
+img {
+  display: block;
+  max-width: 100%;
+  font-style: italic;
+  margin-left: auto;    /* Centre-align smaller images */
+  margin-right: auto;   /* Centre-align smaller images */
+}
+
+.cap {
+  margin-top: -$base-spacing-unit;   /* Keep img margin with caption at 16px */
+  text-align: center;
+
+  @include mq($until: tablet) {
+    margin-top: - (1.5 * $base-spacing-unit);   /* Keep img margin with caption at 8px */
+  }
+}
+
+/* if using include liquid 
+ * {% include image.html url="/images/posts/CF19-Messy-Messy-Tribbles.gif" description="Do you feel like messy tribbles raining over your head?" source="Giphy" source_url="https://giphy.com/gifs/star-trek-mess-tribbles-108KUzjTMEp2gw" %}
+ */
+figure > figcaption {
+  margin-top: $base-spacing-unit;
+  text-align: center;
+
+  @include mq($until: tablet) {
+    margin-top: half($base-spacing-unit);
+  }
+}
+
+/* Spinning motion in Sardine 17 */
+#sardine-17 {
+  img {
+    max-height: 600px;
+  }
+
+  @include attention() {
+  //display: inline-block;
+    z-index: 4;
+    -webkit-animation: spinn 3.25s ease-in-out;
+    animation: spinn 3.25s ease-in-out;
+  }
+
+  @-webkit-keyframes spinn {
+    0%   { transform: rotateY(0deg); }
+    100% { transform: rotateY(1800deg); }
+  }
+
+  @keyframes spinn {
+    0%   { transform: rotateY(0deg); }
+    100% { transform: rotateY(1800deg); }
+  }
+}
+/* END Spinning */
+
+/* Limit images that are too tall */
+#h-600 {
+  max-height: 600px;
+}
+
+/* Restrain and uniform photo-page with old img resolution */
+.w-675 img {
+  max-width: 675px;
+}
+
+/* Override generic > shared.scss; reduce spacing between img on photo-page layout */
+.c-content-photo p {
+  margin-bottom: $base-spacing-unit;
+
+  @include mq($until: mobile) {
+    margin-bottom: half($base-spacing-unit);
+  }
+}

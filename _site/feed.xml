@@ -2,531 +2,1431 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>kei ka-hei cheung</title>
-    <description>Portfolio of Kei Ka-hei Cheung.
-</description>
+    <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 10 Aug 2018 00:56:30 +0100</pubDate>
-    <lastBuildDate>Fri, 10 Aug 2018 00:56:30 +0100</lastBuildDate>
-    <generator>Jekyll v3.7.0</generator>
+    <pubDate>Wed, 25 Mar 2020 22:11:56 +0100</pubDate>
+    <lastBuildDate>Wed, 25 Mar 2020 22:11:56 +0100</lastBuildDate>
+    <generator>Jekyll v3.6.3</generator>
+
+    
+      <item>
+        <title>Visual Poetry</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/fun/vp00.jpg&quot; alt=&quot;Cover of Visual Poetry&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I always have the habit of bringing an analogue camera with me wherever I go. I use it to record places where I find the atmosphere impressive. Sometimes, when it arrives, I transform my feelings into loose stanzas of words.&lt;/p&gt;
+
+&lt;p&gt;This 56-page booklet is an attempt to mix these two ordinary practices and find a &lt;em&gt;new formula of creation&lt;/em&gt; in between.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/fun/vp03-ratio.jpg&quot; alt=&quot;Sheltering leaves and supporting roots&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/fun/vp04-ratio.jpg&quot; alt=&quot;Ad poster panels' shadows interlacing with the sunlight shed on a long walkway, creating a piano keyboard&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/fun/vp05-ratio.jpg&quot; alt=&quot;Drawings and letters by children on the wall of the demolished ruins of Ma Shi Po Village&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/fun/vp06-all.jpg&quot; alt=&quot;Overview of the 56 pages of Visual Poetry&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/fun/vp-loop-bicubic.gif&quot; alt=&quot;56 pages of Visual Poetry in loop&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 15 Mar 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/visual-poetry/</link>
+        <guid isPermaLink="true">http://localhost:4000/visual-poetry/</guid>
+      </item>
+    
+      <item>
+        <title>L'Œuvre de ma vie &amp;colon; short film in 36 hours</title>
+        <description>&lt;h1 id=&quot;backdrop&quot;&gt;Backdrop&lt;/h1&gt;
+&lt;p&gt;Everything started with 🎶&lt;i&gt;Mozart’s Requiem in D minor, K. 626&lt;/i&gt;, a song around which our short had to encircle.&lt;/p&gt;
+
+&lt;h1 id=&quot;synopsis&quot;&gt;Synopsis&lt;/h1&gt;
+&lt;p&gt;One day, &lt;i&gt;Monsieur&lt;/i&gt; receives a medical letter which declares his 🚑critical health situation and his imminent death. Disheartened by this news, he laments in tears, until the servants bring him to his bucket list, of which the last item——create his life-time masterpiece——remains unchecked…&lt;/p&gt;
+
+&lt;div class=&quot;e-iframe&quot;&gt;
+  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/wAw07WYBI6k&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 15 Mar 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/l-oeuvre-de-ma-vie/</link>
+        <guid isPermaLink="true">http://localhost:4000/l-oeuvre-de-ma-vie/</guid>
+      </item>
     
       <item>
         <title>horizons</title>
-        <description>&lt;div class=&quot;photo entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/photos/horizon-01.jpg&quot; alt=&quot;The quenching horizon&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/images/fun/horizon-01-c.jpg&quot; alt=&quot;The quenching horizon&quot; width=&quot;1000&quot; /&gt;&lt;/p&gt;
 
-&lt;div class=&quot;photo entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/photos/horizon-02.jpg&quot; alt=&quot;The reluctant horizon&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;/images/fun/horizon-02-c.jpg&quot; alt=&quot;The reluctant horizon&quot; width=&quot;1000&quot; /&gt;&lt;/p&gt;
 
-&lt;div class=&quot;photo entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/photos/horizon-03.jpg&quot; alt=&quot;Horizon of tension&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;/images/fun/horizon-03.jpg&quot; alt=&quot;Horizon of tension&quot; /&gt;&lt;/p&gt;
 
-&lt;div class=&quot;photo entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/photos/horizon-04.jpg&quot; alt=&quot;The bonding horizon&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;/images/fun/horizon-04.jpg&quot; alt=&quot;The bonding horizon&quot; /&gt;&lt;/p&gt;
 
-&lt;div class=&quot;photo entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/photos/hong-kong-06.jpg&quot; alt=&quot;The hazy horizon&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;/images/fun/hong-kong-06.jpg&quot; alt=&quot;The hazy horizon&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 09 Aug 2018 23:51:37 +0100</pubDate>
-        <link>http://localhost:4000/photography/2018/08/09/horizon.html</link>
-        <guid isPermaLink="true">http://localhost:4000/photography/2018/08/09/horizon.html</guid>
-        
-        
-        <category>photography</category>
-        
+        <pubDate>Sun, 15 Mar 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/horizons/</link>
+        <guid isPermaLink="true">http://localhost:4000/horizons/</guid>
       </item>
     
       <item>
         <title>hong kong</title>
-        <description>&lt;div class=&quot;photo entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/photos/hong-kong-01.jpg&quot; alt=&quot;Metro exit&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+        <description>&lt;div class=&quot;w-675&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/fun/hong-kong-01.jpg&quot; alt=&quot;Metro exit&quot; /&gt;&lt;/p&gt;
 
-&lt;div class=&quot;photo entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/photos/hong-kong-02.jpg&quot; alt=&quot;Metro in rush hour&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/fun/hong-kong-02.jpg&quot; alt=&quot;Metro in rush hour&quot; /&gt;&lt;/p&gt;
 
-&lt;div class=&quot;photo entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/photos/hong-kong-03.jpg&quot; alt=&quot;Cha chaan teng&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/fun/hong-kong-03.jpg&quot; alt=&quot;Cha chaan teng&quot; /&gt;&lt;/p&gt;
 
-&lt;div class=&quot;photo entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/photos/hong-kong-04.jpg&quot; alt=&quot;Chaa lau&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/fun/hong-kong-04.jpg&quot; alt=&quot;Chaa lau&quot; /&gt;&lt;/p&gt;
 
-&lt;div class=&quot;photo entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/photos/hong-kong-05.jpg&quot; alt=&quot;McDonald's&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/fun/hong-kong-05.jpg&quot; alt=&quot;McDonald's&quot; /&gt;&lt;/p&gt;
 
-&lt;div class=&quot;photo entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/photos/hong-kong-08.jpg&quot; alt=&quot;The living gap&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/fun/hong-kong-08.jpg&quot; alt=&quot;The living gap&quot; /&gt;&lt;/p&gt;
 
-&lt;div class=&quot;photo entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/photos/hong-kong-09.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/fun/hong-kong-09.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;div class=&quot;photo entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/photos/hong-kong-10.jpg&quot; alt=&quot;Speed 24&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/fun/hong-kong-10.jpg&quot; alt=&quot;Speed 24&quot; /&gt;&lt;/p&gt;
 
-&lt;div class=&quot;photo entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/photos/hong-kong-11.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/fun/hong-kong-11.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;div class=&quot;photo entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/photos/hong-kong-12.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/fun/hong-kong-12.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;div class=&quot;photo entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/photos/hong-kong-13.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/fun/hong-kong-13.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;div class=&quot;photo entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/photos/hong-kong-14.jpg&quot; alt=&quot;Chong's Store&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/fun/hong-kong-14.jpg&quot; alt=&quot;Chong's Store&quot; /&gt;&lt;/p&gt;
 
-&lt;div class=&quot;photo entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/photos/hong-kong-15.jpg&quot; alt=&quot;Old temple of Demu (Mother Earth), Guanyin (Goddess of Mercy), and Daisi (God of the ghosts)&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/fun/hong-kong-15.jpg&quot; alt=&quot;Old temple of Demu (Mother Earth), Guanyin (Goddess of Mercy), and Daisi (God of the ghosts&quot; /&gt;&lt;/p&gt;
 
-&lt;div class=&quot;photo entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/photos/hong-kong-16.jpg&quot; alt=&quot;Subtropical delivery&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/fun/hong-kong-16-c.jpg&quot; alt=&quot;Subtropical delivery&quot; /&gt;&lt;/p&gt;
 
-&lt;div class=&quot;photo entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/photos/hong-kong-17.jpg&quot; alt=&quot;Lego block&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/fun/hong-kong-17.jpg&quot; alt=&quot;Lego block&quot; /&gt;&lt;/p&gt;
 
-&lt;div class=&quot;photo entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/photos/hong-kong-18.jpg&quot; alt=&quot;Lego piles&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/fun/hong-kong-18.jpg&quot; alt=&quot;Lego piles&quot; /&gt;&lt;/p&gt;
 
-&lt;div class=&quot;photo entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/photos/hong-kong-06.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/fun/hong-kong-06.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;div class=&quot;photo entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/photos/hong-kong-19.jpg&quot; alt=&quot;Oasis in the sea&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/fun/hong-kong-19.jpg&quot; alt=&quot;Oasis in teh sea&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Thu, 09 Aug 2018 23:30:00 +0100</pubDate>
-        <link>http://localhost:4000/photography/2018/08/09/hong-kong.html</link>
-        <guid isPermaLink="true">http://localhost:4000/photography/2018/08/09/hong-kong.html</guid>
-        
-        
-        <category>photography</category>
-        
+        <pubDate>Sun, 15 Mar 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/hong-kong/</link>
+        <guid isPermaLink="true">http://localhost:4000/hong-kong/</guid>
       </item>
     
       <item>
         <title>dancing lights</title>
-        <description>&lt;div class=&quot;photo entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/photos/dancing-lights-01.jpg&quot; alt=&quot;Dancing lights in the front&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/images/fun/dancing-lights-01.jpg&quot; alt=&quot;Dancing lights in the front&quot; /&gt;&lt;/p&gt;
 
-&lt;div class=&quot;photo entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/photos/dancing-lights-02.jpg&quot; alt=&quot;Dancing lights in the middle&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;/images/fun/dancing-lights-02.jpg&quot; alt=&quot;Dancing lights in the middle&quot; /&gt;&lt;/p&gt;
 
-&lt;div class=&quot;photo entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/photos/dancing-lights-03.jpg&quot; alt=&quot;Dancing lights at the back&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;/images/fun/dancing-lights-03.jpg&quot; alt=&quot;Dancing lights at the back&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 09 Aug 2018 15:51:00 +0100</pubDate>
-        <link>http://localhost:4000/photography/2018/08/09/dancing-light.html</link>
-        <guid isPermaLink="true">http://localhost:4000/photography/2018/08/09/dancing-light.html</guid>
-        
-        
-        <category>photography</category>
-        
+        <pubDate>Sun, 15 Mar 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/dancing-lights/</link>
+        <guid isPermaLink="true">http://localhost:4000/dancing-lights/</guid>
       </item>
     
       <item>
-        <title>Tintoretto2Go</title>
-        <description>&lt;div class=&quot;image entry thin&quot; id=&quot;tintoretto&quot;&gt;
+        <title>Ardi&amp;colon; AI for research</title>
+        <description>&lt;div class=&quot;extras&quot;&gt;
+
+  &lt;h5 id=&quot;awards&quot;&gt;Awards&lt;/h5&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;Second place, ‘AI for Businesses’, &lt;a href=&quot;https://www.denkwerk.com/en/blog/ardi-receives-microsoft-ai-award&quot; target=&quot;_blank&quot;&gt;Microsoft AI Award 2019 – Agency Edition&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&quot;problem&quot;&gt;Problem&lt;/h1&gt;
+&lt;p&gt;When you have a question, search engines have your answers——12,450,000,000 of them in 0.49 seconds‼️ Is the one your want there? &lt;em&gt;Can you dig it out in time?&lt;/em&gt; 🔍&lt;/p&gt;
+
+&lt;h1 id=&quot;status-quo&quot;&gt;Status quo&lt;/h1&gt;
+&lt;p&gt;We all know the pain when our doubt and curiousity cannot be resolved.🤔 We look here and there desperately, but are left in sole &lt;em&gt;uncertainty&lt;/em&gt;. Sometimes, we might have a slight hint after swimming in portfolio of text——if we’re lucky——but that could well only lead us to further open waters… 🏊🏼‍♂️&lt;/p&gt;
+
 &lt;figure&gt;
-&lt;p&gt;&lt;img src=&quot;/images/tintoretto-preview.gif&quot; alt=&quot;Preview of the application&quot; /&gt;&lt;/p&gt;
-	&lt;figcaption&gt;Courtesy: &lt;i&gt;denkwerk GmbH&lt;/i&gt;&lt;/figcaption&gt;
+  &lt;video autoplay=&quot;&quot; loop=&quot;&quot; muted=&quot;&quot;&gt;
+    &lt;source src=&quot;/videos/portfolio/ardi-logo.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  &lt;/video&gt;
+  &lt;figcaption class=&quot;extras&quot;&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
-&lt;/div&gt;
 
-&lt;div class=&quot;entry&quot;&gt;
-  &lt;h2 id=&quot;treasure-hunt-in-the-city&quot;&gt;&amp;gt;  Treasure hunt in the city&lt;/h2&gt;
-  &lt;p&gt;In the celebration of the 500&lt;sup&gt;th&lt;/sup&gt; birthday of the Italian artist &lt;em&gt;Jacopo Tintoretto&lt;/em&gt;, &lt;em&gt;&lt;i&gt;&lt;a href=&quot;https://www.wallraf.museum&quot; target=&quot;_blank&quot;&gt;Wallraf-Richartz Museum&lt;/a&gt;&lt;/i&gt;&lt;/em&gt; in Cologne, Germany held a &lt;a href=&quot;https://www.wallraf.museum/2017-10-06-tintoretto/&quot; target=&quot;_blank&quot;&gt;dedicated exhibition&lt;/a&gt; featuring his &lt;em&gt;&lt;a href=&quot;https://www.wallraf.museum/2017-10-06-tintoretto/exponate/&quot; target=&quot;_blank&quot;&gt;Renaissance paintings&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;h1 id=&quot;concept&quot;&gt;Concept&lt;/h1&gt;
+&lt;p&gt;Together with data specialists, we imagine Ardi as an artificial intelligence–powered research tool which &lt;em&gt;facilitates research practices&lt;/em&gt;. It uses Microsoft Azure Cognitive Services to detect, collect and cluster search results into 📚categories and offer your &lt;em&gt;succinct abstracts&lt;/em&gt;. These summaries can be dragged and dropped to your 📜research document, which it further analyses. Ardi then detects directions of related subjects and return you with &lt;em&gt;content-sensitive suggestions&lt;/em&gt; through its algorithms. In short: &lt;strong&gt;a research tool that concurrently offers analysis!&lt;/strong&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;em&gt;&lt;i&gt;&lt;a href=&quot;https://www.denkwerk.com&quot; target=&quot;_blank&quot;&gt;denkwerk GmbH&lt;/a&gt;&lt;/i&gt;&lt;/em&gt; had the idea of using &lt;em&gt;visual recognition&lt;/em&gt; and &lt;em&gt;augmented reality (AR)&lt;/em&gt; to &lt;strong&gt;hijack advertisement posters in the city and replacing them with artwork&lt;/strong&gt;, allowing people to discover the hidden gems within Tintoretto’s paintings.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/portfolio/ardi-ui.jpg&quot; alt=&quot;Interface of Ardi, simultaneous research and analysis driven by artificial cognitive intelligence&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;In this project, my role was to create an engaging experience for this &lt;em&gt;&lt;a href=&quot;https://www.tintoretto2go.de&quot; target=&quot;_blank&quot;&gt;‘city hunt’ game&lt;/a&gt;&lt;/em&gt; in Cologne and Berlin.&lt;/p&gt;
+&lt;p&gt;We worked out the architecture and trialed some simulation settings. Instead of linear look-ups, Ardi can assist in &lt;em&gt;multi-directional exploration&lt;/em&gt;, filters out repetitive noise, and skims down results into their essence.💡&lt;/p&gt;
 
-  &lt;p&gt;This app has won the &lt;a href=&quot;https://www.denkwerk.com/news/376-gold-rush&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Gold Medal&lt;/strong&gt;&lt;/a&gt; in &lt;em&gt;‘Digital Out Of Home’&lt;/em&gt; category of the &lt;a href=&quot;http://www.goldenawardmontreux.com/winners2018/winners2018-digital.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Golden Awards of Montreux 2018&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
+&lt;h1 id=&quot;result&quot;&gt;Result&lt;/h1&gt;
+&lt;p&gt;Research workflow is enhanced by &lt;em&gt;reduced loops&lt;/em&gt;. Information processing and insight discovery are sped up. Not only Ardi helps reduce the cost of research process, but also unlocks the doors to verbalised knowledge for progressive communication and creation.😊&lt;/p&gt;
 
-&lt;div class=&quot;image entry&quot;&gt;
-&lt;iframe src=&quot;http://player.vimeo.com/video/240458476&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;entry&quot;&gt;
-  &lt;p&gt;&amp;gt;&lt;br /&gt;
-At the beginning, I studied the licensed paintings, dug into the &lt;em&gt;literature review&lt;/em&gt; in different languages, and found out interesting highlights in the paintings.&lt;/p&gt;
-
-  &lt;p&gt;I then collaborated with visual designers to create &lt;em&gt;storyboards&lt;/em&gt; for the expecience.&lt;/p&gt;
-
-  &lt;p&gt;We met with the museum curator to present our ideas and collected feedback from the artistic point of view.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;image entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/tintoretto-storyboard-loop.gif&quot; alt=&quot;Example of storyboard evolution&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;entry&quot;&gt;
-  &lt;p&gt;&amp;gt;&lt;br /&gt;
-Later, I also worked with copywriters, 3D artists and developers to implement our concepts into the game &lt;em&gt;prototype&lt;/em&gt;.
-I directed &lt;em&gt;user tests&lt;/em&gt; to gather remarks for improving the game experience and conducted on-site tests for &lt;em&gt;quality control&lt;/em&gt;.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;image entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/tintoretto-test.jpg&quot; alt=&quot;On-site user test&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;extras&quot;&gt;
+  &lt;p&gt;Courtesy: &lt;i&gt;denkwerk&lt;/i&gt;, visual content.&lt;/p&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Mon, 06 Aug 2018 14:06:00 +0100</pubDate>
-        <link>http://localhost:4000/ux-ui/2018/08/06/tintoretto.html</link>
-        <guid isPermaLink="true">http://localhost:4000/ux-ui/2018/08/06/tintoretto.html</guid>
-        
-        
-        <category>ux-ui</category>
-        
+        <pubDate>Sun, 15 Mar 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/ardi/</link>
+        <guid isPermaLink="true">http://localhost:4000/ardi/</guid>
       </item>
     
       <item>
-        <title>Together we are stronger!</title>
-        <description>&lt;div class=&quot;entry&quot;&gt;
-  &lt;h2 id=&quot;a-diverse-mosaic&quot;&gt;&amp;gt;  A diverse mosaic&lt;/h2&gt;
+        <title>MuseoPic Analytics&amp;colon; museology revamped!</title>
+        <description>&lt;h1 id=&quot;problem&quot;&gt;Problem&lt;/h1&gt;
+&lt;p&gt;Museum curators spend a lot of time and effort in organising an exhibition. Once it is launched, they are often already on the go again for the next one and have little time to optimise current show. How can we help them &lt;em&gt;get the most out of every exhibition?&lt;/em&gt;&lt;/p&gt;
 
-  &lt;p&gt;In 2018, I participated again in the annual &lt;em&gt;&lt;i&gt;&lt;a href=&quot;http://lisboanarua.com/blog/2018/02/15/esta-aberto-concurso-sardinhas-festas-lisboa-2018/&quot; target=&quot;_blank&quot;&gt;Concurso Sardinhas&lt;/a&gt;&lt;/i&gt;&lt;/em&gt; organised by &lt;em&gt;&lt;i&gt;Empresa de Gestão de Equipamentos e Animação Cultural&lt;/i&gt;&lt;/em&gt; in celebration of &lt;em&gt;&lt;i&gt;Festa de Lisboa&lt;/i&gt;&lt;/em&gt;. This yearly contest consists of making art in the form of sardine.&lt;/p&gt;
-
-  &lt;p&gt;This year, I had the idea from the aminal nature of sardine - &lt;em&gt;forage fish&lt;/em&gt;. In the ocean, sardines swim together in schools. They usuallly form a big group of fish to move around. Of course deep down they are all different individuals. But together they are stronger.&lt;/p&gt;
+&lt;div class=&quot;e-iframe&quot;&gt;
+  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/48McP4qGOJU?rel=0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;image entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/sardinhas18.jpg&quot; alt=&quot;Together we are stronger!&quot; /&gt;&lt;/p&gt;
+&lt;h1 id=&quot;backdrop&quot;&gt;Backdrop&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.museopic.com&quot; target=&quot;_blank&quot;&gt;MuseoPic&lt;/a&gt; is a smartphoen application which enhances ordinary museum visits. Through &lt;em&gt;augmented reality&lt;/em&gt;, visitors can interact with exhibits, learn more about their story behind, and create their own collections. It has been deployed in contemporary art, design, and natural sciences museums in 🇫🇷Lyon areas&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;MuseoPic Analytics captures visitors’ interaction with exhibits and &lt;em&gt;transform that data into useful insights&lt;/em&gt; for museum personnel, so that they can easily understand their current programme’s performance &amp;amp; settings, and make adaptation right away. This help them better align exhibitions with their visitors, raise discoverability and engagement, maximise 🎟box office sales as well as ⭐️public reviews, and better develop content management and strategy.&lt;/p&gt;
+
+&lt;div class=&quot;o-grid&quot;&gt;
+  &lt;div class=&quot;o-grid__col o-grid__col--2-4-m&quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/portfolio/museopic03a-c.jpg&quot; alt=&quot;Interview analysis in progress&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;o-grid__col o-grid__col--2-4-m&quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/portfolio/museopic03b-c.jpg&quot; alt=&quot;Workflow study&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;entry&quot;&gt;
-  &lt;p&gt;&amp;gt;&lt;br /&gt;
-I started with the idea of &lt;em&gt;immitating&lt;/em&gt; a &lt;em&gt;child drawing&lt;/em&gt; fish in different colours. I then continued by exploring the combination of colours and the forms of representing sardines. I further tried bringing different sizes, thicknesses, positions, and postures of each together. I concluded on to the style of &lt;em&gt;Asian paintbrush&lt;/em&gt; to represent their form.&lt;/p&gt;
+&lt;h1 id=&quot;hands-on&quot;&gt;Hands-on&lt;/h1&gt;
+&lt;p&gt;In order to better understand the organisation and typical workflow of museums, we conducted several &lt;em&gt;interviews with our target users&lt;/em&gt;, namely the museum directors, quality control attachés and content managers.&lt;/p&gt;
+
+&lt;p&gt;We then analysed their actions and needs regarding the life cycle of exhibitions, extracted their &lt;em&gt;jobs-to-be-done (JTBDs)&lt;/em&gt;. We framed some major challenges &amp;amp; problems and mapped some 🎈opportunities.&lt;/p&gt;
+
+&lt;div class=&quot;o-grid&quot;&gt;
+  &lt;div class=&quot;o-grid__col o-grid__col--2-4-m&quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/portfolio/museopic04a-c.jpg&quot; alt=&quot;In situ feedback&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;o-grid__col o-grid__col--2-4-m&quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/portfolio/museopic04b-c.jpg&quot; alt=&quot;Mock-up&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;image entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/sardinhas18-01.jpg&quot; alt=&quot;Draft 1&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Following the evolution of ideas, we clustered them in &lt;em&gt;use case scenarios&lt;/em&gt;. We actively involved our users and stakeholders for comments and feedback while iterating our design cycles to create &lt;em&gt;mock-ups for the analytics platform&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;In the end of our partnership, we packaged our findings and handed off our prototypes with UX strategy advice to our client.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/portfolio/museopic-loop.gif&quot; alt=&quot;Screenshots of MuseoPic Analytics mock-up&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;extras&quot;&gt;
+  &lt;p&gt;Courtesy: &lt;i&gt;MuseoPic&lt;/i&gt;, video.&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;image entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/sardinhas18-02.jpg&quot; alt=&quot;Draft 1&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+&lt;hr /&gt;
 
-&lt;div class=&quot;entry thin&quot;&gt;
-  &lt;p&gt;&amp;gt;&lt;br /&gt;
-Eventually, all the individually unique sardines formed a beautiful, lively mosaic of themselves. Together they are one!&lt;/p&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://www.imprimerie.lyon.fr/&quot; target=&quot;_blank&quot;&gt;Musée de l’imprimerie et de la communicatino graphique&lt;/a&gt;, &lt;a href=&quot;http://www.mac-lyon.com/mac&quot; target=&quot;_blank&quot;&gt;Musée d’art contemporain de Lyon&lt;/a&gt;, &lt;a href=&quot;https://www.museedesconfluences.fr/&quot; target=&quot;_blank&quot;&gt;Musée des Confluences&lt;/a&gt;, and &lt;a href=&quot;https://lugdunum.grandlyon.com/&quot; target=&quot;_blank&quot;&gt;Musée Lugdunum (Musée gallo-romain de Fourvière)&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Sat, 31 Mar 2018 23:56:40 +0100</pubDate>
-        <link>http://localhost:4000/graphics/2018/04/01/sardinhas-2018.html</link>
-        <guid isPermaLink="true">http://localhost:4000/graphics/2018/04/01/sardinhas-2018.html</guid>
-        
-        
-        <category>graphics</category>
-        
+        <pubDate>Sat, 14 Mar 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/museopic/</link>
+        <guid isPermaLink="true">http://localhost:4000/museopic/</guid>
       </item>
     
       <item>
-        <title>Danse des sardines - printemps</title>
-        <description>&lt;div class=&quot;entry&quot;&gt;
-  &lt;h2 id=&quot;a-season-to-celebrate&quot;&gt;&amp;gt;  A season to celebrate&lt;/h2&gt;
+        <title>&amp;lsquo;Stronger together&amp;rsquo;&amp;colon; A diverse mosaic</title>
+        <description>&lt;h1 id=&quot;backdrop&quot;&gt;Backdrop&lt;/h1&gt;
+&lt;p&gt;In 2018, I participated again in the annual &lt;i&gt;&lt;a href=&quot;http://lisboanarua.com/blog/2018/02/15/esta-aberto-concurso-sardinhas-festas-lisboa-2018/&quot; target=&quot;_blank&quot;&gt;Concurso Sardinhas&lt;/a&gt;&lt;/i&gt; organised by &lt;i&gt;Empresa de Gestão de Equipamentos e Animação Cultural&lt;/i&gt; in celebration of &lt;i&gt;Festa de Lisboa&lt;/i&gt;. This yearly contest consists of making art in the form of sardine.&lt;/p&gt;
 
-  &lt;p&gt;I participated in the &lt;em&gt;&lt;i&gt;&lt;a href=&quot;http://lisboanarua.com/festasdelisboa/2017/05/24/sardinhas-vencedoras-2017/&quot; target=&quot;_blank&quot;&gt;Concurso Sardinhas 2017&lt;/a&gt;&lt;/i&gt;&lt;/em&gt; organised by &lt;em&gt;&lt;i&gt;Empresa de Gestão de Equipamentos e Animação Cultural&lt;/i&gt;&lt;/em&gt; in celebration of &lt;em&gt;&lt;i&gt;Festa de Lisboa&lt;/i&gt;&lt;/em&gt;. This yearly contest consists of making art in the form of sardine.&lt;/p&gt;
-&lt;/div&gt;
+&lt;h1 id=&quot;concept&quot;&gt;Concept&lt;/h1&gt;
+&lt;p&gt;This year, I had the idea from the aminal nature of sardine——&lt;em&gt;forage fish&lt;/em&gt;. In the ocean, sardines swim together in schools. They usuallly form a big group of fish to move around.🐟🐠 Of course deep down they are all different individuals. But together they are stronger.&lt;/p&gt;
 
-&lt;div class=&quot;image entry thin buffer&quot; id=&quot;sardine-17&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/sardinhas17-07-gh.png&quot; alt=&quot;Final version of sardine - Spring&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+&lt;p&gt;I started with the idea of &lt;em&gt;immitating a child’s drawing&lt;/em&gt; fish in different colours. I then continued by exploring the combination of colours and the forms of representing sardines. I further tried bringing different sizes, thicknesses, positions, and postures of each together. I concluded on to the style of &lt;em&gt;🖌Asian paintbrush&lt;/em&gt; to represent their form.&lt;/p&gt;
 
-&lt;div class=&quot;entry&quot;&gt;
-  &lt;p&gt;&amp;gt;&lt;br /&gt;
-I started by cutting spaces within the given sardine silhoutte template. I then had the idea of morphing these spaces and forms into a &lt;em&gt;ballerina&lt;/em&gt;, dancing to celebrate the festival of Lisbon. I played with hiding multiple sardines on the ballerina. I then smoothened the contours and tried adding mild and, later, vivid colours to the spaces with reference to &lt;em&gt;colouring books&lt;/em&gt; for children and &lt;em&gt;stained glass windows&lt;/em&gt; of churches.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/fun/sardinhas18-01.jpg&quot; alt=&quot;Draft 1&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;The sardines became a ballerina, the ballerina became Spring.&lt;/p&gt;
-&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;/images/fun/sardinhas18-02.jpg&quot; alt=&quot;Draft 2&quot; /&gt;&lt;/p&gt;
 
-&lt;div class=&quot;image entry thin buffer&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/sardinhas17-loop-gh.gif&quot; alt=&quot;Development of sardine - Spring&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;entry&quot;&gt;
-  &lt;p&gt;&amp;lt;&lt;br /&gt;
-Imagining that children could play with this colouring template, for making this colour model more &lt;em&gt;accessible&lt;/em&gt; to children with sight conditions, when the illustration/graphics are passed to greyscale, the ballerina can be still obviously seen.&lt;/p&gt;
-&lt;/div&gt;
+&lt;p&gt;Eventually, all the individually unique sardines formed a beautiful, lively &lt;em&gt;mosaic&lt;/em&gt; of themselves. &lt;strong&gt;Together they are one!&lt;/strong&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 31 Mar 2018 17:47:00 +0100</pubDate>
-        <link>http://localhost:4000/graphics/2018/03/31/sardinhas-2017.html</link>
-        <guid isPermaLink="true">http://localhost:4000/graphics/2018/03/31/sardinhas-2017.html</guid>
-        
-        
-        <category>graphics</category>
-        
+        <pubDate>Wed, 11 Mar 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/sardinhas-2018/</link>
+        <guid isPermaLink="true">http://localhost:4000/sardinhas-2018/</guid>
       </item>
     
       <item>
-        <title>MesInfos</title>
-        <description>&lt;div class=&quot;image entry thin&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/mesinfos01.jpg&quot; alt=&quot;Logos of MesInfos and la Fing&quot; /&gt;&lt;/p&gt;
+        <title>&amp;lsquo;Danse des sardines &amp;ndash; printemps&amp;rsquo;&amp;colon; sardines dancing with Spring</title>
+        <description>&lt;div id=&quot;sardine-17&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/fun/sardinhas17-07-gh.png&quot; alt=&quot;Sardines dancing with Spring&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;entry&quot;&gt;
-  &lt;p&gt;&amp;gt;&lt;br /&gt;
-&lt;em&gt;&lt;i&gt;&lt;a href=&quot;http://mesinfos.fing.org/english/&quot; target=&quot;_blank&quot;&gt;MesInfos&lt;/a&gt;&lt;/i&gt;&lt;/em&gt; is a project initiated by the &lt;em&gt;&lt;i&gt;&lt;a href=&quot;http://fing.org/?About-Fing&quot; target=&quot;_blank&quot;&gt;Fondation Internet Nouvelle Génération (la Fing)&lt;/a&gt;&lt;/i&gt;&lt;/em&gt; which aims to &lt;em&gt;regain control on our personal data&lt;/em&gt; created upon usage of difference services, scattered across various providers. Through data, it allows individuals to look back at their own behaviour in the past, understand the causes and consequences, and to take necessary adjustment to their future actions in their own needs. Via the platform &lt;em&gt;&lt;a href=&quot;https://cozy.io/en/&quot;&gt;Cozy Cloud&lt;/a&gt;&lt;/em&gt;, users can centralise their data in a personal, secure cloud, powered by &lt;em&gt;&lt;i&gt;la Fing&lt;/i&gt;&lt;/em&gt;, &lt;em&gt;Cozy Cloud&lt;/em&gt; and the community of open source developers.&lt;/p&gt;
+&lt;h1 id=&quot;a-season-to-celebrate&quot;&gt;A season to celebrate&lt;/h1&gt;
+&lt;p&gt;I participated in the &lt;i&gt;&lt;a href=&quot;http://lisboanarua.com/festasdelisboa/2017/05/24/sardinhas-vencedoras-2017/&quot; target=&quot;_blank&quot;&gt;Concurso Sardinhas 2017&lt;/a&gt;&lt;/i&gt; organised by &lt;i&gt;Empresa de Gestão de Equipamentos e Animação Cultural&lt;/i&gt; in celebration of &lt;i&gt;Festa de Lisboa&lt;/i&gt;. This yearly contest consists of making art in the form of sardine.&lt;/p&gt;
 
-  &lt;p&gt;In this project, we collaborate with &lt;em&gt;&lt;i&gt;la Fing&lt;/i&gt;&lt;/em&gt; and &lt;em&gt;Cozy Cloud&lt;/em&gt;. Our focus is on the user’s aspect and how we can improve user experience in order to &lt;strong&gt;better attract potential target users&lt;/strong&gt;.&lt;/p&gt;
-&lt;/div&gt;
+&lt;h1 id=&quot;concept&quot;&gt;Concept&lt;/h1&gt;
+&lt;p&gt;I started by cutting spaces within the given sardine silhoutte template. I then had the idea of morphing these spaces and forms into a &lt;em&gt;ballerina&lt;/em&gt;, dancing to celebrate the festival of Lisbon. I played with hiding multiple sardines on the ballerina. I then smoothened the contours and tried adding mild and, later, vivid colours to the spaces with reference to &lt;em&gt;colouring books&lt;/em&gt; for children and &lt;em&gt;stained glass windows&lt;/em&gt; of churches.&lt;/p&gt;
 
-&lt;div class=&quot;image entry&quot;&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/6Wh8HMRKP4U?rel=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+&lt;p&gt;The sardines became a ballerina, the ballerina became Spring. 🙂&lt;/p&gt;
 
-&lt;div class=&quot;entry&quot;&gt;
-  &lt;p&gt;&amp;gt;&lt;br /&gt;
-We held a meeting with our client to &lt;em&gt;better understand&lt;/em&gt; their ambition in this project, their needs and how we could assist them. We then brought out intensive &lt;em&gt;analyses&lt;/em&gt; of the existing alpha platform and of the feedback provided on the test user forum.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/fun/sardinhas17-loop-gh.gif&quot; alt=&quot;Development of sardine - Spring&quot; id=&quot;h-600&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;We conducted several &lt;em&gt;user interviews&lt;/em&gt; so as to comprehend more directly problems they encounter upon usage and to discern their expectations.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;image entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/mesinfos03.jpg&quot; alt=&quot;Team member Sophie analysing the existing services on the alpha platform of Cozy Cloud&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;entry&quot;&gt;
-  &lt;p&gt;&amp;gt;&lt;br /&gt;
-We then grouped our discoveries into three major &lt;em&gt;problems&lt;/em&gt;. We cross-studied them with the platform’s &lt;em&gt;user profile types&lt;/em&gt;. We &lt;em&gt;brainstormed&lt;/em&gt; on possible interventions and solutions. Then we further shaped all our ideas, crystalised them into &lt;em&gt;3 scenarios&lt;/em&gt; which correspond to &lt;em&gt;3 personae&lt;/em&gt;, evaluated the advantages and limits of each, and objectively &lt;em&gt;presented&lt;/em&gt; them to our client.&lt;/p&gt;
-
-  &lt;p&gt;Our client appreciated our production. Under the time constraint in the academic framework, they selected the 3&lt;sup&gt;rd&lt;/sup&gt; scenario, which aims to &lt;strong&gt;fortify the unique selling points (USPs)&lt;/strong&gt; of the platform within its own self, but can also be versatilely used as promotions for new feature in future development.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;image entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/mesinfos04.jpg&quot; alt=&quot;Team studying the underlying problems and mapping them into three scenarios&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;image entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/mesinfos05-compressed.jpg&quot; alt=&quot;Persona and scenario selected by our client (left) and the other two (right)&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;entry&quot;&gt;
-  &lt;p&gt;&amp;gt;&lt;br /&gt;
-Subsequently, for solving the problem of the selected scenario, we invented &lt;em&gt;3 usage cases&lt;/em&gt;, as per &lt;em&gt;3 different unique selling points (USPs)&lt;/em&gt; which the platform could bring to its users. We concretised their implementation in the form of &lt;em&gt;visual storytelling&lt;/em&gt;. Our strategy adopted here is to omit as much as possible the complicated technical aspect, but to &lt;strong&gt;emphasise the direct, observable benefits&lt;/strong&gt; which the platform can bring to them.&lt;/p&gt;
-
-  &lt;p&gt;We did a &lt;em&gt;benchmark&lt;/em&gt; to see how existing digital service platforms promote themselves before building &lt;em&gt;&lt;a href=&quot;https://invis.io/9UBH1AVTG#/231254425_1-accueil&quot; target=&quot;_blank&quot;&gt;visual mock-ups&lt;/a&gt;&lt;/em&gt; integrated into the beta version of the platform for our client.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;image entry thin&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/mesinfos06.jpg&quot; alt=&quot;Visual mock-ups emphasising the USPs of Cozy Cloud platform&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;entry thin&quot;&gt;
-  &lt;p&gt;&amp;gt;&lt;br /&gt;
-Finally, we &lt;em&gt;pitched&lt;/em&gt; our project in front of the jury, which was composed of professors and other projects’ clients. We wrote as well an &lt;em&gt;advisory report&lt;/em&gt; detailing our approches, analyses, concepts, recommendations, and a suggested development &lt;em&gt;road map&lt;/em&gt;.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;image entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/mesinfos07.jpg&quot; alt=&quot;Team pitching our project and speaking with our client&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;image entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/mesinfos-soutenance-commanditaire.jpg&quot; alt=&quot;An ending slide&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+&lt;p&gt;Imagining that children could play with this colouring template, for making this colour model more &lt;em&gt;accessible&lt;/em&gt; to children with sight conditions, when the illustration/graphics are passed to greyscale, the ballerina can be still obviously seen.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 15 Jun 2017 21:53:00 +0100</pubDate>
-        <link>http://localhost:4000/ux-ui/2017/06/15/mesinfos.html</link>
-        <guid isPermaLink="true">http://localhost:4000/ux-ui/2017/06/15/mesinfos.html</guid>
-        
-        
-        <category>ux-ui</category>
-        
+        <pubDate>Wed, 11 Mar 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/sardinhas-2017/</link>
+        <guid isPermaLink="true">http://localhost:4000/sardinhas-2017/</guid>
       </item>
     
       <item>
-        <title>L'Œuvre de ma vie</title>
-        <description>&lt;div class=&quot;entry&quot;&gt;
-  &lt;p&gt;&amp;gt;&lt;br /&gt;
-Everything started with &lt;em&gt;Mozart’s Requiem in D minor, K. 626&lt;/em&gt;, a song around which our short had to encircle.&lt;/p&gt;
+        <title>Linear&amp;colon; sitting on one line</title>
+        <description>&lt;h1 id=&quot;challenge&quot;&gt;Challenge&lt;/h1&gt;
+&lt;p&gt;This is an academic project to design and build a chair within 4 months.&lt;/p&gt;
 
-  &lt;p&gt;In the following 36 hours, we created everything of our short: &lt;em&gt;plot&lt;/em&gt; and &lt;em&gt;script&lt;/em&gt;, &lt;em&gt;screenplay&lt;/em&gt;, &lt;em&gt;casting&lt;/em&gt;, &lt;em&gt;acting&lt;/em&gt;, &lt;em&gt;shooting&lt;/em&gt;, &lt;em&gt;montage&lt;/em&gt;, &lt;em&gt;sound&lt;/em&gt; and &lt;em&gt;music post-production&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;I chose to explore the possibilities of a single, continuous line in relation with a chair; whether we could form &lt;em&gt;a stable, sitting surface with only one line&lt;/em&gt;, while maintaining the aesthetic of its simplicity, standing its functional purposes, and satisfying the comfort of sitter(s).&lt;/p&gt;
 
-  &lt;h2 id=&quot;synopsis&quot;&gt;Synopsis&lt;/h2&gt;
-  &lt;p&gt;One day, &lt;i&gt;Monsieur&lt;/i&gt; receives a medical letter which declares his critical health situation and his imminent death. Disheartened by this news, he laments in tears, until the servants bring him to his bucket list, of which the last item - create his life-time masterpiece - remains unchecked…&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/fun/linear01.jpg&quot; alt=&quot;Exploring the possibilities to form a sitting surface from one simple line on isometric paper.&quot; /&gt;&lt;/p&gt;
 
+&lt;h1 id=&quot;hands-on&quot;&gt;Hands-on&lt;/h1&gt;
+&lt;p&gt;After an extensive research into physics, ergonomics and aethetics, simulation prototyping and testing were conducted. I concluded on to one design for building the final chair.&lt;/p&gt;
+
+&lt;p&gt;The chair consists of two pieces of components: a &lt;em&gt;steel frame&lt;/em&gt; in the form of a continuous line, and a &lt;em&gt;wooden plank&lt;/em&gt; which could be laid on top to easily form a sitting surface. The sitting surface is elongated and designed to, for 🙋🏽‍♀️one person, support both sitting and leaning, with an ergonormically curved armrest/back; the strength of the material would also allow 🙋🏻‍♀️🙋🏼‍♂️two persons to sit on top of it at the same time.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/fun/linear02.png&quot; alt=&quot;3D model showing the ergonomically curved armrest/back with measurements.&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;o-grid&quot;&gt;
+  &lt;div class=&quot;o-grid__col o-grid__col--2-4-m&quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/fun/linear03.jpg&quot; alt=&quot;3D model showing the ergonomically curved armrest/back with measurements.&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;o-grid__col o-grid__col--2-4-m&quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/fun/linear04.jpg&quot; alt=&quot;3D model showing the chair from the front view.&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;image entry&quot;&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/wAw07WYBI6k?rel=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;I worked with iron and steel specialists and carpenters in their ateliers and workshops and realised the &lt;em&gt;1-to-1 chair prototype&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The chair was tested and approved by peer students of the furniture design class as well as professors of the faculty.&lt;/p&gt;
+
+&lt;div class=&quot;o-grid&quot;&gt;
+  &lt;div class=&quot;o-grid__col o-grid__col--2-4-m&quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/fun/linear05.jpg&quot; alt=&quot;Final 1-to-1 prototype of the linear chair (from the right).&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;o-grid__col o-grid__col--2-4-m&quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/fun/linear06.jpg&quot; alt=&quot;Final 1-to-1 prototype of the linear chair (from the left).&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Thu, 15 Jun 2017 21:53:00 +0100</pubDate>
-        <link>http://localhost:4000/shorts/2017/06/15/l-oevre-de-ma-vie.html</link>
-        <guid isPermaLink="true">http://localhost:4000/shorts/2017/06/15/l-oevre-de-ma-vie.html</guid>
-        
-        
-        <category>shorts</category>
-        
+        <pubDate>Tue, 10 Mar 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/linear/</link>
+        <guid isPermaLink="true">http://localhost:4000/linear/</guid>
       </item>
     
       <item>
-        <title>MuseoPic Analytics</title>
-        <description>&lt;div class=&quot;image entry thin&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/museopic01.jpg&quot; alt=&quot;Logos of MuseoPic&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+        <title>Carnot&amp;colon; where pedagogy researchers &amp; teachers meet</title>
+        <description>&lt;h1 id=&quot;objective&quot;&gt;Objective&lt;/h1&gt;
+&lt;p&gt;Institut Carnot de l’Éducation is an academic consortium of the region Auvergne-Rhône-Alpes, France. It connects pedagogy researchers and education practicioners to &lt;em&gt;favour exchange and cooperation&lt;/em&gt; between them. The goal is to combine scientific knowledge and practical experiences to encourage innovation in the 🎓French education system, so that academic practices (both teaching and research) can become &lt;em&gt;adapted to contemporary social issues&lt;/em&gt; (such as premature dropouts, regional segregation &amp;amp; social mobility) and eventually help solve them.&lt;/p&gt;
 
-&lt;div class=&quot;entry&quot;&gt;
-  &lt;p&gt;&amp;gt;&lt;br /&gt;
-&lt;em&gt;&lt;i&gt;&lt;a href=&quot;http://www.museopic.com&quot; target=&quot;_blank&quot;&gt;MuseoPic&lt;/a&gt;&lt;/i&gt;&lt;/em&gt; is a smartphone application which aims at &lt;strong&gt;enhancing classic museum visit experience&lt;/strong&gt;. Through &lt;em&gt;visual recognition&lt;/em&gt;, &lt;em&gt;augmented reality&lt;/em&gt; and &lt;em&gt;geolocation&lt;/em&gt;, visitors can instantly obtain supplementary information about exhibits, interact with showpieces, explore museums in a ludic way and create personalised collections which they can review anytime later without venue constraints.&lt;/p&gt;
+&lt;h1 id=&quot;study&quot;&gt;Study&lt;/h1&gt;
+&lt;p&gt;To effectively bring researchers and teachers together, we need to &lt;em&gt;🕵🏽‍♂️understand the nuances&lt;/em&gt; of interest fields and expertise in Education Sciences. How can we verbalise them? How can we make sure their problems are discoverable to other professionals in the sector? How might we best enhance contact between common groups and promote collaboration? How might we streamline their proposals with funding schemes from the Ministries of Education and Research? How might we trampoline projects with local authorities, institutions and universities?🤔&lt;/p&gt;
 
-  &lt;p&gt;In this project, my team and I work on the design of &lt;em&gt;data analytics&lt;/em&gt;, a platform which is dedicated to &lt;em&gt;museum personnel&lt;/em&gt;. This analytic tool visualises raw data generated by &lt;em&gt;&lt;i&gt;MuseoPic&lt;/i&gt;&lt;/em&gt; application end users and help the personnel in &lt;strong&gt;exhibition evaluation, content management and strategy development&lt;/strong&gt; in an atypical way.&lt;/p&gt;
-&lt;/div&gt;
+&lt;h1 id=&quot;hands-on&quot;&gt;Hands-on&lt;/h1&gt;
+&lt;p&gt;We approached and interviewed different profiles of target users: researchers, educators, directors of institutions, moderators of Institut Carnot, and sponsors from the ministries. We walked through their &lt;em&gt;typical workflow&lt;/em&gt; and identified their &lt;em&gt;needs, pain points and 🔮wishes&lt;/em&gt;. We analysed their contact points along how a collaborative project is usually rolled out, and explored how the online platform can smoothen their interaction.&lt;/p&gt;
 
-&lt;div class=&quot;image entry&quot;&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/48McP4qGOJU?rel=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+&lt;p&gt;We pinned our ideas down to &lt;em&gt;prototyping&lt;/em&gt; the online platform &lt;em&gt;interface&lt;/em&gt;, further through 🧪testing, feedback loops and 🔄iteration. We extended our study to promotion and invitation of collaborators on Institut Carnot’s project. In the end, we handed over our prototype accompanied by a strategy report.&lt;/p&gt;
 
-&lt;div class=&quot;entry&quot;&gt;
-  &lt;p&gt;&amp;gt;&lt;br /&gt;
-In order to understand better functional procedures, organisation and typical usage of museums, we conducted several &lt;em&gt;interviews&lt;/em&gt; with our &lt;em&gt;target users&lt;/em&gt;, namely the museum director, quality control attaché and content manager.&lt;/p&gt;
+&lt;!--- Remarks, partner list
+***
+&gt;
+- favoriser la coopération entre chercheurs et praticiens dans le but d’améliorer les pratiques pédagogiques qui répondent à des enjeux sociaux importants (sorties sans formation, poids croissant des origines sociales et territoriales dans le parcours scolaire)
+- construction de partenariats et la facilitation des échanges entre les chercheurs et les enseignants
+- favoriser un esprit d’innovation dans le monde de l’enseignement et à instaurer une culture de coopération entre le monde de la recherche et celui de l’enseignement.
+- liens entre le système éducatif et la recherche
+- structures de coopération entre chercheurs académiques et praticiens
+- transfert des connaissances du milieu de la recherche (psychologie cognitive, sciences de l'éducation etc) vers le milieu de l'enseignement
+- favoriser l'innovation dans les pratiques pédagogiques en classe
 
-  &lt;p&gt;We then &lt;em&gt;analysed&lt;/em&gt; their &lt;em&gt;jobs to be done (JTBD)&lt;/em&gt;, their &lt;em&gt;needs&lt;/em&gt;, and their exhibition life cycles. We outlined noticeable &lt;em&gt;problems&lt;/em&gt;. &lt;em&gt;Brainstorming&lt;/em&gt; sessions were then carried out to invent possible solutions.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;image entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/museopic03.jpg&quot; alt=&quot;Team analysing the JTBD and the needs of different museum staff members&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;entry thin&quot;&gt;
-  &lt;p&gt;&amp;gt;&lt;br /&gt;
-We presented our ideas in &lt;em&gt;scenarios&lt;/em&gt; to our client, exchanged comments and feedbacks. We gradually brought our concepts to life by building quick and dirty &lt;em&gt;paper mock-ups&lt;/em&gt;, &lt;em&gt;iterative evaluation&lt;/em&gt; and &lt;em&gt;digital wireframes&lt;/em&gt;.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;image entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/museopic04.jpg&quot; alt=&quot;Team meeting our client (top) and transforming paper mock-ups into digital wireframes&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;entry thin&quot;&gt;
-  &lt;p&gt;&amp;gt;&lt;br /&gt;
-We &lt;em&gt;pitched&lt;/em&gt; our project in front of our client and external audience. We further collected feedbacks and suggestions.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;image entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/museopic05.jpg&quot; alt=&quot;Team pitching our project in front of public audience&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;entry thin&quot;&gt;
-  &lt;p&gt;&amp;gt;&lt;br /&gt;
-We finalised our project by fine-tuning our &lt;em&gt;digital prototypes&lt;/em&gt;. We handed the deliverables to our client together with our &lt;em&gt;UX strategy advice&lt;/em&gt;.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;image entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/museopic-loop.gif&quot; alt=&quot;Some screenshots of one digital prototype in loop&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+&gt;
+le ministère de l'Éducation nationale, le ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation ; les rectorats des trois académies de la région Auvergne-Rhône-Alpes (Rectorat de Clermont-Ferrand, Rectorat de Grenoble, Rectorat de Lyon) ; les universités de la région Auvergne-Rhône-Alpes (Université de Lyon, Université Claude Bernard - Lyon 1, Université Lumière - Lyon 2, Université Jean Moulin - Lyon III, Université Clermont Auvergne, Université Grenoble-Alpes, Université Jean Monnet de Saint-Étienne) ; l’ENS de Lyon et l’Institut Français de l'Éducation (IFÉ) ; les ESPE Clermont Auvergne, Grenoble, et Lyon.
+---&gt;
 </description>
-        <pubDate>Mon, 22 May 2017 21:56:00 +0100</pubDate>
-        <link>http://localhost:4000/ux-ui/2017/05/22/museopic-analytics.html</link>
-        <guid isPermaLink="true">http://localhost:4000/ux-ui/2017/05/22/museopic-analytics.html</guid>
-        
-        
-        <category>ux-ui</category>
-        
+        <pubDate>Mon, 09 Mar 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/carnot/</link>
+        <guid isPermaLink="true">http://localhost:4000/carnot/</guid>
       </item>
     
       <item>
-        <title>Compact City</title>
-        <description>&lt;div class=&quot;entry&quot;&gt;
-  &lt;p&gt;&amp;gt;&lt;br /&gt;
-This is a &lt;em&gt;simulation&lt;/em&gt; of &lt;em&gt;Scrum framework&lt;/em&gt; of &lt;em&gt;Agile development principles&lt;/em&gt; for &lt;em&gt;project management&lt;/em&gt;. The objective is to construct an ideal city for a product owner in 30 minutes.&lt;/p&gt;
+        <title>MesInfos&amp;colon; my data, my hut!</title>
+        <description>&lt;h1 id=&quot;problem&quot;&gt;Problem&lt;/h1&gt;
+&lt;p&gt;As digital services emerge, every day we create a huge amount of data across various providers.📱💻⌚️📡 Yet, we don’t know what has been written on our names behind their gates. Why are we——the data generators——&lt;em&gt;kept in the dark from our own data&lt;/em&gt; footprints online?&lt;/p&gt;
 
-  &lt;p&gt;&lt;strong&gt;Contraints&lt;/strong&gt; are &lt;em&gt;3 iteration phases&lt;/em&gt; at maximum, each consists of a &lt;em&gt;7-minute sprint&lt;/em&gt; in which our team try to build the city up phase by phase with Lego and drawings.&lt;/p&gt;
+&lt;div class=&quot;e-iframe&quot;&gt;
+  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/6Wh8HMRKP4U?&amp;amp;cc_load_policy=1&amp;amp;cc_lang_pref=en&amp;amp;rel=0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;image entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/compactcity01.jpg&quot; alt=&quot;Team members assembling Lego pieces.&quot; /&gt;&lt;/p&gt;
+&lt;h1 id=&quot;goal&quot;&gt;Goal&lt;/h1&gt;
+&lt;p&gt;This is what the think tank &lt;a href=&quot;https://fing.org/&quot; target=&quot;_blank&quot;&gt;Fondation Internet Nouvelle Génération&lt;/a&gt; (la Fing) and we believe: &lt;em&gt;everyone shall be able to handle our own data, and make use of them for our own good!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Instead of being locked up in companies’ 🔐cryptic servers, the data that we create daily ought to be provided back to us; they should be as worthy and useful to the individuals as to the companies. 💪🏼&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/portfolio/mesinfos03-2.jpg&quot; alt=&quot;Visualising Cozy Cloud's architecture.&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;dive-in&quot;&gt;Dive in&lt;/h1&gt;
+&lt;p&gt;We worked with &lt;a href=&quot;https://cozy.io/&quot; target=&quot;_blank&quot;&gt;Cozy Cloud&lt;/a&gt;, an open-source, privacy by design, self-hosting ready storage architecture originated from France. We collaborated with their developers to &lt;em&gt;comprehend&lt;/em&gt; the functioning of a smart, personal data hub and the intricacies in the connectors and &lt;em&gt;data models&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;We evaluated the types of information and data generated in a contemporary digital daily life. That includes ☎️telecom bills, 💰banking entries, ⚡️energy usage, 🚋trasport expenditure, important papers such as 📜insurances, as well as 📸🖼multimedia input as familiar as our smartphones and 📊activity trackers.&lt;/p&gt;
+
+&lt;div class=&quot;o-grid&quot;&gt;
+  &lt;div class=&quot;o-grid__col o-grid__col--2-4-m&quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/portfolio/mesinfos04-a-2.jpg&quot; alt=&quot;Remapping a better user journey.&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;o-grid__col o-grid__col--2-4-m&quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/portfolio/mesinfos04-b.jpg&quot; alt=&quot;User journey and scenarios with USPs.&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;entry&quot;&gt;
-  &lt;p&gt;&amp;gt;&lt;br /&gt;
-The &lt;em&gt;product owner&lt;/em&gt; listed &lt;strong&gt;13 criteria&lt;/strong&gt; for her ideal city: a sushi restaurant, a hospital, a digital co-working place, an art gallery, a giant park, a concert hall, an Olympic swimming pool, an organic food store, a Belgian bar, an art house cinema, a game bar, a tram system and a beach.&lt;/p&gt;
+&lt;h1 id=&quot;hands-on&quot;&gt;Hands-on&lt;/h1&gt;
+&lt;p&gt;To better understand how we can &lt;em&gt;maximise the potentials of ‘self data’&lt;/em&gt;, we conducted user research to probe into the handling of personal data of dissimilar profiles, analysed their pain points and the missing hinges. We sought the possibilities to &lt;em&gt;improve their individual digital management&lt;/em&gt; and address their needs.&lt;/p&gt;
 
-  &lt;p&gt;Our &lt;em&gt;scrum master&lt;/em&gt; led the scrum team in estimating time and resources needed to realise each criterion. The product owner prioritised her criteria upon personal preference.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/portfolio/mesinfos-personas-scenarios.jpg&quot; alt=&quot;Personas and use case scenarios&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;In each &lt;em&gt;phase&lt;/em&gt;, our team pulled tasks from &lt;em&gt;backlog&lt;/em&gt; to &lt;em&gt;sprint&lt;/em&gt; and decided which tasks to be accomplished by whom.&lt;/p&gt;
-&lt;/div&gt;
+&lt;p&gt;After mapping user concerns against the platform’s status quo, we ideated how we can &lt;em&gt;convert functions as added values&lt;/em&gt; through Cozy Cloud as its unique selling points. We crystalised our findings in &lt;em&gt;use cases and personas&lt;/em&gt;. Through an iterative process, we &lt;em&gt;wireframed new functions&lt;/em&gt; for the platform and collected feedback from different stakeholders. In the end of our partnership, we presented over our &lt;a href=&quot;https://invis.io/9UBH1AVTG#/231254425_1-accueil&quot; target=&quot;_blank&quot;&gt;prototype&lt;/a&gt; to Cozy Cloud &amp;amp; la Fing, pitched some further concepts, handed over an advisory report and a vision road map for subsequent development of the project.&lt;/p&gt;
 
-&lt;div class=&quot;image entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/compactcity02.jpg&quot; alt=&quot;Product owner (top right) prioritising her criteria and scrum master leading the scrum team to estimate necessary time and resources&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;/images/portfolio/mesinfos-USP.jpg&quot; alt=&quot;What makes Cozy Cloud unique? We stressed on what added values each function can bring to the users.&quot; /&gt;&lt;/p&gt;
 
-&lt;div class=&quot;entry thin&quot;&gt;
-  &lt;p&gt;&amp;gt;&lt;br /&gt;
-During each 7-minute &lt;em&gt;sprint&lt;/em&gt;, each team member constructs his/her responsible part of the city.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;image entry thin&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/compactcity03-compressed.jpg&quot; alt=&quot;Team members building his/her assigned part of the city&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;entry&quot;&gt;
-  &lt;p&gt;&amp;gt;&lt;br /&gt;
-At the end of each phase, the product owner &lt;em&gt;evaluated&lt;/em&gt; our production. Accepted criteria were moved from &lt;em&gt;sprint&lt;/em&gt; and marked as &lt;em&gt;done&lt;/em&gt;, whereas unsatisfactory ones were rejected back to &lt;em&gt;backlog&lt;/em&gt;. Comments were also given if any specific &lt;em&gt;modification&lt;/em&gt; was wanted.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;image entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/compactcity04.jpg&quot; alt=&quot;Product owner assessing the production by the end of each sprint&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;image entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/compactcity05.jpg&quot; alt=&quot;Project progress: the 13 criteria assigned as in the ‘backlog’, ‘sprint’, and ‘done‘&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;entry thin&quot;&gt;
-  &lt;p&gt;&amp;gt;&lt;br /&gt;
-As &lt;em&gt;iterations&lt;/em&gt; followed, our team approached and materialised her ideal city step by step.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;image entry thin&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/compactcity06.jpg&quot; alt=&quot;Construction of the ideal city in progress&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;entry&quot;&gt;
-  &lt;p&gt;&amp;gt;&lt;br /&gt;
-By the end of the third iteration, all criteria were satisfied with an additional leading element added: a private mansion for the project owner.&lt;/p&gt;
-
-  &lt;p&gt;She then named her ideal city &lt;strong&gt;‘Compact City‘&lt;/strong&gt; and &lt;em&gt;presented&lt;/em&gt; it to the public.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;image entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/compactcity07.jpg&quot; alt=&quot;Product owner presenting her ‘Compact City’ to the audience&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;image entry&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/compactcity08.jpg&quot; alt=&quot;Bird’s-eye view of ‘Compact City’&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;extras&quot;&gt;
+  &lt;p&gt;Courtesy: &lt;i&gt;Cozy Cloud&lt;/i&gt;, visual content. &lt;i&gt;La Fing&lt;/i&gt;, video.&lt;/p&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Mon, 22 May 2017 21:56:00 +0100</pubDate>
-        <link>http://localhost:4000/ux-ui/2017/05/22/compact-city.html</link>
-        <guid isPermaLink="true">http://localhost:4000/ux-ui/2017/05/22/compact-city.html</guid>
-        
-        
-        <category>ux-ui</category>
-        
+        <pubDate>Sun, 08 Mar 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/mesinfos/</link>
+        <guid isPermaLink="true">http://localhost:4000/mesinfos/</guid>
       </item>
     
+      <item>
+        <title>ComPASS&amp;colon; global co-working, aligned direction</title>
+        <description>&lt;h1 id=&quot;problem&quot;&gt;Problem&lt;/h1&gt;
+&lt;p&gt;Collaborative work can be tough when you do not share the same vision… especially when you are &lt;em&gt;5,000+ altogether across the world!?&lt;/em&gt; 🌎🌍🌏&lt;/p&gt;
+
+&lt;h1 id=&quot;status-quo&quot;&gt;Status quo&lt;/h1&gt;
+&lt;p&gt;TÜV Rheinland is a 145-year-old-and-growing certification service provider for all kinds of technical standards, ranging from 🧸baby toys to 🚜heavy machinery. It holds offices worldwide and work with test centres and laboratories across continents.&lt;/p&gt;
+
+&lt;p&gt;To guarantee quality and security, products are examined and tested comprehensively at TÜV, often at the best situations in different 👨🏻‍🔬regional labs. Hence, &lt;em&gt;delegation, coordination &amp;amp; management&lt;/em&gt; between divisions are crucial to their success and competitiveness.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/portfolio/tuev-compass-globar-cowork.png&quot; alt=&quot;Scattered locations and unaligned workflow makes global coordination difficult&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;But protocols and concensus do not always come naturally. Departments have developed their unique ways of work over time. A &lt;em&gt;shared standard work tool&lt;/em&gt; along the international production becomes necessary to bring people and work together. 🙋🏾‍♀️🙋🏻‍♂️🙋🏼‍♀️🙋🏾‍♂️&lt;/p&gt;
+
+&lt;h1 id=&quot;concept&quot;&gt;Concept&lt;/h1&gt;
+&lt;p&gt;That’s how ComPASS came to live! ComPASS is a &lt;em&gt;workflow platform&lt;/em&gt; tailor-made for TÜV’s global business. It accompanies their various teams through thier production process and &lt;em&gt;🧭provide orientation&lt;/em&gt; to players on complex proejcts. From order placement &amp;amp; analysis, labour division &amp;amp; cooperation, to lab tests, reports &amp;amp; follow-ups——every pace is incorporated and taken care of on ComPASS.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/portfolio/tuev-compass-alignment.png&quot; alt=&quot;Scattered locations and unaligned workflow makes global coordination difficult&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;hands-on&quot;&gt;Hands-on&lt;/h1&gt;
+&lt;p&gt;We met with their international business and technical departments to conduct &lt;em&gt;🔍user research&lt;/em&gt;. By understanding and analysing their process and roles, we discovered insights in how to &lt;em&gt;digitise, innovate and reshape their global workflow&lt;/em&gt;. We tried to, as well, tactically find the common ground for geographical &lt;em&gt;work culture &amp;amp; habits&lt;/em&gt;. This led us to a flexible, scalable system which not only consolidates their business as a whole, but also tones in well with different team players across the board. ⛹🏻‍♀️⛹🏽‍♂️&lt;/p&gt;
+
+&lt;p&gt;We work in an &lt;em&gt;intercontinental dual-track agile team&lt;/em&gt; across seven locations: 🇯🇵Yokohama, 🇭🇰Hong Kong, 🇨🇳Shanghai, 🇹🇼Taipei, 🇬🇧London, 🇩🇪Nuremberg, and 🇩🇪Cologne. We take care of the exploration and insight discovery, as well as guaranteeing end product delivery. Altogether we are building the ComPASS platform and simultaneously &lt;em&gt;developing a design system&lt;/em&gt; for TÜV Rheinland for their other forthcoming digital products.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/portfolio/tuev-compass-design-system.png&quot; alt=&quot;Design system for TÜV Rheinland&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;result&quot;&gt;Result&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Higher transparency&lt;/em&gt; along the global pipeline, &lt;em&gt;better management &amp;amp; coordination&lt;/em&gt; of working teams, &lt;em&gt;closer collaboration&lt;/em&gt; between business &amp;amp; technical departments——all towards a &lt;strong&gt;stronger service provision, catalysing customer satisfaction&lt;/strong&gt;. 😄🧭&lt;/p&gt;
+
+&lt;div class=&quot;extras&quot;&gt;
+  &lt;p&gt;Courtesy: &lt;i&gt;denkwerk&lt;/i&gt;, visual content.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;!--- Short description
+***
+
+To better administer business process and maintain higher transparency along the production pipeline across the globe, ComPASS platform innovates the internal coordination in TÜV Rheinland by bringing business and technical departments in closer collaboration, strengthening service competitiveness and catalysing customer satisfaction.
+---&gt;
+</description>
+        <pubDate>Sun, 08 Mar 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/compass/</link>
+        <guid isPermaLink="true">http://localhost:4000/compass/</guid>
+      </item>
+    
+      <item>
+        <title>Bikespector&amp;colon; shared bikes prediction</title>
+        <description>&lt;h1 id=&quot;problem&quot;&gt;Problem&lt;/h1&gt;
+&lt;p&gt;Can I count on my shared bike?🚲&lt;/p&gt;
+
+&lt;p&gt;Shared mobility is good for urban dwellers. You don’t need a bike (or car) if you just want to get from A to B. Sharing bikes saves us the money and the worry of losing one. But since everyone can take and go at any moment, it is &lt;em&gt;hard to rely on shared bikes&lt;/em&gt; to plan your trip. Besides, what if it suddenly rains?⛈&lt;/p&gt;
+
+&lt;!--- Add back video when live
+&lt;figure&gt;
+  &lt;video autoplay loop muted&gt;
+    &lt;source src=&quot;/videos/portfolio/ardi-logo.mp4&quot; type=&quot;video/mp4&quot;&gt;
+  &lt;/video&gt;
+  &lt;figcaption class=&quot;extras&quot;&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+---&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/portfolio/bikespector-shared-bikes-timetable.png&quot; alt=&quot;Can we have a service timetable for shared bikes?&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;concept&quot;&gt;Concept&lt;/h1&gt;
+&lt;p&gt;Shared bikes being a means of transport, we believe hirers should be given something more tangible to depend on, like a 🚇metro or 🚌bus &lt;em&gt;timetable&lt;/em&gt;; and that should also take account of other factors which can affect its service, like 🌤weather.&lt;/p&gt;
+
+&lt;p&gt;If shared bikes are as volatile as weather, can we &lt;em&gt;forecast&lt;/em&gt; them with what we know?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/portfolio/bikespector-machine-learning.png&quot; alt=&quot;If shared bikes are as volatile as weather, can we forecast them with what we know?&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;hands-on&quot;&gt;Hands-on&lt;/h1&gt;
+&lt;p&gt;We made use of the &lt;em&gt;open data&lt;/em&gt; of shared bikes in Cologne, Berlin, Düsseldorf and Frankfurt. Together with &lt;em&gt;weather&lt;/em&gt; data, we studied the &lt;em&gt;coorelation&lt;/em&gt; between them while aiming at predicting bikes availability around a given address for the upcoming hours and days. Through the course of the analysis, this has been translated into 🤩&lt;em&gt;forecasting free shared bikes&lt;/em&gt; around a point——within a preferred walking distance——for the next hour up to 5 days ahead.&lt;/p&gt;
+
+&lt;p&gt;Together with data specialists, we built a data model and applied machine learning methods. Over time, our model got trained to purify its &lt;em&gt;prediction accuracy&lt;/em&gt;. We have been able to attain as high as &lt;em&gt;84%&lt;/em&gt;.✅&lt;/p&gt;
+
+&lt;p&gt;At the same time, we developed an intereactive interface to &lt;em&gt;visualise&lt;/em&gt; our bike prediction data and turned it into a serviceable tool open to public.&lt;br /&gt;
+👉🏼&lt;a href=&quot;https://www.bikespector.de&quot; target=&quot;_blank&quot;&gt;Check it out!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/portfolio/bikespector-UI.png&quot; alt=&quot;Bikespector interface, forecasting shared bikes availability from the next hour up to 5 days ahead!&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;results&quot;&gt;Results&lt;/h1&gt;
+&lt;p&gt;Now shared bikes users can &lt;em&gt;better count&lt;/em&gt; on their &lt;em&gt;local bike hire&lt;/em&gt; as a proper means of transport, and plan their trips with shared bikes in and around the city. &lt;strong&gt;Shared mobility made reliable!&lt;/strong&gt; 😎🚲❤️&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Interested in making the list longer together? Let’s get in touch! &lt;a href=&quot;mailto:kei.khcheung@gmail.com&quot;&gt;E-mail&lt;/a&gt; &lt;a href=&quot;https://twitter.com/keikhcheung&quot; target=&quot;_blank&quot;&gt;Twitter&lt;/a&gt; &lt;a href=&quot;https://www.linkedin.com/in/kei-cheung/&quot; target=&quot;_blank&quot;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;extras&quot;&gt;
+  &lt;p&gt;Courtesy: &lt;i&gt;denkwerk&lt;/i&gt;, visual content.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 08 Mar 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/bikespector/</link>
+        <guid isPermaLink="true">http://localhost:4000/bikespector/</guid>
+      </item>
+    
+      <item>
+        <title>Are we indeed smart, or foolisher than we think?</title>
+        <description>&lt;hr /&gt;
+
+&lt;p&gt;Move fast and break things.&lt;/p&gt;
+
+&lt;p&gt;It is Mark Zuckerberg’s (in-)famous motto for design and management process: to disrupt existing normality, to get rid of unnecessary formalities and red tape, to deliver faster to the hands of customers. This ideology sounds enticing and may be pertinent to keeping processes and management lean. It has been supported by the proliferation of start-ups. Nevertheless, being fast and breaking things does not guarantee a good outcome all the time. &lt;em&gt;Being fast pushes us to&lt;/em&gt; process fast; processing fast invites us to jump steps; jumping steps risks &lt;em&gt;committing mistakes&lt;/em&gt;——sometimes unnecessary, consequential, and unmendable ones.&lt;/p&gt;
+
+&lt;p&gt;To avoid breaking dishes (and perhaps a product/brand/company’s reputation and people’s trust in return), we might have to slow down at times——especially at crucial moments when we make decisions and/or judgement calls. &lt;em&gt;We would have to acknowledge our limits and wisely cope with them.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;This is what &lt;i&gt;Thinking, Fast and Slow&lt;/i&gt; by Daniel Kahneman is about: understanding the limits of our mind, acknowledge them in our thinking, and wisely cope with them as they happen.&lt;/p&gt;
+
+&lt;p&gt;Below I am going to unfold some of my highlights from the book related to my profession as an Experience Designer. I warn you: it is looooong. &lt;strong&gt;TL;DR&lt;/strong&gt; is here:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;We are lazy in thinking. Most of the time, we just follow our ‘instinct’.&lt;/li&gt;
+  &lt;li&gt;We only know what is available for us to know. The unknown can affect (hugely) what we are evaluating, judging, and designing.&lt;/li&gt;
+  &lt;li&gt;We circumvent complicated problems by answering easier, relatable questions.&lt;/li&gt;
+  &lt;li&gt;We are prone to what we are used to believing. Taking action simply based on our beliefs can adhere us further (only) to them.&lt;/li&gt;
+  &lt;li&gt;Experience does not mean memory, vice versa. Which one are you talking about?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;0-how-do-we-think&quot;&gt;0. How do we think?&lt;/h2&gt;
+
+&lt;!--- Use &lt;figure&gt; and &lt;figcaption&gt; instead of p &gt; img ---&gt;
+&lt;figure class=&quot;image&quot;&gt;
+  &lt;img src=&quot;/images/blog/Thinking-00.png&quot; alt=&quot;Two systems of thinking: fast car and slow, sleepy turtle.&quot; /&gt;
+  &lt;figcaption class=&quot;extras&quot;&gt;
+    Two systems of thinking: fast car and slow, sleepy turtle.
+    &lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;At ground zero, Kahneman points out that there are two distinct thinking systems in our minds. &lt;em&gt;‘System 1’ is mostly autonomous and capable of making fast, intuitive decisions.&lt;/em&gt; It is partly rooted in our evolutionary instinct and, to a certain extent, developed through the years from how we experience and learn about the world. &lt;em&gt;‘System 2’ is the slower counterpart. It monitors System 1 and is capable of producing deliberate thoughts.&lt;/em&gt; By default, it is idle, remains comparatively dormant, and requires effort to wake it up. These two systems coexist and spontaneously interfere with each other without us becoming aware of such an occurrence. In the book, Kahneman analyses the interrelations between the two systems. Examples about cognition and thinking procedures are in plenty and well detailed to aid in discerning the intricacies of their correlation. Here are a few tricky discoveries of cognitive biases, which can apply to the Design &amp;amp; Research environment.&lt;/p&gt;
+
+&lt;h2 id=&quot;1-what-you-see-is-all-there-is&quot;&gt;1. ‘What you see is all there is.’&lt;/h2&gt;
+
+&lt;!--- Use &lt;figure&gt; and &lt;figcaption&gt; instead of p &gt; img ---&gt;
+&lt;figure class=&quot;image&quot;&gt;
+  &lt;img src=&quot;/images/blog/Thinking-01.png&quot; alt=&quot;WYSIATI: what you see is all there is; what you don't see is all there is not.&quot; /&gt;
+  &lt;figcaption class=&quot;extras&quot;&gt;
+    WYSIATI: what you see is all there is; what you don't see is all there is not.
+    &lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Our decisions are based on our judgements. Our judgements are based on our understanding. Our understanding is based on our perception. And our perception is based on what there is——in front and around us——the discoverable.&lt;/p&gt;
+
+&lt;p&gt;Simply put, &lt;em&gt;we know the things we’ve learnt of; and we do not know what we have not.&lt;/em&gt; Hence, when we have to make decisions and judgements about something beyond what we know, we turn back to what we have learnt and memories of how we’ve applied it. We search through our experiences and weigh our options against what we have lived through and believe. We seek to correlate fragments to form our current understanding of dos and don’ts.&lt;/p&gt;
+
+&lt;p&gt;But there is a lot more than what we know, beyond our understanding, beyond our awareness, and even just beyond the discoverable (e.g. until the current time). Of course, you may look up online or in books when you have some necessary clues as to what you’re missing. But when these clues are not in our vision, we simply won’t know them or their impact on the subject matter and the decision at hand.&lt;/p&gt;
+
+&lt;p&gt;You may observe a wilting and yellowing plant and link it to your understanding that it may have been under-watered. Not until you learn that it could be a symptom of rot roots or bound roots would you enquire into its bottom soil. And all this very likely has started to happen before you can even see the plant wilt. Similarly, you may observe a drop in sales in your smartphone product line and begin to look back in history how products and their sales figures were revamped. You may well infer that making a trendier and fancier look for the next generation would help restore its desirability. But not until you realise that your customers have turned to durability and sustainable ethics can you take the right track towards a proper solution.&lt;/p&gt;
+
+&lt;h2 id=&quot;2-we-replace-complex-problems&quot;&gt;2. We replace complex problems&lt;/h2&gt;
+
+&lt;!--- Use &lt;figure&gt; and &lt;figcaption&gt; instead of p &gt; img ---&gt;
+&lt;figure class=&quot;image&quot;&gt;
+  &lt;img src=&quot;/images/blog/Thinking-02.png&quot; alt=&quot;Hmm… let's just take the shorter route! Wait, have we already?&quot; /&gt;
+  &lt;figcaption class=&quot;extras&quot;&gt;
+    Hmm… let's just take the shorter route! Wait, have we already?
+    &lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;When we are dealing with complex problems, Kahneman points out that we often dodge them by &lt;em&gt;replacing them with simpler, more straightforward questions&lt;/em&gt;, answering the substitutes, and then pretending to have resolved the original ones. This swapping mechanism is so automated and rooted in our thinking that we do not even notice it when we have performed it.&lt;/p&gt;
+
+&lt;p&gt;Take an example: You just relaunched a website, and you want to assess how great your website is. You approach some visitors and ask them whether your new website is great. While they may tell you they like the new fresh look or they prefer the old one, and point out all the wows and ewws, they might have already been answering the substitute question ‘Do I like this new website?’, instead of ‘Is this new website great?’.&lt;/p&gt;
+
+&lt;p&gt;To really evaluate whether your new website is great or not, you might have to guide yourself through a few criteria and metrics:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Does it allow better information access (usability)?&lt;/li&gt;
+  &lt;li&gt;Does it offer more engaging storytelling (branding)?&lt;/li&gt;
+  &lt;li&gt;Does it drive better e-commerce conversion (sales)?&lt;/li&gt;
+  &lt;li&gt;Does it satisfy a broader coverage of use cases for all visitor profiles (accessibility)?&lt;/li&gt;
+  &lt;li&gt;Does it load faster on poor Internet connection (performance)?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All in all, you are determining whether it better fulfils your original objectives than the old website, and/or whether it attains higher scores in the parameters that you measure. Thus, it is crucial to trace qualitative feedback back to where they come from, to what they are really addressing; and then compare whether and how much they are in line with your assessment before jumping into conclusion.&lt;/p&gt;
+
+&lt;h2 id=&quot;3-we-create-illusion-to-validate-what-we-believe&quot;&gt;3. We create illusion to validate what we believe&lt;/h2&gt;
+
+&lt;!--- Use &lt;figure&gt; and &lt;figcaption&gt; instead of p &gt; img ---&gt;
+&lt;figure class=&quot;image&quot;&gt;
+  &lt;img src=&quot;/images/blog/Thinking-03.png&quot; alt=&quot;The more it seems complete, the more you believe it is correct.&quot; /&gt;
+  &lt;figcaption class=&quot;extras&quot;&gt;
+    The more it seems complete, the more you believe it is correct.
+    &lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;When we think, not only are our minds lazy and prone to inertia, limited in scope, and erratic along the route, what’s more is that our mind is also delusive regarding the basis on which we think.&lt;/p&gt;
+
+&lt;p&gt;In his book, Kahneman has cited many cases about experts failing their own expertise. The situation is intriguing to study. The objective discovery from this is that &lt;em&gt;our beliefs&lt;/em&gt;——the collection of good-and-bads through experiences, and the pedestal of current judgements and decisions——&lt;em&gt;are not often based on facts; but rather on stories and their coherence.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;When we hear a story, we evaluate whether the story makes sense, whether it sounds plausible. The further we listen, we analyse whether the information is consistent——consistent with the idea conveyed, consistent with what we were told before——and maybe whether the interlinkages sound admissible. The more complete the story is, the more plausible it appears to us. If nothing raises concern to our guard (System 2), we do not necessarily attempt to seek whether what we are hearing/seeing is true; we do not verify it by reflex.&lt;/p&gt;
+
+&lt;p&gt;This is particularly dangerous as how social media and partisan (at times fake) news have demonstrated. The former gradually sets us into our own bubble through (micro-)profiling; the latter creeps in and reinforces the echoes in the chamber. The more resounding a story seems, the more we may believe it; the more we interact with the things we believe, the more we tend to get profiled as interested in that topic; thus the more we get shown that content… Echoing algorithms and potential dogmatism in short.&lt;/p&gt;
+
+&lt;p&gt;As designers, how can we help solve this problem? How can we help people step out of their chamber? How can we prevent polarising communities and help people discover pluralities in perspectives and opinions? These problems are nothing new, but counteractive measures continue to fall short.&lt;/p&gt;
+
+&lt;p&gt;Unravelling these puzzles would require better initiatives from involved groups as collectives (designers + developers, content creators + visitors + media regulators, business managers + entrepreneurs + legal bodies, …) to undertake a closer, introspective collaboration for dissolving our illusions of verities.&lt;/p&gt;
+
+&lt;h2 id=&quot;4-we-do-not-tell-the-same-experience-as-we-experience-it&quot;&gt;4. We do not tell the same experience as we experience it&lt;/h2&gt;
+
+&lt;!--- Use &lt;figure&gt; and &lt;figcaption&gt; instead of p &gt; img ---&gt;
+&lt;figure class=&quot;image&quot;&gt;
+  &lt;img src=&quot;/images/blog/Thinking-04.png&quot; alt=&quot;Believe it or not: we can find it more pleasant to slowly walk out of pain instead of stopping abruptly at once!&quot; /&gt;
+  &lt;figcaption class=&quot;extras&quot;&gt;
+    Believe it or not: we can find it more pleasant to slowly walk out of pain instead of stopping abruptly at once!
+    &lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Last but not least, what makes our mind more complicated is the construction of scenes which we underwent inside our head——called memory.&lt;/p&gt;
+
+&lt;p&gt;When we recall an experience, we do not necessarily paint the same picture as to how we experienced it. This is not about accusing us of a lying nature, but rather about the &lt;em&gt;deviation in the image we create relative to how we truly lived the event&lt;/em&gt;. And through establishing this image (later as memory) in our mind, which we will remember over time and tell, we neglect the details to a certain extent and change the overall scenery inscribed in our head.&lt;/p&gt;
+
+&lt;p&gt;You may be on a holiday. Everything is pleasant and fine. Until the point where you lose your wallet and your experience takes a 180 ̊ turn into a frantic nightmare. Later on, when your friends ask how your holiday was, your narration will very likely be dominated by the peak moment of the holiday (unfortunately your lost wallet) and how it ended. Your memory of this holiday would very probably also be affected by the incident.&lt;/p&gt;
+
+&lt;p&gt;Kahneman explains that &lt;em&gt;memory&lt;/em&gt; (the mental notation of how something happened) &lt;em&gt;is symbolised by the peak and the end of an experience.&lt;/em&gt; Other details tend to wane when we are reporting the occurrence. Besides, the amount of time in total matters little when we gauge it in hindsight. Our retrospective evaluation of an event can almost be summarised by the average of the most sensational moment and the end of the entire encounter.&lt;/p&gt;
+
+&lt;p&gt;It opens up a big question for Experience Design: What are we actually designing for? Are we designing for a better in situ experience as we live it at the very moment, or are we designing for a better memory of the experience afterwards? The real situation may be less philosophical than the question appears. The best is to maximise both.&lt;/p&gt;
+
+&lt;p&gt;If you file a tax declaration online, the interface should:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Convey security and confidentiality when you are using it (experience security);&lt;/li&gt;
+  &lt;li&gt;Enable you to get yourself through the filing process without too much doubt (experience ease); and&lt;/li&gt;
+  &lt;li&gt;Offer less hassle than paper and pen——and quick (experience convenience)!&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;We can offer you detailed explanations of all the form fields through your preparation for the tax declaration. In this way, you may experience ease from the platform when using it, as you have never been provided such clear guidance and pinged by so few doubts. However, this will probably lengthen your preparation before you can submit your file because it now consumes your attention and patience at every granular level. You would not experience convenience. It might even give rise to a repelling sensation within your quick-to-associate mind, that this platform is the devil of bureaucracy incarnate. You would detest this platform and label it in your memory as ‘never use again’.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Tricky is the way we think, trickier than we know it and are aware of it. There are many more unfamiliar bizarreries in our minds, side tracks and loopholes in our thinking. To really understand the limits of our cognitive process so as to acknowledge and better cope with them, I invite you to read Kahnemann’s book itself! 😉 You will very likely discover the commonly overlooked mistakes/biases related to your own field/practice.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;To recap:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;We are lazy in thinking. Most of the time, we just follow our ‘instinct’.&lt;/li&gt;
+  &lt;li&gt;We only know what is available for us to know. The beyond can affect what we are evaluating, judging, and deciding.&lt;/li&gt;
+  &lt;li&gt;We circumvent complicated problems by tackling easier, relatable issues.&lt;/li&gt;
+  &lt;li&gt;We are prone to what we are used to believing. Actions taken simply based on our beliefs can make our grip further tenacious.&lt;/li&gt;
+  &lt;li&gt;Experience does not mean memory, vice versa. Which one are you talking about?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&quot;extras&quot;&gt;
+  &lt;p&gt;This article is also published on &lt;a href=&quot;https://medium.com/denkwerk-stories/are-we-indeed-smart-or-foolisher-than-we-think-45010c02ded1&quot; target=&quot;_blank&quot;&gt;Medium&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 08 Mar 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/2020/03/08/Are-we-indeed-smart/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2020/03/08/Are-we-indeed-smart/</guid>
+      </item>
+    
+      <item>
+        <title>Tintoretto2Go&amp;colon; hijack adverts with art + city treasure hunt</title>
+        <description>&lt;div class=&quot;extras&quot;&gt;
+
+  &lt;h5 id=&quot;awards&quot;&gt;Awards&lt;/h5&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;Gold Medal, ‘Digital Out of Home’, &lt;a href=&quot;http://www.goldenawardmontreux.com/winners2018/winners2018-digital.html&quot; target=&quot;_blank&quot;&gt;Golden Awards of Montreux 2018&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Silber, ‘Digitale Sonderformate’, &lt;a href=&quot;https://www.annual-multimedia.de/gewinner_2019/&quot; target=&quot;_blank&quot;&gt;Annual Multimedia Awards 2019&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Bronze, Best User Experience in ‘Mobile &amp;amp; Applications’, &lt;a href=&quot;(https://winners.lovieawards.eu/#!y=2018&amp;amp;m=274){:target=&amp;quot;_blank&amp;quot;}&quot;&gt;Lovie Awards 2018&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Best Visual Design: Function, ‘Apps, Mobile, and Voice’, &lt;a href=&quot;(https://www.webbyawards.com/winners/2019/apps-mobile-and-voice/apps-mobile-features/best-visual-design-function/tintoretto2go/){:target=&amp;quot;_blank&amp;quot;}&quot;&gt;Webby Awards 2019&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Nomination, Culture &amp;amp; Events in ‘Apps, Mobile, and Voice’, &lt;a href=&quot;(https://www.webbyawards.com/winners/2019/apps-mobile-and-voice/apps-mobile-sites-general/culture-events/tintoretto2go/){:target=&amp;quot;_blank&amp;quot;}&quot;&gt;Webby Awards 2019&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h1 id=&quot;background&quot;&gt;Background&lt;/h1&gt;
+&lt;p&gt;How to make classical art appealing to young people?&lt;/p&gt;
+
+&lt;p&gt;In the celebration of the 500&lt;sup&gt;th&lt;/sup&gt; birthday of 👨🏻‍🎨Jacopo Tintoretto, Italian Renaissance artist, we &lt;em&gt;remixed classial paintings with visual recognition &amp;amp; augmented reality&lt;/em&gt;.&lt;/p&gt;
+
+&lt;video width=&quot;992&quot; controls=&quot;&quot; autoplay=&quot;&quot;&gt;
+&lt;source src=&quot;http://www.pipipi.de/fileadmin/dam/awards/tintoretto2go/tintoretto2go_master_mp4_en_klein_2.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+
+&lt;h1 id=&quot;concept&quot;&gt;Concept&lt;/h1&gt;
+&lt;p&gt;On Tintoretto2Go, we &lt;em&gt;hijacked advertisements&lt;/em&gt; around the city of Cologne and Berlin by replacing them with first-class paintings. 💎Hidden gems in these artworks were spotlit with &lt;em&gt;animated 3D modelling in AR&lt;/em&gt;, letting the public relive the spectacles of the grand classic. What’s more? We hid them all around the city and updated every week——it’s the &lt;em&gt;treasure hunt in neighbourhoods&lt;/em&gt; and in the streets!🕵🏻‍♀️🕵🏽‍♂️ No matter if you unlock all of them or not, it guides you to explore Wallraf-Richartz Museum’s special exhibition ‘Tintoretto——A Star was Born’ in the end, and offers you a discount to the museum if you find them all!✨&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/portfolio/tintoretto-storyboard-2.jpg&quot; alt=&quot;Storyboard for Tintoretto2Go, narratives of Renaissance masterpiece&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;hands-on&quot;&gt;Hands-on&lt;/h1&gt;
+&lt;p&gt;Starting with literature review in different languages and expert interviews, we found out the highlights in the 🖼licensed paintings and created &lt;em&gt;compelling storytelling&lt;/em&gt; out from the artworks. We consolidated the narratives and produced 🌌storyboards, consulted the museum curator and gathered feedback, before we went into 3D modelling/animation and development with the team.&lt;/p&gt;
+
+&lt;p&gt;Later, we tested our prototype and further improved our 👾game experience. Every week we updated the visual markers to enhance the city hunt amusement. 🏃🏻‍♂️🏃🏼‍♀️&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/portfolio/tintoretto-test-compressed.jpg&quot; alt=&quot;On-site testing for AR storytelling&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;result&quot;&gt;Result&lt;/h1&gt;
+&lt;p&gt;The exhibition was held in Cologne Oct 2017–Jan 2018. As many as &lt;em&gt;99,062 visitors&lt;/em&gt; have found their way into Wallraf-Richartz Museum, exceeding all expectations! 🎪&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We are very pleased about the enthusiasm with which our Tintoretto exhibition was received by such a broad audience. The spectrum ranged from young people interested in art to avid Tintoretto lovers to experienced specialists from all over the world.&lt;/p&gt;
+
+  &lt;p&gt;—— Marcus Dekiert, Museum Director&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The jubilee exhibition was later hosted in Musée du Luxembourg in 🇫🇷Paris.&lt;/p&gt;
+
+&lt;div class=&quot;extras&quot;&gt;
+  &lt;p&gt;Courtesy: &lt;i&gt;denkwerk&lt;/i&gt;, visual content.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 07 Feb 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/tintoretto/</link>
+        <guid isPermaLink="true">http://localhost:4000/tintoretto/</guid>
+      </item>
+    
+      <item>
+        <title>SnowRec&amp;colon; connected ski camp</title>
+        <description>&lt;h1 id=&quot;challenge&quot;&gt;Challenge&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;IoT for winter sport&lt;/em&gt;, how can the Internet of things be applied to innovate winter sport?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/portfolio/snowrec02b.jpg&quot; alt=&quot;SnowRec&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;study&quot;&gt;Study&lt;/h1&gt;
+&lt;p&gt;We first started with brainstorming the AEIOU of ☃️winter sport: activities, environments, interactions, objects, and users. We soon recognise the big IoT problem for winter sport: thick clothes, thick gloves, thick googles——all but &lt;em&gt;obstacles for the use of touch-based digital products&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;After some research, we found out that families in ski resort usually send their children to ski classes during the day. We pinned down the use of IoT to maximising such learning experience whilst bringing its outcome back to the 🏡👨‍👩‍👧‍👦family. Boom! A brand-new service is born: &lt;em&gt;connected ski camp with an online progress-tracking portal&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/portfolio/snowrec-storyboard-1440.jpg&quot; alt=&quot;SnowRec ski camp, how it functions&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;concept&quot;&gt;Concept&lt;/h1&gt;
+&lt;p&gt;Ski tutors usually ask students to try skiing downhill individually before calling it a day. To document this rewarding moment, ski tutors can use their SnowRec goggles, which are equipped with a camera. By pressing on the large mechanical button or by vocal command, it starts to &lt;em&gt;📹videotape students’ performance&lt;/em&gt; as the tutor follows him/her in vision.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/portfolio/snowrec-mobile.jpg&quot; alt=&quot;SnowRec mobile application&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The camera is connected to the tutor’s smartphone by Bluetooth. Recorded videos are sent directly to the SnowRec application. Class participants are automatically identified by &lt;em&gt;facial recognition&lt;/em&gt; or by the individual QR code printed on their vest.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/portfolio/snowrec-desktop.gif&quot; alt=&quot;SnowRec tablet/desktop portal&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Through the application, the tutor can &lt;em&gt;evaluate students’ performance&lt;/em&gt;, distribute 🏅award badges, and publish videos. Parents and children can watch them later on SnowRec portal with the credentials received when they first signed up for the ski camp. Personal comments and learning curve can be found on their portal. Videos can be downloaded and shared to remote family members (👋🏼hello grandpas &amp;amp; grandmas), too. 🎉💯&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/portfolio/snowrec06.jpg&quot; alt=&quot;SnowRec mood board&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;hands-on&quot;&gt;Hands-on&lt;/h1&gt;
+&lt;p&gt;How should SnowRec app-portal work then? We mapped &lt;em&gt;user journeys&lt;/em&gt; as we consider use cases from the ⛷ski camp, through learning documentation, and to ❤️family shared moments. We considered how different users——tutors, parents, and children——may interact with SnowRec portal. We scribbled a few &lt;em&gt;wireframes&lt;/em&gt; to test the flow, and further enriched it with a fun, motivating visual identity.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/portfolio/snowrec07.jpg&quot; alt=&quot;SnowRec app-portal&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We made &lt;em&gt;click dummies&lt;/em&gt; on &lt;a href=&quot;http://vghtbq.axshare.com/#g=1&amp;amp;p=connexion&quot; target=&quot;_blank&quot;&gt;mobile&lt;/a&gt; for ski tutors’ use case and on &lt;a href=&quot;https://xd.adobe.com/view/4ae14c76-5cb5-495d-9653-da3831bbe80a/&quot; target=&quot;_blank&quot;&gt;tablet &amp;amp; desktop&lt;/a&gt; for families’ review. In the end, we also pitched our IoT ski camp at the art and design school &lt;a href=&quot;http://www.lamartinierediderot.fr/&quot; target=&quot;_blank&quot;&gt;La Martinière Diderot&lt;/a&gt; and let our visitors try out the prototype——they loved it!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 02 Feb 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/snowrec/</link>
+        <guid isPermaLink="true">http://localhost:4000/snowrec/</guid>
+      </item>
+    
+      <item>
+        <title>Chamrousse&amp;colon; Tourism Office remade!</title>
+        <description>&lt;h1 id=&quot;problem&quot;&gt;Problem&lt;/h1&gt;
+&lt;p&gt;Chamrousse Tourism Office website dates back to 2010. Its convoluted information architecture has made the access to alerts, promotional offers, facility information and activity plans lost in an enigmatic navigation; content scattered all around the site.💆🏽‍♀️💆🏻‍♂️&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/portfolio/chamrousse02.jpg&quot; alt=&quot;Chamrousse Tourism Office website from 2010&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;study&quot;&gt;Study&lt;/h1&gt;
+&lt;p&gt;We started with a &lt;em&gt;content audit&lt;/em&gt; and classified the types of information. We discerned scenarios &amp;amp; entry points to the website and analysed visitors’ online journey. A &lt;em&gt;benchmark&lt;/em&gt; was carried out to compare competitors’ market position and to &lt;em&gt;sharpen Chamrousse’s ✨strategic selling points&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/portfolio/chamrousse03-2.jpg&quot; alt=&quot;Paper mock-ups for accommodation reservation&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;hands-on&quot;&gt;Hands-on&lt;/h1&gt;
+&lt;p&gt;After shuffling the architecture and standardising navigation paths, we produced quick and dirty paper mock-ups for testing our &lt;em&gt;🔀user flow&lt;/em&gt;. We iterated our design according to testers’ feedback. We put ski resort visitors’ concern to our highest priority, but also retained a seasonal touch for summer activities.&lt;/p&gt;
+
+&lt;p&gt;At the same time, we refreshed Chamrousse Tourism Office’s &lt;em&gt;visual identity&lt;/em&gt; and their online interfaces, to give it a fresh, energetic yet calming look.😄&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/portfolio/chamrousse04.jpg&quot; alt=&quot;Branding scheme&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We created &lt;em&gt;wireframes &amp;amp; visual mock-ups&lt;/em&gt; for the new website, together with a analytical report on our design process and recommendations for their content management.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/portfolio/chamrousse06.jpg&quot; alt=&quot;Home page remade, structure floor plan&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 01 Feb 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/chamrousse/</link>
+        <guid isPermaLink="true">http://localhost:4000/chamrousse/</guid>
+      </item>
+    
+      <item>
+        <title>Modern Role of Journalism and News Media</title>
+        <description>&lt;hr /&gt;
+
+&lt;p&gt;Information is abundant and harsh these days. Everyone sounds like shouting, if not throttling, at each other. At least it is what it feels like when you read online. When you turn to newspapers or broadcast media, it does not seem much better either. Conflicts, wars, disasters, contradictory reports and opinions. It is confusing and you are in the middle of the entanglement.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/CF19-Messy-Messy-Tribbles.gif&quot; alt=&quot;Messy, messy tribbles&quot; width=&quot;768px&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;extras cap&quot;&gt;
+  &lt;p&gt;Do you feel like messy tribbles raining over your head? (Image: &lt;a href=&quot;https://giphy.com/gifs/star-trek-mess-tribbles-108KUzjTMEp2gw&quot; target=&quot;_blank&quot;&gt;Giphy&lt;/a&gt;)&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Last weekend I attended the &lt;a href=&quot;https://campfirefestival.org&quot; target=&quot;_blank&quot;&gt;Campfire Festival 2019&lt;/a&gt; in Düsseldorf, Germany. It is an event about the relation between journalism, media, human and the digital world. The talks were multidimensional, cross-disciplinary and inspiring. It made me ponder over the role of journalism and news media in our current time——what and whom it is for——and question its utility and effectiveness.&lt;/p&gt;
+
+&lt;div class=&quot;extras&quot;&gt;
+  &lt;p&gt;Disclaimer: I am not a professional journalist. Comments here are, therefore, only from a regular newspaper reader, media watcher’s external point of view.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;has-journalism-failed-itself&quot;&gt;Has journalism failed itself?&lt;/h2&gt;
+
+&lt;h3 id=&quot;what-is-journalism-for&quot;&gt;What is journalism for?&lt;/h3&gt;
+
+&lt;p&gt;Boundaries of journalism might be flexible. Its core function, nevertheless, remains conveying information&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;; by extension, empowering the informed&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. Journalism has long tasked itself with a civic role. It has the duty to monitor powers, to observe them, and to report information back to the public. It is even regarded as the Fourth Estate, to counter the executive, legislative and judicial powers. In a liberal society, it even holds higher goals to fulfil: to educate citizens, to foster their critical thinking, to provoke discussions and exchange of views and ideas——so as to catalyse progress in society as a whole.&lt;/p&gt;
+
+&lt;h3 id=&quot;a-splintering-sector&quot;&gt;A splintering sector?&lt;/h3&gt;
+
+&lt;p&gt;In recent years we have observed a drop of confidence in traditional press. Distrust in news media is mounting. They are increasingly considered biased. ‘Information is framed and presented only in ways which comply with their own stance.’ Or even, ‘journalists are fabricating “fake news” to influence public opinion and their actions’. These might have used to be just a few sparing, salty remarks, before politicians made them popular and now become more alarming. In Hanna Chalmers’ report, the significance of the shift in media trustworthiness perception is highlighted. Traditional media (i.e. television, radio, newspapers and magazines) are generally respected by the public, as their entry barriers remain relatively high (e.g. expensive to produce, limited outlets). Nonetheless, their perceived reliability is tarnishing the most.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/CF19-Trust-Shift-Media.png&quot; alt=&quot;Trust-Shift-Media&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;extras cap&quot;&gt;
+  &lt;p&gt;Trust in print and broadcast generally slides in established media markets&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This scepticism does not necessarily portray any falling quality amongst traditional news media. Instead, it reflects how their pillars might have been shaken by the dominant role of social media, where information circulates behind preference-fitting algorithms without (or with only few) gatekeepers. At the same time, digital platforms are sprouting while stories claiming to be news are blooming across the Internet. The abundance of partisan information can be overwhelming and can in turn undermine public confidence in the traditional press.&lt;/p&gt;
+
+&lt;h3 id=&quot;a-jinx-to-shun&quot;&gt;A jinx to shun?&lt;/h3&gt;
+
+&lt;p&gt;Scepticism is not the only endangering cause for journalism. Experiential avoidance (especially emotional) may weigh just as much. In a user research which I co-conducted during a journalism-remaking project, we found out that negativity infliction has become one of the causes why people reduce news consumption; or even avoiding it.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;‘Open the newspaper these days and all you see is troubles and chaos. It saddens you even more after a long day of work.’&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Of course, journalism is not meant to put a smile on people’s face. (It should not either lest it regress to mere entertainment.) The heightening emotional barrier to get into news consumption, though, does pose a real threat. This menace is not only to the news media, but also further to our civic society and democracy. If people are avoiding news and numbing their senses by hiding behind their routine, journalism fails to inform the public with the happenings around them. It fails to bridge the people with their representative governing powers and to hold the authorities accountable. It fails to educate a dependable population of rational judgements. In such case, we fail to cater for an atmosphere of social intelligence and progress. We fail to maintain but jeopardise democracy.&lt;/p&gt;
+
+&lt;p&gt;Hence, it points to a genuine need for journalism and news media to react, to rethink how to invite the audience’s appetite for quality news consumption, to re-buff their own image and to reconsider their strategy for approaching the evolving public; or else it risks locking itself up in the ivory tower.&lt;/p&gt;
+
+&lt;h2 id=&quot;revitalising-journalism&quot;&gt;Revitalising Journalism&lt;/h2&gt;
+
+&lt;p&gt;Revitalising journalism and news media sounds big. There are two apparent aspects which it can get started with.&lt;/p&gt;
+
+&lt;h3 id=&quot;news-of-the-people-for-the-people&quot;&gt;News of the people, for the people&lt;/h3&gt;
+
+&lt;p&gt;The first aspect consists of reconnecting reader groups.&lt;/p&gt;
+
+&lt;p&gt;Press and news media should not represent &lt;em&gt;the one voice&lt;/em&gt; they want to propagate, but &lt;em&gt;the voices&lt;/em&gt; which exist in the setting. It is understandable that journalists and media houses hold their own interest scope and standpoints. How news stories are followed, collected, analysed, cut, shaped, and presented to the public subsequently depends on them. Loss of information is inevitable during the production chain. Yet, instead of simply persuading the public of their perspective, the bigger picture should not be forgotten.&lt;/p&gt;
+
+&lt;p&gt;Take Brexit as an example. Before the universal suffrage in 2016, as &lt;a href=&quot;https://twitter.com/Raoldroyd&quot; target=&quot;_blank&quot;&gt;Rachel Oldroyd&lt;/a&gt; presented in &lt;a href=&quot;https://sched.co/UBen&quot; target=&quot;_blank&quot;&gt;her talk in Campfire Festival&lt;/a&gt;, Remain news media had overlooked the local voices and misjudged the proportion adhering to Leave. Coverage (especially analyses) for the other side was scarce. It was only until the ballots were counted that the public (and politicians) learnt——in the hard way——to have to deal with alternative voices seriously. Had they known more about the casting situation beforehand, the current deadlock situation of Brexit probably would have looked very different.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/CF19-Kids-in-zorbs.jpg&quot; alt=&quot;Kids in zorbs&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;extras cap&quot;&gt;
+  &lt;p&gt;Are news media creating bubbles and putting us inside? (Image: &lt;a href=&quot;https://www.flickr.com/photos/bensutherland/4088676907/in/photostream/&quot; target=&quot;_blank&quot;&gt;Ben Sutherland&lt;/a&gt;)&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;In the social environment we live, we cannot simply strive for what we believe in without considering how the others would become. Similarly, journalists and media houses cannot only pin their words on own their stances and pretend to forget the rest. At times we might have overlooked: What matters for people? What is in their interest? What is at stake for communities and society? Or even for the country and the world? Journalism is not to segregate society but to objectively report what is happening; that should include giving speech to and shedding lights on all representable component parties.&lt;/p&gt;
+
+&lt;p&gt;The best way to bring back the disregarded voices is to approach them closer. The key lies within connecting the fringes which construct us as a whole. Extract stories of the people and report the news back to them. Whilst media coverage is often centralised at the political, financial hubs, revamping local press and giving speech back to the forgotten communities would be pertinent to begin.&lt;/p&gt;
+
+&lt;h3 id=&quot;journalism-for-solutions&quot;&gt;Journalism for solutions&lt;/h3&gt;
+
+&lt;p&gt;The second aspect is about the journalistic role in problem-solving.&lt;/p&gt;
+
+&lt;p&gt;The current time is arguably not the best in which we would have hoped to be living. Open the window, we feel global warming and its associated climate issues (a solid emergency, by the way). Go to a supermarket or a restaurant, we are reminded of the unfairness that our food industry has instigated to our animal pals. Flip the newspaper, we are instantaneously confronted with all the swamping chaos we ought to mind.&lt;/p&gt;
+
+&lt;p&gt;Thanks to the Internet and all the communication technologies, information can flow more freely and become readily available in our age. Journalism, as one of the channels, undoubtedly help us learn and understand the world. It also makes us realise, however, how disarrayed the world we live in is; and, at times, how little we seem to be capable of changing it.&lt;/p&gt;
+
+&lt;p&gt;It is a duty for the press to report happenings to the public, be it cheery or disheartening. Still, we should not forget, as a higher goal, journalism is to provoke thinking, better judgements, discussions and eventually social progress. If knowing the facts is the step no. 1 (journalism), and understanding how complexities are formed and interrelated is the step no. 2 (investigative journalism), estimating what sorts of solutions could be applied would sensibly be the step no. 3 (constructive journalism). Journalists have been steadily monitoring how the world evolves. They have the expertise in analogising events and comparing solutions across the globe and time. They could make use of their broad vision and intellectuality to mirror possible, practicable solutions which have happened elsewhere&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;. Instead of simply throwing cold, hard facts at readers’ face, news press and media could guide the public towards solutions and consequently encourage advances.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/CF19-This-Is-Fine.gif&quot; alt=&quot;This is fine&quot; width=&quot;768px&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;extras cap&quot;&gt;
+  &lt;p&gt;Knowing the facts is step 1; understanding the complexities is step 2; solving problems is step 3. (Image: &lt;a href=&quot;https://gph.is/2h8wI3B&quot; target=&quot;_blank&quot;&gt;Giphy&lt;/a&gt;; &lt;a href=&quot;https://youtu.be/0oBx7Jg4m-o&quot; target=&quot;_blank&quot;&gt;Adult Swim&lt;/a&gt;)&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Journalism is supposed to help us understand the world and to empower us to make better judgements. Its ultimate function is to engage people’s conscience in action and to stimulate social improvements. The audience of today are turning doubtful of its authenticity and becoming bewildered amidst the concurrent intricacies. Journalists are, hence, in the most critical position ever to connect with the people, to converge crowds of different opinions on the round table, to objectively lay down all sides of the truth, and to supply the public with quality references, in the hope of steering the group towards resolution.&lt;/p&gt;
+
+&lt;div class=&quot;extras&quot;&gt;
+  &lt;p&gt;This article is also published on &lt;a href=&quot;https://medium.com/@keikhcheung/modern-role-of-journalism-and-news-media-506f844abfce&quot; target=&quot;_blank&quot;&gt;Medium&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;American Press Institute. ‘What Is the Purpose of Journalism?’ &lt;em&gt;American Press Institute&lt;/em&gt;, &lt;a href=&quot;https://www.americanpressinstitute.org/journalism-essentials/what-is-journalism/purpose-journalism/&quot; target=&quot;_blank&quot;&gt;www.americanpressinstitute.org/journalism-essentials/what-is-journalism/purpose-journalism/&lt;/a&gt;. Accessed 5 Sept. 2019. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;Karknu. ‘Why Is Journalism Needed in a Democratic Society?’ &lt;em&gt;Media Guide&lt;/em&gt;, 29 Nov. 2015, &lt;a href=&quot;https://mediaguide.fi/mediaguide/?p=20&quot; target=&quot;_blank&quot;&gt;mediaguide.fi/mediaguide/?p=20&lt;/a&gt;. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;Chalmers, Hanna. &lt;em&gt;In Media We Trust? How Our Views of the Media Are Changing&lt;/em&gt;. Ipsos Knowledge Centre, 3 Jan. 2019, p. 7–9, &lt;a href=&quot;http://www.ipsos.com/en/media-we-trust-how-our-views-media-are-changing&quot; target=&quot;_blank&quot;&gt;www.ipsos.com/en/media-we-trust-how-our-views-media-are-changing&lt;/a&gt;. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot;&gt;
+      &lt;p&gt;Haagerup, Ulrik. ‘Constructive Journalism——What, how and why?’. Campfire Festival 2019. CORRECTIV Verlag und Vertrieb für die Gesellschaft UG, 31 Aug. 2019, Düsseldorf, &lt;a href=&quot;https://sched.co/U6HI&quot; target=&quot;_blank&quot;&gt;sched.co/U6HI&lt;/a&gt;. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 06 Sep 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/blog/2019/09/06/Modern-Role-of-Journalism-and-News-Media/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2019/09/06/Modern-Role-of-Journalism-and-News-Media/</guid>
+      </item>
+    
+      <item>
+        <title>Global Service Jam 2019&amp;colon; Do you even space-travel?</title>
+        <description>&lt;h2 id=&quot;gsj-2019&quot;&gt;GSJ 2019&lt;/h2&gt;
+&lt;p&gt;Last weekend was the annual &lt;a href=&quot;http://globaljams.org/jam/globalservicejam&quot; target=&quot;_blank&quot;&gt;Global Service Jam 2019&lt;/a&gt;. I attended the local event in Cologne. It was so much fun!&lt;/p&gt;
+
+&lt;p&gt;This year, the &lt;a href=&quot;https://www.service-design-network.org/events/cologne-service-jam-2019&quot; target=&quot;_blank&quot;&gt;GSJ in Cologne&lt;/a&gt; was organised by the local &lt;a href=&quot;https://www.service-design-network.org&quot; target=&quot;_blank&quot;&gt;Service Design Network&lt;/a&gt; and &lt;a href=&quot;https://www.denkwerk.com&quot; target=&quot;_blank&quot;&gt;denkwerk&lt;/a&gt; (Many thanks to Cristine and Ko for their facilitation!). The theme set globally for all jammers was ‘blue’. Yes, &lt;em&gt;blue&lt;/em&gt;, fairly abstract, isn’t it?&lt;/p&gt;
+
+&lt;p&gt;We started with a quick round of co-brainstorming about everything we could think &lt;em&gt;out of the blue&lt;/em&gt;——sky, water, summer, sad, Europe… We thought onwards and gradually found out problems we wanted to address. Then we swiftly talked about them and transformed them into how-might-we challenges. Everyone got to pick up one with which they would like to work.&lt;/p&gt;
+
+&lt;p&gt;That’s how I boarded the ship of &lt;em&gt;space travel&lt;/em&gt; and &lt;em&gt;sustainability&lt;/em&gt; for my weekend with Maxime and Nils. 😊🧔🏼👱🏻‍♀️🚀✨&lt;/p&gt;
+
+&lt;h2 id=&quot;sustainable-space-travel&quot;&gt;Sustainable Space Travel&lt;/h2&gt;
+&lt;p&gt;How might we foster sustainable space travel? Very hard.&lt;/p&gt;
+
+&lt;p&gt;To get started, we dug out our assumptions. Who would be space-travelling? What could be the challenges of space travel? To what kinds of opportunity could space travel lead? We wanted to know more about how people actually think of space travel and whether our assumptions were correct. We built a space survey and took to the street to talk to passers-by.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/GSJ19-Space-Survey.jpg&quot; alt=&quot;When was the last time you travelled to outer space? Last week, surfing around Saturn!&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;extras cap&quot;&gt;
+  &lt;p&gt;When was the last time you travelled to outer space? Last week, surfing around Saturn!&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;To our surprise, people were actually quite engaged in talking to us about space travel. We found out that, in general, they think space travel is cool. They reckon it allows them to discover new matters, watch the dazzling stars and planets, obtain brand-new resources, and even make friends with aliens. In short, they believe it is a life-changing experience. But at the same time, they also fear that they would miss our planet Earth——their family and friends, the fresh air, the flowers and the trees, and all the yummy delicacies (Ramen! 🍜🍥). Some expressed that, instead of travelling to space, we should use the resources to solve existing issues on Earth, such as pollution and humanitarian aid.&lt;/p&gt;
+
+&lt;p&gt;Despite the difficulty, we think it is cool to let people experience travelling to outer space. The pretty view of Earth from space would be worth it. More importantly, though, it was essential to let them know that, far out in the universe, there are probably no other planets as lovely as our only Earth.&lt;/p&gt;
+
+&lt;h2 id=&quot;space-travel-time&quot;&gt;Space Travel Time&lt;/h2&gt;
+
+&lt;p&gt;How can we prototype space travel? We came up with the idea of letting people fly to space and see how planet Earth (currently) is. We built a paper prototype to simulate the space travel experience. More precisely, we condensed the travel journey to the most iconic and rewarding scene——watching the sunrise on Earth from outer space. We then went to the streets once again to ask people to space-travel with us. They were thrilled!&lt;/p&gt;
+
+&lt;div class=&quot;o-grid&quot;&gt;
+  &lt;div class=&quot;o-grid__col o-grid__col--2-4-m&quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/blog/GSJ19-Space-Game-1.jpg&quot; alt=&quot;DIY space travel – all hands on!&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;o-grid__col o-grid__col--2-4-m&quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/blog/GSJ19-Space-Game-3.jpg&quot; alt=&quot;Asking people to space-travel with us in the street.&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;After seeing the sunrise on the pretty planet Earth, we asked them questions what they like the most on Earth and talked about their latest enjoyable experiences. Meanwhile, we added a few typical problems on Earth——pollution, wars, representations of apathy, etc. We asked them to look at the Earth again and questioned them how they feel. A bit soured and moved, our space travellers opened up and shared more thoughts with us. They are aware of these situations, and are not content with them. They want change.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/GSJ19-Feedback.jpg&quot; alt=&quot;Collecting feedback from all the co-jammers.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We went back to our jam base to think about how we could proceed with our concept. We further sharpened and reframed our challenge question into ‘How might we create a love-Earth moment, through space-travelling, for people who are less aware of happenings in the world?’ We presented our workflow and findings to our fellow jammers and collected some helpful feedback and inspiration. We pondered and pondered. In the end, we came up with the idea of… a space trap!&lt;/p&gt;
+
+&lt;h2 id=&quot;space-trap&quot;&gt;Space Trap&lt;/h2&gt;
+&lt;p&gt;We decided to use simulations for our stirring space travel experience. We nailed down our profile group to the self-absorbed, egocentric rich kids (just because they could space-travel the most; but extensible to greater public), who are not very aware of the happening of the rest of the world. We wanted to let them enjoy the cool, life-changing experience. We also wanted to teach them to love planet Earth and one another.&lt;/p&gt;
+
+&lt;p&gt;Our concept was, when they sign up for space travel, they will be put in the simulation room without knowing. They will undergo the space travel simulation, see the galaxy, and then learn about the current truth of planet Earth.&lt;/p&gt;
+
+&lt;div class=&quot;o-grid&quot;&gt;
+  &lt;div class=&quot;o-grid__col o-grid__col--2-4-m&quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/blog/GSJ19-Space-Trap-1.jpg&quot; alt=&quot;Strengthening our storytelling with Legos – space station.&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;o-grid__col o-grid__col--2-4-m&quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/blog/GSJ19-Space-Trap-2.jpg&quot; alt=&quot;Strengthening our storytelling with Legos – planet Earth.&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;extras cap&quot;&gt;
+  &lt;p&gt;Space travel advertisement, Richard the rich kid on his Lamborghini, spaceship and planet Earth.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;To present our concept and pitch our service, we built our simulation prototype (from scratch and within 2 hours!) with Lego and made a short stop-motion, voice-over video clip. Here’s Richard the rich kid, the first space traveller!&lt;/p&gt;
+
+&lt;!---
+![with Nils Brüggesch and Maxime Ridzewski](/videos/blog/Space-Trap-Final.mov)
+[On Vimeo](https://vimeo.com/327940314)
+&lt;video width=&quot;992&quot; controls autoplay&gt;
+&lt;source src=&quot;http://www.pipipi.de/fileadmin/dam/awards/tintoretto2go/tintoretto2go_master_mp4_en_klein_2.mp4&quot; type=&quot;video/mp4&quot;&gt;
+&lt;/video&gt;
+---&gt;
+
+&lt;div class=&quot;e-iframe&quot;&gt;
+  &lt;iframe src=&quot;https://player.vimeo.com/video/327940314&quot; width=&quot;992&quot; height=&quot;558&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div class=&quot;extras u-text-center&quot;&gt;
+  &lt;p&gt;With Nils Brüggesch and Maxime Ridzewski.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The jammers loved it! Hehe, they wanted to travel to space with us too!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;In a recap, the Global Service Jam weekend was dense, compact, and very fun! It is always surprising to see how creativity can turn things around in a short time. It is fascinating to watch how diverse problems could derive from the common point &lt;em&gt;blue&lt;/em&gt; to all sorts of solutions. Other jammers developed services for no-plastic grocery shopping, AR cooking aid for colour-blind people, a space camp, empathy booster, bedside smartphone killer, volunteering inducer… and presented them all differently. This demonstrated how flexible service design methods can be. While &lt;i&gt;Double Diamond&lt;/i&gt; and ‘yes-and/yes-but’ are nothing new to the industry, ductile application and contextual adjustment of the practice are crucial to problem-solving. The short jam weekend pushed us out of the ordinary box of design and urged us to try, test, and experiment——all while having fun!&lt;/p&gt;
+
+&lt;div class=&quot;extras&quot;&gt;
+  &lt;p&gt;Courtesy: Service Design Network, photo.&lt;/p&gt;
+
+  &lt;div class=&quot;extras&quot;&gt;
+    &lt;p&gt;This article is also posted on &lt;a href=&quot;https://medium.com/denkwerk-stories/global-service-jam-2019-do-you-even-space-travel-7eb76c1f8f19&quot; target=&quot;_blank&quot;&gt;Medium&lt;/a&gt;.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 05 Apr 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/blog/2019/04/05/Global-Service-Jam-2019-Do-you-even-space-travel/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2019/04/05/Global-Service-Jam-2019-Do-you-even-space-travel/</guid>
+      </item>
+    
+      <item>
+        <title>42 hours of co-living with bots&amp;colon; quirky and jolly</title>
+        <description>&lt;h2 id=&quot;para-robotics&quot;&gt;Para-robotics&lt;/h2&gt;
+&lt;p&gt;When we talk about robots, we might think of automated manufacturing arms, the waste allocator &lt;i&gt;WALL-E&lt;/i&gt;, or even Arnold Schwarzenegger in &lt;i&gt;The Terminator&lt;/i&gt;——often a very technical, industrial, or sci-fi image. But do robots always have to be linked to work or the apocalypse? What else can robots be in our space and time? What if robots have a more ordinary and nearby relation with us as we have with a book, a plant, or a pair of jeans? What if robots become a new material or medium that we could play and make art with?&lt;/p&gt;
+
+&lt;p&gt;Two weeks ago, I participated in the &lt;a href=&quot;https://www.nrw-forum.de/en/events/meta-marathon-2019&quot; target=&quot;_blank&quot;&gt;Meta Marathon 2019&lt;/a&gt; in Düsseldorf organised by NRW-Forum. It tackles exactly this theme. For 42 hours non-stop, I experienced living with robots. The event invited a blend of artists, researchers, creatives and digital innovators to come together, exchange views, and explore the alternative visions towards different kinds of droids. Through an extensive programme of exhibitions, talks and workshops, I was exposed to very diverse perspectives in regard to robotics and humans. It drove me to reflect on our relationship with technology.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/MM2019-Hall.jpg&quot; alt=&quot;Meta Marathon 2019 venue hall&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-future-humanhomo-digitalis&quot;&gt;The Future Human——&lt;i&gt;homo digitalis?&lt;/i&gt;&lt;/h2&gt;
+
+&lt;p&gt;Every day we have more gadgets with us.&lt;/p&gt;
+
+&lt;p&gt;We embrace technology innovations to help us move forward and to elevate our capabilities in doing all sorts of things. A simple click on Google gets us to the tonnes of information one could never imagine 30 years ago. A dense chunk of metal called ‘computer’ contains pretty much everything that one would need to do. These days, we do not even leave the house without our smartphone in our hand or pocket. Technologies have been an inseparable part of our life——an ever-growing important element, too!&lt;/p&gt;
+
+&lt;p&gt;In sci-fi films, we imagine how futuristic technologies could further enhance us, enable humans to extend what we are capable of doing, and even become part of us. In real life, technology has been a lasting passion of the last two decades. Digital entities have made their way to our habitat and are now holding a ubiquitous role in our everyday business——that is only to get more prominent. What actually would happen if technology and human are fused into one? How would our interpersonal relations become? Would it even allow us to evolve into a new species——&lt;i&gt;homo digitalis?&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/Minority-Report.jpg&quot; alt=&quot;Minority-Report&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;extras cap&quot;&gt;
+  &lt;p&gt;Driverless cars, personalised adverts, smart home, facial recognition and predictive policing are here now. In some sense, our world is not that far from Minority Report, is it? (Image: &lt;a href=&quot;https://www.independent.co.uk/arts-entertainment/films/features/minority-report-15th-anniversary-predictive-policing-gesture-based-computing-facial-and-optical-a7807666.html&quot;&gt;The Independent&lt;/a&gt;)&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Christiane Miethge’s talk introduced us to this problematic topic. What does it mean when our memory can be transformed, when school-year education can be uploaded within a few hours? How will our society be when we can make friends with AIs? Or even get intimate with robots? How will we look like when we can program our own appearance and health status? We have welcomed technologies into our life and encouraged their emergence. The ultimate question is: until when and where would it remain proper, relevant, and acceptable? She put the questions in perspective through screening her documentary series &lt;i&gt;Homo Digitalis&lt;/i&gt; (now also available on &lt;a href=&quot;https://www.arte.tv/en/videos/RC-015228/homo-digitalis/&quot;&gt;ARTE&lt;/a&gt;) and motivated us to find the answers together.&lt;/p&gt;
+
+&lt;h2 id=&quot;machine-learning-bias&quot;&gt;Machine Learning Bias&lt;/h2&gt;
+
+&lt;p&gt;A large number of our daily activities circle around data and algorithms: the news we read, the transport we take (regarding scheduling and timetables), the groceries we can get in the supermarket, and even (annoyingly) where we could go for our next holiday.&lt;/p&gt;
+
+&lt;p&gt;We rely on machines to deal with the massive amount of data which we exponentially create every day. We also depend on them to sort out the links, transform and extract the information, and advise us on the decisions that we shall make. Machines’ calculations with algorithms outrace human actions by far in terms of speed. They can realise efficiently the goals we set. Nevertheless, we cannot always guarantee the quality of the outcome——or more precisely, the quality of the mechanism which leads to the outcome. Only when we notice it, it is usually too late.&lt;/p&gt;
+
+&lt;div class=&quot;o-grid&quot;&gt;
+  &lt;div class=&quot;o-grid__col o-grid__col--2-4-m&quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/blog/Tay-01.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;o-grid__col o-grid__col--2-4-m&quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/blog/Tay-02.jpg&quot; alt=&quot;The chatter bot Tay released by Microsoft in 2016 was quickly taken offline 16 hours after the launch as it turned… fascist.&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;extras cap&quot;&gt;
+  &lt;p&gt;The chatter bot &lt;i&gt;Tay&lt;/i&gt; released by Microsoft in 2016 was quickly taken offline 16 hours after the launch as it turned… fascist. (Image: &lt;a href=&quot;https://www.pcworld.com/article/3048157/the-internet-turns-tay-microsofts-millennial-ai-chatbot-into-a-racist-bigot.html&quot; target=&quot;_blank&quot;&gt;PCWorld&lt;/a&gt;, &lt;a href=&quot;https://www.theguardian.com/technology/2016/mar/24/microsoft-scrambles-limit-pr-damage-over-abusive-ai-bot-tay&quot; target=&quot;_blank&quot;&gt;The Guardian&lt;/a&gt;)&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Shirley Ogolla landed us on this issue. She highlighted the fact that machines’ decisions result from algorithms, which feed on data, which result from human actions——and furthermore——human decisions. As we do not always make impartial decisions, nor do we take unprejudiced action (is this even possible?), &lt;a href=&quot;https://www.technologyreview.com/s/608248/biased-algorithms-are-everywhere-and-no-one-seems-to-care/&quot;&gt;algorithm-driven decisions by machines are prone to bias&lt;/a&gt;. She addressed that attention should be paid to data sets’ quality so as to ensure that diverse and heterogeneous data are included.&lt;/p&gt;
+
+&lt;p&gt;Although neutrality is hard to attain, the wider the coverage is, the closer we get to its possibility. For this to happen, human role is crucial in maintaining the quality and the diversity of the data pool, in rectifying any inaccurate inclination, and in fine-tuning the algorithmic tricks for constant improvement. This is particularly essential as algorithms are now taking up &lt;a href=&quot;https://www.wired.co.uk/article/ai-bias-black-box-sandra-wachter&quot;&gt;pivotal decisions ranging from loan applications to cancer diagnoses&lt;/a&gt;. What is curiously helpful is that AI can also assist us a lot in error and human bias detection.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/MM2019-AI-in-Bias-Detection.jpg&quot; alt=&quot;MM2019-AI-in-Bias-Detection&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;extras cap&quot;&gt;
+  &lt;p&gt;‘If used correctly, there is an enormous potential for implementing AI. Human intelligence is extremely biased, and AI can help enormously to detect and prevent human bias.’ — Sendhil Mullainathan&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;tech-pain-prevention-and-relief&quot;&gt;Tech Pain Prevention and Relief&lt;/h2&gt;
+
+&lt;p&gt;As we develop a close bond with digital entities——be it for work’s or entertainment’s sake——we also experience some drawbacks. Amongst all, health problems come first. We all learn from school that it is not healthy to sit in front of a screen for hours or to use our smartphone in bed. We are advised against it but we continue to adopt the latest gadget released, sticking to them until we feel physical pain.&lt;/p&gt;
+
+&lt;p&gt;It is not enough just to know the risks but to act to prevent or resolve them. On this, Dasha Ilina brought us to action. In her workshop, I explored how to prevent back and shoulder pain from bad posture in the workplace. I experimented with easily available materials such as cardboard, rubbish bags and rubber gloves, built a &lt;em&gt;back pain killer&lt;/em&gt; prototype, tested it and iterated on the design. It was a lot of fun!&lt;/p&gt;
+
+&lt;div class=&quot;o-grid&quot;&gt;
+  &lt;div class=&quot;o-grid__col o-grid__col--1-3-m&quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/blog/MM209-Back-Pain-Killer-1.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;o-grid__col o-grid__col--1-3-m&quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/blog/MM209-Back-Pain-Killer-2.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;o-grid__col o-grid__col--1-3-m&quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/blog/MM209-Back-Pain-Killer-3.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;extras cap&quot;&gt;
+  &lt;p&gt;My quick and dirty paper prototype; tested, adapted and improved!&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;While a 5-year-old child can easily get hold of smartphones and pre-teens as young as &lt;a href=&quot;https://www.independent.co.uk/news/health/teenage-technology-addiction-smartphone-rehab-seattle-clinic-children-aged-13-mobile-devices-a7684356.html&quot;&gt;13-years-olds are going to digital rehabilitation&lt;/a&gt;, why are we not starting the education of technology-related health problem prevention (and relief) early? Dasha’s dynamic workshop guided us to face this often-overlooked issue and attend right to it. It could even bring about the creativity of childhood (&lt;a href=&quot;http://centerfortechpain.com/&quot;&gt;she has done it before!&lt;/a&gt;), too!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;These are just a few highlights from the 42-hour-long event. Other talks included topics of prosthetic robots, techno-sensories and social stigmas (although unfortunately only in German); not to mention there were various performances and interactive exhibits parallel to the programme: cocktail bots, pedicure bot, companion bots, and even sex bots (clean hands only)!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/MM2019-Sophia.jpg&quot; alt=&quot;Sophia talking about her views on art with Alain Bieber&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;extras cap&quot;&gt;
+  &lt;p&gt;Sophia talking about her views on art with Alain Bieber&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Whilst I cannot detail them all, &lt;i&gt;Meta Marathon&lt;/i&gt; definitely provided an interesting platform to converge professionals from various fields on the topic of robotics, to exchange views and thoughts on the current and future human-techno relation, and to get an &lt;i&gt;avant-première&lt;/i&gt; feel of what living with robots could be like.&lt;/p&gt;
+
+&lt;div class=&quot;extras&quot;&gt;
+  &lt;p&gt;This article is also published on &lt;a href=&quot;https://medium.com/denkwerk-stories/42-hours-of-co-living-with-bots-quirky-and-jolly-d669dd7f6454&quot; target=&quot;_blank&quot;&gt;Medium&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 29 Mar 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/2019/03/29/42-hours-of-co-living-with-bots-quirky-and-jolly/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2019/03/29/42-hours-of-co-living-with-bots-quirky-and-jolly/</guid>
+      </item>
+    
+
+    
+      
+        
+      
+    
+      
+        
+          <item>
+            <title>About</title>
+            <description>&lt;p&gt;My name is 👨🏻‍💻Kei. I am an Experience Designer currently based in Cologne, Germany. I work predominantly for designing digital services &amp;amp; products.&lt;/p&gt;
+
+&lt;p&gt;In my spare time, I read about 📚📰socio-politics, think about 🕹🔀interactions, write on ✏️💬current issues, do audiovisual &amp;amp; textual explorations, and take care of 🌵plants.&lt;/p&gt;
+
+&lt;p&gt;I speak English, French, Cantonese, Mandarin Chinese, and GIF; also a bit of German, Portuguese, HTML, CSS, and JavaScript. Write me on &lt;a href=&quot;https://twitter.com/keikhcheung&quot; target=&quot;_blank&quot;&gt;Twitter&lt;/a&gt; &lt;a href=&quot;mailto:kei.khcheung@gmail.com&quot;&gt;E-mail&lt;/a&gt; &lt;a href=&quot;https://www.linkedin.com/in/kei-cheung/&quot; target=&quot;_blank&quot;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;marquee&quot;&gt;
+&lt;div class=&quot;marquee--content&quot;&gt;
+&lt;h4 class=&quot;item-collection-1&quot;&gt;
+# work ## work ## work ## work ## work ## work #&lt;/h4&gt;&lt;h4 class=&quot;item-collection-2&quot;&gt;# work ## work ## work ## work ## work ## work #&lt;/h4&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;small&gt;since Sep 2018&lt;/small&gt;&lt;br /&gt;
+&lt;em&gt;Experience Designer&lt;/em&gt; @ denkwerk GmbH, Cologne, Germany&lt;br /&gt;
+&lt;span class=&quot;extras&quot;&gt;Product design, user research, experience design, design system development &amp;amp; maintenance, digital solution strategy, service analysis &amp;amp; conceptualisation (B2B &amp;amp; B2C), and design workshop organisation.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;May–Nov 2017&lt;/small&gt;&lt;br /&gt;
+&lt;em&gt;UX Design (Intern)&lt;/em&gt; @ denkwerk GmbH, Cologne, Germany&lt;br /&gt;
+&lt;span class=&quot;extras&quot;&gt;Digital service design, IoT innovation, user research and analysis.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;Sep 2016 – Oct 2017&lt;/small&gt;&lt;br /&gt;
+&lt;em&gt;Project Director&lt;/em&gt; @ AInsitu, Lyon, France&lt;br /&gt;
+&lt;span class=&quot;extras&quot;&gt;Project management, user-centred consulting, and UX/UI design.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;Jan 2016 – Jun 2016&lt;/small&gt;&lt;br /&gt;
+Sales Associate @ Le Slip Français, Hong Kong&lt;br /&gt;
+&lt;span class=&quot;extras&quot;&gt;Multilingual retail &amp;amp; customer services (French, English, Cantonese &amp;amp; Mandarin), cashier duties, and maintenance of shop displays and stock.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;Oct 2014 – Jun 2015&lt;/small&gt;&lt;br /&gt;
+English Language Teacher @ Speaking Agency, Paris, France&lt;br /&gt;
+&lt;span class=&quot;extras&quot;&gt;Early childhood education (English language).&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;Jun 2013 – Aug 2013&lt;/small&gt;&lt;br /&gt;
+Intern @ Walt Disney World, Orlando, Florida, USA&lt;br /&gt;
+&lt;span class=&quot;extras&quot;&gt;International College Programme; retail and customer services, food and beverage.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;Jun 2012 – Mar 2013&lt;/small&gt;&lt;br /&gt;
+&lt;em&gt;Freelance Graphic Designer&lt;/em&gt;&lt;br /&gt;
+Clients: European Union Academic Programme Hong Kong, Longs International Ltd.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;marquee&quot;&gt;
+&lt;div class=&quot;marquee--content&quot;&gt;
+&lt;h4 class=&quot;item-collection-1&quot;&gt;
+# education ## education ## education ## education #&lt;/h4&gt;&lt;h4 class=&quot;item-collection-2&quot;&gt;# education ## education ## education ## education #&lt;/h4&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;small&gt;Aug 2016 – Jun 2018&lt;/small&gt;&lt;br /&gt;
+&lt;em&gt;École Normale Supérieure de Lyon&lt;/em&gt;, France&lt;br /&gt;
+Master of Information and Communication: Information Architecture&lt;br /&gt;
+&lt;span class=&quot;extras&quot;&gt;Information design, UX/UI design, Web design &amp;amp; ergonomics, cognition &amp;amp; interaction, and programming basics.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;Aug 2012 – Jun 2018&lt;/small&gt;&lt;br /&gt;
+&lt;em&gt;Hong Kong Baptist University&lt;/em&gt;, Hong Kong&lt;br /&gt;
+Bachelor of Social Sciences (Hons): European Studies (French stream)&lt;br /&gt;
+&lt;span class=&quot;extras&quot;&gt;European politics, French politics, sociology &amp;amp; language.&lt;br /&gt;
+Supplementary courses: Furniture design, product design, prototyping, art appreciation.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;Sep 2014 – Jun 2015&lt;/small&gt;&lt;br /&gt;
+&lt;em&gt;Université Sorbonne Nouvelle Paris 3&lt;/em&gt;, France&lt;br /&gt;
+International Studies (European Studies stream)&lt;br /&gt;
+&lt;span class=&quot;extras&quot;&gt;French civilisation &amp;amp; language, international politics &amp;amp; legal systems.&lt;br /&gt;
+Supplementary courses: Contemporary art, French cinema, and Portuguese language.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;marquee&quot;&gt;
+&lt;div class=&quot;marquee--content&quot;&gt;
+&lt;h4 class=&quot;item-collection-1&quot;&gt;
+# publications ## publications ## publications ## publications #&lt;/h4&gt;&lt;h4 class=&quot;item-collection-2&quot;&gt;# publications ## publications ## publications ## publications #&lt;/h4&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;small&gt;May 2018&lt;/small&gt;&lt;br /&gt;
+User Experience of Voice Assistants: Exploration of Anticipatory Assistance with Augmented Sensitivity to Usage Environments’ Context. &lt;a href=&quot;https://dumas.ccsd.cnrs.fr/dumas-01981716&quot; target=&quot;_blank&quot;&gt;DUMAS, Archive ouverte HAL&lt;/a&gt;.&lt;/p&gt;
+</description>
+            <link>http://localhost:4000/about/</link>
+          </item>
+        
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        
+          <item>
+            <title>Style Guide</title>
+            <description>At [Aspire Themes](http://aspirethemes.com/) I use a lot of tools to help me create WordPress, Ghost and Jekyll themes. Tools will range from development, design, services, hosting and automation.
+
+Graphic design is the paradise of individuality, eccentricity, heresy, abnormality, hobbies, and humors. - George Santayana.
+
+---
+
+# Simple default styles for headings
+
+## Simple default styles for headings
+
+### Simple default styles for headings
+
+#### Simple default styles for headings
+
+##### Simple default styles for headings
+
+###### Simple default styles for headings
+
+---
+
+* Ut at interdum nunc. Maecenas commodo turpis quis elementum gravida.
+* Nunc ac sapien tellus. Quisque risus enim, tempus eget porttitor.
+* Donec nibh massa, rutrum a sollicitudin eu, lacinia in lorem.
+
+---
+
+1. Ut at interdum nunc. Maecenas commodo turpis quis elementum gravida.
+2. Nunc ac sapien tellus. Quisque risus enim, tempus eget porttitor in.
+3. Donec nibh massa, rutrum a sollicitudin eu.
+
+---
+
+&gt; Graphic design is the paradise of individuality, eccentricity, heresy, abnormality, hobbies, and humors. - George Santayana
+
+---
+
+{% highlight js %}
+'use strict';
+var markdown = require('markdown').markdown;
+function Editor(input, preview) {
+  this.update = function() {
+    preview.innerHTML = markdown.toHTML(input.value);
+  };
+  input.editor = this;
+  this.update();
+}
+{% endhighlight %}
+
+You can add inline code just like this, E.g. `.code { color: #fff; }`
+
+{% highlight css %}
+pre {
+  background-color: #f4f4f4;
+  max-width: 100%;
+  overflow: auto;
+}
+{% endhighlight %}
+
+---
+
+Cras sed sodales enim. Duis nec erat magna. Sed scelerisque pretium mi et [unsplash](https://unsplash.com/) ullamcorper mauris aliquam ornare fringilla. In luctus commodo quam eget posuere.
+
+---
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/97202679&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+---
+
+&lt;iframe src=&quot;https://embed.ted.com/talks/ted_halstead_a_climate_solution_where_all_sides_can_win&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+---
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/29738591&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
+
+---
+
+&lt;p data-height=&quot;265&quot; data-theme-id=&quot;light&quot; data-slug-hash=&quot;YWvpRo&quot; data-default-tab=&quot;css,result&quot; data-user=&quot;kharrop&quot; data-embed-version=&quot;2&quot; data-pen-title=&quot;Referral Form&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/kharrop/pen/YWvpRo/&quot;&gt;Referral Form&lt;/a&gt; by Kelly Harrop (&lt;a href=&quot;http://codepen.io/kharrop&quot;&gt;@kharrop&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
+&lt;script async src=&quot;https://production-assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
+
+---
+
+![about](/images/pages/about.jpeg)
+
+---
+
+&lt;input type=&quot;text&quot; placeholder=&quot;I'm an input field!&quot;&gt;
+
+---
+
+&lt;button class='c-btn c-btn--small'&gt;Button&lt;/button&gt;
+
+&lt;button class='c-btn'&gt;Button&lt;/button&gt;
+
+&lt;button class='c-btn c-btn--full'&gt;Button&lt;/button&gt;
+
+{% highlight html %}
+&lt;button class='c-btn c-btn--small'&gt;Button&lt;/button&gt;
+&lt;button class='c-btn'&gt;Button&lt;/button&gt;
+&lt;button class='c-btn c-btn--full'&gt;Button&lt;/button&gt;
+{% endhighlight %}
+</description>
+            <link>http://localhost:4000/style-guide.html</link>
+          </item>
+        
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+
   </channel>
 </rss>

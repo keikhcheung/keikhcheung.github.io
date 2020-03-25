@@ -1,6 +1,20 @@
 # Change Log
 Kei Ka-hei Cheung
 
+## 20200325
+
+New content; rewrite content.
+
+Remake layout with [Type theme](https://github.com/aspirethemes/type); with Draggable UI nav & blog posts.
+
+## 20191212
+
+Update Chamrousse
+
+## 20191120
+
+Update About.
+
 ## 20191110
 
 Republish GitHub Pages site.
@@ -12,6 +26,10 @@ Correct padding-left for text on mobile.
 On blog post, move post-header to the top of post-content (post-blog layout).
 
 Fix progress img reveal position on blog (width >= 770 centred, othersize position absolute). Problem with transform: translate across browsers.
+
+## 20191101
+
+Update Ardi.
 
 ## 20190906
 
@@ -47,4 +65,4 @@ http://keikhcheung.github.io/
 
 ---
 
-Copyright © Ka Hei Cheung 2010-2018. All rights reserved.
+Copyright © Ka Hei Cheung 2010-2020. All rights reserved.

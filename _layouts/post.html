@@ -1,23 +1,47 @@
 ---
 layout: default
 ---
-<article class="post horizontal">
 
-  <header class="post-header entry">
+{% include base_path %}
 
-    <h1 class="post-title">{{ page.title }}</h1>
-    
-    <div class="post-info">
-      <p class="project-caption">{{ page.caption }}</p>
-      <p class="project-date">{{ page.projdate }}, {{ page.type }}</p>
-      <p class="project-description">{{ page.description }}</p>
-      <p class="project-extras">{{ page.extras }}</p>
+<!---
+  Now scrollbar included in default layout
+
+<div class="c-progress-bar" id="scrollBar"></div>
+
+--->
+
+{% if page.image %}
+  <meta itemprop='og:image' content='{{ base_path }}{{ page.image }}'>
+{% endif %}
+
+<div class='o-wrapper'>
+
+  <div class='o-grid'>
+    <div class='o-grid__col'>
+      <article class='c-post' itemscope itemtype='http://schema.org/BlogPosting'>
+
+        <h1 class='c-post__title u-text-left'>{{ page.title }}</h1>
+
+        <div class='c-post__lead'>{{ page.lead }}</div>
+
+        <time class='c-post__date' datetime='{{ page.date | date_to_xmlschema }}' itemprop='datePublished'>{{ page.date | date: '%d %b %Y' }}</time>
+
+        <div class='c-content' itemprop='articleBody'>
+          {% include page-image.html %}
+
+          {{ content }}
+        </div>
+
+        <div class='c-tags'>
+          {% for tag in page.tags %}
+            {% capture tag %}{{ tag }}{% endcapture %}
+              <a href='{{ site.baseurl }}/tag/{{ tag }}'>{{ tag }}</a>
+          {% endfor %}
+        </div>
+
+      </article>
+
     </div>
-
-  </header>
-
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
   </div>
-
-</article>
+</div>

@@ -1,13 +1,42 @@
-<footer class="site-footer">
+<footer class='c-footer'>
+  <div class='o-grid'>
+    <div class='o-grid__col o-grid__col--full'>
 
-  <script type="text/javascript" charset="utf-8">
-    var d = new Date;
-    var y = d.getFullYear();
-    if (document.documentElement.clientWidth /* screen.width */ >= 800) { 
-      document.write('<p>Copyright &copy;&nbsp;2010-' + y + '<br />Ka Hei Cheung<br />All rights reserved</p>');
-    } else {
-      document.write('<p>Copyright &copy;&nbsp;2010-' + y + ' Ka Hei Cheung<br />All rights reserved</p>');
-    }
-  </script>
+      <ul class='o-plain-list c-social-nav u-text-center'>
+        <li class='c-social-nav__item'>
+          <a href='https://twitter.com/{{ site.twitter.username }}' target='_blank'>
+            <span class='c-social-nav__icon' data-icon='ei-sc-twitter' data-size='s'></span>
+          </a>
+        </li>
+        <li class='c-social-nav__item'>
+          <a href='{{ site.linkedin }}' target='_blank'>
+            <span class='c-social-nav__icon' data-icon='ei-sc-linkedin' data-size='s'></span>
+          </a>
+        </li>
+        <li class='c-social-nav__item'>
+          <a href='{{ site.github }}' target='_blank'>
+            <span class='c-social-nav__icon' data-icon='ei-sc-github' data-size='s'></span>
+          </a>
+        </li>
+        <li class='c-social-nav__item'>
+          <a href='mailto:{{ site.email }}' target='_blank'>
+            <span class='c-social-nav__icon' data-icon='ei-envelope' data-size='s'></span>
+          </a>
+        </li>
+      </ul>
 
+      <div class="c-copyright">
+        <script type="text/javascript" charset="utf-8">
+          var d = new Date;
+          var y = d.getFullYear();
+          // if (document.documentElement.clientWidth /* screen.width */ >= 800) {
+            document.write('<p>Copyright &copy;&nbsp;2010-' + y + '<br />Ka Hei Cheung<br />All rights reserved</p>');
+          // } else {
+          //  document.write('<p>Copyright &copy;&nbsp;2010-' + y + ' Ka Hei Cheung<br />All rights reserved</p>');
+          // }
+        </script>
+      </div>
+
+    </div>
+  </div>
 </footer>
