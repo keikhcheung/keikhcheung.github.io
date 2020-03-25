@@ -23,7 +23,7 @@ import git
 
 
 #%% Define paths.
-post_dir = '_posts/portfolio/'
+post_dir = '_posts/'
 tag_dir = 'tag/'
 
 
@@ -64,7 +64,10 @@ def get_tags(post_dir=post_dir, verbose=True):
     '''    
     
     # Get Markdown posts files.
-    filenames = glob.glob(post_dir + '*md')
+    # Originally: filenames = glob.glob(post_dir + '*.md')
+    # Changed to run through one level down the subfolders under '_posts/'
+    # i.e. _posts/*/*.md
+    filenames = glob.glob(post_dir + '*/*.md')
     
     # Loop through all files.
     total_tags = []
@@ -176,7 +179,7 @@ if __name__ == '__main__':
 
     # Commit changes.    
     try:
-        repo.git.commit('-m', 'Updated tags and created corresponding posts', author='arturomoncadatorres@gmail.com')    
+        repo.git.commit('-m', 'Updated tags and created corresponding posts', author='kei.khcheung@gmail.com')    
     except:
         print("Error occurred while commiting.")
     
