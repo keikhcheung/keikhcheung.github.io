@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: broadcast"
+title: "{{ site.title }} | Tag: broadcast"
 tag: broadcast
 robots: noindex
 ---

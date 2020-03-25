@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: shooting"
+title: "{{ site.title }} | Tag: shooting"
 tag: shooting
 robots: noindex
 ---

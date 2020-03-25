@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: editorial"
+title: "{{ site.title }} | Tag: editorial"
 tag: editorial
 robots: noindex
 ---

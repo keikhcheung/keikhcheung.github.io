@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: journalism"
+title: "{{ site.title }} | Tag: journalism"
 tag: journalism
 robots: noindex
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: bias"
+title: "{{ site.title }} | Tag: bias"
 tag: bias
 robots: noindex
 ---

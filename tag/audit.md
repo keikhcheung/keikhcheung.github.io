@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: audit"
+title: "{{ site.title }} | Tag: audit"
 tag: audit
 robots: noindex
 ---

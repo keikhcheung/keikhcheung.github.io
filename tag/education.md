@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: education"
+title: "{{ site.title }} | Tag: education"
 tag: education
 robots: noindex
 ---

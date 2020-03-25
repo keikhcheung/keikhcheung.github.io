@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: branding"
+title: "{{ site.title }} | Tag: branding"
 tag: branding
 robots: noindex
 ---

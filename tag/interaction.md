@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: interaction"
+title: "{{ site.title }} | Tag: interaction"
 tag: interaction
 robots: noindex
 ---

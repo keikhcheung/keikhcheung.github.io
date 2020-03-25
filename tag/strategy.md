@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: strategy"
+title: "{{ site.title }} | Tag: strategy"
 tag: strategy
 robots: noindex
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: awards"
+title: "{{ site.title }} | Tag: awards"
 tag: awards
 robots: noindex
 ---

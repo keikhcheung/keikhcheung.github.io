@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: heuristics"
+title: "{{ site.title }} | Tag: heuristics"
 tag: heuristics
 robots: noindex
 ---

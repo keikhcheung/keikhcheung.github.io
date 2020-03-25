@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: furniture"
+title: "{{ site.title }} | Tag: furniture"
 tag: furniture
 robots: noindex
 ---

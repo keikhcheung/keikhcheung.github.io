@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: GDPR"
+title: "{{ site.title }} | Tag: GDPR"
 tag: GDPR
 robots: noindex
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: algorithms"
+title: "{{ site.title }} | Tag: algorithms"
 tag: algorithms
 robots: noindex
 ---

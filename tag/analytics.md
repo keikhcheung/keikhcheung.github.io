@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: analytics"
+title: "{{ site.title }} | Tag: analytics"
 tag: analytics
 robots: noindex
 ---

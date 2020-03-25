@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: psychology"
+title: "{{ site.title }} | Tag: psychology"
 tag: psychology
 robots: noindex
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: sharing-economy"
+title: "{{ site.title }} | Tag: sharing-economy"
 tag: sharing-economy
 robots: noindex
 ---

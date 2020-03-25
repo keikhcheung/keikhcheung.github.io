@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: B2B"
+title: "{{ site.title }} | Tag: B2B"
 tag: B2B
 robots: noindex
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: multimodal"
+title: "{{ site.title }} | Tag: multimodal"
 tag: multimodal
 robots: noindex
 ---

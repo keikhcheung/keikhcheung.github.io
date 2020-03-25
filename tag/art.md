@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: art"
+title: "{{ site.title }} | Tag: art"
 tag: art
 robots: noindex
 ---

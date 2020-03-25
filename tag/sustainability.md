@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: sustainability"
+title: "{{ site.title }} | Tag: sustainability"
 tag: sustainability
 robots: noindex
 ---
