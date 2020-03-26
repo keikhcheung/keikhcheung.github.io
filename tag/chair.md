@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: chair | kei ka-hei cheung"
+title: "Tag: chair"
 tag: chair
 robots: noindex
 ---

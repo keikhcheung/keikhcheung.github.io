@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: social-tech | kei ka-hei cheung"
+title: "Tag: social-tech"
 tag: social-tech
 robots: noindex
 ---

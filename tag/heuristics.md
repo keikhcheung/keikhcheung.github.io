@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: heuristics | kei ka-hei cheung"
+title: "Tag: heuristics"
 tag: heuristics
 robots: noindex
 ---

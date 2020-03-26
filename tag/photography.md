@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: photography | kei ka-hei cheung"
+title: "Tag: photography"
 tag: photography
 robots: noindex
 ---

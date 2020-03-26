@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: prototype | kei ka-hei cheung"
+title: "Tag: prototype"
 tag: prototype
 robots: noindex
 ---

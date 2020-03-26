@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: broadcast | kei ka-hei cheung"
+title: "Tag: broadcast"
 tag: broadcast
 robots: noindex
 ---

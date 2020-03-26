@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: ski | kei ka-hei cheung"
+title: "Tag: ski"
 tag: ski
 robots: noindex
 ---

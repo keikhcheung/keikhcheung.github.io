@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: research | kei ka-hei cheung"
+title: "Tag: research"
 tag: research
 robots: noindex
 ---

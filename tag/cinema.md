@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: cinema | kei ka-hei cheung"
+title: "Tag: cinema"
 tag: cinema
 robots: noindex
 ---

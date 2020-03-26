@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: information-architecture | kei ka-hei cheung"
+title: "Tag: information-architecture"
 tag: information-architecture
 robots: noindex
 ---

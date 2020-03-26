@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: museum | kei ka-hei cheung"
+title: "Tag: museum"
 tag: museum
 robots: noindex
 ---

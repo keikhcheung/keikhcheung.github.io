@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: privacy | kei ka-hei cheung"
+title: "Tag: privacy"
 tag: privacy
 robots: noindex
 ---

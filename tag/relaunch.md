@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: relaunch | kei ka-hei cheung"
+title: "Tag: relaunch"
 tag: relaunch
 robots: noindex
 ---

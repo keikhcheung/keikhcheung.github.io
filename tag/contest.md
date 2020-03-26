@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: contest | kei ka-hei cheung"
+title: "Tag: contest"
 tag: contest
 robots: noindex
 ---

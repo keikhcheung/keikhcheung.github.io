@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: analytics | kei ka-hei cheung"
+title: "Tag: analytics"
 tag: analytics
 robots: noindex
 ---

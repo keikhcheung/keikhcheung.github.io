@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: GDPR | kei ka-hei cheung"
+title: "Tag: GDPR"
 tag: GDPR
 robots: noindex
 ---

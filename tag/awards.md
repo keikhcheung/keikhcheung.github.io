@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: awards | kei ka-hei cheung"
+title: "Tag: awards"
 tag: awards
 robots: noindex
 ---

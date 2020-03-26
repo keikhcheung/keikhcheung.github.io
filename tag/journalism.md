@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: journalism | kei ka-hei cheung"
+title: "Tag: journalism"
 tag: journalism
 robots: noindex
 ---

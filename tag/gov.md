@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: gov | kei ka-hei cheung"
+title: "Tag: gov"
 tag: gov
 robots: noindex
 ---

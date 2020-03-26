@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: press | kei ka-hei cheung"
+title: "Tag: press"
 tag: press
 robots: noindex
 ---

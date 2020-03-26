@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: dataviz | kei ka-hei cheung"
+title: "Tag: dataviz"
 tag: dataviz
 robots: noindex
 ---

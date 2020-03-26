@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: multimodal | kei ka-hei cheung"
+title: "Tag: multimodal"
 tag: multimodal
 robots: noindex
 ---

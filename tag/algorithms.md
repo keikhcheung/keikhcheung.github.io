@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: algorithms | kei ka-hei cheung"
+title: "Tag: algorithms"
 tag: algorithms
 robots: noindex
 ---

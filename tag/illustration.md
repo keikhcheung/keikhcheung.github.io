@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: illustration | kei ka-hei cheung"
+title: "Tag: illustration"
 tag: illustration
 robots: noindex
 ---

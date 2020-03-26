@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: machine-learning | kei ka-hei cheung"
+title: "Tag: machine-learning"
 tag: machine-learning
 robots: noindex
 ---

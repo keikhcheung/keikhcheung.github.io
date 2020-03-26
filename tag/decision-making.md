@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: decision-making | kei ka-hei cheung"
+title: "Tag: decision-making"
 tag: decision-making
 robots: noindex
 ---

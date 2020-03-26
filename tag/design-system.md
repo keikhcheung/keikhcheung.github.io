@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: design-system | kei ka-hei cheung"
+title: "Tag: design-system"
 tag: design-system
 robots: noindex
 ---

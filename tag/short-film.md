@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: short-film | kei ka-hei cheung"
+title: "Tag: short-film"
 tag: short-film
 robots: noindex
 ---

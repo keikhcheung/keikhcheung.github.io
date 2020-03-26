@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: editorial | kei ka-hei cheung"
+title: "Tag: editorial"
 tag: editorial
 robots: noindex
 ---

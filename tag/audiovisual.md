@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: audiovisual | kei ka-hei cheung"
+title: "Tag: audiovisual"
 tag: audiovisual
 robots: noindex
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: mobility | kei ka-hei cheung"
+title: "Tag: mobility"
 tag: mobility
 robots: noindex
 ---

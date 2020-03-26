@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: civics | kei ka-hei cheung"
+title: "Tag: civics"
 tag: civics
 robots: noindex
 ---

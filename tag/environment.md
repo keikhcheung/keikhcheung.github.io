@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: environment | kei ka-hei cheung"
+title: "Tag: environment"
 tag: environment
 robots: noindex
 ---

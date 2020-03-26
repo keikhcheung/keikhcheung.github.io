@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: furniture | kei ka-hei cheung"
+title: "Tag: furniture"
 tag: furniture
 robots: noindex
 ---
