@@ -10,13 +10,16 @@
 <!--- { for post in paginator.posts } --->
 {% for post in site.categories.blog %}
   <div class='o-grid__col o-grid__col--2-4-l'>
-    <a href='{{ post.url | prepend: site.baseurl }}' class='c-post-card {% if forloop.first == true %} c-post-card--first {% endif %} {% if forloop.last == true %} c-post-card--last {% endif %} blog'>
-      <h2 class='c-post-card__title'>{{ post.title }}</h2>
+    <!--- Moved class from a to div so as to reduce post-card hover area --->
+    <div class='c-post-card {% if forloop.first == true %} c-post-card--first {% endif %} {% if forloop.last == true %} c-post-card--last {% endif %} blog'>
+      <a href='{{ post.url | prepend: site.baseurl }}'>
+        <h2 class='c-post-card__title'>{{ post.title }}</h2>
+      </a>
       <p class='c-post-card__excerpt'>
         {{ post.lead | strip_html | truncatewords: 30, '…' }}
       </p>
       <span class='c-post-card__date'>{{ post.date | date: '%d %b %Y' }}</span>
-    </a>
+    </div>
   </div>
 {% endfor %}
 

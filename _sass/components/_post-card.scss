@@ -79,6 +79,7 @@
 
   }
 
+  /* Spare post-card lead and date from hover active area
   @include attention() {
     color: $color-text;
 
@@ -86,6 +87,7 @@
       color: $color-link-hover;
     }
   }
+  */
 }
 
 .tag-card {
