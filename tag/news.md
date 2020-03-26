@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "{{ site.title }} | Tag: news"
+title: "Tag: news | kei ka-hei cheung"
 tag: news
 robots: noindex
 ---

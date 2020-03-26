@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "{{ site.title }} | Tag: space-travel"
+title: "Tag: space-travel | kei ka-hei cheung"
 tag: space-travel
 robots: noindex
 ---

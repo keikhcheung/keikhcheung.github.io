@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "{{ site.title }} | Tag: strategy"
+title: "Tag: strategy | kei ka-hei cheung"
 tag: strategy
 robots: noindex
 ---

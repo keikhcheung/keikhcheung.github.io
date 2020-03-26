@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "{{ site.title }} | Tag: illustration"
+title: "Tag: illustration | kei ka-hei cheung"
 tag: illustration
 robots: noindex
 ---

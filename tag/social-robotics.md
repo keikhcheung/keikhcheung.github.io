@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "{{ site.title }} | Tag: social-robotics"
+title: "Tag: social-robotics | kei ka-hei cheung"
 tag: social-robotics
 robots: noindex
 ---

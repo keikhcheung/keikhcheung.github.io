@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "{{ site.title }} | Tag: information-architecture"
+title: "Tag: information-architecture | kei ka-hei cheung"
 tag: information-architecture
 robots: noindex
 ---

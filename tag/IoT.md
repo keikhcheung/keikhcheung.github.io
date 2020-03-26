@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "{{ site.title }} | Tag: IoT"
+title: "Tag: IoT | kei ka-hei cheung"
 tag: IoT
 robots: noindex
 ---

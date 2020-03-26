@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "{{ site.title }} | Tag: bias"
+title: "Tag: bias | kei ka-hei cheung"
 tag: bias
 robots: noindex
 ---

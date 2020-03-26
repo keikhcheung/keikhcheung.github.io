@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "{{ site.title }} | Tag: AR"
+title: "Tag: AR | kei ka-hei cheung"
 tag: AR
 robots: noindex
 ---

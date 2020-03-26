@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "{{ site.title }} | Tag: dataviz"
+title: "Tag: dataviz | kei ka-hei cheung"
 tag: dataviz
 robots: noindex
 ---

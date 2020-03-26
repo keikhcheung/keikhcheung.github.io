@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "{{ site.title }} | Tag: computer-graphics"
+title: "Tag: computer-graphics | kei ka-hei cheung"
 tag: computer-graphics
 robots: noindex
 ---

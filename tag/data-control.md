@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "{{ site.title }} | Tag: data-control"
+title: "Tag: data-control | kei ka-hei cheung"
 tag: data-control
 robots: noindex
 ---

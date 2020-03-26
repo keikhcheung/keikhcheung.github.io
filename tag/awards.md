@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "{{ site.title }} | Tag: awards"
+title: "Tag: awards | kei ka-hei cheung"
 tag: awards
 robots: noindex
 ---

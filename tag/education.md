@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "{{ site.title }} | Tag: education"
+title: "Tag: education | kei ka-hei cheung"
 tag: education
 robots: noindex
 ---

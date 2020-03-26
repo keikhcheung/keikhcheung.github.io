@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "{{ site.title }} | Tag: B2B"
+title: "Tag: B2B | kei ka-hei cheung"
 tag: B2B
 robots: noindex
 ---

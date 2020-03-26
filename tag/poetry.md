@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "{{ site.title }} | Tag: poetry"
+title: "Tag: poetry | kei ka-hei cheung"
 tag: poetry
 robots: noindex
 ---

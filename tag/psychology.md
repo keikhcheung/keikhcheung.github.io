@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "{{ site.title }} | Tag: psychology"
+title: "Tag: psychology | kei ka-hei cheung"
 tag: psychology
 robots: noindex
 ---

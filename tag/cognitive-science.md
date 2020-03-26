@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "{{ site.title }} | Tag: cognitive-science"
+title: "Tag: cognitive-science | kei ka-hei cheung"
 tag: cognitive-science
 robots: noindex
 ---

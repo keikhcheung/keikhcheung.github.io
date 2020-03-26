@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "{{ site.title }} | Tag: GDPR"
+title: "Tag: GDPR | kei ka-hei cheung"
 tag: GDPR
 robots: noindex
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "{{ site.title }} | Tag: shooting"
+title: "Tag: shooting | kei ka-hei cheung"
 tag: shooting
 robots: noindex
 ---

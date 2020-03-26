@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "{{ site.title }} | Tag: editorial"
+title: "Tag: editorial | kei ka-hei cheung"
 tag: editorial
 robots: noindex
 ---
