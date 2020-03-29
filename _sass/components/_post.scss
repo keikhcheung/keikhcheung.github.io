@@ -58,11 +58,13 @@
 
     @include mq($until: desktop) {
       font-size: $font-size-tiny-tb;
+      line-height: $line-height-tiny-tb;
       margin-bottom: $base-spacing-unit;
     }
 
     @include mq($until: tablet) {
-      font-size: $font-size-tiny-mb;
+      font-size: $font-size-small-mb;
+      line-height: $line-height-small-mb;
       margin-bottom: half($base-spacing-unit);
     }
 

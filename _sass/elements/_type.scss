@@ -16,12 +16,12 @@ $font-size-h4-tb:  32px; /* 20px */
 $font-size-h5-tb:  28px; /* 18px */
 $font-size-h6-tb:  20px; /* 16px */
 
-$font-size-h1-mb:  48px; /* 36px */
-$font-size-h2-mb:  36px; /* 28px */
-$font-size-h3-mb:  28px; /* 24px */
-$font-size-h4-mb:  24px; /* 20px */
-$font-size-h5-mb:  20px; /* 18px */
-$font-size-h6-mb:  16px; /* 16px */
+$font-size-h1-mb:  32px; /* 46px */ /* 36px */
+$font-size-h2-mb:  26px; /* 36px */ /* 28px */
+$font-size-h3-mb:  22px; /* 28px */ /* 24px */
+$font-size-h4-mb:  18px; /* 24px */ /* 20px */
+$font-size-h5-mb:  16px; /* 20px */ /* 18px */
+$font-size-h6-mb:  14px; /* 16px */ /* 16px */
 
 h1,
 h2,
@@ -113,6 +113,7 @@ h5 {
   font-size: $font-size-h5;
   font-style: italic;
   color: $color-brand;
+  font-weight: bold;
 
   @include mq($until: desktop) {
     font-size: $font-size-h5-tb;
@@ -126,6 +127,8 @@ h5 {
 h6 {
   font-size: $font-size-h6;
   color: $color-brand;
+  text-transform: uppercase;
+  font-weight: bold;
 
   @include mq($until: desktop) {
     font-size: $font-size-h6-tb;

@@ -35,13 +35,21 @@ Below I am going to unfold some of my highlights from the book related to my pro
 
 ## 0. How do we think?
 
-{% include image.html url="/images/blog/Thinking-00.png" description="Two systems of thinking: fast car and slow, sleepy turtle." %}
+{% include figure.html
+    src="/images/blog/Thinking-00.png"
+    alt="System 1 as the fast car; System 2 as the slow turtle."
+    caption="Two systems of thinking: fast car and slow, sleepy turtle."
+%}
 
 At ground zero, Kahneman points out that there are two distinct thinking systems in our minds. *‘System 1’ is mostly autonomous and capable of making fast, intuitive decisions.* It is partly rooted in our evolutionary instinct and, to a certain extent, developed through the years from how we experience and learn about the world. *‘System 2’ is the slower counterpart. It monitors System 1 and is capable of producing deliberate thoughts.* By default, it is idle, remains comparatively dormant, and requires effort to wake it up. These two systems coexist and spontaneously interfere with each other without us becoming aware of such an occurrence. In the book, Kahneman analyses the interrelations between the two systems. Examples about cognition and thinking procedures are in plenty and well detailed to aid in discerning the intricacies of their correlation. Here are a few tricky discoveries of cognitive biases, which can apply to the Design & Research environment.
 
 ## 1. ‘What you see is all there is.’
 
-{% include image.html url="/images/blog/Thinking-01.png" description="WYSIATI: what you see is all there is; what you don't see is all there is not." %}
+{% include figure.html
+    src="/images/blog/Thinking-01.png"
+    alt="Seeing A in the spotlight; not seeing B at the back."
+    caption="WYSIATI: what you see is all there is; what you don't see is all there is not."
+%}
 
 Our decisions are based on our judgements. Our judgements are based on our understanding. Our understanding is based on our perception. And our perception is based on what there is——in front and around us——the discoverable.
 
@@ -53,7 +61,11 @@ You may observe a wilting and yellowing plant and link it to your understanding 
 
 ## 2. We replace complex problems
 
-{% include image.html url="/images/blog/Thinking-02.png" description="Hmm… let's just take the shorter route! Wait, have we already?" %}
+{% include figure.html
+    src="/images/blog/Thinking-02.png"
+    alt="Intrinsically making & taking shortcut to something apparently ‘identical’, which is not."
+    caption="Hmm… let's just take the shorter route! Wait, have we already?"
+%}
 
 When we are dealing with complex problems, Kahneman points out that we often dodge them by *replacing them with simpler, more straightforward questions*, answering the substitutes, and then pretending to have resolved the original ones. This swapping mechanism is so automated and rooted in our thinking that we do not even notice it when we have performed it.
 
@@ -71,7 +83,11 @@ All in all, you are determining whether it better fulfils your original objectiv
 
 ## 3. We create illusion to validate what we believe
 
-{% include image.html url="/images/blog/Thinking-03.png" description="The more it seems complete, the more you believe it is correct." %}
+{% include figure.html
+    src="/images/blog/Thinking-03.png"
+    alt="It appears to be a square; it must be a square!"
+    caption="The more it seems complete, the more you believe it is correct."
+%}
 
 When we think, not only are our minds lazy and prone to inertia, limited in scope, and erratic along the route, what’s more is that our mind is also delusive regarding the basis on which we think.
 
@@ -87,7 +103,11 @@ Unravelling these puzzles would require better initiatives from involved groups 
 
 ## 4. We do not tell the same experience as we experience it
 
-{% include image.html url="/images/blog/Thinking-04.png" description="Believe it or not: we can find it more pleasant to slowly walk out of pain instead of stopping abruptly at once!" %}
+{% include figure.html
+    src="/images/blog/Thinking-04.png"
+    alt="Even when we enjoy the time we experienced it, we might not always think it is that well in retrospective."
+    caption="Believe it or not: we can find it more pleasant to slowly walk out of pain instead of stopping abruptly at once!"
+%}
 
 Last but not least, what makes our mind more complicated is the construction of scenes which we underwent inside our head——called memory.
 

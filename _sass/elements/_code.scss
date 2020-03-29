@@ -23,8 +23,8 @@ pre {
   }
 
   @include mq($until: tablet) {
-    font-size: $font-size-tiny-mb;
-    line-height: $line-height-tiny-mb;
+    font-size: $font-size-medium-mb;
+    line-height: $line-height-medium-mb;
   }
 }
 

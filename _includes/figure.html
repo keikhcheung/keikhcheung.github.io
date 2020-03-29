@@ -1,0 +1,8 @@
+<!--- Use <figure> and <figcaption> instead of p > img --->
+<figure>
+  <img src="{{ include.src }}" alt="{{ include.alt }}">
+  <figcaption class="extras">
+    {{ include.caption }}
+    {% if source_url %}<a href="{{ include.source_url }}" target="_blank">{{ include.source }}</a>{% endif %}
+  </figcaption>
+</figure>
