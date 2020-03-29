@@ -18,8 +18,8 @@
     border-bottom: 0;
   }
 
-  @include mq($from: desktop) {
-    padding: 0 0 double($base-spacing-unit) 0;
+  @include mq($from: tablet) {
+    padding: 0 0 triple($base-spacing-unit) 0;
   }
 
   &__title {
@@ -29,11 +29,13 @@
     //transition: $global-transition;   /* Remvoe delay is mouse hover leave, because a:hover already covers it */
 
     @include mq($until: desktop) {
+      margin-bottom: $base-spacing-unit;
       font-size: $font-size-base-tb;
       //line-height: $line-height-small-tb;
     }
 
     @include mq($until: tablet) {
+      margin-bottom: half($base-spacing-unit);
       font-size: $font-size-base-mb;
       //line-height: $line-height-small-mb;
     }
@@ -52,9 +54,9 @@
     }
 
     @include mq($until: tablet) {
-      font-size: $font-size-small-mb;
-      line-height: $line-height-small-mb;
-      margin-bottom: $font-size-small-mb;
+      font-size: $font-size-medium-mb;
+      line-height: $line-height-medium-mb;
+      margin-bottom: $font-size-medium-mb;
     }
   }
 
@@ -73,8 +75,8 @@
     }
 
     @include mq($until: tablet) {
-      font-size: $font-size-tiny-mb;
-      line-height: $line-height-tiny-mb;
+      font-size: $font-size-small-mb;
+      line-height: $line-height-small-mb;
     }
 
   }
