@@ -82,3 +82,15 @@ Supplementary courses: Contemporary art, French cinema, and Portuguese language.
 </div>
 <small>May 2018</small>  
 User Experience of Voice Assistants: Exploration of Anticipatory Assistance with Augmented Sensitivity to Usage Environments' Context. [DUMAS, Archive ouverte HAL](https://dumas.ccsd.cnrs.fr/dumas-01981716){:target="_blank"}.
+
+* * *
+
+<div class="marquee">
+<div class="marquee--content">
+<h4 class="item-collection-1">
+# speaking ## speaking ## speaking ## speaking #</h4><h4 class="item-collection-2"># speaking ## speaking ## speaking ## speaking ## speaking #</h4>
+</div>
+</div>
+<small>Apr 2019</small>  
+*Deutscher Digital Award 2019 Backstage*  
+'Asien – Newcomer oder…?' (with Dennys Hess).
