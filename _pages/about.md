@@ -68,7 +68,7 @@ Supplementary courses: Furniture design, product design, prototyping, art apprec
 
 <small>Sep 2014 – Jun 2015</small>  
 *Université Sorbonne Nouvelle Paris 3*, France  
-International Studies (European Studies stream)  
+<i>Licence 3</i> in International Studies (European Studies stream)  
 <span class="extras">French civilisation & language, international politics & legal systems.  
 Supplementary courses: Contemporary art, French cinema, and Portuguese language.</span>
 
