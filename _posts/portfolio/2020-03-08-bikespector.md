@@ -17,7 +17,7 @@ tags:
 # Problem
 Can I count on my shared bike?🚲
 
-Shared mobility is good for urban dwellers. You don't need a bike (or car) if you just want to get from A to B. Sharing bikes saves us the money and the worry of losing one. But since everyone can take and go at any moment, it is *hard to rely on shared bikes* to plan your trip. Besides, what if it suddenly rains?⛈
+**Shared mobility** is good for **urban dwellers**. You don't need a bike (or car) if you just want to get from A to B. Sharing bikes saves us the money and the worry of losing one. But since everyone can take and go at any moment, it is *hard to rely on shared bikes* to plan your trip. Besides, what if it suddenly rains?⛈
 
 <!--- Add back video when live
 <figure>
