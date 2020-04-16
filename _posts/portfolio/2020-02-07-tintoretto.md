@@ -2,7 +2,7 @@
 layout:    page
 title:     Tintoretto2Go&colon; hijack adverts with art + city treasure hunt
 image:     '/images/portfolio/tintoretto-screenshots.jpg'
-time:      Jun–Nov 2017
+time:      Jun ~ Nov 2017
 setup:     with denkwerk GmbH for Wallraf-Richartz Museum & Fondation Corboud.
 lead:      How to make classical art appealing to young people?
 permalink: /tintoretto/

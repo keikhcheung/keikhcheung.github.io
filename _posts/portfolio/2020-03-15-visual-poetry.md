@@ -2,7 +2,7 @@
 layout:    photo-page
 title:     Visual Poetry
 image:     '/images/fun/vp00.jpg'
-time:      May 2010 – Sep 2013
+time:      May 2010 ~ Sep 2013
 lead:      56 pages of traces.
 permalink: /visual-poetry/
 tags:
