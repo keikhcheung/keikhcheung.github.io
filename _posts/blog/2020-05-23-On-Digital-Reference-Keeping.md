@@ -6,6 +6,7 @@ image:     '/images/blog/DRef-Referencing.jpg'
 lead:      COVID-19 has brought me time to stay at home. I spent it on improving my digital reference-keeping habit.
 tags:
   - knowledge-management
+  - productivity
   - information-architecture
   - information-consumption
   - digital-playground
