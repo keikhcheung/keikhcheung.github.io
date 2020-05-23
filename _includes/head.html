@@ -5,26 +5,21 @@
 
   <title>{% if page.title %}{{ page.title | append: ' | ' | append: site.tagline }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name='description' content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <!--- Twitter Card meta tags --->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:creator" content="@keikhcheung">
+  <!--- end Twitter Card meta tags --->
   <!--- more Open Graph meta tags --->
+  <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <meta property="og:title" content="{% if page.title %}{{ page.title | append: ' | ' | append: site.tagline }}{% else %}{{ site.title }}{% endif %}">
   {% if page.lead %}
     <meta property="og:description" content="{{ page.lead }}">
   {% endif %}
   {% if page.image %}
-    <meta property="og:image" content="{{ base_path }}{{ page.image }}">
+    <meta property="og:image" content="{{ page.image | prepend: site.url }}">
   {% endif %}
   <meta name="author" content="{{ site.author }}">
   <!--- end Open Graph meta tags --->
-  <!--- Twitter Card meta tags --->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta property="twitter:title" content="{% if page.title %}{{ page.title | append: ' | ' | append: site.tagline }}{% else %}{{ site.title }}{% endif %}">
-  {% if page.lead %}
-    <meta property="twitter:description" content="{{ page.lead }}">
-  {% endif %}
-  {% if page.image %}
-    <meta property="twitter:image" content="{{ base_path }}{{ page.image }}">
-  {% endif %}
-  <!--- end Twitter Card meta tags --->
   <link rel='canonical' href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel='alternate' type='application/rss+xml' title='{{ site.title }}' href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}">
 
