@@ -63,7 +63,8 @@ figure > figcaption {
 
 /* Restrain and uniform photo-page with old img resolution */
 .w-675 img {
-  max-width: 675px;
+  width: 675px;
+  max-width: 100%;
 }
 
 /* Override generic > shared.scss; reduce spacing between img on photo-page layout */
