@@ -19,7 +19,7 @@ This year, the [GSJ in Cologne](https://www.service-design-network.org/events/co
 
 We started with a quick round of co-brainstorming about everything we could think *out of the blue*——sky, water, summer, sad, Europe… We thought onwards and gradually found out problems we wanted to address. Then we swiftly talked about them and transformed them into how-might-we challenges. Everyone got to pick up one with which they would like to work.
 
-That's how I boarded the ship of *space travel* and *sustainability* for my weekend with Maxime and Nils. 😊🧔🏼👱🏻‍♀️🚀✨
+That's how I boarded the ship of <mark>space travel</mark> and <mark>sustainability</mark> for my weekend with Maxime and Nils. 😊🧔🏼👱🏻‍♀️🚀✨
 
 ## Sustainable Space Travel
 How might we foster sustainable space travel? Very hard.
@@ -90,7 +90,7 @@ With Nils Brüggesch and Maxime Ridzewski.
 
 The jammers loved it! Hehe, they wanted to travel to space with us too!
 
-* * *
+-------
 
 In a recap, the Global Service Jam weekend was dense, compact, and very fun! It is always surprising to see how creativity can turn things around in a short time. It is fascinating to watch how diverse problems could derive from the common point *blue* to all sorts of solutions. Other jammers developed services for no-plastic grocery shopping, AR cooking aid for colour-blind people, a space camp, empathy booster, bedside smartphone killer, volunteering inducer… and presented them all differently. This demonstrated how flexible service design methods can be. While <i>Double Diamond</i> and ‘yes-and/yes-but’ are nothing new to the industry, ductile application and contextual adjustment of the practice are crucial to problem-solving. The short jam weekend pushed us out of the ordinary box of design and urged us to try, test, and experiment——all while having fun!
 

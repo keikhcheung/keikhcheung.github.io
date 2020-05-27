@@ -66,7 +66,7 @@ Although neutrality is hard to attain, the wider the coverage is, the closer we 
 
 As we develop a close bond with digital entities——be it for work’s or entertainment’s sake——we also experience some drawbacks. Amongst all, health problems come first. We all learn from school that it is not healthy to sit in front of a screen for hours or to use our smartphone in bed. We are advised against it but we continue to adopt the latest gadget released, sticking to them until we feel physical pain.
 
-It is not enough just to know the risks but to act to prevent or resolve them. On this, Dasha Ilina brought us to action. In her workshop, I explored how to prevent back and shoulder pain from bad posture in the workplace. I experimented with easily available materials such as cardboard, rubbish bags and rubber gloves, built a *back pain killer* prototype, tested it and iterated on the design. It was a lot of fun!
+It is not enough just to know the risks but to act to prevent or resolve them. On this, Dasha Ilina brought us to action. In her workshop, I explored how to prevent back and shoulder pain from bad posture in the workplace. I experimented with easily available materials such as cardboard, rubbish bags and rubber gloves, built a <mark>back pain killer</mark> prototype, tested it and iterated on the design. It was a lot of fun!
 
 <div class="o-grid" markdown="1">
 <div class="o-grid__col o-grid__col--1-3-m" markdown="1">
@@ -85,7 +85,7 @@ My quick and dirty paper prototype; tested, adapted and improved!
 
 While a 5-year-old child can easily get hold of smartphones and pre-teens as young as [13-years-olds are going to digital rehabilitation](https://www.independent.co.uk/news/health/teenage-technology-addiction-smartphone-rehab-seattle-clinic-children-aged-13-mobile-devices-a7684356.html), why are we not starting the education of technology-related health problem prevention (and relief) early? Dasha’s dynamic workshop guided us to face this often-overlooked issue and attend right to it. It could even bring about the creativity of childhood ([she has done it before!](http://centerfortechpain.com/)), too!
 
-* * *
+-------
 
 These are just a few highlights from the 42-hour-long event. Other talks included topics of prosthetic robots, techno-sensories and social stigmas (although unfortunately only in German); not to mention there were various performances and interactive exhibits parallel to the programme: cocktail bots, pedicure bot, companion bots, and even sex bots (clean hands only)!
 

@@ -6,13 +6,12 @@ image:     '/images/blog/DRef-Referencing.jpg'
 lead:      COVID-19 has brought me time to stay at home. I spent it on improving my digital reference-keeping habit.
 tags:
   - knowledge-management
-  - productivity
   - information-architecture
   - information-consumption
   - digital-playground
 ---
 
-* * *
+-------
 
 COVID-19 has brought me more time to stay at home. Apart from taking a break from the day-to-day work schedule, I have had some time to go through my reading lists (or my hundreds of open tabs and windows), as well as rethinking how to better organise/restructure my information consumption habit.
 
@@ -28,7 +27,7 @@ With the tremendous amount of information that we receive every day, these tabs 
     caption="My ordinary computer screen: numerous tabs, numerous windows, numerous desktop spaces (and on multiple devices)… I can admit it is my considerabe FOMO."
 %}
 
-Even though when I am available and motivated to process these references (COVID-19 does bring me the occasion), I have not been able to *retain or reuse them effectively* with my knowledge management habit.
+Even though when I am available and motivated to process these references (COVID-19 does bring me the occasion), I have not been able to <mark>retain or reuse them effectively</mark> with my knowledge management habit.
 
 ## Organisation, How and For What?
 
@@ -50,9 +49,9 @@ Analogy: If I have a shirt, I would place it in my wardrobe. If it is a book, I 
 
 Problems, however, slowly unveil themselves over time.
 
-As the volume of references grows, so as their types and sources, I often find myself in the situation where *I am not 100% sure where I should store them.*
+As the volume of references grows, so as their types and sources, I often find myself in the situation where <mark>I am not 100% sure where I should store them.</mark>
 
-I could discover a blog post about some latest UX theories while I conduct research for a project. Shall I keep it with my existing notes (in Typora/nvALT), or in the collection folder in the browser extension Raindrop with topical tags? I might even write about the discovery afterwards and would like to properly cite it. Shall I register it in my Zotero library instead? If I save it in my project notes now, *would I remember where to dig it out later*——say——when I start writing my blog post sharing?
+I could discover a blog post about some latest UX theories while I conduct research for a project. Shall I keep it with my existing notes (in Typora/nvALT), or in the collection folder in the browser extension Raindrop with topical tags? I might even write about the discovery afterwards and would like to properly cite it. Shall I register it in my Zotero library instead? If I save it in my project notes now, <mark>would I remember where to dig it out later</mark>——say——when I start writing my blog post sharing?
 
 Thinking up to this point, I can already picture myself madly rifling here and there to try to call the source reference out.
 
@@ -61,26 +60,26 @@ Thinking up to this point, I can already picture myself madly rifling here and t
 Where is it? Where? (Image: [Giphy](https://giphy.com/gifs/3EiNpweH34XGoQcq9Q){:target="_blank"})
 </div>
 
-Besides, *information takes different shapes depending on the context.* To maximise findability, more than often have I turned to the shortcut of saving the same source in multiple places (the associated notes, as well). This is rather unwise and excessive upfront manual work.
+Besides, <mark>information takes different shapes depending on the context.</mark> To maximise findability, more than often have I turned to the shortcut of saving the same source in multiple places (the associated notes, as well). This is rather unwise and excessive upfront manual work.
 
 Problems do not stop at organisation.
 
 The initiative of exploring resources, spending time to digest them and keeping them neatly in place is to facilitate and enrich my future work.
 
-*Shelving references at specific locations, highly attached to their source context, does not really help mobilise processed knowledge or encourage their subsequent application beyond their origin subject.*
+<mark>Shelving references at specific locations, highly attached to their source context, does not really help mobilise processed knowledge or encourage their subsequent application beyond their origin subject.</mark>
 
 ![Screenshot of my Zotero bibliography library.](/images/blog/DRef-Zotero-example.png)
 <div class="extras cap" markdown="1">
 A Zotero entry example on User Experience Questionnaire by Martin Schrepp et al. I took notes on its evaluation methodology when I was writing my [Master’s Thesis](https://dumas.ccsd.cnrs.fr/dumas-01981716){:target="_blank"} on UX for voice assistants. This is also useful for my professional work later on. Yet, it is still resting in the Master’s Thesis context and not readily recallable. There may even be a higher change where I would come across UEQ anew on search engines than on this exact entry.
 </div>
 
-Ideas, thoughts, insights are the most sparkling when they are kindled by unusual stimuli. *Processed knowledge shall play a similar role, allow cross-disciplinary discoveries, and——the most importantly——be easy to spark* when they might be inspiring to whatever subject I may eventually explore.
+Ideas, thoughts, insights are the most sparkling when they are kindled by unusual stimuli. <mark>Processed knowledge shall play a similar role, allow cross-disciplinary discoveries, and——the most importantly——be easy to spark</mark> when they might be inspiring to whatever subject I may eventually explore.
 
 This escalates not only to an issue of bookmark/reference organisation, but personal knowledge management.
 
 ## Solution Hunt: a Loosely Centralised, Morphable Library
 
-It became clear to me that I want to establish a library of valued information and personal knowledge. One that is not only structured for management, but also *conveniently exploitable for inspiration*, and *flexible to grow over time*.
+It became clear to me that I want to establish a library of valued information and personal knowledge. One that is not only structured for management, but also <mark>conveniently exploitable for inspiration</mark>, and <mark>flexible to grow over time</mark>.
 
 {% include figure.html
     src="/images/blog/DRef-Organic-Library-Growth.jpg"

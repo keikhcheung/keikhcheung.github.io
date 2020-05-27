@@ -13,7 +13,7 @@ tags:
   - broadcast
 ---
 
-* * *
+-------
 
 Information is abundant and harsh these days. Everyone sounds like shouting, if not throttling, at each other. At least it is what it feels like when you read online. When you turn to newspapers or broadcast media, it does not seem much better either. Conflicts, wars, disasters, contradictory reports and opinions. It is confusing and you are in the middle of the entanglement.
 
@@ -63,7 +63,7 @@ Revitalising journalism and news media sounds big. There are two apparent aspect
 
 The first aspect consists of reconnecting reader groups.
 
-Press and news media should not represent *the one voice* they want to propagate, but *the voices* which exist in the setting. It is understandable that journalists and media houses hold their own interest scope and standpoints. How news stories are followed, collected, analysed, cut, shaped, and presented to the public subsequently depends on them. Loss of information is inevitable during the production chain. Yet, instead of simply persuading the public of their perspective, the bigger picture should not be forgotten.
+Press and news media should not represent <mark>the one voice</mark> they want to propagate, but <mark>the voices</mark> which exist in the setting. It is understandable that journalists and media houses hold their own interest scope and standpoints. How news stories are followed, collected, analysed, cut, shaped, and presented to the public subsequently depends on them. Loss of information is inevitable during the production chain. Yet, instead of simply persuading the public of their perspective, the bigger picture should not be forgotten.
 
 Take Brexit as an example. Before the universal suffrage in 2016, as [Rachel Oldroyd](https://twitter.com/Raoldroyd){:target="_blank"} presented in [her talk in Campfire Festival](https://sched.co/UBen){:target="_blank"}, Remain news media had overlooked the local voices and misjudged the proportion adhering to Leave. Coverage (especially analyses) for the other side was scarce. It was only until the ballots were counted that the public (and politicians) learnt——in the hard way——to have to deal with alternative voices seriously. Had they known more about the casting situation beforehand, the current deadlock situation of Brexit probably would have looked very different.
 
@@ -91,7 +91,7 @@ It is a duty for the press to report happenings to the public, be it cheery or d
 Knowing the facts is step 1; understanding the complexities is step 2; solving problems is step 3. (Image: [Giphy](https://gph.is/2h8wI3B){:target="_blank"}; [Adult Swim](https://youtu.be/0oBx7Jg4m-o){:target="_blank"})
 </div>
 
-* * *
+-------
 
 Journalism is supposed to help us understand the world and to empower us to make better judgements. Its ultimate function is to engage people's conscience in action and to stimulate social improvements. The audience of today are turning doubtful of its authenticity and becoming bewildered amidst the concurrent intricacies. Journalists are, hence, in the most critical position ever to connect with the people, to converge crowds of different opinions on the round table, to objectively lay down all sides of the truth, and to supply the public with quality references, in the hope of steering the group towards resolution.
 
@@ -99,7 +99,7 @@ Journalism is supposed to help us understand the world and to empower us to make
 This article is also published on [Medium](https://medium.com/@keikhcheung/modern-role-of-journalism-and-news-media-506f844abfce){:target="_blank"}.
 </div>
 
-* * *
+-------
 
 ## References
 
