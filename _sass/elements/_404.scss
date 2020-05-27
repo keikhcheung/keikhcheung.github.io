@@ -1,0 +1,13 @@
+/* 404 GIF backgroud */
+.error-404 {
+  height: 100vh;
+  background: url('/images/404-scream.gif') no-repeat fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+  h1, p {
+    color: $color-white;
+  }
+}
