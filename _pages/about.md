@@ -88,9 +88,13 @@ User Experience of Voice Assistants: Exploration of Anticipatory Assistance with
 <div class="marquee">
 <div class="marquee--content">
 <h4 class="item-collection-1">
-# speaking ## speaking ## speaking ## speaking #</h4><h4 class="item-collection-2"># speaking ## speaking ## speaking ## speaking ## speaking #</h4>
+# speaking ## teaching ## speaking ## teaching ## speaking ## teaching #</h4><h4 class="item-collection-2"># speaking ## teaching ## speaking ## teaching ## speaking ## teaching #</h4>
 </div>
 </div>
 <small>Apr 2019</small>  
 <mark>Deutscher Digital Award 2019 Backstage</mark>  
 'Asien – Newcomer oder…?' (with Dennys Hess).
+
+<small>Mar 2019</small>  
+<mark>Design Studies, MacEwan University</mark>  
+Guest lecture: 'User Experience in Voice User Interface', DESN341 Interaction Design II.
