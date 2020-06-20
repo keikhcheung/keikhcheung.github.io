@@ -32,7 +32,7 @@ How to make classical art appealing to young people?
 
 In the celebration of the 500<sup>th</sup> birthday of 👨🏻‍🎨Jacopo Tintoretto, Italian Renaissance artist, we <mark>remixed classial paintings with visual recognition & augmented reality</mark>.
 
-<video width="992" controls autoplay>
+<video width="992" controls>
 <source src="http://www.pipipi.de/fileadmin/dam/awards/tintoretto2go/tintoretto2go_master_mp4_en_klein_2.mp4" type="video/mp4">
 </video>
 
