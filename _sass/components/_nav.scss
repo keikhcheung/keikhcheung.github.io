@@ -63,9 +63,9 @@
 
   /* Breaking earlier for smaller #draggable on horizontal iPhone SE */
   @include mq($from: 500px) {
-    width: 15vw;
-    height: 15vw;
-    line-height: 13vw;
+    width: 25vh;
+    height: 25vh;
+    line-height: 20vh;
   }
 
   @include mq($from: desktop) {
