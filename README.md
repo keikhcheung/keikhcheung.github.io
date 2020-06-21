@@ -1,6 +1,14 @@
 # Change Log
 Kei Ka-hei Cheung
 
+## 20200621
+
+Fix display for iPhone notch and #draggable size on mobile & tablet.
+
+## 20200523
+
+Blog post on [On Digital Reference Keeping](https://keikhcheung.com/blog/2020/05/23/On-Digital-Reference-Keeping/); added better SEO for Twitter Cards.
+
 ## 20200325
 
 New content; rewrite content.
