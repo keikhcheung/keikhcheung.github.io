@@ -63,10 +63,17 @@
 
   /* Breaking earlier for smaller #draggable on horizontal iPhone SE */
   @include mq($from: 500px) {
-    width: 25vh;
-    height: 25vh;
-    line-height: 20vh;
+    width: 6rem;   /* min(25vh, 15vw); doesn't work with Liquid */
+    height: 6rem;   /* min(25vh, 15vw); doesn't work with Liquid */
+    line-height: 5rem;   /*20vh;*/
   }
+
+  /* Shift #draggable dot size back on dependent on vw for tablet */
+  /*@include mq($from: tablet) {
+    width: 15vw;
+    height: 15vw;
+    line-height: 13vw;
+  }*/
 
   @include mq($from: desktop) {
     width: 150px;
