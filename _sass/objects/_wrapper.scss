@@ -2,9 +2,9 @@
   Objects > Wrapper
 \*------------------------------------*/
 
-.o-wrapper {
-  padding: $base-spacing-unit 0;   /* double($base-spacing-unit) 0 */
-}
+/*.o-wrapper {
+  padding: $base-spacing-unit 0;   /* double($base-spacing-unit) 0
+}*/
 
 .content .o-wrapper, .content-photo .o-wrapper {
   /* iPHone notch */
@@ -12,7 +12,7 @@
   padding-right: max(0, env(safe-area-inset-right));*/
   padding-left: env(safe-area-inset-left, 0);
   padding-right: env(safe-area-inset-right, 0);
-  padding-bottom: env(safe-area-inset-bottom, $base-spacing-unit);
+  padding-top: calc(16px + env(safe-area-inset-right, 0));   /* 16px from $base-spacing-unit */
 }
 
 /**

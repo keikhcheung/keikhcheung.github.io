@@ -3,6 +3,8 @@
 \*------------------------------------*/
 
 .c-footer {
-  padding: double($base-spacing-unit) 0;
+  /* padding: double($base-spacing-unit) 0;*/
+  padding-top: double($base-spacing-unit);
+  padding-bottom: calc(32px + env(safe-area-inset-bottom, 0));   /* 32px from double($base-spacing-unit) */
   background-color: $bg-color-gray;
 }
