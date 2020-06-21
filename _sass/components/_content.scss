@@ -3,13 +3,6 @@
 \*------------------------------------*/
 
 .c-content, .c-content-photo {
-  /* iPHone notch */
-  /*padding-left: max(0, env(safe-area-inset-left));
-  padding-right: max(0, env(safe-area-inset-right));*/
-  padding-left: env(safe-area-inset-left, 2rem);
-  padding-right: env(safe-area-inset-right, 2rem);
-  padding-bottom: env(safe-area-inset-bottom);
-
   a:not(.c-btn) {
     /* text-decoration: underline;
        text-decoration-skip: ink;
