@@ -9,6 +9,8 @@ tags:
   - information-architecture
   - information-consumption
   - digital-playground
+  - workspace
+  - productivity
 ---
 
 -------
