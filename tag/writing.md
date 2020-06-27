@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: service"
-tag: service
+title: "Tag: writing"
+tag: writing
 robots: noindex
 ---
