@@ -3,7 +3,7 @@ Kei Ka-hei Cheung
 
 ## 20200627
 
-Blog post on [Linear Writing Software Impedes Literal Exploration](https://keikhcheung.com/blog/2020/06/27/Linear-Writing-Software-Impedes-Literal-Exploration/).
+Blog post on [Linear Writing Software Impedes Literary Exploration](https://keikhcheung.com/blog/2020/06/27/Linear-Writing-Software-Impedes-Literary-Exploration/).
 
 ## 20200621
 
