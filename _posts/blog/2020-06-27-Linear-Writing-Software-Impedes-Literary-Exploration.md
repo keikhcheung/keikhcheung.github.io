@@ -1,7 +1,7 @@
 ---
 layout:    post
 category:  'blog'
-title:     Linear Writing Software Impedes Literal Exploration
+title:     Linear Writing Software Impedes Literary Exploration
 image:     '/images/blog/LWrit-Writing.jpg'
 lead:      Thinking is not a linear process, nor shall writing be. Why do digital writing apps make it so? 
 tags:
@@ -53,7 +53,7 @@ But when the adjustment is larger, it soon becomes more problematic.
 
 ### Single-Minded
 
-By limiting us to have one single text stream, writing software is making it difficult to produce alternatives for literal exploration. If we want to try out a different writing style or attempt an elaboration variant for a certain paragraph or chapter, we would have to either *make copies* of the current document and manually converge applicable parts later, or *inject variants* directly into the text stream and break the narrative flow.
+By limiting us to have one single text stream, writing software is making it difficult to produce alternatives for literary exploration. If we want to try out a different writing style or attempt an elaboration variant for a certain paragraph or chapter, we would have to either *make copies* of the current document and manually converge applicable parts later, or *inject variants* directly into the text stream and break the narrative flow.
 
 The complexity multiplies with the number of variations you are making and the number of collaborators you work with.
 
@@ -89,7 +89,7 @@ Comments, suggestions, change tracking are all drawn to the linear stream of tex
 -------
 
 ## Thoughts on Possible Improvements
-As Ryan Singer [tweeted][Tweet 1]{:target="_blank"}: When designers work on visual exploration, we put variations side by side on a canvas to compare versions. Can digital writing not handle literal exploration and alternatives similarly, while keeping the original narrative intact and without leaving the current copy?
+As Ryan Singer [tweeted][Tweet 1]{:target="_blank"}: When designers work on visual exploration, we put variations side by side on a canvas to compare versions. Can digital writing not handle literary exploration and alternatives similarly, while keeping the original narrative intact and without leaving the current copy?
 
 ![Variations of an app screen juxtaposed next to each other.](/images/blog/LWrit-Explore-Design.jpg)
 <div class="extras cap" markdown="1">
