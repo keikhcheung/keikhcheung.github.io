@@ -17,6 +17,8 @@ tags:
 
 COVID-19 has brought me more time to stay at home. Apart from taking a break from the day-to-day work schedule, I have had some time to go through my reading lists (or my hundreds of open tabs and windows), as well as rethinking how to better organise/restructure my information consumption habit.
 
+> We read a lot every day. How much can we actually retain? How much information that we once found *useful* can actually be *used*?
+
 ## The Bad Habit
 
 I have a bad habit regarding information consumption on computers/smartphones. When I come across some interesting sources or references but do not have the time/energy to go through it right away, I leave them open in the background for later.
@@ -47,7 +49,7 @@ At times, I would add extra notes to summarise what this reference is about. It 
 
 The organisation seemed clear at the beginning. There is a defined space to store references of one nature. Their application is likely to be related to that defined scope.
 
-Analogy: If I have a shirt, I would place it in my wardrobe. If it is a book, I would put it on my bookshelves. If it is a pen, I would store it in my stationery drawer/holder. If it is food, it would end up either in the pantry or the fridge. Easy-peasy.
+> Analogy: If I have a shirt, I would place it in my wardrobe. If it is a book, I would put it on my bookshelves. If it is a pen, I would store it in my stationery drawer/holder. If it is food, it would end up either in the pantry or the fridge. Easy-peasy.
 
 Problems, however, slowly unveil themselves over time.
 
@@ -68,7 +70,7 @@ Problems do not stop at organisation.
 
 The initiative of exploring resources, spending time to digest them and keeping them neatly in place is to facilitate and enrich my future work.
 
-<mark>Shelving references at specific locations, highly attached to their source context, does not really help mobilise processed knowledge or encourage their subsequent application beyond their origin subject.</mark>
+> Shelving references at specific locations, highly attached to their source context, does not really help **mobilise processed knowledge** or **encourage their subsequent application** beyond their origin subject.
 
 ![Screenshot of my Zotero bibliography library.](/images/blog/DRef-Zotero-example.png)
 <div class="extras cap" markdown="1">
@@ -93,6 +95,14 @@ I spent quite some time trying to find <i>the tool</i> which allows a good balan
 
 Despite my experiment with a few tools and attempts to follow people's showcases and tutorials, I have not yet found the perfect fit. Methods and solutions are either too restrictive on media types, require too much janitor work, or too alien to my information consumption.
 
-A less-than-perfect answer on which I am currently settling is [Roam Research](https://roamresearch.com/){:target="_blank"}. It is a cloud-based outliner tool which allows great flexibility in organisation and cross-reference. It is still in close beta and limited to textual information. The possibility of not having to worry about structure (easily malleable later) and just to focus on content is delightful. Thus it offers a relatively low entry to progressive summary and a scalable set-up.
+A less-than-perfect answer on which I am currently settling is [Roam Research](https://roamresearch.com/){:target="_blank"}. It is a cloud-based outliner tool which allows great flexibility in organisation and cross-reference. It is still ~~in close beta~~ quite in the early stage of maturity and limited to textual information. The possibility of not having to worry about structure (easily malleable later) and just to focus on content is delightful. Thus it offers a relatively low entry to progressive summary and a scalable set-up.
 
 While the knowledge library grows, the organisation required to keep it effective would also change. It is certainly an ongoing, evolving and organic process. Morphability is what Roam generously allows.
+
+-------
+
+PS: [Steve Yang](https://twitter.com/Steve_Yang331){:target="_blank"} has collected [an extensive list of similar tools](https://www.notion.so/Artificial-Brain-Networked-notebook-app-a131b468fc6f43218fb8105430304709){:target="_blank"} for networked knowledge management. It is constantly being updated by other collaborators!
+
+<div class="extras" markdown="1">
+This article is also published on [Medium](https://medium.com/@keikhcheung/on-digital-reference-keeping-8328eb2accfe){:target="_blank"}.
+</div>
