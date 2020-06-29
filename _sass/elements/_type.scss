@@ -149,6 +149,14 @@ mark {
   font-style: normal;
 }
 
+blockquote {
+  font-style: italic;
+
+  em {
+    font-style: initial;
+  }
+}
+
 .client {
   color: $color-lg;
 }
