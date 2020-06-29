@@ -17,7 +17,7 @@ tags:
 
 **Thinking is not a linear process, nor is writing.**
 
-We may start with a certain set of ideas and explicate them in one vocabulary. Others may sprout later, and we would similarly try to verbalise them in words. These latecomers——as new input——would open up new potential and provoke us to reflect on the previously written text, which leads to altering our narrative.
+We may start with a certain set of ideas and explicate them in one vocabulary. Others may sprout later, and we would similarly try to verbalise them. These latecomers——as new input——would open up new potential and provoke us to reflect on the previously written text, which leads to altering our narrative.
 
 Hence, <mark>writing is often a process of back and forth.</mark> It is an experiment where you connect different elements and see how they go. It is akin to chemical lab test. Putting elements A and B may give a spark. It may make shiny crystals. Maybe also a kaboom or nothing at all.
 
