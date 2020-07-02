@@ -12,20 +12,29 @@ tags:
   - multimodal
   - art
   - awards
+websites:
+  - https://www.tintoretto2go.de/
+  - https://www.pipipi.de/tintoretto_en.html
+  - https://www.pipipi.de/tintoretto_de.html
+  - Ranking https://www.redbox.de/sites/default/files/ranking/ranking2019/details/215.htm
 ---
 
 <div class="extras" markdown="1">
 
 ##### Awards
 
-- Gold Medal, 'Digital Out of Home', [Golden Awards of Montreux 2018](http://www.goldenawardmontreux.com/winners2018/winners2018-digital.html){:target="_blank"}
-- Silber, 'Digitale Sonderformate', [Annual Multimedia Awards 2019](https://www.annual-multimedia.de/gewinner_2019/){:target="_blank"}
-- Bronze, Best User Experience in 'Mobile & Applications', [Lovie Awards 2018](https://winners.lovieawards.eu/#!y=2018&m=274){:target="_blank"})
-- Best Visual Design: Function, 'Apps, Mobile, and Voice', [Webby Awards 2019](https://www.webbyawards.com/winners/2019/apps-mobile-and-voice/apps-mobile-features/best-visual-design-function/tintoretto2go/){:target="_blank"})
-- Nomination, Culture & Events in 'Apps, Mobile, and Voice', [Webby Awards 2019]((https://www.webbyawards.com/winners/2019/apps-mobile-and-voice/apps-mobile-sites-general/culture-events/tintoretto2go/){:target="_blank"})
+- [Golden Awards of Montreux 2018](http://www.goldenawardmontreux.com/winners2018/winners2018-digital.html){:target="_blank"}: Gold Medal, 'Digital Out of Home'
+- [Lovie Awards 2018](https://winners.lovieawards.eu/#!y=2018&m=274){:target="_blank"}: Bronze, *Best User Experience* in 'Mobile & Applications'
+<!--- Facebook post: https://www.facebook.com/denkwerk/posts/10156682556103426/
+	  Twitter: https://twitter.com/denkwerk/status/1051809941558886400
+	  iOS App: https://apps.apple.com/us/app/tintoretto2go/id1292594289 --->
+- [Annual Multimedia Awards 2019](https://www.annual-multimedia.de/gewinner-2019){:target="_blank"}: Silber, 'Digitale Sonderformate'
+<!--- Artsy report: https://www.artsy.net/news/artsy-editorial-tate-augmented-reality-street-art-application-2019-webby-awards-nominees --->
+- [Webby Awards 2019](https://www.webbyawards.com/winners/2019/apps-mobile-and-voice/apps-mobile-features/best-visual-design-function/tintoretto2go/){:target="_blank"}: *Features* and *Best Visual Design - Function* in 'Apps, Mobile, and Voice'
+- [Webby Awards 2019 Nominee](https://www.webbyawards.com/winners/2019/apps-mobile-and-voice/apps-mobile-sites-general/culture-events/tintoretto2go/){:target="_blank"}: *Culture & Events* in 'Apps, Mobile, and Voice'
+- [Econ Megaphon Awards 2019](https://www.econforum.de/beitraege/econ-megaphon-awards/2019/mobileapps/tintoretto2go){:target="_blank"}: *Digitale Medien (Mobile/Apps)* and *Bester der Branche - Kunst, Kultur und Sport (B2C)*
 
 </div>
-
 
 # Background
 How to make classical art appealing to young people?
@@ -44,7 +53,7 @@ On Tintoretto2Go, we **hijacked advertisements** around the city of Cologne and 
 # Hands-on
 Starting with literature review in different languages and expert interviews, we found out the highlights in the 🖼licensed paintings and created **compelling storytelling** out from the artworks. We consolidated the narratives and produced 🌌storyboards, consulted the museum curator and gathered feedback, before we went into 3D modelling/animation and development with the team.
 
-Later, we tested our prototype and further improved our 👾game experience. Every week we updated the visual markers to enhance the city hunt amusement. 🏃🏻‍♂️🏃🏼‍♀️
+Later, we tested our prototype and further improved our 👾game experience. After the [initial app release](https://apps.apple.com/us/app/tintoretto2go/id1292594289){:target="_blank"}, we updated the visual markers every week to enhance the city hunt amusement. 🏃🏻‍♂️🏃🏼‍♀️
 
 ![On-site testing for AR storytelling](/images/portfolio/tintoretto-test-compressed.jpg)
 
