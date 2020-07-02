@@ -20,8 +20,8 @@ tags:
 
 - Gold Medal, 'Digital Out of Home', [Golden Awards of Montreux 2018](http://www.goldenawardmontreux.com/winners2018/winners2018-digital.html){:target="_blank"}
 - Silber, 'Digitale Sonderformate', [Annual Multimedia Awards 2019](https://www.annual-multimedia.de/gewinner_2019/){:target="_blank"}
-- Bronze, Best User Experience in 'Mobile & Applications', [Lovie Awards 2018]((https://winners.lovieawards.eu/#!y=2018&m=274){:target="_blank"})
-- Best Visual Design: Function, 'Apps, Mobile, and Voice', [Webby Awards 2019]((https://www.webbyawards.com/winners/2019/apps-mobile-and-voice/apps-mobile-features/best-visual-design-function/tintoretto2go/){:target="_blank"})
+- Bronze, Best User Experience in 'Mobile & Applications', [Lovie Awards 2018](https://winners.lovieawards.eu/#!y=2018&m=274){:target="_blank"})
+- Best Visual Design: Function, 'Apps, Mobile, and Voice', [Webby Awards 2019](https://www.webbyawards.com/winners/2019/apps-mobile-and-voice/apps-mobile-features/best-visual-design-function/tintoretto2go/){:target="_blank"})
 - Nomination, Culture & Events in 'Apps, Mobile, and Voice', [Webby Awards 2019]((https://www.webbyawards.com/winners/2019/apps-mobile-and-voice/apps-mobile-sites-general/culture-events/tintoretto2go/){:target="_blank"})
 
 </div>
