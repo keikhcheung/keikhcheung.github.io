@@ -67,5 +67,5 @@ The exhibition was held in Cologne Oct 2017–Jan 2018. As many as <mark>99,062 
 The jubilee exhibition was later hosted in Musée du Luxembourg in 🇫🇷Paris.
 
 <div class="extras" markdown="1">
-Courtesy: <i>denkwerk</i>, visual content.
+Courtesy: <i>denkwerk</i>, visual content and video.
 </div>
