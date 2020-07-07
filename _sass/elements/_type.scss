@@ -194,6 +194,10 @@ blockquote {
   }
 }
 
+.about-sec{
+  color: $color-lg;
+}
+
 .project:before {
   content: '\25A9';   /* ▩ Square with diagonal crosshatch fill */
 }
@@ -202,7 +206,7 @@ blockquote {
 //content: '\25C9';   /* ◉ Fisheye */
 }
 
-.fun + a:before {
+.fun + a:before, .skill:before {
 //content: '\25C7';   /* ◇ White diamond */
 //padding-right: 0.05em;
   content: '\25C9';   /* ◉ Fisheye */
@@ -210,4 +214,8 @@ blockquote {
   @include attention() {
     color: $color-text;
   }
+}
+
+.interest:before {
+  content: '\25CE';   /* ◎ Bullseye */
 }
