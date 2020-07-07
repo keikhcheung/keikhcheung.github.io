@@ -89,8 +89,8 @@ I am also fond of:
 </div>
 </div>
 
-My background crosses design, socio-politics and digital humanities. I am an alumnus of *École Normale Supérieure de Lyon*, Hong Kong Baptist University and *Université Sorbonne Nouvelle Paris 3*.
+My background crosses design, socio-politics and digital humanities. I am an alumnus of *École Normale Supérieure de Lyon*, Hong Kong Baptist University and *Université Sorbonne Nouvelle Paris 3*.
 
 I wrote my master’s thesis on UX of voice assistants, where I explored how to design for anticipatory assistance based on usage environments’ context. You can [read it online](https://dumas.ccsd.cnrs.fr/dumas-01981716){:target="_blank"}.
 
-I gave a guest lecture at MacEwan University’s Design Studies about UX in voice user interface.
+I gave a guest lecture at MacEwan University’s Design Studies about UX in voice user interface (DESN 341).
