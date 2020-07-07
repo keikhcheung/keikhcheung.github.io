@@ -20,9 +20,9 @@ I speak English, French, Cantonese, Mandarin Chinese, and GIF; also a bit of Ger
 </div>
 </div>
 
-I have worked in 🇩🇪Germany, 🇫🇷France, 🇭🇰Hong Kong and 🇺🇸the USA in very different positions and contexts.
+I have worked in 🇩🇪Germany, 🇫🇷France, 🇭🇰Hong Kong and 🇺🇸the USA in very different positions & contexts.
 
-At the moment, I am doing Experience Design at the agency [*denkwerk*](https://www.denkwerk.com/){:target="_blank"} by day.
+At the moment, I am doing experience design at the agency [*denkwerk*](https://www.denkwerk.com/){:target="_blank"} by day.
 
 <div class="about-sec" markdown="1">
 Some companies/organisations for which I did creative work include:
@@ -93,4 +93,4 @@ My background crosses design, socio-politics and digital humanities. I am an alu
 
 I wrote my master’s thesis on UX of voice assistants, where I explored how to design for anticipatory assistance based on usage environments’ context. You can [read it online](https://dumas.ccsd.cnrs.fr/dumas-01981716){:target="_blank"}.
 
-I lectured at MacEwan University on UX in voice user interface as a guest.
+I gave a guest lecture at MacEwan University’s Design Studies about UX in voice user interface.
