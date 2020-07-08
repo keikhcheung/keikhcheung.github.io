@@ -22,7 +22,7 @@ I speak English, French, Cantonese, Mandarin Chinese, and GIF; also a bit of Ger
 
 I have worked in 🇩🇪Germany, 🇫🇷France, 🇭🇰Hong Kong and 🇺🇸the USA in very different positions & contexts.
 
-At the moment, I am doing experience design at the agency [*denkwerk*](https://www.denkwerk.com/){:target="_blank"} by day.
+At the moment, I am doing experience design at the digital agency [*denkwerk*](https://www.denkwerk.com/){:target="_blank"} by day.
 
 <div class="about-sec" markdown="1">
 Some companies/organisations for which I did creative work include:
