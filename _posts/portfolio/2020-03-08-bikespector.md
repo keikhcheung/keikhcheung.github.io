@@ -42,7 +42,7 @@ We made use of the **open data** of shared bikes in Cologne, Berlin, Düsseldorf
 
 Together with data specialists, we built a data model and applied machine learning methods. Over time, our model got trained to purify its <mark>prediction accuracy</mark>. We have been able to attain as high as **84%**.✅
 
-At the same time, we developed an intereactive interface to **visualise** our bike prediction data and turned it into a serviceable tool open to public.  
+At the same time, we developed an intereactive interface to **visualise** our bike prediction data, conducted user tests, and further iterated on our design. We finally turned it into a serviceable tool open to public.  
 👉🏼[Check it out!](https://www.bikespector.de){:target="_blank"}
 
 ![Bikespector interface, forecasting shared bikes availability from the next hour up to 5 days ahead!](/images/portfolio/bikespector-UI.png)
