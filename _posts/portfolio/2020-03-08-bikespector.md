@@ -12,7 +12,18 @@ tags:
   - dataviz
   - mobility
   - sharing-economy
+  - awards
+websites:
+  - https://winners.webbyawards.com/2020/websites/features-design/best-user-experience/129177/bikespector
 ---
+
+<div class="extras" markdown="1">
+
+##### Awards
+
+- [Webby Awards 2020 Nominee](https://winners.webbyawards.com/2020/websites/features-design/best-user-experience/129177/bikespector){:target="_blank"}: *Best User Experience 2020* in 'Websites'
+
+</div>
 
 # Problem
 Can I count on my shared bike?🚲
