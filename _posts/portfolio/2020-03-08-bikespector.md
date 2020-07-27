@@ -47,18 +47,18 @@ Can I count on my shared bike?🚲
 ![Can we have a service timetable for shared bikes?](/images/portfolio/bikespector-shared-bikes-timetable.png)
 
 # Concept
-Shared bikes being a means of transport, we believe hirers should be given something more tangible to depend on, like a 🚇metro or 🚌bus **timetable**; and that should also take account of other factors which can affect its service, like 🌤weather.
+Shared bikes being a means of transport, our team believe hirers should be given something more tangible to depend on, like a 🚇metro or 🚌bus **timetable**; and that should also take account of other factors which can affect its service, like 🌤weather.
 
 If shared bikes are as volatile as weather, can we *forecast* them with what we know?
 
 ![If shared bikes are as volatile as weather, can we forecast them with what we know?](/images/portfolio/bikespector-machine-learning.png)
 
 # Hands-on
-We made use of the **open data** of shared bikes in Cologne, Berlin, Düsseldorf and Frankfurt. Together with weather data, we studied the **coorelation** between them while aiming at predicting bikes availability around a given address for the upcoming hours and days. Through the course of the analysis, this has been translated into 🤩<mark>forecasting free shared bikes</mark> around a point——within a preferred walking distance——for the next hour up to 5 days ahead.
+We made use of the **open data** of shared bikes in cities, before finally coming down to Cologne, Berlin, Düsseldorf and Frankfurt. I furthered our research by spotting possibile, compatible public release of data to broaden the prediction use case coverage. Together with weather data, we studied the **coorelation** between them while aiming at predicting bikes availability around a given address for the upcoming hours and days. Through the course of the analysis, this has been translated into 🤩<mark>forecasting free shared bikes</mark> around a point——within a preferred walking distance——for the next hour up to 5 days ahead.
 
-Together with data specialists, we built a data model and applied machine learning methods. Over time, our model got trained to purify its <mark>prediction accuracy</mark>. We have been able to attain as high as **84%**.✅
+With our data specialists, we built a data model and applied machine learning methods. Over time, our model got trained to purify its <mark>prediction accuracy</mark>. We have been able to attain as high as **84%**.✅
 
-At the same time, we developed an intereactive interface to **visualise** our bike prediction data, conducted user tests, and further iterated on our design. We finally turned it into a serviceable tool open to public.  
+At the same time, we developed an intereactive interface to **visualise** our bike prediction data. My role in this step was to ensure the story gets communicated & delivered, the platform is delightfully usable & useful, and the experience is consistent to what we expected across all platforms and devices. I conducted user tests and further iterated on our design together with our visual designers and front-end developers. We finally turned it into a serviceable tool open to public.  
 👉🏼[Check it out!](https://www.bikespector.de){:target="_blank"}
 
 ![Bikespector interface, forecasting shared bikes availability from the next hour up to 5 days ahead!](/images/portfolio/bikespector-UI.png)

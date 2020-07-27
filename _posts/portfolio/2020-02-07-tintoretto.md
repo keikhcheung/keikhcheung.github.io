@@ -51,9 +51,9 @@ On Tintoretto2Go, we **hijacked advertisements** around the city of Cologne and 
 ![Storyboard for Tintoretto2Go, narratives of Renaissance masterpiece](/images/portfolio/tintoretto-storyboard-2.jpg)
 
 # Hands-on
-Starting with literature review in different languages and expert interviews, we found out the highlights in the 🖼licensed paintings and created **compelling storytelling** out from the artworks. We consolidated the narratives and produced 🌌storyboards, consulted the museum curator and gathered feedback, before we went into 3D modelling/animation and development with the team.
+To dive in to the classical art world, I started by conducting literature review in different languages and expert interviews. Finding out the highlights in the 🖼licensed paintings, I scripted succinct but **compelling storytelling** from the artworks. Together with visual designers, we consolidated the narratives and produced 🌌storyboards, consulted the museum curator and gathered feedback. Simultaneously, I assessed the feasibility and sorted out approaches to implement this hide-and-seek experience around the city. I then worked closely with the our 3D artist and developers on modelling, animation and development of the app prototype.
 
-Later, we tested our prototype and further improved our 👾game experience. After the [initial app release](https://apps.apple.com/us/app/tintoretto2go/id1292594289){:target="_blank"}, we updated the visual markers every week to enhance the city hunt amusement. 🏃🏻‍♂️🏃🏼‍♀️
+Later, I conducted user tests on our prototype, collected feedback, and further brought improvements on our 👾game experience. After the [initial app release](https://apps.apple.com/us/app/tintoretto2go/id1292594289){:target="_blank"}, I actively worked with the team to update the visual markers every week to enhance the city hunt amusement. 🏃🏻‍♂️🏃🏼‍♀️
 
 ![On-site testing for AR storytelling](/images/portfolio/tintoretto-test-compressed.jpg)
 
