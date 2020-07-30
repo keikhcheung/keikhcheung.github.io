@@ -15,7 +15,7 @@ tags:
 ---
 
 # Problem
-Chamrousse Tourism Office website dates back to 2010. Its convoluted information architecture has made the access to alerts, promotional offers, facility information and activity plans lost in an enigmatic navigation; content scattered all around the site.💆🏽‍♀️💆🏻‍♂️
+Chamrousse Tourism Office website dates back to 2010. Its convoluted information architecture has made the access to alerts, promotional offers, facility information and activity plans lost in an enigmatic navigation. Content was scattered all around the site.💆🏽‍♀️💆🏻‍♂️
 
 ![Chamrousse Tourism Office website from 2010](/images/portfolio/chamrousse02.jpg)
 
