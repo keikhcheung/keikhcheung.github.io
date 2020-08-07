@@ -19,12 +19,14 @@ websites:
   - http://www.goldenawardmontreux.com/winners2020/finalists.php?entrytype=DIGITAL%20/%20INTERACTIVE
   - https://www.denkwerk.com/en/blog/denkwerk-second-best-agency-in-europe-at-the-golden-award-of-montreux
   - http://hellojury.de/bikespector/
+  - https://www.denkwerk.com/en/blog/red-dot-award-2020-goes-to-bikespector
 ---
 
 <div class="extras" markdown="1">
 
 ##### Awards
 
+- [Red Dot Awards 2020](https://www.denkwerk.com/en/blog/red-dot-award-2020-goes-to-bikespector){:target="_blank"}: User Interface, 'Interface & User Experience Design' in 'Brands & Communications'
 - [Webby Awards 2020 Nominee](https://winners.webbyawards.com/2020/websites/features-design/best-user-experience/129177/bikespector){:target="_blank"}: *Best User Experience* in 'Websites'
 - [Golden Awards of Montreux 2020](http://www.goldenawardmontreux.com/winners2020/finalists.php?entrytype=DIGITAL%20/%20INTERACTIVE){:target="_blank"}: Finalist, 'Community Applications' and 'Retail/Travel/Hotels/Tourism' in Digital/Interactive
 
