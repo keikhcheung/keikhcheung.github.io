@@ -49,7 +49,7 @@
   &__date {
   //position: relative;
   //padding-top: $base-spacing-unit;
-    display: block;
+    display: inline-block;
     margin-bottom: double($base-spacing-unit);
     font-size: $font-size-tiny;
     font-weight: $font-weight-bold;
@@ -59,13 +59,13 @@
     @include mq($until: desktop) {
       font-size: $font-size-tiny-tb;
       line-height: $line-height-tiny-tb;
-      margin-bottom: $base-spacing-unit;
+      /*margin-bottom: $base-spacing-unit;*/
     }
 
     @include mq($until: tablet) {
       font-size: $font-size-small-mb;
       line-height: $line-height-small-mb;
-      margin-bottom: half($base-spacing-unit);
+      /*margin-bottom: half($base-spacing-unit);*/
     }
 
     
@@ -81,6 +81,27 @@
       transform: translateX(-50%);
     }
     */
+  }
+
+  &__readingtime {
+    display: inline-block;
+    margin-bottom: double($base-spacing-unit);
+    font-size: $font-size-tiny;
+    font-weight: $font-weight-bold;
+    line-height: $line-height-tiny;
+    color: $color-lg;
+
+    @include mq($until: desktop) {
+      font-size: $font-size-tiny-tb;
+      line-height: $line-height-tiny-tb;
+      /*margin-bottom: $base-spacing-unit;*/
+    }
+
+    @include mq($until: tablet) {
+      font-size: $font-size-small-mb;
+      line-height: $line-height-small-mb;
+      /*margin-bottom: half($base-spacing-unit);*/
+    }
   }
 
   &__image {

@@ -4,7 +4,7 @@
 
 hr {
 //height: 1px;
-  margin: double($base-spacing-unit) 0;
+  margin: $base-spacing-unit 0;
 
   border: 0;
 
@@ -17,6 +17,7 @@ hr {
 
   @include mq($from: tablet) {
     padding: double($base-spacing-unit);
+    margin: double($base-spacing-unit) 0;
   }
 
   &:before {
