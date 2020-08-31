@@ -20,7 +20,7 @@ I speak English, French, Cantonese, Mandarin Chinese, and GIF; also a bit of Ger
 </div>
 </div>
 
-I have worked in 🇩🇪Germany, 🇫🇷France, 🇭🇰Hong Kong and 🇺🇸the USA in very different positions & contexts.
+I have worked in 🇩🇪Germany, 🇫🇷France, 🇭🇰Hong Kong and 🇺🇸the USA in the creative industry, education, and on the customer front.
 
 At the moment, I am doing experience design at the digital agency [*denkwerk*](https://www.denkwerk.com/){:target="_blank"} by day.
 
@@ -60,11 +60,13 @@ My core skills include:
 <span class="skill">information architacture</span> 
 <span class="skill">interaction design</span> 
 <span class="skill">user/desk research</span> 
-<span class="skill">human-centred design</span> 
+<span class="skill">user-centred design</span> 
 <span class="skill">service design</span> 
 <span class="skill">systems design</span> 
 <span class="skill">prototyping</span> 
-<span class="skill">strategy</span>
+<span class="skill">user testing</span> 
+<span class="skill">strategy</span> 
+<span class="skill">design sprint & workshops</span>
 </div>
 
 <div class="about-sec" markdown="1">
@@ -92,6 +94,4 @@ I am also fond of:
 
 My background crosses design, socio-politics and digital humanities. I am an alumnus of *École Normale Supérieure de Lyon*, Hong Kong Baptist University and *Université Sorbonne Nouvelle Paris 3*.
 
-I wrote my master’s thesis on UX of voice assistants, where I explored how to design for anticipatory assistance based on usage environments’ context. You can [read it online](https://dumas.ccsd.cnrs.fr/dumas-01981716){:target="_blank"}.
-
-I gave a guest lecture at MacEwan University’s Design Studies about UX in voice user interface (DESN 341).
+I wrote my master’s thesis on UX of voice assistants, where I explored how to design for anticipatory assistance based on usage environments’ context. You can [read it online](https://dumas.ccsd.cnrs.fr/dumas-01981716){:target="_blank"}. I also gave a guest lecture at MacEwan University’s Design Studies about UX in voice user interface (DESN 341).
