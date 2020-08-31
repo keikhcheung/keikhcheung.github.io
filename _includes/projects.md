@@ -5,7 +5,7 @@
 </div>
 </div>
   <!---   <span class="project client">Esprit</span> fashion B2B [b-shop]() --->
-<span class="project client">TÜV Rheinland</span> global business co-work system [ComPASS](/compass/) 
+<span class="project client">TÜV Rheinland</span> global business collab system [ComPASS](/compass/) 
 <span class="project client">Wallraf-Richartz Museum</span> treasure hunt + relive Renaissance AR [Tintoretto2Go](/tintoretto/) 
   <!---   <span class="project client">BurdaForward</span> info assistant [Felix]() --->
 <span class="project client">la Fing & Cozy Cloud</span> personal data management hub [MesInfos](/mesinfos/) 
