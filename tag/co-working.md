@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: co-working"
-tag: co-working
+title: "Tag: collaboration"
+tag: collaboration
 robots: noindex
 ---
