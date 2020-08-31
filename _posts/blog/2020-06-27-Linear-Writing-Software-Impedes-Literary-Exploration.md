@@ -6,7 +6,7 @@ image:     '/images/blog/LWrit-Writing.jpg'
 lead:      Thinking is not a linear process, nor shall writing be. Why do digital writing apps make it so? 
 tags:
   - writing
-  - co-working
+  - collaboration
   - workspace
   - information-architecture
   - digital-playground
