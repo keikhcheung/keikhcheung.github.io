@@ -33,6 +33,7 @@ Some companies/organisations for which I did creative work include:
 <span class="project client">BurdaForward</span> 
 <span class="project client">Panasonic</span> 
 <span class="project client">Wallraf-Richartz Museum & Fondation Corboud</span> 
+<span class="project client">Stadtwerke München</span> 
 <span class="project client">Institut Carnot de l’Éducation</span> 
 <span class="project client">Deutsche Post</span> 
 <span class="project client">Fondation Internet Nouvelle Génération (la Fing)</span> 
