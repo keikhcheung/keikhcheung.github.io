@@ -31,6 +31,7 @@ Some companies/organisations for which I did creative work include:
 <span class="project client">TÜV Rheinland</span> 
 <span class="project client">Deutsche Telekom</span> 
 <span class="project client">BurdaForward</span> 
+<span class="project client">Leybold</span> 
 <span class="project client">Panasonic</span> 
 <span class="project client">Wallraf-Richartz Museum & Fondation Corboud</span> 
 <span class="project client">Stadtwerke München</span> 
