@@ -11,6 +11,7 @@ tags:
   - machine-learning
   - dataviz
   - mobility
+  - multimodal
   - sharing-economy
   - awards
 websites:
