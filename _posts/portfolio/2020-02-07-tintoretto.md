@@ -17,6 +17,7 @@ websites:
   - https://www.pipipi.de/tintoretto_en.html
   - https://www.pipipi.de/tintoretto_de.html
   - Ranking https://www.redbox.de/sites/default/files/ranking/ranking2019/details/215.htm
+  - Econ Megaphon Awards https://www.econforum.de/beitraege/econ-megaphon-awards/2019/mobileapps/tintoretto2go (exp)
 ---
 
 <div class="extras" markdown="1">
@@ -32,7 +33,7 @@ websites:
 <!--- Artsy report: https://www.artsy.net/news/artsy-editorial-tate-augmented-reality-street-art-application-2019-webby-awards-nominees --->
 - [Webby Awards 2019](https://www.webbyawards.com/winners/2019/apps-mobile-and-voice/apps-mobile-features/best-visual-design-function/tintoretto2go/){:target="_blank"}: *Features* and *Best Visual Design - Function* in 'Apps, Mobile, and Voice'
 - [Webby Awards 2019 Nominee](https://www.webbyawards.com/winners/2019/apps-mobile-and-voice/apps-mobile-sites-general/culture-events/tintoretto2go/){:target="_blank"}: *Culture & Events* in 'Apps, Mobile, and Voice'
-- [Econ Megaphon Awards 2019](https://www.econforum.de/beitraege/econ-megaphon-awards/2019/mobileapps/tintoretto2go){:target="_blank"}: *Digitale Medien (Mobile/Apps)* and *Bester der Branche - Kunst, Kultur und Sport (B2C)*
+- [Econ Megaphon Awards 2019](https://web.archive.org/web/20200803084343/https://www.econforum.de/beitraege/econ-megaphon-awards/2019/mobileapps/tintoretto2go){:target="_blank"}: *Digitale Medien (Mobile/Apps)* and *Bester der Branche - Kunst, Kultur und Sport (B2C)*
 
 </div>
 
