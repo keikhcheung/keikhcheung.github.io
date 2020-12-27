@@ -182,6 +182,10 @@ blockquote {
   }
 }
 
+.footnotes a {
+  overflow-wrap: break-word; /* break long URLs */
+}
+
 .client {
   color: $color-lg;
 }

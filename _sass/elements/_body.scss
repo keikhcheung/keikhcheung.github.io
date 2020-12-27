@@ -11,7 +11,9 @@ body {
   letter-spacing: -0.07em;
 
   -webkit-font-smoothing: antialiased;
-   -moz-osx-font-smoothing: grayscale;
+  -moz-osx-font-smoothing: grayscale;
+
+  counter-reset: sidenote-counter;   /* for side notes counter */
 
   @include mq($until: desktop) {
     font-size: $font-size-base-tb;

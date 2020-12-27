@@ -15,7 +15,7 @@ pre {
   font-size: $font-size-tiny;
   line-height: $line-height-tiny;
   white-space: pre-wrap;
-  word-wrap: break-word;
+  overflow-wrap: break-word;
 
   @include mq($until: desktop) {
     font-size: $font-size-tiny-tb;
