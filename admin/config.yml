@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: aspirethemes/type # Path to your Github repository
+  repo: keikhcheung/keikhcheung.github.io # Path to your Github repository
   branch: master # Branch to update (master by default)
 
 media_folder: "images" # Folder where user uploaded files should go

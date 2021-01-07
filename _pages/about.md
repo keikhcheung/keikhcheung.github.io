@@ -9,7 +9,7 @@ My name is 👨🏻‍💻Kei. I am an Experience Designer currently based in Co
 
 In my spare time, I read about 📚📰socio-politics, think about 🕹🔀interactions, write on ✏️💬current issues, do literary & audiovisual explorations, and take care of 🌵plants. You can check out some of my thoughts [on my public notes](https://notes.keikhcheung.com){:target="_blank"}.
 
-I speak English, French, Cantonese, Mandarin Chinese, and GIF; also a bit of German, Portuguese, HTML, CSS, and JavaScript. Write me on [Twitter](https://twitter.com/{{ site.twitter.username }}){:target="_blank"} [E-mail](mailto:kei.khcheung@gmail.com) [LinkedIn]({{ site.linkedin }}){:target="_blank"}
+I speak English, French, Cantonese, Mandarin Chinese, and GIF; also a bit of German, Portuguese, HTML, CSS, and JavaScript. Write me on [Twitter](https://twitter.com/{{ site.twitter.username }}){:target="_blank"} [E-mail](mailto:{{ site.email }}) [LinkedIn]({{ site.linkedin }}){:target="_blank"}
 
 -------
 

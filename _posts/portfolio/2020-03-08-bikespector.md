@@ -71,7 +71,7 @@ Now shared bikes users can <mark>better count on their local bike hire</mark> as
 
 -------
 
-Interested in making the list longer together? Let's get in touch! [E-mail](mailto:kei.khcheung@gmail.com) [Twitter](https://twitter.com/{{ site.twitter.username }}){:target="_blank"} [LinkedIn]({{ site.linkedin }}){:target="_blank"}
+Interested in making the list longer together? Let's get in touch! [E-mail](mailto:{{ site.email }}) [Twitter](https://twitter.com/{{ site.twitter.username }}){:target="_blank"} [LinkedIn]({{ site.linkedin }}){:target="_blank"}
 
 <div class="extras" markdown="1">
 Courtesy: <i>denkwerk</i>, visual content.
