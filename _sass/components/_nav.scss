@@ -52,14 +52,14 @@
 
 #draggable {
   pointer-events: auto;
-  width: 20vw;   /* 20vw minimum to contain #draggable text */
-  height: 20vw;
+  width: 64px;   /* 20vw | 20vw minimum to contain #draggable text */
+  height: 64px;  /* 20vw */
   position: relative;
   left: 0px;
   padding: half($base-spacing-unit);
   z-index: 10;
   text-align: center;
-  line-height: 16.3vw;
+  line-height: 52px;  /* 16.3vw */
 
   /* Breaking earlier for smaller #draggable on horizontal iPhone SE */
   @include mq($from: 500px) {
