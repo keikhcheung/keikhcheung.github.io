@@ -16,11 +16,11 @@ layout: default
       <article class='c-post'>
         <h1 class='c-post__title u-text-left'>{{ page.title }}</h1>
 
-        <h5 class="extras">{{ page.time }}{% if page.setup %}; {{ page.setup }}{% endif %}</h5>
+        <div class="extras">{{ page.time }}{% if page.setup %}; {{ page.setup }}{% endif %}</div>
 
         <div class='c-content'>
           {% include page-image.html %}
-
+          
           {{ content }}
         </div>
 

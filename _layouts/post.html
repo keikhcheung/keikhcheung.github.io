@@ -27,7 +27,8 @@ layout: default
   
         <div class='c-content' itemprop='articleBody'>
           {% include page-image.html %}
-          <div class="o-grid__col o-grid__col--3-4-xl">
+          <!-- Changed to _image.scss instead for width and .wide control on HD breakpoint
+               <div class="o-grid__col o-grid__col--3-4-xl main-article"> -->
             {{ content }}
 
             <div class='c-tags'>
@@ -36,7 +37,7 @@ layout: default
                 <a href='{{ site.baseurl }}/tag/{{ tag }}'>{{ tag }}</a>
             {% endfor %}
             </div>
-          </div>
+          <!-- </div> -->
         </div>        
 
       </article>

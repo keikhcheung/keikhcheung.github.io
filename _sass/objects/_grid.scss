@@ -17,6 +17,17 @@ $grid-gutter: $base-spacing-unit;
     margin-right: - $grid-gutter;
     margin-left: - $grid-gutter;
     padding: 0;
+
+    @include mq($from: HD) {
+      max-width: 908px;   /* Shrink images for side-notes: 75% of $grid-width, i.e. (1200px - 2*16 padding) * 0.75 = 876px) + double($base-spacing unit) */
+      /*margin-left: 0;      Managed by the - $grid-gutter above from .o-grid .o-grid ; To counterbalance the padding for .o-grid__col */
+
+      &.wide {
+        max-width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+      }
+    }
   }
 
   &--full {
@@ -116,3 +127,8 @@ $grid-gutter: $base-spacing-unit;
     margin-left: auto;
   }
 }
+
+/*.c-content .o-grid__col {
+  padding-left: 0;
+  padding-right: 0;
+}*/

@@ -6,13 +6,13 @@
   &__item {
     font-size: $font-size-medium;
 
-    @include mq($until: desktop) {
+/*    @include mq($until: desktop) {
       font-size: $font-size-base-tb;
     }
 
     @include mq($until: tablet) {
       font-size: $font-size-base-mb;
-    }
+    }*/
   }
 
   &__link {
@@ -63,9 +63,9 @@
 
   /* Breaking earlier for smaller #draggable on horizontal iPhone SE */
   @include mq($from: 500px) {
-    width: 6rem;   /* min(25vh, 15vw); doesn't work with Liquid */
-    height: 6rem;   /* min(25vh, 15vw); doesn't work with Liquid */
-    line-height: 5rem;   /*20vh;*/
+    width: 80px;   /* Changed from 6rem to 80px (5rem) for smaller size on horizontal mobile | min(25vh, 15vw); doesn't work with Liquid */
+    height: 80px;   /* Changed from 6rem to 80px (5rem) for smaller size on horizontal mobile | min(25vh, 15vw); doesn't work with Liquid */
+    line-height: 64px;   /* Changed from 5rem to 64px (4rem) for smaller size on horizontal mobile | 20vh;*/
   }
 
   /* Shift #draggable dot size back on dependent on vw for tablet */

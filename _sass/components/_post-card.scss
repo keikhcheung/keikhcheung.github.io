@@ -23,12 +23,15 @@
   }
 
   &__title {
-    margin-bottom: half($font-size-base);
-    font-size: $font-size-base;
-    //font-weight: $font-weight-bold;
-    //transition: $global-transition;   /* Remvoe delay is mouse hover leave, because a:hover already covers it */
+    margin-bottom: 0;
+    
+    @include mq($from: desktop) {
+      margin-bottom: half($font-size-base);
+      /*font-size: $font-size-base;*/
+      //font-weight: $font-weight-bold;
+      //transition: $global-transition;   /* Remvoe delay is mouse hover leave, because a:hover already covers it */
 
-    @include mq($until: desktop) {
+/*    @include mq($until: desktop) {
       margin-bottom: $base-spacing-unit;
       font-size: $font-size-base-tb;
       //line-height: $line-height-small-tb;
@@ -38,16 +41,20 @@
       margin-bottom: half($base-spacing-unit);
       font-size: $font-size-base-mb;
       //line-height: $line-height-small-mb;
+    }*/
     }
   }
 
   &__excerpt {
-    font-size: $font-size-small;
     color: $color-text;
-    line-height: $line-height-small;
-    margin-bottom: $font-size-small;
+    line-height: 1.4em;
+    margin-bottom: $base-spacing-unit;
 
-    @include mq($until: desktop) {
+    @include mq($from: desktop) {
+      font-size: 0.8em;
+    }
+
+/*    @include mq($until: desktop) {
       font-size: $font-size-small-tb;
       line-height: $line-height-small-tb;
       margin-bottom: $font-size-small-tb;
@@ -57,19 +64,19 @@
       font-size: $font-size-medium-mb;
       line-height: $line-height-medium-mb;
       margin-bottom: $font-size-medium-mb;
-    }
+    }*/
   }
 
   &__date {
     display: block;
     color: $color-lg;
     direction: ltr;
-    font-size: $font-size-tiny;
+    font-size: 0.8em;
     //font-weight: $font-weight-bold;
     line-height: $line-height-tiny;
  /* text-transform: uppercase; */
 
-    @include mq($until: desktop) {
+/*    @include mq($until: desktop) {
       font-size: $font-size-tiny-tb;
       line-height: $line-height-tiny-tb;
     }
@@ -77,7 +84,7 @@
     @include mq($until: tablet) {
       font-size: $font-size-small-mb;
       line-height: $line-height-small-mb;
-    }
+    }*/
 
   }
 

@@ -4,5 +4,6 @@
 
 blockquote {
   padding-left: double($base-spacing-unit);
+  padding-right: double($base-spacing-unit);
   border-left: 3px solid $color-brand;
 }

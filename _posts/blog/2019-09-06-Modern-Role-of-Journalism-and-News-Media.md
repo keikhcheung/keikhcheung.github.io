@@ -38,7 +38,7 @@ Boundaries of journalism might be flexible. Its core function, nevertheless, rem
 
 In recent years we have observed a drop of confidence in traditional press. Distrust in news media is mounting. They are increasingly considered biased. ‘Information is framed and presented only in ways which comply with their own stance.’ Or even, ‘journalists are fabricating “fake news” to influence public opinion and their actions’. These might have used to be just a few sparing, salty remarks, before politicians made them popular and now become more alarming. In Hanna Chalmers’ report, the significance of the shift in media trustworthiness perception is highlighted. Traditional media (i.e. television, radio, newspapers and magazines) are generally respected by the public, as their entry barriers remain relatively high (e.g. expensive to produce, limited outlets). Nonetheless, their perceived reliability is tarnishing the most.
 
-![Trust-Shift-Media](/images/blog/CF19-Trust-Shift-Media.png)
+![Trust-Shift-Media](/images/blog/CF19-Trust-Shift-Media.png){:.wide}
 <div class="extras cap" markdown="1">
 Trust in print and broadcast generally slides in established media markets[^3].
 </div>

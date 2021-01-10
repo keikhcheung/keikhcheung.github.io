@@ -10,6 +10,12 @@
   white-space: nowrap;
 //font-family: 'Space Mono', monospace;
 
+  @include mq($from: HD) {
+    &.about {
+      max-width: 75%;   /* Temporary solution to publish Space Grotesk re-layout until a better page layout for About */
+    }
+  }
+
   &--content{
     display: inline-block;
     margin-top: 5px;

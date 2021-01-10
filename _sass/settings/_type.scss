@@ -2,7 +2,8 @@
 //  Settings > Type
 // *----------------------------------*/
 
-$font-base:  'Space Mono', monospace,
+/* Declare font families */
+$font-base:  /*'Inter', */ 'Space Grotesk',
   -apple-system,
   BlinkMacSystemFont,
   'Segoe UI',
@@ -12,37 +13,60 @@ $font-base:  'Space Mono', monospace,
   'Apple Color Emoji',
   'Segoe UI Emoji',
   'Segoe UI Symbol';
-$font-monospace:  Courier, monospace;
+$font-monospace:  Courier New, Courier, monospace;
+$font-heading: 'Space Mono', monospace;
 
-$font-size-base:   40px; /* 19px */
-$font-size-medium: 36px; /* 16px */
-$font-size-small:  32px; /* 14px */
-$font-size-tiny:   28px; /* 12px */
-$font-size-root:   18px;
 
-$font-size-base-tb:   32px; /* 19px */
-$font-size-medium-tb: 28px; /* 16px */
-$font-size-small-tb:  24px; /* 14px */
-$font-size-tiny-tb:   20px; /* 12px */
+/* Font sizing and proportioning */
+$font-size-base:   1.5rem; /* 19px */
+$font-size-medium: $font-size-base * 0.9; /* 16px */
+$font-size-small:  $font-size-base * 0.8; /* 14px */
+$font-size-tiny:   $font-size-base * 0.7; /* 12px */
+$font-size-root:   $font-size-base * 0.5;
+
+/*@include mq($until: desktop) {
+  $font-size-base:   2rem;
+  $font-size-medium: 1.75rem;
+  $font-size-small:  1.5rem;
+  $font-size-tiny:   1.25rem;
+  $font-size-root:   0.75rem;
+}
+
+@include mq($until: tablet) {
+  $font-size-base:   1.1rem;
+  $font-size-medium: 0.9rem;
+  $font-size-small:  0.75rem;
+  $font-size-tiny:   0.7rem;
+  $font-size-root:   0.6rem;
+}*/
+
+/* Using rem instead
+$font-size-base-tb:   32px; /* 19px 
+$font-size-medium-tb: 28px; /* 16px 
+$font-size-small-tb:  24px; /* 14px 
+$font-size-tiny-tb:   20px; /* 12px 
 $font-size-root-tb:   12px;
 
-$font-size-base-mb:   17px; /* 24px */ /* 19px */
-$font-size-medium-mb: 14px; /* 20px */ /* 16px */
-$font-size-small-mb:  12px; /* 18px */ /* 14px */
-$font-size-tiny-mb:   11px; /* 16px */ /* 12px */
+$font-size-base-mb:   17px; /* 24px */ /* 19px 
+$font-size-medium-mb: 14px; /* 20px */ /* 16px 
+$font-size-small-mb:  12px; /* 18px */ /* 14px 
+$font-size-tiny-mb:   11px; /* 16px */ /* 12px 
 $font-size-root-mb:   10px;
+*/
 
-$font-weight-light:   400;
+$font-weight-light:   300;
 $font-weight-regular: 400;
 $font-weight-bold:    700;
-$font-weight-bolder:  700;
+$font-weight-bolder:  800;
 
-$line-height-base:   round($font-size-base   *  1.4);
-$line-height-medium: round($font-size-medium * 1.4);
+
+$line-height-base:   1.7em; /*round($font-size-base   *  1.6);*/
+$line-height-medium: round($font-size-medium * 1.6);
 $line-height-small:  round($font-size-small  * 1.4);
 $line-height-tiny:   round($font-size-tiny   * 1.4);
 $line-height-root:   round($font-size-root   * 1.4);
 
+/* Using factor instead
 $line-height-base-tb:   round($font-size-base-tb   *  1.4);
 $line-height-medium-tb: round($font-size-medium-tb * 1.4);
 $line-height-small-tb:  round($font-size-small-tb  * 1.4);
@@ -54,3 +78,4 @@ $line-height-medium-mb: round($font-size-medium-mb * 1.4);
 $line-height-small-mb:  round($font-size-small-mb  * 1.4);
 $line-height-tiny-mb:   round($font-size-tiny-mb   * 1.4);
 $line-height-root-mb:   round($font-size-root-mb   * 1.4);
+*/

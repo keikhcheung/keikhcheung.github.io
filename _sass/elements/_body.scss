@@ -6,16 +6,30 @@ body {
   color: $color-text;
   font-size: $font-size-base;
   font-family: $font-base;
-  font-variant-ligatures: none;   /* Disable ligatures to maintain monospace */
   line-height: $line-height-base;
-  letter-spacing: -0.07em;
+  letter-spacing: -0.035em;
+  word-spacing: 0.01em; /* especially for Space Grotesk 2.0; consider even 0.02em */
 
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
+  /* Inter OTF features
+  font-variant-ligatures: common-ligatures;
+    -moz-font-feature-settings: "liga", "clig", "calt", "cpsp", "frac", "cv08";
+    -webkit-font-feature-settings: "liga", "clig", "calt", "cpsp", /*"frac", "cv08";
+  font-feature-settings: "liga", "clig", "calt", "cpsp", /*"frac", "cv08";
+  */
+
+  /* Space Grotesk OTF features */
+  font-variant-ligatures: common-ligatures;
+    -moz-font-feature-settings: 'ss02', 'ss03', 'case', 'zero';
+    -webkit-font-feature-settings: 'ss02', 'ss03', 'case', 'zero';
+  font-feature-settings: 'ss02', 'ss03', 'case', 'zero';
+
   counter-reset: sidenote-counter;   /* for side notes counter */
 
-  @include mq($until: desktop) {
+/* Should I declare mq-proportioning here instead of in _type.scss? */
+/*  @include mq($until: desktop) {
     font-size: $font-size-base-tb;
     line-height: $line-height-base-tb;
   }
@@ -23,6 +37,16 @@ body {
   @include mq($until: tablet) {
     font-size: $font-size-base-mb;
     line-height: $line-height-base-mb;
+  }*/
+
+  @include mq($until: desktop) {
+    font-size: 1.25rem;
+    line-height: 1.5em;
+  }
+
+  @include mq($until: tablet) {
+    font-size: 1.0rem;
+    line-height: 1.5em;
   }
 }
 

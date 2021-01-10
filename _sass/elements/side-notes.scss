@@ -1,93 +1,102 @@
 /* Sidenote syltes from Tufte CSS, from Tom Critchlow */
 
 .sidenote, .marginnote {
-    float: right;
-    clear: right;
-    margin-right: -42%; /*-60%*/
-    width: 37%; /*50%*/
-    margin-top: 0;
-    margin-bottom: 1em;
-    font-size: 0.6em;
-    line-height: 1.4em; /* 1.3em; Changes vertical rhythm */
-    vertical-align: baseline;
-    position: relative;
-    text-align: left;
+  float: right;
+  clear: right;
+  margin-right: -34.5%; /* -33.5% for Inter | -40.5%; -42%; -60% */
+  width: 16em; /* | 20em; 37%; 50% */
+  margin-top: 0;
+  margin-bottom: 1em;
+  font-size: 1rem;
+  line-height: 1.4em; /* 1.3em; Changes vertical rhythm */
+  vertical-align: baseline;
+  position: relative;
+  text-align: left;
+  font-style: initial; /* Reset italic text if sidenote comes from figcaption */
+
+  a {
+    word-break: break-word;
+  }
+
+  em {
+    font-style: italic;
+  }
 }
 
 
 .sidenote-number {
-    counter-increment: sidenote-counter;
+  counter-increment: sidenote-counter;
 }
 
 
 .sidenote-number:after {
-    position: relative;
-    vertical-align: baseline;
+  position: relative;
+  vertical-align: baseline;
 }
 
 .sidenote-number:after {
-    content: counter(sidenote-counter);
-    font-size: 75%;
-    top: -0.5em;
-    left: 0.1em;
+  content: counter(sidenote-counter);
+  font-size: 75%;
+  top: -0.5em;
+  left: 0.1em;
 }
 
 
 .sidenote:before {
-    content: counter(sidenote-counter);
-    font-size: 0.6em;
-    top: -0.5em;
-    left: -1em;
-    position: absolute; /* Changed from relative to absolute; to remove spacing preceding the side note (taken by sidenote-counter) together with left: -1em; */
-    vertical-align: baseline;
-    color: $color-brand;
-    text-align: right;
+  content: counter(sidenote-counter);
+  font-size: 0.75em; /* Space Mono 0.6em*/
+  top: -0.25em; /*Space Mono -0.5em*/
+  left: -1em;
+  position: absolute; /* Changed from relative to absolute; to remove spacing preceding the side note (taken by sidenote-counter) together with left: -1em; */
+  vertical-align: baseline;
+  color: $color-brand;
+  text-align: right;
 }
 
 
 input.margin-toggle {
-    display: none;
+  display: none;
 }
 
 
 label.sidenote-number {
-    display: inline; 
-    color: $color-brand;
-    /*text-decoration:underline;*/
+  display: inline; 
+  color: $color-brand;
+  /*text-decoration:underline;*/
+  padding-right: 0.12em; /* 0.12em max for Inter; Or 0.15em for Space Grotesk*/
 }
 
 
 label.margin-toggle:not(.sidenote-number) {
-    display: none;
+  display: none;
 }
 
 
 @include mq($until: HD) {
 
-    /* Sidenote syltes from tufte CSS */
-    label.margin-toggle:not(.sidenote-number) {
-        display: inline;
-    }
+  /* Sidenote syltes from tufte CSS */
+  label.margin-toggle:not(.sidenote-number) {
+    display: inline;
+  }
 
-    .sidenote, .marginnote {
-        display: none;
-    }
+  .sidenote, .marginnote {
+      display: none;
+  }
 
-    .margin-toggle:checked + .sidenote,
-    .margin-toggle:checked + .marginnote {
-        display: block;
-        font-size: 0.7em;
-        float: left;
-        left: 0.5rem;
-        clear: both;
-        width: 95%;
-        margin: 1rem 2.5%;
-        vertical-align: baseline;
-        position: relative;
-    }
+  .margin-toggle:checked + .sidenote,
+  .margin-toggle:checked + .marginnote {
+    display: block;
+    font-size: 0.85em;
+    float: left;
+    left: 0.5rem;
+    clear: both;
+    width: 95%;
+    margin: 1rem 2.5%;
+    vertical-align: baseline;
+    position: relative;
+  }
 
-    label {
-        cursor: pointer;
-    }
-
+  label {
+    cursor: pointer;
+  }
 }

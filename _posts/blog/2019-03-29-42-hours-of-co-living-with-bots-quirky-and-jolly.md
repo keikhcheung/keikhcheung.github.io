@@ -42,10 +42,10 @@ A large number of our daily activities circle around data and algorithms: the ne
 We rely on machines to deal with the massive amount of data which we exponentially create every day. We also depend on them to sort out the links, transform and extract the information, and advise us on the decisions that we shall make. Machines’ calculations with algorithms outrace human actions by far in terms of speed. They can realise efficiently the goals we set. Nevertheless, we cannot always guarantee the quality of the outcome——or more precisely, the quality of the mechanism which leads to the outcome. Only when we notice it, it is usually too late.
 
 <div class="o-grid" markdown="1">
-<div class="o-grid__col o-grid__col--2-4-m" markdown="1">
+<div class="o-grid__col o-grid__col--2-4-m multi-pic" markdown="1">
 ![](/images/blog/Tay-01.jpg)
 </div>
-<div class="o-grid__col o-grid__col--2-4-m" markdown="1">
+<div class="o-grid__col o-grid__col--2-4-m multi-pic" markdown="1">
 ![The chatter bot Tay released by Microsoft in 2016 was quickly taken offline 16 hours after the launch as it turned… fascist.](/images/blog/Tay-02.jpg)
 </div>
 </div>
@@ -69,13 +69,13 @@ As we develop a close bond with digital entities——be it for work’s or ente
 It is not enough just to know the risks but to act to prevent or resolve them. On this, Dasha Ilina brought us to action. In her workshop, I explored how to prevent back and shoulder pain from bad posture in the workplace. I experimented with easily available materials such as cardboard, rubbish bags and rubber gloves, built a <mark>back pain killer</mark> prototype, tested it and iterated on the design. It was a lot of fun!
 
 <div class="o-grid" markdown="1">
-<div class="o-grid__col o-grid__col--1-3-m" markdown="1">
+<div class="o-grid__col o-grid__col--1-3-m multi-pic" markdown="1">
 ![](/images/blog/MM209-Back-Pain-Killer-1.gif)
 </div>
-<div class="o-grid__col o-grid__col--1-3-m" markdown="1">
+<div class="o-grid__col o-grid__col--1-3-m multi-pic" markdown="1">
 ![](/images/blog/MM209-Back-Pain-Killer-2.gif)
 </div>
-<div class="o-grid__col o-grid__col--1-3-m" markdown="1">
+<div class="o-grid__col o-grid__col--1-3-m multi-pic" markdown="1">
 ![](/images/blog/MM209-Back-Pain-Killer-3.gif)
 </div>
 </div>
