@@ -129,7 +129,7 @@ We can offer you detailed explanations of all the form fields through your prepa
 
 -------
 
-Tricky is the way we think, trickier than we know it and are aware of it. There are many more unfamiliar bizarreries in our minds, side tracks and loopholes in our thinking. To really understand the limits of our cognitive process so as to acknowledge and better cope with them, I invite you to read Kahnemann’s book itself! 😉 You will very likely discover the commonly overlooked mistakes/biases related to your own field/practice.
+Tricky is the way we think, trickier than we know it and are aware of it. There are many more unfamiliar bizarreries in our minds, side tracks and loopholes in our thinking. To really understand the limits of our cognitive process so as to acknowledge and better cope with them, I invite you to read Kahnemann’s book itself! 😉 You will very likely discover the commonly overlooked mistakes/biases related to your own field/practice.
 
 **To recap:**
 

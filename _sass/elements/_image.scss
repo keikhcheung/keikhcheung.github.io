@@ -2,20 +2,32 @@
   Elements > img, figure
 \*------------------------------------*/
 
-img {
-  display: block;
+figure /*img*/ {
   max-width: 100%;
   font-style: italic;
+
+  @include mq($from:HD) {
+    max-width: 75%;   /* Shrink images for side-notes */
+    margin-left: 0;
+
+    &.wide {
+      max-width: 100%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+}
+
+figure > img, p > img, .c-content > img {
+  max-width: 100%;
+  display: block;
   margin-left: auto;    /* Centre-align smaller images */
   margin-right: auto;   /* Centre-align smaller images */
 }
 
-.cap {
-  margin-top: -$base-spacing-unit;   /* Keep img margin with caption at 16px */
-  text-align: center;
-
-  @include mq($until: tablet) {
-    margin-top: - (1.5 * $base-spacing-unit);   /* Keep img margin with caption at 8px */
+@include mq($from:HD) {
+  p > img.wide {
+    max-width: 133%;   /* ≈ $grid-width (1168px / 876px the 75%) ; for back-supporting ![] Markdown syntax in posts */
   }
 }
 
@@ -28,6 +40,20 @@ figure > figcaption {
 
   @include mq($until: tablet) {
     margin-top: half($base-spacing-unit);
+  }
+}
+
+.cap {
+  margin-top: -$base-spacing-unit;   /* Keep img margin with caption at 16px */
+  text-align: center;
+  font-style: italic;
+
+  em {
+    font-style: normal;
+  }
+
+  @include mq($until: tablet) {
+    margin-top: - (1.5 * $base-spacing-unit);   /* Keep img margin with caption at 8px */
   }
 }
 

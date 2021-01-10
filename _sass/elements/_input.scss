@@ -20,13 +20,13 @@ textarea {
   background-color: $color-white;
   font-size: $font-size-tiny;
 
-  @include mq($until: desktop) {
+/*  @include mq($until: desktop) {
     font-size: $font-size-tiny-tb;
   }
 
   @include mq($until: tablet) {
     font-size: $font-size-tiny-mb;
-  }
+  }*/
 
   appearance: none;
   transition: $global-transition;

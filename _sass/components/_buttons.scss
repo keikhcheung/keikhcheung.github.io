@@ -23,13 +23,13 @@ $btn-bg-hover: #238cf6;
   background-color: $btn-bg;
   font-size: $font-size-tiny;
 
-  @include mq($until: desktop) {
+/*  @include mq($until: desktop) {
     font-size: $font-size-tiny-tb;
-  }
+  }*/
 
-  @include mq($until: tablet) {
+/*  @include mq($until: tablet) {
     font-size: $font-size-tiny-mb;
-  }
+  }*/
 
   @include attention() {
     text-decoration: none;

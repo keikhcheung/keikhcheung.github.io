@@ -5,24 +5,24 @@ image:
 permalink: /about/
 ---
 
-My name is 👨🏻‍💻Kei. I am an Experience Designer currently based in Cologne, Germany. I work predominantly for designing <mark>human-centred digital services & products</mark>, with attention to the <mark>social connections</mark> & <mark>systems behind</mark>.
+My name is 👨🏻‍💻 Kei. I am an Experience Designer currently based in Cologne, Germany. I work predominantly for designing <mark>human-centred digital services & products</mark>, with attention to the <mark>social connections</mark> & <mark>systems behind</mark>.
 
-In my spare time, I read about 📚📰socio-politics, think about 🕹🔀interactions, write on ✏️💬current issues, do literary & audiovisual explorations, and take care of 🌵plants. You can check out some of my thoughts [on my public notes](https://notes.keikhcheung.com){:target="_blank"}.
+In my spare time, I read about {% raw %}<span style="display: inline-block">📚📰 socio-politics</span>{% endraw %}, think about {% raw %}<span style="display: inline-block">🕹🔀 interactions</span>{% endraw %}, write on {% raw %}<span style="display: inline-block">✏️💬 current issues</span>{% endraw %}, do literary & audiovisual explorations, and take care of 🌵 plants. You can check out some of my thoughts [on my public notes](https://notes.keikhcheung.com){:target="_blank"}.
 
 I speak English, French, Cantonese, Mandarin Chinese, and GIF; also a bit of German, Portuguese, HTML, CSS, and JavaScript. Write me on [Twitter](https://twitter.com/{{ site.twitter.username }}){:target="_blank"} [E-mail](mailto:{{ site.email }}) [LinkedIn]({{ site.linkedin }}){:target="_blank"}
 
 -------
 
-<div class="marquee">
+<div class="marquee about">
 <div class="marquee--content">
 <h4 class="item-collection-1">
 # work ## experience ## work ## experience ## work ## experience #</h4><h4 class="item-collection-2"># work ## experience ## work ## experience ## work ## experience #</h4>
 </div>
 </div>
 
-I have worked in 🇩🇪Germany, 🇫🇷France, 🇭🇰Hong Kong and 🇺🇸the USA in the creative industry, education, and on the customer front.
+I have worked in 🇩🇪 Germany, 🇫🇷 France, 🇭🇰 Hong Kong and 🇺🇸 the USA in the creative industry, education, and on the customer front.
 
-At the moment, I am doing experience design at the digital agency [*denkwerk*](https://www.denkwerk.com/){:target="_blank"} by day.
+At the moment, I am doing product design for the student platform [*Studydrive*](https://www.studydrive.net/){:target="_blank"} by day.
 
 <div class="about-sec" markdown="1">
 Some companies/organisations for which I did creative work include:
@@ -46,7 +46,7 @@ Some companies/organisations for which I did creative work include:
 
 -------
 
-<div class="marquee">
+<div class="marquee about">
 <div class="marquee--content">
 <h4 class="item-collection-1">
 # skills ## know-how ## interests ## skills ## know-how ## interests #</h4><h4 class="item-collection-2"># skills ## know-how ## interests ## skills ## know-how ## interests #</h4>
@@ -87,7 +87,7 @@ I am also fond of:
 
 -------
 
-<div class="marquee">
+<div class="marquee about">
 <div class="marquee--content">
 <h4 class="item-collection-1">
 # education ## research ## teaching ## education ## research ## teaching #</h4><h4 class="item-collection-2"># education ## research ## teaching ## education ## research ## teaching #</h4>

@@ -8,16 +8,16 @@
 
   &__title {
   //font-size: double($font-size-tiny-mb);
-    font-size: $font-size-h2;
+    font-size: $font-size-h1;
     margin-bottom: $base-spacing-unit;
 
-    @include mq($until: desktop) {
+/*    @include mq($until: desktop) {
       font-size: $font-size-h2-tb;
     }
 
     @include mq($until: tablet) {
       font-size: $font-size-h2-mb;
-    }
+    }*/
 
     /*
     @include mq($from: desktop) {
@@ -32,6 +32,8 @@
 
   &__lead {
     font-style: italic;
+    font-size: 1.2em;
+    line-height: 1.5em;
   //padding-top: quadruple($base-spacing-unit);
     margin-bottom: double($base-spacing-unit);
 
@@ -51,22 +53,22 @@
   //padding-top: $base-spacing-unit;
     display: inline-block;
     margin-bottom: double($base-spacing-unit);
-    font-size: $font-size-tiny;
+    font-size: 0.8em; /*$font-size-tiny;*/
     font-weight: $font-weight-bold;
     line-height: $line-height-tiny;
     color: $color-lg;
 
-    @include mq($until: desktop) {
+/*    @include mq($until: desktop) {
       font-size: $font-size-tiny-tb;
       line-height: $line-height-tiny-tb;
-      /*margin-bottom: $base-spacing-unit;*/
+      /*margin-bottom: $base-spacing-unit;
     }
 
     @include mq($until: tablet) {
       font-size: $font-size-small-mb;
       line-height: $line-height-small-mb;
-      /*margin-bottom: half($base-spacing-unit);*/
-    }
+      /*margin-bottom: half($base-spacing-unit);
+    }*/
 
     
     /*
@@ -86,25 +88,39 @@
   &__readingtime {
     display: inline-block;
     margin-bottom: double($base-spacing-unit);
-    font-size: $font-size-tiny;
+    font-size: 0.8em; /*$font-size-tiny;*/
     font-weight: $font-weight-bold;
     line-height: $line-height-tiny;
     color: $color-lg;
 
-    @include mq($until: desktop) {
+/*    @include mq($until: desktop) {
       font-size: $font-size-tiny-tb;
       line-height: $line-height-tiny-tb;
-      /*margin-bottom: $base-spacing-unit;*/
+      /*margin-bottom: $base-spacing-unit;
     }
 
     @include mq($until: tablet) {
       font-size: $font-size-small-mb;
       line-height: $line-height-small-mb;
-      /*margin-bottom: half($base-spacing-unit);*/
-    }
+      /*margin-bottom: half($base-spacing-unit);
+    }*/
   }
 
   &__image {
     margin: 0 auto $base-spacing-unit;
+    max-width: 100%;
+  }
+}
+
+.main-article>*:not(hr):not(figure):not(p>img) {
+  @include mq(tablet, desktop) {
+    max-width: 780px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  @include mq(desktop, HD) {
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
   }
 }

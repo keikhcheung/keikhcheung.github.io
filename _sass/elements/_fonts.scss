@@ -1,3 +1,26 @@
 /*------------------------------------*\
   Elements > Fonts
 \*------------------------------------*/
+
+/* Import fonts*/
+/*@import url('https://rsms.me/inter/inter.css');
+html { font-family: 'Inter', sans-serif; }
+@supports (font-variation-settings: normal) {
+  html { font-family: 'Inter var', sans-serif; }
+}*/
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+/* Space Grotesk from Google Fonts; currently TTF only */
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;700&display=swap');
+
+
+/* Font load from GitHub repo does not work
+@font-face {
+  font-family: 'Space Grotesk';
+  src: url("https://github.com/floriankarsten/space-grotesk/blob/master/fonts/woff2/SpaceGrotesk%5Bwght%5D.woff2?raw=true") format("woff2");
+  font-weight: 100 700;
+  font-style: normal;
+  font-display: swap;
+}
+*/

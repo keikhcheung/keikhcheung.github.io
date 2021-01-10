@@ -40,32 +40,32 @@ websites:
 # Background
 How to make classical art appealing to young people?
 
-In the celebration of the 500<sup>th</sup> birthday of 👨🏻‍🎨Jacopo Tintoretto, Italian Renaissance artist, we <mark>remixed classial paintings with visual recognition & augmented reality</mark>.
+In the celebration of the 500<sup>th</sup> birthday of {% raw %}<span style="display: inline-block">👨🏻‍🎨 Jacopo</span>{% endraw %} Tintoretto, Italian Renaissance artist, we <mark>remixed classial paintings with visual recognition & augmented reality</mark>.
 
 <video width="992" controls>
 <source src="https://www.pipipi.de/fileadmin/dam/awards/tintoretto2go/tintoretto2go_master_mp4_en_klein_2.mp4" type="video/mp4">
 </video>
 
 # Concept
-On Tintoretto2Go, we **hijacked advertisements** around the city of Cologne and Berlin by replacing them with first-class paintings. 💎Hidden gems in these artworks were spotlit with **animated 3D modelling in AR**, letting the public relive the spectacles of the grand classic. What's more? We hid them all around the city and updated every week——it's the <mark>treasure hunt in neighbourhoods</mark> and in the streets!🕵🏻‍♀️🕵🏽‍♂️ No matter if you unlock all of them or not, it guides you to explore Wallraf-Richartz Museum's special exhibition 'Tintoretto——A Star was Born' in the end, and offers you a discount to the museum if you find them all!✨
+On Tintoretto2Go, we **hijacked advertisements** around the city of Cologne and Berlin by replacing them with first-class paintings. 💎 Hidden gems in these artworks were spotlit with **animated 3D modelling in AR**, letting the public relive the spectacles of the grand classic. What's more? We hid them all around the city and updated every week——it's the <mark>treasure hunt in neighbourhoods</mark> and in the streets! {% raw %}<span style="display: inline-block">🕵🏻‍♀️🕵🏽‍♂️</span>{% endraw %} No matter if you unlock all of them or not, it guides you to explore Wallraf-Richartz Museum's special exhibition 'Tintoretto——A Star was Born' in the end, and offers you a discount to the museum if you find them all!✨
 
 ![Storyboard for Tintoretto2Go, narratives of Renaissance masterpiece](/images/portfolio/tintoretto-storyboard-2.jpg)
 
 # Hands-on
-As the UX designer on this project, my role was to <mark>ensure that the entire concept and experience are fun and enjoyable</mark>, and that Renaissance art can be reanimated for a greater public. To dive in to the classical art world, I started by conducting literature review in different languages and expert interviews. Finding out the highlights in the 🖼licensed paintings, I scripted succinct but **compelling storytelling** from the artworks. Together with visual designers, we consolidated the narratives and produced 🌌storyboards, consulted the museum curator and gathered feedback. Simultaneously, I assessed the feasibility and worked out approaches to implement this hide-and-seek experience around the city. I then worked closely with the our 3D artist and developers on modelling, animation and development of the app prototype.
+As the UX designer on this project, my role was to <mark>ensure that the entire concept and experience are fun and enjoyable</mark>, and that Renaissance art can be reanimated for a greater public. To dive in to the classical art world, I started by conducting literature review in different languages and expert interviews. Finding out the highlights in the 🖼 licensed paintings, I scripted succinct but **compelling storytelling** from the artworks. Together with visual designers, we consolidated the narratives and produced 🌌 storyboards, consulted the museum curator and gathered feedback. Simultaneously, I assessed the feasibility and worked out approaches to implement this hide-and-seek experience around the city. I then worked closely with the our 3D artist and developers on modelling, animation and development of the app prototype.
 
-Later, I conducted user tests on our prototype, collected feedback, and further brought improvements on our 👾game experience. After the [initial app release](https://apps.apple.com/us/app/tintoretto2go/id1292594289){:target="_blank"}, I actively worked with the team to update the visual markers every week to enhance the city hunt amusement. 🏃🏻‍♂️🏃🏼‍♀️
+Later, I conducted user tests on our prototype, collected feedback, and further brought improvements on our 👾 game experience. After the [initial app release](https://apps.apple.com/us/app/tintoretto2go/id1292594289){:target="_blank"}, I actively worked with the team to update the visual markers every week to enhance the city hunt amusement. {% raw %}<span style="display: inline-block">🏃🏻‍♂️🏃🏼‍♀️</span>{% endraw %}
 
 ![On-site testing for AR storytelling](/images/portfolio/tintoretto-test-compressed.jpg)
 
 # Result
-The exhibition was held in Cologne Oct 2017–Jan 2018. As many as <mark>99,062 visitors</mark> have found their way into Wallraf-Richartz Museum, exceeding all expectations! 🎪
+The exhibition was held in Cologne Oct 2017–Jan 2018. As many as <mark>99,062 visitors</mark> have found their way into Wallraf-Richartz Museum, exceeding all expectations! 🎪
 
 > We are very pleased about the enthusiasm with which our Tintoretto exhibition was received by such a broad audience. The spectrum ranged from young people interested in art to avid Tintoretto lovers to experienced specialists from all over the world.
 >
 > —— Marcus Dekiert, Museum Director
 
-The jubilee exhibition was later hosted in Musée du Luxembourg in 🇫🇷Paris.
+The jubilee exhibition was later hosted in Musée du Luxembourg in 🇫🇷 Paris.
 
 <div class="extras" markdown="1">
 Courtesy: <i>denkwerk</i>, visual content and video.

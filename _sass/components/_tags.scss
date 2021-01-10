@@ -8,8 +8,8 @@
     padding: quarter($base-spacing-unit) $base-spacing-unit;
     margin: 0 half($base-spacing-unit) quarter($base-spacing-unit) 0;
 
-    font-size: $font-size-tiny;
-    font-family: $font-base;
+    font-size: 0.8em;
+    font-family: $font-heading;
     line-height: $line-height-medium;
 
     background-color: $bg-color-gray;
@@ -20,13 +20,13 @@
       background-color: $bg-color-gray;
     }
 
-    @include mq($until: desktop) {
+/*    @include mq($until: desktop) {
       font-size: $font-size-small-tb;
     }
 
     @include mq($until: tablet) {
       font-size: $font-size-small-mb;
-    }
+    }*/
   }
 
   margin-bottom: $line-height-medium + half(quarter($line-height-medium));

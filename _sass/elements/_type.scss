@@ -2,26 +2,35 @@
   Elements > Typography
 \*------------------------------------*/
 
-$font-size-h1:  80px; /* 36px */
-$font-size-h2:  60px; /* 28px */
-$font-size-h3:  52px; /* 24px */
-$font-size-h4:  40px; /* 20px */
-$font-size-h5:  32px; /* 18px */
-$font-size-h6:  24px; /* 16px */
+/* Replaced by em
+$font-size-h1:  80px; /* 36px 
+$font-size-h2:  60px; /* 28px 
+$font-size-h3:  52px; /* 24px 
+$font-size-h4:  40px; /* 20px 
+$font-size-h5:  32px; /* 18px 
+$font-size-h6:  24px; /* 16px 
 
-$font-size-h1-tb:  64px; /* 36px */
-$font-size-h2-tb:  48px; /* 28px */
-$font-size-h3-tb:  40px; /* 24px */
-$font-size-h4-tb:  32px; /* 20px */
-$font-size-h5-tb:  28px; /* 18px */
-$font-size-h6-tb:  20px; /* 16px */
+$font-size-h1-tb:  64px; /* 36px 
+$font-size-h2-tb:  48px; /* 28px 
+$font-size-h3-tb:  40px; /* 24px 
+$font-size-h4-tb:  32px; /* 20px 
+$font-size-h5-tb:  28px; /* 18px 
+$font-size-h6-tb:  20px; /* 16px 
 
-$font-size-h1-mb:  32px; /* 46px */ /* 36px */
-$font-size-h2-mb:  26px; /* 36px */ /* 28px */
-$font-size-h3-mb:  22px; /* 28px */ /* 24px */
-$font-size-h4-mb:  18px; /* 24px */ /* 20px */
-$font-size-h5-mb:  16px; /* 20px */ /* 18px */
-$font-size-h6-mb:  14px; /* 16px */ /* 16px */
+$font-size-h1-mb:  32px; /* 46px */ /* 36px 
+$font-size-h2-mb:  26px; /* 36px */ /* 28px 
+$font-size-h3-mb:  22px; /* 28px */ /* 24px 
+$font-size-h4-mb:  18px; /* 24px */ /* 20px 
+$font-size-h5-mb:  16px; /* 20px */ /* 18px 
+$font-size-h6-mb:  14px; /* 16px */ /* 16px 
+*/
+
+$font-size-h1:  2em;
+$font-size-h2:  1.75em;
+$font-size-h3:  1.5em;
+$font-size-h4:  1.25em;
+$font-size-h5:  1em;
+$font-size-h6:  0.8em;
 
 h1,
 h2,
@@ -37,21 +46,26 @@ h6 {
 //   -moz-hyphens: auto;
 //    -ms-hyphens: auto;
 //        hyphens: auto;
+
+  font-family: $font-heading;
+  font-variant-ligatures: none;   /* Disable ligatures to maintain monospace */
+  letter-spacing: -0.07em;
 }
 
 h1 {
   font-size: $font-size-h1;
+  font-weight: $font-weight-bold;
   
   &:not(.c-post__title) {
-    margin-top: quadruple($base-spacing-unit);
+    margin-top: double($base-spacing-unit);
   }
 
-  @include mq($until: desktop) {
+/*  @include mq($until: desktop) {
     font-size: $font-size-h1-tb;
-  }
+  }*/
 
   @include mq($until: tablet) {
-    font-size: $font-size-h1-mb;
+    /*font-size: $font-size-h1-mb;*/
 
     &:not(.c-post__title) {
       margin-top: double($base-spacing-unit);
@@ -61,17 +75,21 @@ h1 {
 
 h2 {
   font-size: $font-size-h2;
-
-  &:not(.c-post__title, .c-post-card__title) {
-    margin-top: quadruple($base-spacing-unit);
+  
+  &:not(.c-post-card__title) {
+    font-weight: $font-weight-bold;
   }
 
-  @include mq($until: desktop) {
+  &:not(.c-post__title, .c-post-card__title, #references) {
+    margin-top: double($base-spacing-unit);
+  }
+
+/*  @include mq($until: desktop) {
     font-size: $font-size-h2-tb;
-  }
+  }*/
 
   @include mq($until: tablet) {
-    font-size: $font-size-h2-mb;
+    /*font-size: $font-size-h2-mb;*/
 
     &:not(.c-post__title, .c-post-card__title) {
       margin-top: double($base-spacing-unit);
@@ -82,31 +100,34 @@ h2 {
 h3 {
   font-size: $font-size-h3;
   font-style: italic;
+  font-weight: $font-weight-bold;
 
-  &:not(.c-post__title, .c-post-card__title) {
-    margin-top: double($base-spacing-unit);
+  @include mq($from: desktop) {
+    &:not(.c-post__title, .c-post-card__title) {
+      margin-top: double($base-spacing-unit);
+    }
   }
 
-  @include mq($until: desktop) {
+/*  @include mq($until: desktop) {
     font-size: $font-size-h3-tb;
   }
 
   @include mq($until: tablet) {
     font-size: $font-size-h3-mb;
-  }
+  }*/
 }
 
 h4 {
   font-size: $font-size-h4;
   color: $color-brand;
 
-  @include mq($until: desktop) {
+/*  @include mq($until: desktop) {
     font-size: $font-size-h4-tb;
   }
 
   @include mq($until: tablet) {
     font-size: $font-size-h4-mb;
-  }
+  }*/
 }
 
 h5 {
@@ -115,13 +136,13 @@ h5 {
   color: $color-brand;
   font-weight: bold;
 
-  @include mq($until: desktop) {
+/*  @include mq($until: desktop) {
     font-size: $font-size-h5-tb;
   }
 
   @include mq($until: tablet) {
     font-size: $font-size-h5-mb;
-  }
+  }*/
 }
 
 h6 {
@@ -130,23 +151,23 @@ h6 {
   text-transform: uppercase;
   font-weight: bold;
 
-  @include mq($until: desktop) {
+/*  @include mq($until: desktop) {
     font-size: $font-size-h6-tb;
   }
 
   @include mq($until: tablet) {
     font-size: $font-size-h6-mb;
-  }
+  }*/
 }
 
 /* Make headings in content page stand out */
-.c-content h1, .c-content h2 {
+.c-content h1, .c-content h2:not(#references) {
   /*background: $bg-color-mid-gray;*/
-  display: inline-block;
-  margin-top: double($base-spacing-unit);
+  display: block; /*inline-block;*/
+  padding-top: double($base-spacing-unit);
 
   @include mq($until: tablet) {
-    margin-top: $base-spacing-unit;
+    padding-top: $base-spacing-unit;
   }
 
 /* Didn't use in the end; spacing is enough
@@ -156,12 +177,44 @@ h6 {
 }
 
 .c-content p + h3, .c-content div + h3 {
-  display: inline-block;
-  margin-top: double($base-spacing-unit);
+  display: block; /*inline-block;*/
+  padding-top: double($base-spacing-unit);
 
   @include mq($until: tablet) {
-    margin-top: $base-spacing-unit;
+    padding-top: $base-spacing-unit;
   }
+}
+
+/* Shrink images for side-notes */
+@include mq($from: HD) {
+  .c-content {
+    p, h1, h2:not(#references), h3, h4, h5, h6, blockquote, pre, dl, dd, li:not([role='doc-endnote']), hr {
+      max-width: 75%;
+    }
+  }
+}
+
+/* Omit multi-pic alignment nested inside some div of o-grid & o-grid__col */
+@include mq($from: HD) {
+  div.multi-pic {
+    p, h1, h2:not(#references), h3, h4, h5, h6, blockquote, pre, dl, dd, /*ol, Footnotes */ ul, hr {
+      max-width: 100%;
+      // margin-left: $base-spacing-unit;    /* Counterbalance .c-content .o-grid margin-left: -16px; */
+      // margin-right: $base-spacing-unit;   /* Make the gap between images in the same row */
+    }
+  }
+}
+
+/* Let the caption text nested under .cap.wide under ![] with .wide also take full width; as an option */
+@include mq($from:HD) {
+  div.wide > p {
+    max-width: 100%;
+  }
+}
+
+b,
+strong {
+  font-weight: $font-weight-bold;
 }
 
 mark {
@@ -172,6 +225,7 @@ mark {
 //border-bottom: 5px solid $color-brand;
 //color: $color-brand;
   font-style: normal;
+  color: $color-text;
 }
 
 blockquote {
@@ -182,18 +236,22 @@ blockquote {
   }
 }
 
+.footnotes a {
+  overflow-wrap: break-word; /* break long URLs */
+}
+
 .client {
   color: $color-lg;
 }
 
 .extras {
   color: $color-lg;
-  font-size: $font-size-tiny;
+  font-size: 0.8em /*$font-size-tiny*/;
   font-weight: normal;
-  line-height: $line-height-tiny;
+  /*line-height: $line-height-tiny;*/
   margin-bottom: double($base-spacing-unit);
 
-  @include mq($until: desktop) {
+/*  @include mq($until: desktop) {
     font-size: $font-size-tiny-tb;
     line-height: $line-height-tiny-tb;
   }
@@ -201,7 +259,7 @@ blockquote {
   @include mq($until: tablet) {
     font-size: $font-size-small-mb;
     line-height: $line-height-small-mb;
-  }
+  }*/
 
   /* Used to exclude highlight when using em; replaced by <mark>
   em {
@@ -229,6 +287,9 @@ blockquote {
 
 .blog:before {
 //content: '\25C9';   /* ◉ Fisheye */
+//content: '\25C7';   /* ◇ White diamond */
+//padding-right: 0.05em;
+//color: $color-brand;
 }
 
 .fun + a:before, .skill:before {

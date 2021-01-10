@@ -19,7 +19,7 @@ This year, the [GSJ in Cologne](https://www.service-design-network.org/events/co
 
 We started with a quick round of co-brainstorming about everything we could think *out of the blue*——sky, water, summer, sad, Europe… We thought onwards and gradually found out problems we wanted to address. Then we swiftly talked about them and transformed them into how-might-we challenges. Everyone got to pick up one with which they would like to work.
 
-That's how I boarded the ship of <mark>space travel</mark> and <mark>sustainability</mark> for my weekend with Maxime and Nils. 😊🧔🏼👱🏻‍♀️🚀✨
+That's how I boarded the ship of <mark>space travel</mark> and <mark>sustainability</mark> for my weekend with Maxime and Nils. {% raw %}<span style="display: inline-block">😊🧔🏼👱🏻‍♀️🚀✨</span>{% endraw %}
 
 ## Sustainable Space Travel
 How might we foster sustainable space travel? Very hard.
@@ -31,7 +31,7 @@ To get started, we dug out our assumptions. Who would be space-travelling? What 
 When was the last time you travelled to outer space? Last week, surfing around Saturn!
 </div>
 
-To our surprise, people were actually quite engaged in talking to us about space travel. We found out that, in general, they think space travel is cool. They reckon it allows them to discover new matters, watch the dazzling stars and planets, obtain brand-new resources, and even make friends with aliens. In short, they believe it is a life-changing experience. But at the same time, they also fear that they would miss our planet Earth——their family and friends, the fresh air, the flowers and the trees, and all the yummy delicacies (Ramen! 🍜🍥). Some expressed that, instead of travelling to space, we should use the resources to solve existing issues on Earth, such as pollution and humanitarian aid.
+To our surprise, people were actually quite engaged in talking to us about space travel. We found out that, in general, they think space travel is cool. They reckon it allows them to discover new matters, watch the dazzling stars and planets, obtain brand-new resources, and even make friends with aliens. In short, they believe it is a life-changing experience. But at the same time, they also fear that they would miss our planet Earth——their family and friends, the fresh air, the flowers and the trees, and all the yummy delicacies {% raw %}<span style="display: inline-block">(Ramen! 🍜🍥).</span>{% endraw %} Some expressed that, instead of travelling to space, we should use the resources to solve existing issues on Earth, such as pollution and humanitarian aid.
 
 Despite the difficulty, we think it is cool to let people experience travelling to outer space. The pretty view of Earth from space would be worth it. More importantly, though, it was essential to let them know that, far out in the universe, there are probably no other planets as lovely as our only Earth.
 
@@ -40,10 +40,10 @@ Despite the difficulty, we think it is cool to let people experience travelling 
 How can we prototype space travel? We came up with the idea of letting people fly to space and see how planet Earth (currently) is. We built a paper prototype to simulate the space travel experience. More precisely, we condensed the travel journey to the most iconic and rewarding scene——watching the sunrise on Earth from outer space. We then went to the streets once again to ask people to space-travel with us. They were thrilled!
 
 <div class="o-grid" markdown="1">
-<div class="o-grid__col o-grid__col--2-4-m" markdown="1">
+<div class="o-grid__col o-grid__col--2-4-m multi-pic" markdown="1">
 ![DIY space travel – all hands on!](/images/blog/GSJ19-Space-Game-1.jpg)
 </div>
-<div class="o-grid__col o-grid__col--2-4-m" markdown="1">
+<div class="o-grid__col o-grid__col--2-4-m multi-pic" markdown="1">
 ![Asking people to space-travel with us in the street.](/images/blog/GSJ19-Space-Game-3.jpg)
 </div>
 </div>
@@ -60,10 +60,10 @@ We decided to use simulations for our stirring space travel experience. We naile
 Our concept was, when they sign up for space travel, they will be put in the simulation room without knowing. They will undergo the space travel simulation, see the galaxy, and then learn about the current truth of planet Earth.
 
 <div class="o-grid" markdown="1">
-<div class="o-grid__col o-grid__col--2-4-m" markdown="1">
+<div class="o-grid__col o-grid__col--2-4-m multi-pic" markdown="1">
 ![Strengthening our storytelling with Legos – space station.](/images/blog/GSJ19-Space-Trap-1.jpg)
 </div>
-<div class="o-grid__col o-grid__col--2-4-m" markdown="1">
+<div class="o-grid__col o-grid__col--2-4-m multi-pic" markdown="1">
 ![Strengthening our storytelling with Legos – planet Earth.](/images/blog/GSJ19-Space-Trap-2.jpg)
 </div>
 </div>
@@ -84,7 +84,7 @@ To present our concept and pitch our service, we built our simulation prototype 
 <div class="e-iframe" markdown="1">
 <iframe src="https://player.vimeo.com/video/327940314" width="992" height="558" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
-<div class="extras u-text-center" markdown="1">
+<div class="extras u-text-center wide" markdown="1">
 With Nils Brüggesch and Maxime Ridzewski.
 </div>
 
