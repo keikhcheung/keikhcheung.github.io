@@ -47,7 +47,7 @@ In the celebration of the 500<sup>th</sup> birthday of {% raw %}<span style="dis
 </video>
 
 # Concept
-On Tintoretto2Go, we **hijacked advertisements** around the city of Cologne and Berlin by replacing them with first-class paintings. 💎 Hidden gems in these artworks were spotlit with **animated 3D modelling in AR**, letting the public relive the spectacles of the grand classic. What's more? We hid them all around the city and updated every week——it's the <mark>treasure hunt in neighbourhoods</mark> and in the streets! {% raw %}<span style="display: inline-block">🕵🏻‍♀️🕵🏽‍♂️</span>{% endraw %} No matter if you unlock all of them or not, it guides you to explore Wallraf-Richartz Museum's special exhibition 'Tintoretto——A Star was Born' in the end, and offers you a discount to the museum if you find them all!✨
+On Tintoretto2Go, we **hijacked advertisements** around the city of Cologne and Berlin by replacing them with first-class paintings. 💎 Hidden gems in these artworks were spotlit with **animated 3D modelling in AR**, letting the public relive the spectacles of the grand classic. What's more? We hid them all around the city and updated every week—it's the <mark>treasure hunt in neighbourhoods</mark> and in the streets! {% raw %}<span style="display: inline-block">🕵🏻‍♀️🕵🏽‍♂️</span>{% endraw %} No matter if you unlock all of them or not, it guides you to explore Wallraf-Richartz Museum's special exhibition 'Tintoretto—A Star was Born' in the end, and offers you a discount to the museum if you find them all!✨
 
 ![Storyboard for Tintoretto2Go, narratives of Renaissance masterpiece](/images/portfolio/tintoretto-storyboard-2.jpg)
 
@@ -63,7 +63,7 @@ The exhibition was held in Cologne Oct 2017–Jan 2018. As many as <mark>99,062 
 
 > We are very pleased about the enthusiasm with which our Tintoretto exhibition was received by such a broad audience. The spectrum ranged from young people interested in art to avid Tintoretto lovers to experienced specialists from all over the world.
 >
-> —— Marcus Dekiert, Museum Director
+> — Marcus Dekiert, Museum Director
 
 The jubilee exhibition was later hosted in Musée du Luxembourg in 🇫🇷 Paris.
 

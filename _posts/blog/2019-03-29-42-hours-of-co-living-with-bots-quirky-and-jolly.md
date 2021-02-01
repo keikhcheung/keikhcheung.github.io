@@ -14,19 +14,19 @@ tags:
 ---
 
 ## Para-robotics
-When we talk about robots, we might think of automated manufacturing arms, the waste allocator <i>WALL-E</i>, or even Arnold Schwarzenegger in <i>The Terminator</i>——often a very technical, industrial, or sci-fi image. But do robots always have to be linked to work or the apocalypse? What else can robots be in our space and time? What if robots have a more ordinary and nearby relation with us as we have with a book, a plant, or a pair of jeans? What if robots become a new material or medium that we could play and make art with?
+When we talk about robots, we might think of automated manufacturing arms, the waste allocator <i>WALL-E</i>, or even Arnold Schwarzenegger in <i>The Terminator</i>—often a very technical, industrial, or sci-fi image. But do robots always have to be linked to work or the apocalypse? What else can robots be in our space and time? What if robots have a more ordinary and nearby relation with us as we have with a book, a plant, or a pair of jeans? What if robots become a new material or medium that we could play and make art with?
 
 Two weeks ago, I participated in the [Meta Marathon 2019](https://www.nrw-forum.de/en/events/meta-marathon-2019){:target="_blank"} in Düsseldorf organised by NRW-Forum. It tackles exactly this theme. For 42 hours non-stop, I experienced living with robots. The event invited a blend of artists, researchers, creatives and digital innovators to come together, exchange views, and explore the alternative visions towards different kinds of droids. Through an extensive programme of exhibitions, talks and workshops, I was exposed to very diverse perspectives in regard to robotics and humans. It drove me to reflect on our relationship with technology.
 
 ![Meta Marathon 2019 venue hall](/images/blog/MM2019-Hall.jpg)
 
-## The Future Human——<i>homo digitalis?</i>
+## The Future Human—<i>homo digitalis?</i>
 
 Every day we have more gadgets with us.
 
-We embrace technology innovations to help us move forward and to elevate our capabilities in doing all sorts of things. A simple click on Google gets us to the tonnes of information one could never imagine 30 years ago. A dense chunk of metal called ‘computer’ contains pretty much everything that one would need to do. These days, we do not even leave the house without our smartphone in our hand or pocket. Technologies have been an inseparable part of our life——an ever-growing important element, too!
+We embrace technology innovations to help us move forward and to elevate our capabilities in doing all sorts of things. A simple click on Google gets us to the tonnes of information one could never imagine 30 years ago. A dense chunk of metal called ‘computer’ contains pretty much everything that one would need to do. These days, we do not even leave the house without our smartphone in our hand or pocket. Technologies have been an inseparable part of our life—an ever-growing important element, too!
 
-In sci-fi films, we imagine how futuristic technologies could further enhance us, enable humans to extend what we are capable of doing, and even become part of us. In real life, technology has been a lasting passion of the last two decades. Digital entities have made their way to our habitat and are now holding a ubiquitous role in our everyday business——that is only to get more prominent. What actually would happen if technology and human are fused into one? How would our interpersonal relations become? Would it even allow us to evolve into a new species——<i>homo digitalis?</i>
+In sci-fi films, we imagine how futuristic technologies could further enhance us, enable humans to extend what we are capable of doing, and even become part of us. In real life, technology has been a lasting passion of the last two decades. Digital entities have made their way to our habitat and are now holding a ubiquitous role in our everyday business—that is only to get more prominent. What actually would happen if technology and human are fused into one? How would our interpersonal relations become? Would it even allow us to evolve into a new species—<i>homo digitalis?</i>
 
 ![Minority-Report](/images/blog/Minority-Report.jpg)
 <div class="extras cap" markdown="1">
@@ -39,7 +39,7 @@ Christiane Miethge’s talk introduced us to this problematic topic. What does i
 
 A large number of our daily activities circle around data and algorithms: the news we read, the transport we take (regarding scheduling and timetables), the groceries we can get in the supermarket, and even (annoyingly) where we could go for our next holiday.
 
-We rely on machines to deal with the massive amount of data which we exponentially create every day. We also depend on them to sort out the links, transform and extract the information, and advise us on the decisions that we shall make. Machines’ calculations with algorithms outrace human actions by far in terms of speed. They can realise efficiently the goals we set. Nevertheless, we cannot always guarantee the quality of the outcome——or more precisely, the quality of the mechanism which leads to the outcome. Only when we notice it, it is usually too late.
+We rely on machines to deal with the massive amount of data which we exponentially create every day. We also depend on them to sort out the links, transform and extract the information, and advise us on the decisions that we shall make. Machines’ calculations with algorithms outrace human actions by far in terms of speed. They can realise efficiently the goals we set. Nevertheless, we cannot always guarantee the quality of the outcome—or more precisely, the quality of the mechanism which leads to the outcome. Only when we notice it, it is usually too late.
 
 <div class="o-grid" markdown="1">
 <div class="o-grid__col o-grid__col--2-4-m multi-pic" markdown="1">
@@ -53,7 +53,7 @@ We rely on machines to deal with the massive amount of data which we exponential
 The chatter bot <i>Tay</i> released by Microsoft in 2016 was quickly taken offline 16 hours after the launch as it turned… fascist. (Image: [PCWorld](https://www.pcworld.com/article/3048157/the-internet-turns-tay-microsofts-millennial-ai-chatbot-into-a-racist-bigot.html){:target="_blank"}, [The Guardian](https://www.theguardian.com/technology/2016/mar/24/microsoft-scrambles-limit-pr-damage-over-abusive-ai-bot-tay){:target="_blank"})
 </div>
 
-Shirley Ogolla landed us on this issue. She highlighted the fact that machines’ decisions result from algorithms, which feed on data, which result from human actions——and furthermore——human decisions. As we do not always make impartial decisions, nor do we take unprejudiced action (is this even possible?), [algorithm-driven decisions by machines are prone to bias](https://www.technologyreview.com/s/608248/biased-algorithms-are-everywhere-and-no-one-seems-to-care/). She addressed that attention should be paid to data sets’ quality so as to ensure that diverse and heterogeneous data are included.
+Shirley Ogolla landed us on this issue. She highlighted the fact that machines’ decisions result from algorithms, which feed on data, which result from human actions—and furthermore—human decisions. As we do not always make impartial decisions, nor do we take unprejudiced action (is this even possible?), [algorithm-driven decisions by machines are prone to bias](https://www.technologyreview.com/s/608248/biased-algorithms-are-everywhere-and-no-one-seems-to-care/). She addressed that attention should be paid to data sets’ quality so as to ensure that diverse and heterogeneous data are included.
 
 Although neutrality is hard to attain, the wider the coverage is, the closer we get to its possibility. For this to happen, human role is crucial in maintaining the quality and the diversity of the data pool, in rectifying any inaccurate inclination, and in fine-tuning the algorithmic tricks for constant improvement. This is particularly essential as algorithms are now taking up [pivotal decisions ranging from loan applications to cancer diagnoses](https://www.wired.co.uk/article/ai-bias-black-box-sandra-wachter). What is curiously helpful is that AI can also assist us a lot in error and human bias detection.
 
@@ -64,7 +64,7 @@ Although neutrality is hard to attain, the wider the coverage is, the closer we 
 
 ## Tech Pain Prevention and Relief
 
-As we develop a close bond with digital entities——be it for work’s or entertainment’s sake——we also experience some drawbacks. Amongst all, health problems come first. We all learn from school that it is not healthy to sit in front of a screen for hours or to use our smartphone in bed. We are advised against it but we continue to adopt the latest gadget released, sticking to them until we feel physical pain.
+As we develop a close bond with digital entities—be it for work’s or entertainment’s sake—we also experience some drawbacks. Amongst all, health problems come first. We all learn from school that it is not healthy to sit in front of a screen for hours or to use our smartphone in bed. We are advised against it but we continue to adopt the latest gadget released, sticking to them until we feel physical pain.
 
 It is not enough just to know the risks but to act to prevent or resolve them. On this, Dasha Ilina brought us to action. In her workshop, I explored how to prevent back and shoulder pain from bad posture in the workplace. I experimented with easily available materials such as cardboard, rubbish bags and rubber gloves, built a <mark>back pain killer</mark> prototype, tested it and iterated on the design. It was a lot of fun!
 

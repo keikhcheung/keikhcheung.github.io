@@ -22,7 +22,7 @@ Information is abundant and harsh these days. Everyone sounds like shouting, if 
 Do you feel like messy tribbles raining over your head? (Image: [Giphy](https://giphy.com/gifs/star-trek-mess-tribbles-108KUzjTMEp2gw){:target="_blank"})
 </div>
 
-Last weekend I attended the [Campfire Festival 2019](https://campfirefestival.org){:target="_blank"} in Düsseldorf, Germany. It is an event about the relation between journalism, media, human and the digital world. The talks were multidimensional, cross-disciplinary and inspiring. It made me ponder over the role of journalism and news media in our current time——what and whom it is for——and question its utility and effectiveness.
+Last weekend I attended the [Campfire Festival 2019](https://campfirefestival.org){:target="_blank"} in Düsseldorf, Germany. It is an event about the relation between journalism, media, human and the digital world. The talks were multidimensional, cross-disciplinary and inspiring. It made me ponder over the role of journalism and news media in our current time—what and whom it is for—and question its utility and effectiveness.
 
 <div class="extras" markdown="1">
 Disclaimer: I am not a professional journalist. Comments here are, therefore, only from a regular newspaper reader, media watcher's external point of view.
@@ -32,7 +32,7 @@ Disclaimer: I am not a professional journalist. Comments here are, therefore, on
 
 ### What is journalism for?
 
-Boundaries of journalism might be flexible. Its core function, nevertheless, remains conveying information[^1]; by extension, empowering the informed[^2]. Journalism has long tasked itself with a civic role. It has the duty to monitor powers, to observe them, and to report information back to the public. It is even regarded as the Fourth Estate, to counter the executive, legislative and judicial powers. In a liberal society, it even holds higher goals to fulfil: to educate citizens, to foster their critical thinking, to provoke discussions and exchange of views and ideas——so as to catalyse progress in society as a whole.
+Boundaries of journalism might be flexible. Its core function, nevertheless, remains conveying information[^1]; by extension, empowering the informed[^2]. Journalism has long tasked itself with a civic role. It has the duty to monitor powers, to observe them, and to report information back to the public. It is even regarded as the Fourth Estate, to counter the executive, legislative and judicial powers. In a liberal society, it even holds higher goals to fulfil: to educate citizens, to foster their critical thinking, to provoke discussions and exchange of views and ideas—so as to catalyse progress in society as a whole.
 
 ### A splintering sector?
 
@@ -65,7 +65,7 @@ The first aspect consists of reconnecting reader groups.
 
 Press and news media should not represent <mark>the one voice</mark> they want to propagate, but <mark>the voices</mark> which exist in the setting. It is understandable that journalists and media houses hold their own interest scope and standpoints. How news stories are followed, collected, analysed, cut, shaped, and presented to the public subsequently depends on them. Loss of information is inevitable during the production chain. Yet, instead of simply persuading the public of their perspective, the bigger picture should not be forgotten.
 
-Take Brexit as an example. Before the universal suffrage in 2016, as [Rachel Oldroyd](https://twitter.com/Raoldroyd){:target="_blank"} presented in [her talk in Campfire Festival](https://sched.co/UBen){:target="_blank"}, Remain news media had overlooked the local voices and misjudged the proportion adhering to Leave. Coverage (especially analyses) for the other side was scarce. It was only until the ballots were counted that the public (and politicians) learnt——in the hard way——to have to deal with alternative voices seriously. Had they known more about the casting situation beforehand, the current deadlock situation of Brexit probably would have looked very different.
+Take Brexit as an example. Before the universal suffrage in 2016, as [Rachel Oldroyd](https://twitter.com/Raoldroyd){:target="_blank"} presented in [her talk in Campfire Festival](https://sched.co/UBen){:target="_blank"}, Remain news media had overlooked the local voices and misjudged the proportion adhering to Leave. Coverage (especially analyses) for the other side was scarce. It was only until the ballots were counted that the public (and politicians) learnt—in the hard way—to have to deal with alternative voices seriously. Had they known more about the casting situation beforehand, the current deadlock situation of Brexit probably would have looked very different.
 
 ![Kids in zorbs](/images/blog/CF19-Kids-in-zorbs.jpg)
 <div class="extras cap" markdown="1">
@@ -106,4 +106,4 @@ This article is also published on [Medium](https://medium.com/@keikhcheung/moder
 [^1]: American Press Institute. ‘What Is the Purpose of Journalism?’ *American Press Institute*, [www.americanpressinstitute.org/journalism-essentials/what-is-journalism/purpose-journalism/](https://www.americanpressinstitute.org/journalism-essentials/what-is-journalism/purpose-journalism/){:target="_blank"}. Accessed 5 Sept. 2019.
 [^2]: Karknu. ‘Why Is Journalism Needed in a Democratic Society?’ *Media Guide*, 29 Nov. 2015, [mediaguide.fi/mediaguide/?p=20](https://mediaguide.fi/mediaguide/?p=20){:target="_blank"}.
 [^3]: Chalmers, Hanna. *In Media We Trust? How Our Views of the Media Are Changing*. Ipsos Knowledge Centre, 3 Jan. 2019, p. 7–9, [www.ipsos.com/en/media-we-trust-how-our-views-media-are-changing](http://www.ipsos.com/en/media-we-trust-how-our-views-media-are-changing){:target="_blank"}.
-[^4]: Haagerup, Ulrik. ‘Constructive Journalism——What, how and why?’. Campfire Festival 2019. CORRECTIV Verlag und Vertrieb für die Gesellschaft UG, 31 Aug. 2019, Düsseldorf, [sched.co/U6HI](https://sched.co/U6HI){:target="_blank"}.
+[^4]: Haagerup, Ulrik. ‘Constructive Journalism—What, how and why?’. Campfire Festival 2019. CORRECTIV Verlag und Vertrieb für die Gesellschaft UG, 31 Aug. 2019, Düsseldorf, [sched.co/U6HI](https://sched.co/U6HI){:target="_blank"}.

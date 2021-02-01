@@ -17,9 +17,9 @@ tags:
 
 Move fast and break things.
 
-It is Mark Zuckerberg’s (in-)famous motto for design and management process: to disrupt existing normality, to get rid of unnecessary formalities and red tape, to deliver faster to the hands of customers. This ideology sounds enticing and may be pertinent to keeping processes and management lean. It has been supported by the proliferation of start-ups. Nevertheless, being fast and breaking things does not guarantee a good outcome all the time. <mark>Being fast pushes us to</mark> process fast; processing fast invites us to jump steps; jumping steps risks <mark>committing mistakes</mark>——sometimes unnecessary, consequential, and unmendable ones.
+It is Mark Zuckerberg’s (in-)famous motto for design and management process: to disrupt existing normality, to get rid of unnecessary formalities and red tape, to deliver faster to the hands of customers. This ideology sounds enticing and may be pertinent to keeping processes and management lean. It has been supported by the proliferation of start-ups. Nevertheless, being fast and breaking things does not guarantee a good outcome all the time. <mark>Being fast pushes us to</mark> process fast; processing fast invites us to jump steps; jumping steps risks <mark>committing mistakes</mark>—sometimes unnecessary, consequential, and unmendable ones.
 
-To avoid breaking dishes (and perhaps a product/brand/company’s reputation and people’s trust in return), we might have to slow down at times——especially at crucial moments when we make decisions and/or judgement calls. <mark>We would have to acknowledge our limits and wisely cope with them.</mark>
+To avoid breaking dishes (and perhaps a product/brand/company’s reputation and people’s trust in return), we might have to slow down at times—especially at crucial moments when we make decisions and/or judgement calls. <mark>We would have to acknowledge our limits and wisely cope with them.</mark>
 
 This is what <i>Thinking, Fast and Slow</i> by Daniel Kahneman is about: understanding the limits of our mind, acknowledge them in our thinking, and wisely cope with them as they happen.
 
@@ -51,7 +51,7 @@ At ground zero, Kahneman points out that there are two distinct thinking systems
     caption="WYSIATI: what you see is all there is; what you don't see is all there is not."
 %}
 
-Our decisions are based on our judgements. Our judgements are based on our understanding. Our understanding is based on our perception. And our perception is based on what there is——in front and around us——the discoverable.
+Our decisions are based on our judgements. Our judgements are based on our understanding. Our understanding is based on our perception. And our perception is based on what there is—in front and around us—the discoverable.
 
 Simply put, <mark>we know the things we’ve learnt of; and we do not know what we have not.</mark> Hence, when we have to make decisions and judgements about something beyond what we know, we turn back to what we have learnt and memories of how we’ve applied it. We search through our experiences and weigh our options against what we have lived through and believe. We seek to correlate fragments to form our current understanding of dos and don’ts.
 
@@ -91,9 +91,9 @@ All in all, you are determining whether it better fulfils your original objectiv
 
 When we think, not only are our minds lazy and prone to inertia, limited in scope, and erratic along the route, what’s more is that our mind is also delusive regarding the basis on which we think.
 
-In his book, Kahneman has cited many cases about experts failing their own expertise. The situation is intriguing to study. The objective discovery from this is that <mark>our beliefs</mark>——the collection of good-and-bads through experiences, and the pedestal of current judgements and decisions——are not often based on facts; but rather <mark>on stories and their coherence.</mark>
+In his book, Kahneman has cited many cases about experts failing their own expertise. The situation is intriguing to study. The objective discovery from this is that <mark>our beliefs</mark>—the collection of good-and-bads through experiences, and the pedestal of current judgements and decisions—are not often based on facts; but rather <mark>on stories and their coherence.</mark>
 
-When we hear a story, we evaluate whether the story makes sense, whether it sounds plausible. The further we listen, we analyse whether the information is consistent——consistent with the idea conveyed, consistent with what we were told before——and maybe whether the interlinkages sound admissible. The more complete the story is, the more plausible it appears to us. If nothing raises concern to our guard (System 2), we do not necessarily attempt to seek whether what we are hearing/seeing is true; we do not verify it by reflex.
+When we hear a story, we evaluate whether the story makes sense, whether it sounds plausible. The further we listen, we analyse whether the information is consistent—consistent with the idea conveyed, consistent with what we were told before—and maybe whether the interlinkages sound admissible. The more complete the story is, the more plausible it appears to us. If nothing raises concern to our guard (System 2), we do not necessarily attempt to seek whether what we are hearing/seeing is true; we do not verify it by reflex.
 
 This is particularly dangerous as how social media and partisan (at times fake) news have demonstrated. The former gradually sets us into our own bubble through (micro-)profiling; the latter creeps in and reinforces the echoes in the chamber. The more resounding a story seems, the more we may believe it; the more we interact with the things we believe, the more we tend to get profiled as interested in that topic; thus the more we get shown that content… Echoing algorithms and potential dogmatism in short.
 
@@ -109,7 +109,7 @@ Unravelling these puzzles would require better initiatives from involved groups 
     caption="Believe it or not: we can find it more pleasant to slowly walk out of pain instead of stopping abruptly at once!"
 %}
 
-Last but not least, what makes our mind more complicated is the construction of scenes which we underwent inside our head——called memory.
+Last but not least, what makes our mind more complicated is the construction of scenes which we underwent inside our head—called memory.
 
 When we recall an experience, we do not necessarily paint the same picture as to how we experienced it. This is not about accusing us of a lying nature, but rather about the <mark>deviation in the image we create relative to how we truly lived the event</mark>. And through establishing this image (later as memory) in our mind, which we will remember over time and tell, we neglect the details to a certain extent and change the overall scenery inscribed in our head.
 
@@ -123,7 +123,7 @@ If you file a tax declaration online, the interface should:
 
 1. Convey security and confidentiality when you are using it (experience security);
 2. Enable you to get yourself through the filing process without too much doubt (experience ease); and
-3. Offer less hassle than paper and pen——and quick (experience convenience)!
+3. Offer less hassle than paper and pen—and quick (experience convenience)!
 
 We can offer you detailed explanations of all the form fields through your preparation for the tax declaration. In this way, you may experience ease from the platform when using it, as you have never been provided such clear guidance and pinged by so few doubts. However, this will probably lengthen your preparation before you can submit your file because it now consumes your attention and patience at every granular level. You would not experience convenience. It might even give rise to a repelling sensation within your quick-to-associate mind, that this platform is the devil of bureaucracy incarnate. You would detest this platform and label it in your memory as ‘never use again’.
 

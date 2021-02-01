@@ -17,7 +17,7 @@ Last weekend was the annual [Global Service Jam 2019](http://globaljams.org/jam
 
 This year, the [GSJ in Cologne](https://www.service-design-network.org/events/cologne-service-jam-2019){:target="_blank"} was organised by the local [Service Design Network](https://www.service-design-network.org){:target="_blank"} and [denkwerk](https://www.denkwerk.com){:target="_blank"} (Many thanks to Cristine and Ko for their facilitation!). The theme set globally for all jammers was ‘blue’. Yes, *blue*, fairly abstract, isn’t it?
 
-We started with a quick round of co-brainstorming about everything we could think *out of the blue*——sky, water, summer, sad, Europe… We thought onwards and gradually found out problems we wanted to address. Then we swiftly talked about them and transformed them into how-might-we challenges. Everyone got to pick up one with which they would like to work.
+We started with a quick round of co-brainstorming about everything we could think *out of the blue*—sky, water, summer, sad, Europe… We thought onwards and gradually found out problems we wanted to address. Then we swiftly talked about them and transformed them into how-might-we challenges. Everyone got to pick up one with which they would like to work.
 
 That's how I boarded the ship of <mark>space travel</mark> and <mark>sustainability</mark> for my weekend with Maxime and Nils. {% raw %}<span style="display: inline-block">😊🧔🏼👱🏻‍♀️🚀✨</span>{% endraw %}
 
@@ -31,13 +31,13 @@ To get started, we dug out our assumptions. Who would be space-travelling? What 
 When was the last time you travelled to outer space? Last week, surfing around Saturn!
 </div>
 
-To our surprise, people were actually quite engaged in talking to us about space travel. We found out that, in general, they think space travel is cool. They reckon it allows them to discover new matters, watch the dazzling stars and planets, obtain brand-new resources, and even make friends with aliens. In short, they believe it is a life-changing experience. But at the same time, they also fear that they would miss our planet Earth——their family and friends, the fresh air, the flowers and the trees, and all the yummy delicacies {% raw %}<span style="display: inline-block">(Ramen! 🍜🍥).</span>{% endraw %} Some expressed that, instead of travelling to space, we should use the resources to solve existing issues on Earth, such as pollution and humanitarian aid.
+To our surprise, people were actually quite engaged in talking to us about space travel. We found out that, in general, they think space travel is cool. They reckon it allows them to discover new matters, watch the dazzling stars and planets, obtain brand-new resources, and even make friends with aliens. In short, they believe it is a life-changing experience. But at the same time, they also fear that they would miss our planet Earth—their family and friends, the fresh air, the flowers and the trees, and all the yummy delicacies {% raw %}<span style="display: inline-block">(Ramen! 🍜🍥).</span>{% endraw %} Some expressed that, instead of travelling to space, we should use the resources to solve existing issues on Earth, such as pollution and humanitarian aid.
 
 Despite the difficulty, we think it is cool to let people experience travelling to outer space. The pretty view of Earth from space would be worth it. More importantly, though, it was essential to let them know that, far out in the universe, there are probably no other planets as lovely as our only Earth.
 
 ## Space Travel Time
 
-How can we prototype space travel? We came up with the idea of letting people fly to space and see how planet Earth (currently) is. We built a paper prototype to simulate the space travel experience. More precisely, we condensed the travel journey to the most iconic and rewarding scene——watching the sunrise on Earth from outer space. We then went to the streets once again to ask people to space-travel with us. They were thrilled!
+How can we prototype space travel? We came up with the idea of letting people fly to space and see how planet Earth (currently) is. We built a paper prototype to simulate the space travel experience. More precisely, we condensed the travel journey to the most iconic and rewarding scene—watching the sunrise on Earth from outer space. We then went to the streets once again to ask people to space-travel with us. They were thrilled!
 
 <div class="o-grid" markdown="1">
 <div class="o-grid__col o-grid__col--2-4-m multi-pic" markdown="1">
@@ -48,7 +48,7 @@ How can we prototype space travel? We came up with the idea of letting people fl
 </div>
 </div>
 
-After seeing the sunrise on the pretty planet Earth, we asked them questions what they like the most on Earth and talked about their latest enjoyable experiences. Meanwhile, we added a few typical problems on Earth——pollution, wars, representations of apathy, etc. We asked them to look at the Earth again and questioned them how they feel. A bit soured and moved, our space travellers opened up and shared more thoughts with us. They are aware of these situations, and are not content with them. They want change.
+After seeing the sunrise on the pretty planet Earth, we asked them questions what they like the most on Earth and talked about their latest enjoyable experiences. Meanwhile, we added a few typical problems on Earth—pollution, wars, representations of apathy, etc. We asked them to look at the Earth again and questioned them how they feel. A bit soured and moved, our space travellers opened up and shared more thoughts with us. They are aware of these situations, and are not content with them. They want change.
 
 ![Collecting feedback from all the co-jammers.](/images/blog/GSJ19-Feedback.jpg)
 
@@ -92,7 +92,7 @@ The jammers loved it! Hehe, they wanted to travel to space with us too!
 
 -------
 
-In a recap, the Global Service Jam weekend was dense, compact, and very fun! It is always surprising to see how creativity can turn things around in a short time. It is fascinating to watch how diverse problems could derive from the common point *blue* to all sorts of solutions. Other jammers developed services for no-plastic grocery shopping, AR cooking aid for colour-blind people, a space camp, empathy booster, bedside smartphone killer, volunteering inducer… and presented them all differently. This demonstrated how flexible service design methods can be. While <i>Double Diamond</i> and ‘yes-and/yes-but’ are nothing new to the industry, ductile application and contextual adjustment of the practice are crucial to problem-solving. The short jam weekend pushed us out of the ordinary box of design and urged us to try, test, and experiment——all while having fun!
+In a recap, the Global Service Jam weekend was dense, compact, and very fun! It is always surprising to see how creativity can turn things around in a short time. It is fascinating to watch how diverse problems could derive from the common point *blue* to all sorts of solutions. Other jammers developed services for no-plastic grocery shopping, AR cooking aid for colour-blind people, a space camp, empathy booster, bedside smartphone killer, volunteering inducer… and presented them all differently. This demonstrated how flexible service design methods can be. While <i>Double Diamond</i> and ‘yes-and/yes-but’ are nothing new to the industry, ductile application and contextual adjustment of the practice are crucial to problem-solving. The short jam weekend pushed us out of the ordinary box of design and urged us to try, test, and experiment—all while having fun!
 
 <div class="extras" markdown="1">
 Courtesy: Service Design Network, photo.

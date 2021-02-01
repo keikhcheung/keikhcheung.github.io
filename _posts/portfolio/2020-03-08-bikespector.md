@@ -57,7 +57,7 @@ If shared bikes are as volatile as weather, can we *forecast* them with what we 
 ![If shared bikes are as volatile as weather, can we forecast them with what we know?](/images/portfolio/bikespector-machine-learning.png)
 
 # Hands-on
-We made use of the **open data** of shared bikes in cities, before finally coming down to Cologne, Berlin, Düsseldorf and Frankfurt. I furthered our research by spotting possibile, compatible public release of data to broaden the prediction use case coverage. Together with weather data, we studied the **coorelation** between them while aiming at predicting bikes availability around a given address for the upcoming hours and days. Through the course of the analysis, this has been translated into 🤩 <mark>forecasting free shared bikes</mark> around a point——within a preferred walking distance——for the next hour up to 5 days ahead.
+We made use of the **open data** of shared bikes in cities, before finally coming down to Cologne, Berlin, Düsseldorf and Frankfurt. I furthered our research by spotting possibile, compatible public release of data to broaden the prediction use case coverage. Together with weather data, we studied the **coorelation** between them while aiming at predicting bikes availability around a given address for the upcoming hours and days. Through the course of the analysis, this has been translated into 🤩 <mark>forecasting free shared bikes</mark> around a point—within a preferred walking distance—for the next hour up to 5 days ahead.
 
 Our data specialists built a data model and applied machine learning methods. Over time, our model got trained to purify its <mark>prediction accuracy</mark>. We have been able to attain as high as **84%**. ✅
 

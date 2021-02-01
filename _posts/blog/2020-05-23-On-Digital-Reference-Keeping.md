@@ -55,7 +55,7 @@ Problems, however, slowly unveil themselves over time.
 
 As the volume of references grows, so as their types and sources, I often find myself in the situation where <mark>I am not 100% sure where I should store them.</mark>
 
-I could discover a blog post about some latest UX theories while I conduct research for a project. Shall I keep it with my existing notes (in Typora/nvALT), or in the collection folder in the browser extension Raindrop with topical tags? I might even write about the discovery afterwards and would like to properly cite it. Shall I register it in my Zotero library instead? If I save it in my project notes now, <mark>would I remember where to dig it out later</mark>——say——when I start writing my blog post sharing?
+I could discover a blog post about some latest UX theories while I conduct research for a project. Shall I keep it with my existing notes (in Typora/nvALT), or in the collection folder in the browser extension Raindrop with topical tags? I might even write about the discovery afterwards and would like to properly cite it. Shall I register it in my Zotero library instead? If I save it in my project notes now, <mark>would I remember where to dig it out later</mark>—say—when I start writing my blog post sharing?
 
 Thinking up to this point, I can already picture myself madly rifling here and there to try to call the source reference out.
 
@@ -77,7 +77,7 @@ The initiative of exploring resources, spending time to digest them and keeping 
 A Zotero entry example on User Experience Questionnaire by Martin Schrepp et al. I took notes on its evaluation methodology when I was writing my [Master’s Thesis](https://dumas.ccsd.cnrs.fr/dumas-01981716){:target="_blank"} on UX for voice assistants. This is also useful for my professional work later on. Yet, it is still resting in the Master’s Thesis context and not readily recallable. There may even be a higher change where I would come across UEQ anew on search engines than on this exact entry.
 </div>
 
-Ideas, thoughts, insights are the most sparkling when they are kindled by unusual stimuli. <mark>Processed knowledge shall play a similar role, allow cross-disciplinary discoveries, and——the most importantly——be easy to spark</mark> when they might be inspiring to whatever subject I may eventually explore.
+Ideas, thoughts, insights are the most sparkling when they are kindled by unusual stimuli. <mark>Processed knowledge shall play a similar role, allow cross-disciplinary discoveries, and—the most importantly—be easy to spark</mark> when they might be inspiring to whatever subject I may eventually explore.
 
 This escalates not only to an issue of bookmark/reference organisation, but personal knowledge management.
 

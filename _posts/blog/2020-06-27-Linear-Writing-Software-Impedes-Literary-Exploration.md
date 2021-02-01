@@ -17,11 +17,11 @@ tags:
 
 **Thinking is not a linear process, nor is writing.**
 
-We may start with a certain set of ideas and explicate them in one vocabulary. Others may sprout later, and we would similarly try to verbalise them. These latecomers——as new input——would open up new potential and provoke us to reflect on the previously written text, which leads to altering our narrative.
+We may start with a certain set of ideas and explicate them in one vocabulary. Others may sprout later, and we would similarly try to verbalise them. These latecomers—as new input—would open up new potential and provoke us to reflect on the previously written text, which leads to altering our narrative.
 
 Hence, <mark>writing is often a process of back and forth.</mark> It is an experiment where you connect different elements and see how they go. It is akin to chemical lab test. Putting elements A and B may give a spark. It may make shiny crystals. Maybe also a kaboom or nothing at all.
 
-When we write, we are exploring the magic of words and connecting them to thoughts. There are hundreds——if not thousands——of possibilities.
+When we write, we are exploring the magic of words and connecting them to thoughts. There are hundreds—if not thousands—of possibilities.
 
 {% include figure.html
     src="/images/blog/LWrit-Alternative.jpg"
@@ -39,7 +39,7 @@ This is where digital writing software falls short.
 
 ### Linear Workspace
 
-Writing software in the market, still very much shadowed by typewriters from the last century, asks us to write as we typeset. It is made for the expression of ideas in a single, linear stream of texts. <mark>Writing on these programs is comparable to reading your thoughts or speaking them aloud</mark>——from the start to the end, one direction, along the brook of narrative.
+Writing software in the market, still very much shadowed by typewriters from the last century, asks us to write as we typeset. It is made for the expression of ideas in a single, linear stream of texts. <mark>Writing on these programs is comparable to reading your thoughts or speaking them aloud</mark>—from the start to the end, one direction, along the brook of narrative.
 
 ### Programs for Editing, Not Writing
 
