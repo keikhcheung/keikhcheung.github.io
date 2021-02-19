@@ -7,6 +7,12 @@
 </div>
 </div>
 
+<!-- Link to notes -->
+<div class='o-grid__col'>
+  {% capture intro %}{% include notes.md %}{% endcapture %}
+  {{ intro | markdownify }}
+</div>
+
 <!--- { for post in paginator.posts } --->
 {% for post in site.categories.blog %}
   <div class='o-grid__col o-grid__col--2-4-l'>
