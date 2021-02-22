@@ -8,7 +8,7 @@ $( function() {
 //css3 transform bug with jquery ui drag - fixed(works fine whether position, absolute or relative)
 var __dx;
 var __dy;
-var __scale=0.5;
+//var __scale=0.5;
 var __recoupLeft, __recoupTop;
 
 $("#draggable").draggable({
