@@ -28,11 +28,12 @@
   z-index: -1;
 
   /* Overwrite normal h4{display: block;} */
-  h4 {
+  span {
     display: inline;
     color: $color-text;
+    font-size: $font-size-h4;
+    font-family: $font-heading;
   }
-
 }
 
 .item-collection-1 {

@@ -3,7 +3,7 @@
 
 {% include head.html %}
 
-<script src="{{ '/js/jquery-3.1.1.min.js' | prepend: site.baseurl }}"> </script>
+<script src="{{ '/js/jquery-3.5.1.min.js' | prepend: site.baseurl }}"> </script>
 <!-- jQuery Draggable -->
 <!-- unused jQuery
   <script src="https://code.jquery.com/jquery-1.12.4.js"></script> -->
@@ -25,7 +25,10 @@
 
         <div class="c-progress-bar" id="scrollBar"></div>
 
-        {{ content }}
+        <!-- Replaced by adding SEO security rel tags
+             https://jamie.evawin.uk/seo-friendly-nofollow-links-jekyll-github-pages/
+          \{\{ content \}\} -->
+          {{ content | replace: '<a href="http', '<a rel="noopener noreferrer" target="_blank" href="http' }}
 
       </div>
 

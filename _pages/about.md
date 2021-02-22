@@ -7,7 +7,7 @@ permalink: /about/
 
 My name is 👨🏻‍💻 Kei. I am an Experience Designer currently based in Cologne, Germany. I work predominantly for designing <mark>human-centred digital services & products</mark>, with attention to the <mark>social connections</mark> & <mark>systems behind</mark>.
 
-In my spare time, I read about {% raw %}<span style="display: inline-block">📚📰 socio-politics</span>{% endraw %}, think about {% raw %}<span style="display: inline-block">🕹🔀 interactions</span>{% endraw %}, write on {% raw %}<span style="display: inline-block">✏️💬 current issues</span>{% endraw %}, do literary & audiovisual explorations, and take care of 🌵 plants. You can check out some of my thoughts [on my public notes](https://notes.keikhcheung.com){:target="_blank"}.
+In my spare time, I read about {% raw %}<span style="display: inline-block">📚📰 socio-politics</span>{% endraw %}, think about {% raw %}<span style="display: inline-block">🕹🔀 interactions</span>{% endraw %}, write on {% raw %}<span style="display: inline-block">✏️💬 current issues</span>{% endraw %}, do literary & audiovisual explorations, and take care of 🌵 plants. You can check out some of my thoughts [on my public notes](https://notes.keikhcheung.com).
 
 I speak English, French, Cantonese, Mandarin Chinese, and GIF; also a bit of German, Portuguese, HTML, CSS, and JavaScript. Write me on [Twitter](https://twitter.com/{{ site.twitter.username }}){:target="_blank"} [E-mail](mailto:{{ site.email }}) [LinkedIn]({{ site.linkedin }}){:target="_blank"}
 

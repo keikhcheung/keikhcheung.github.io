@@ -1,7 +1,7 @@
 <div class="marquee">
 <div class="marquee--content">
-<h4 class="item-collection-1">
-# product ## shorts ## photography ## graphics ## product ## shorts ## photography ## graphics #</h4><h4 class="item-collection-2"># products ## shorts ## photography ## graphics ## product ## shorts ## photography ## graphics #</h4>
+<span class="item-collection-1">
+# product ## shorts ## photography ## graphics ## product ## shorts ## photography ## graphics #</span><span class="item-collection-2"># products ## shorts ## photography ## graphics ## product ## shorts ## photography ## graphics #</span>
 </div>
 </div>
 <span class="fun"></span>[linear](/linear/) 

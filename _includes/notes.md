@@ -1,1 +1,1 @@
-→&nbsp;These days I am writing mostly about topics I find interesting on [my public notes](https://notes.keikhcheung.com){:target="_blank"}.
+→&nbsp;These days I am writing mostly about topics I find interesting on [my public notes](https://notes.keikhcheung.com).

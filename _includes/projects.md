@@ -1,7 +1,7 @@
 <div class="marquee">
 <div class="marquee--content">
-<h4 class="item-collection-1">
-# experience ## digital product ## interface ## service ## innovation #</h4><h4 class="item-collection-2"># experience ## digital product ## interface ## service ## innovation #</h4>
+<span class="item-collection-1">
+# experience ## digital product ## interface ## service ## innovation #</span><span class="item-collection-2"># experience ## digital product ## interface ## service ## innovation #</span>
 </div>
 </div>
   <!---   <span class="project client">Esprit</span> fashion B2B [b-shop]() --->
