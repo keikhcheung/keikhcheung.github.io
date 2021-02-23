@@ -32,7 +32,7 @@
         <!-- Pin to bottom -->
         <div class='o-grid__col o-grid__col--1-4-s pin-layer'>
 
-          <a {% if page.url != '/' %}href="{{ site.url }}"{% endif %} class="drag-dot">
+          <a class="drag-dot" href="{% if page.url == '/' %}javascript:void(0){% else %}{{ site.url }}{% endif %}">
           <!-- Draggable -->
           <div id="draggable" class="ui-widget-content">
             <span>kei<sup>&UpperRightArrow;</sup></span>

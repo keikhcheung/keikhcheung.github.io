@@ -40,12 +40,12 @@ body {
   }*/
 
   @include mq($until: desktop) {
-    font-size: 1.25rem;
+    font-size: 1.375rem; /* 1.25rem; is too small */
     line-height: 1.5em;
   }
 
   @include mq($until: tablet) {
-    font-size: 1.0rem;
+    font-size: 1.125rem; /* 1rem; is too small */
     line-height: 1.5em;
   }
 }
