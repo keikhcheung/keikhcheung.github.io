@@ -15,8 +15,8 @@ I speak English, French, Cantonese, Mandarin Chinese, and GIF; also a bit of Ger
 
 <div class="marquee about">
 <div class="marquee--content">
-<h4 class="item-collection-1">
-# work ## experience ## work ## experience ## work ## experience #</h4><h4 class="item-collection-2"># work ## experience ## work ## experience ## work ## experience #</h4>
+<span class="item-collection-1">
+# work ## experience ## work ## experience ## work ## experience #</span><span class="item-collection-2"># work ## experience ## work ## experience ## work ## experience #</span>
 </div>
 </div>
 
@@ -48,8 +48,8 @@ Some companies/organisations for which I did creative work include:
 
 <div class="marquee about">
 <div class="marquee--content">
-<h4 class="item-collection-1">
-# skills ## know-how ## interests ## skills ## know-how ## interests #</h4><h4 class="item-collection-2"># skills ## know-how ## interests ## skills ## know-how ## interests #</h4>
+<span class="item-collection-1">
+# skills ## know-how ## interests ## skills ## know-how ## interests #</span><span class="item-collection-2"># skills ## know-how ## interests ## skills ## know-how ## interests #</span>
 </div>
 </div>
 
@@ -89,8 +89,8 @@ I am also fond of:
 
 <div class="marquee about">
 <div class="marquee--content">
-<h4 class="item-collection-1">
-# education ## research ## teaching ## education ## research ## teaching #</h4><h4 class="item-collection-2"># education ## research ## teaching ## education ## research ## teaching #</h4>
+<span class="item-collection-1">
+# education ## research ## teaching ## education ## research ## teaching #</span><span class="item-collection-2"># education ## research ## teaching ## education ## research ## teaching #</span>
 </div>
 </div>
 
