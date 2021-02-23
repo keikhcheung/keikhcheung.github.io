@@ -3,14 +3,6 @@
 
 {% include head.html %}
 
-<script src="{{ '/js/jquery-3.5.1.min.js' | prepend: site.baseurl }}"> </script>
-<!-- jQuery Draggable -->
-<!-- unused jQuery
-  <script src="https://code.jquery.com/jquery-1.12.4.js"></script> -->
-<!-- replaced by custom local jQuery UI min
-  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script> -->
-<script src="{{ '/js/jquery-ui.min.js' | prepend: site.baseurl }}"></script>
-
 <body>
 
   {% include analytics.html %}
@@ -54,11 +46,17 @@
       {% include footer.html %}
     <!-- </div> -->
 
-
+  <script src="{{ '/js/jquery-3.5.1.min.js' | prepend: site.baseurl }}"> </script>  
   <script src="{{ '/js/evil-icons.min.js' | prepend: site.baseurl }}">   </script>
   <script src="{{ '/js/jquery.fitvids.js' | prepend: site.baseurl }}">   </script>
   <script src="{{ '/js/app.js' | prepend: site.baseurl }}">              </script>
 
+  <!-- jQuery Draggable -->
+  <!-- unused jQuery
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script> -->
+  <!-- replaced by custom local jQuery UI min
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script> -->
+  <script src="{{ '/js/jquery-ui.min.js' | prepend: site.baseurl }}"></script>
   <script src="{{ '/js/draggable.js' | prepend: site.baseurl }}"></script>
 
   <!-- marquee.js -->
