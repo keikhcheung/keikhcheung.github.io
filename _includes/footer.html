@@ -30,7 +30,9 @@
           var d = new Date;
           var y = d.getFullYear();
           // if (document.documentElement.clientWidth /* screen.width */ >= 800) {
-            document.write('<p>Copyright &copy;&nbsp;2010-' + y + '<br />Ka Hei Cheung<br />All rights reserved</p>');
+            // Avoid document.write for Lighthouse
+            // document.write('<p>Copyright &copy;&nbsp;2010-' + y + '<br />Ka Hei Cheung<br />All rights reserved</p>');
+            document.getElementsByClassName('c-copyright')[0].innerHTML += '<p>Copyright &copy;&nbsp;2010-' + y + '<br />Ka Hei Cheung<br />All rights reserved</p>';
           // } else {
           //  document.write('<p>Copyright &copy;&nbsp;2010-' + y + ' Ka Hei Cheung<br />All rights reserved</p>');
           // }
