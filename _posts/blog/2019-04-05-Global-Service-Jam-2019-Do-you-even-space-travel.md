@@ -13,9 +13,9 @@ tags:
 ---
 
 ## GSJ 2019
-Last weekend was the annual [Global Service Jam 2019](http://globaljams.org/jam/globalservicejam){:target="_blank"}. I attended the local event in Cologne. It was so much fun!
+Last weekend was the annual [Global Service Jam 2019](http://globaljams.org/jam/globalservicejam). I attended the local event in Cologne. It was so much fun!
 
-This year, the [GSJ in Cologne](https://www.service-design-network.org/events/cologne-service-jam-2019){:target="_blank"} was organised by the local [Service Design Network](https://www.service-design-network.org){:target="_blank"} and [denkwerk](https://www.denkwerk.com){:target="_blank"} (Many thanks to Cristine and Ko for their facilitation!). The theme set globally for all jammers was ‘blue’. Yes, *blue*, fairly abstract, isn’t it?
+This year, the [GSJ in Cologne](https://www.service-design-network.org/events/cologne-service-jam-2019) was organised by the local [Service Design Network](https://www.service-design-network.org) and [denkwerk](https://www.denkwerk.com) (Many thanks to Cristine and Ko for their facilitation!). The theme set globally for all jammers was ‘blue’. Yes, *blue*, fairly abstract, isn’t it?
 
 We started with a quick round of co-brainstorming about everything we could think *out of the blue*—sky, water, summer, sad, Europe… We thought onwards and gradually found out problems we wanted to address. Then we swiftly talked about them and transformed them into how-might-we challenges. Everyone got to pick up one with which they would like to work.
 
@@ -98,6 +98,6 @@ In a recap, the Global Service Jam weekend was dense, compact, and very fun! It 
 Courtesy: Service Design Network, photo.
 
 <div class="extras" markdown="1">
-This article is also posted on [Medium](https://medium.com/denkwerk-stories/global-service-jam-2019-do-you-even-space-travel-7eb76c1f8f19){:target="_blank"}.
+This article is also posted on [Medium](https://medium.com/denkwerk-stories/global-service-jam-2019-do-you-even-space-travel-7eb76c1f8f19).
 </div>
 </div>

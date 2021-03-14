@@ -16,7 +16,7 @@ tags:
 ## Para-robotics
 When we talk about robots, we might think of automated manufacturing arms, the waste allocator <i>WALL-E</i>, or even Arnold Schwarzenegger in <i>The Terminator</i>—often a very technical, industrial, or sci-fi image. But do robots always have to be linked to work or the apocalypse? What else can robots be in our space and time? What if robots have a more ordinary and nearby relation with us as we have with a book, a plant, or a pair of jeans? What if robots become a new material or medium that we could play and make art with?
 
-Two weeks ago, I participated in the [Meta Marathon 2019](https://www.nrw-forum.de/en/events/meta-marathon-2019){:target="_blank"} in Düsseldorf organised by NRW-Forum. It tackles exactly this theme. For 42 hours non-stop, I experienced living with robots. The event invited a blend of artists, researchers, creatives and digital innovators to come together, exchange views, and explore the alternative visions towards different kinds of droids. Through an extensive programme of exhibitions, talks and workshops, I was exposed to very diverse perspectives in regard to robotics and humans. It drove me to reflect on our relationship with technology.
+Two weeks ago, I participated in the [Meta Marathon 2019](https://www.nrw-forum.de/en/events/meta-marathon-2019) in Düsseldorf organised by NRW-Forum. It tackles exactly this theme. For 42 hours non-stop, I experienced living with robots. The event invited a blend of artists, researchers, creatives and digital innovators to come together, exchange views, and explore the alternative visions towards different kinds of droids. Through an extensive programme of exhibitions, talks and workshops, I was exposed to very diverse perspectives in regard to robotics and humans. It drove me to reflect on our relationship with technology.
 
 ![Meta Marathon 2019 venue hall](/images/blog/MM2019-Hall.jpg)
 
@@ -50,7 +50,7 @@ We rely on machines to deal with the massive amount of data which we exponential
 </div>
 </div>
 <div class="extras cap" markdown="1">
-The chatter bot <i>Tay</i> released by Microsoft in 2016 was quickly taken offline 16 hours after the launch as it turned… fascist. (Image: [PCWorld](https://www.pcworld.com/article/3048157/the-internet-turns-tay-microsofts-millennial-ai-chatbot-into-a-racist-bigot.html){:target="_blank"}, [The Guardian](https://www.theguardian.com/technology/2016/mar/24/microsoft-scrambles-limit-pr-damage-over-abusive-ai-bot-tay){:target="_blank"})
+The chatter bot <i>Tay</i> released by Microsoft in 2016 was quickly taken offline 16 hours after the launch as it turned… fascist. (Image: [PCWorld](https://www.pcworld.com/article/3048157/the-internet-turns-tay-microsofts-millennial-ai-chatbot-into-a-racist-bigot.html), [The Guardian](https://www.theguardian.com/technology/2016/mar/24/microsoft-scrambles-limit-pr-damage-over-abusive-ai-bot-tay))
 </div>
 
 Shirley Ogolla landed us on this issue. She highlighted the fact that machines’ decisions result from algorithms, which feed on data, which result from human actions—and furthermore—human decisions. As we do not always make impartial decisions, nor do we take unprejudiced action (is this even possible?), [algorithm-driven decisions by machines are prone to bias](https://www.technologyreview.com/s/608248/biased-algorithms-are-everywhere-and-no-one-seems-to-care/). She addressed that attention should be paid to data sets’ quality so as to ensure that diverse and heterogeneous data are included.
@@ -97,5 +97,5 @@ Sophia talking about her views on art with Alain Bieber
 Whilst I cannot detail them all, <i>Meta Marathon</i> definitely provided an interesting platform to converge professionals from various fields on the topic of robotics, to exchange views and thoughts on the current and future human-techno relation, and to get an <i>avant-première</i> feel of what living with robots could be like.
 
 <div class="extras" markdown="1">
-This article is also published on [Medium](https://medium.com/denkwerk-stories/42-hours-of-co-living-with-bots-quirky-and-jolly-d669dd7f6454){:target="_blank"}.
+This article is also published on [Medium](https://medium.com/denkwerk-stories/42-hours-of-co-living-with-bots-quirky-and-jolly-d669dd7f6454).
 </div>

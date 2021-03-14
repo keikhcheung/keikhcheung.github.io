@@ -19,10 +19,10 @@ Information is abundant and harsh these days. Everyone sounds like shouting, if 
 
 ![Messy, messy tribbles](/images/blog/CF19-Messy-Messy-Tribbles.gif){:width="768px"}
 <div class="extras cap" markdown="1">
-Do you feel like messy tribbles raining over your head? (Image: [Giphy](https://giphy.com/gifs/star-trek-mess-tribbles-108KUzjTMEp2gw){:target="_blank"})
+Do you feel like messy tribbles raining over your head? (Image: [Giphy](https://giphy.com/gifs/star-trek-mess-tribbles-108KUzjTMEp2gw))
 </div>
 
-Last weekend I attended the [Campfire Festival 2019](https://campfirefestival.org){:target="_blank"} in Düsseldorf, Germany. It is an event about the relation between journalism, media, human and the digital world. The talks were multidimensional, cross-disciplinary and inspiring. It made me ponder over the role of journalism and news media in our current time—what and whom it is for—and question its utility and effectiveness.
+Last weekend I attended the [Campfire Festival 2019](https://campfirefestival.org) in Düsseldorf, Germany. It is an event about the relation between journalism, media, human and the digital world. The talks were multidimensional, cross-disciplinary and inspiring. It made me ponder over the role of journalism and news media in our current time—what and whom it is for—and question its utility and effectiveness.
 
 <div class="extras" markdown="1">
 Disclaimer: I am not a professional journalist. Comments here are, therefore, only from a regular newspaper reader, media watcher's external point of view.
@@ -65,11 +65,11 @@ The first aspect consists of reconnecting reader groups.
 
 Press and news media should not represent <mark>the one voice</mark> they want to propagate, but <mark>the voices</mark> which exist in the setting. It is understandable that journalists and media houses hold their own interest scope and standpoints. How news stories are followed, collected, analysed, cut, shaped, and presented to the public subsequently depends on them. Loss of information is inevitable during the production chain. Yet, instead of simply persuading the public of their perspective, the bigger picture should not be forgotten.
 
-Take Brexit as an example. Before the universal suffrage in 2016, as [Rachel Oldroyd](https://twitter.com/Raoldroyd){:target="_blank"} presented in [her talk in Campfire Festival](https://sched.co/UBen){:target="_blank"}, Remain news media had overlooked the local voices and misjudged the proportion adhering to Leave. Coverage (especially analyses) for the other side was scarce. It was only until the ballots were counted that the public (and politicians) learnt—in the hard way—to have to deal with alternative voices seriously. Had they known more about the casting situation beforehand, the current deadlock situation of Brexit probably would have looked very different.
+Take Brexit as an example. Before the universal suffrage in 2016, as [Rachel Oldroyd](https://twitter.com/Raoldroyd) presented in [her talk in Campfire Festival](https://sched.co/UBen), Remain news media had overlooked the local voices and misjudged the proportion adhering to Leave. Coverage (especially analyses) for the other side was scarce. It was only until the ballots were counted that the public (and politicians) learnt—in the hard way—to have to deal with alternative voices seriously. Had they known more about the casting situation beforehand, the current deadlock situation of Brexit probably would have looked very different.
 
 ![Kids in zorbs](/images/blog/CF19-Kids-in-zorbs.jpg)
 <div class="extras cap" markdown="1">
-Are news media creating bubbles and putting us inside? (Image: [Ben Sutherland](https://www.flickr.com/photos/bensutherland/4088676907/in/photostream/){:target="_blank"})
+Are news media creating bubbles and putting us inside? (Image: [Ben Sutherland](https://www.flickr.com/photos/bensutherland/4088676907/in/photostream/))
 </div>
 
 In the social environment we live, we cannot simply strive for what we believe in without considering how the others would become. Similarly, journalists and media houses cannot only pin their words on own their stances and pretend to forget the rest. At times we might have overlooked: What matters for people? What is in their interest? What is at stake for communities and society? Or even for the country and the world? Journalism is not to segregate society but to objectively report what is happening; that should include giving speech to and shedding lights on all representable component parties.
@@ -88,7 +88,7 @@ It is a duty for the press to report happenings to the public, be it cheery or d
 
 ![This is fine](/images/blog/CF19-This-Is-Fine.gif){:width="768px"}
 <div class="extras cap" markdown="1">
-Knowing the facts is step 1; understanding the complexities is step 2; solving problems is step 3. (Image: [Giphy](https://gph.is/2h8wI3B){:target="_blank"}; [Adult Swim](https://youtu.be/0oBx7Jg4m-o){:target="_blank"})
+Knowing the facts is step 1; understanding the complexities is step 2; solving problems is step 3. (Image: [Giphy](https://gph.is/2h8wI3B); [Adult Swim](https://youtu.be/0oBx7Jg4m-o))
 </div>
 
 -------
@@ -96,14 +96,14 @@ Knowing the facts is step 1; understanding the complexities is step 2; solving
 Journalism is supposed to help us understand the world and to empower us to make better judgements. Its ultimate function is to engage people's conscience in action and to stimulate social improvements. The audience of today are turning doubtful of its authenticity and becoming bewildered amidst the concurrent intricacies. Journalists are, hence, in the most critical position ever to connect with the people, to converge crowds of different opinions on the round table, to objectively lay down all sides of the truth, and to supply the public with quality references, in the hope of steering the group towards resolution.
 
 <div class="extras" markdown="1">
-This article is also published on [Medium](https://medium.com/@keikhcheung/modern-role-of-journalism-and-news-media-506f844abfce){:target="_blank"}.
+This article is also published on [Medium](https://medium.com/@keikhcheung/modern-role-of-journalism-and-news-media-506f844abfce).
 </div>
 
 -------
 
 ## References
 
-[^1]: American Press Institute. ‘What Is the Purpose of Journalism?’ *American Press Institute*, [www.americanpressinstitute.org/journalism-essentials/what-is-journalism/purpose-journalism/](https://www.americanpressinstitute.org/journalism-essentials/what-is-journalism/purpose-journalism/){:target="_blank"}. Accessed 5 Sept. 2019.
-[^2]: Karknu. ‘Why Is Journalism Needed in a Democratic Society?’ *Media Guide*, 29 Nov. 2015, [mediaguide.fi/mediaguide/?p=20](https://mediaguide.fi/mediaguide/?p=20){:target="_blank"}.
-[^3]: Chalmers, Hanna. *In Media We Trust? How Our Views of the Media Are Changing*. Ipsos Knowledge Centre, 3 Jan. 2019, p. 7–9, [www.ipsos.com/en/media-we-trust-how-our-views-media-are-changing](http://www.ipsos.com/en/media-we-trust-how-our-views-media-are-changing){:target="_blank"}.
-[^4]: Haagerup, Ulrik. ‘Constructive Journalism—What, how and why?’. Campfire Festival 2019. CORRECTIV Verlag und Vertrieb für die Gesellschaft UG, 31 Aug. 2019, Düsseldorf, [sched.co/U6HI](https://sched.co/U6HI){:target="_blank"}.
+[^1]: American Press Institute. ‘What Is the Purpose of Journalism?’ *American Press Institute*, [www.americanpressinstitute.org/journalism-essentials/what-is-journalism/purpose-journalism/](https://www.americanpressinstitute.org/journalism-essentials/what-is-journalism/purpose-journalism/). Accessed 5 Sept. 2019.
+[^2]: Karknu. ‘Why Is Journalism Needed in a Democratic Society?’ *Media Guide*, 29 Nov. 2015, [mediaguide.fi/mediaguide/?p=20](https://mediaguide.fi/mediaguide/?p=20).
+[^3]: Chalmers, Hanna. *In Media We Trust? How Our Views of the Media Are Changing*. Ipsos Knowledge Centre, 3 Jan. 2019, p. 7–9, [www.ipsos.com/en/media-we-trust-how-our-views-media-are-changing](http://www.ipsos.com/en/media-we-trust-how-our-views-media-are-changing).
+[^4]: Haagerup, Ulrik. ‘Constructive Journalism—What, how and why?’. Campfire Festival 2019. CORRECTIV Verlag und Vertrieb für die Gesellschaft UG, 31 Aug. 2019, Düsseldorf, [sched.co/U6HI](https://sched.co/U6HI).

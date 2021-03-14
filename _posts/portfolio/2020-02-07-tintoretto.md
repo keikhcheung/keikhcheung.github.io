@@ -24,16 +24,16 @@ websites:
 
 ##### Awards
 
-- [Golden Awards of Montreux 2018](http://www.goldenawardmontreux.com/winners2018/winners2018-digital.html){:target="_blank"}: Gold Medal, 'Digital Out of Home'
-- [Lovie Awards 2018](https://winners.lovieawards.eu/#!y=2018&m=274){:target="_blank"}: Bronze, *Best User Experience* in 'Mobile & Applications'
+- [Golden Awards of Montreux 2018](http://www.goldenawardmontreux.com/winners2018/winners2018-digital.html): Gold Medal, 'Digital Out of Home'
+- [Lovie Awards 2018](https://winners.lovieawards.eu/#!y=2018&m=274): Bronze, *Best User Experience* in 'Mobile & Applications'
 <!--- Facebook post: https://www.facebook.com/denkwerk/posts/10156682556103426/
 	  Twitter: https://twitter.com/denkwerk/status/1051809941558886400
 	  iOS App: https://apps.apple.com/us/app/tintoretto2go/id1292594289 --->
-- [Annual Multimedia Awards 2019](https://www.annual-multimedia.de/gewinner-2019){:target="_blank"}: Silber, 'Digitale Sonderformate'
+- [Annual Multimedia Awards 2019](https://www.annual-multimedia.de/gewinner-2019): Silber, 'Digitale Sonderformate'
 <!--- Artsy report: https://www.artsy.net/news/artsy-editorial-tate-augmented-reality-street-art-application-2019-webby-awards-nominees --->
-- [Webby Awards 2019](https://www.webbyawards.com/winners/2019/apps-mobile-and-voice/apps-mobile-features/best-visual-design-function/tintoretto2go/){:target="_blank"}: *Features* and *Best Visual Design - Function* in 'Apps, Mobile, and Voice'
-- [Webby Awards 2019 Nominee](https://www.webbyawards.com/winners/2019/apps-mobile-and-voice/apps-mobile-sites-general/culture-events/tintoretto2go/){:target="_blank"}: *Culture & Events* in 'Apps, Mobile, and Voice'
-- [Econ Megaphon Awards 2019](https://web.archive.org/web/20200803084343/https://www.econforum.de/beitraege/econ-megaphon-awards/2019/mobileapps/tintoretto2go){:target="_blank"}: *Digitale Medien (Mobile/Apps)* and *Bester der Branche - Kunst, Kultur und Sport (B2C)*
+- [Webby Awards 2019](https://www.webbyawards.com/winners/2019/apps-mobile-and-voice/apps-mobile-features/best-visual-design-function/tintoretto2go/): *Features* and *Best Visual Design - Function* in 'Apps, Mobile, and Voice'
+- [Webby Awards 2019 Nominee](https://www.webbyawards.com/winners/2019/apps-mobile-and-voice/apps-mobile-sites-general/culture-events/tintoretto2go/): *Culture & Events* in 'Apps, Mobile, and Voice'
+- [Econ Megaphon Awards 2019](https://web.archive.org/web/20200803084343/https://www.econforum.de/beitraege/econ-megaphon-awards/2019/mobileapps/tintoretto2go): *Digitale Medien (Mobile/Apps)* and *Bester der Branche - Kunst, Kultur und Sport (B2C)*
 
 </div>
 
@@ -54,7 +54,7 @@ On Tintoretto2Go, we **hijacked advertisements** around the city of Cologne and 
 # Hands-on
 As the UX designer on this project, my role was to <mark>ensure that the entire concept and experience are fun and enjoyable</mark>, and that Renaissance art can be reanimated for a greater public. To dive in to the classical art world, I started by conducting literature review in different languages and expert interviews. Finding out the highlights in the 🖼 licensed paintings, I scripted succinct but **compelling storytelling** from the artworks. Together with visual designers, we consolidated the narratives and produced 🌌 storyboards, consulted the museum curator and gathered feedback. Simultaneously, I assessed the feasibility and worked out approaches to implement this hide-and-seek experience around the city. I then worked closely with the our 3D artist and developers on modelling, animation and development of the app prototype.
 
-Later, I conducted user tests on our prototype, collected feedback, and further brought improvements on our 👾 game experience. After the [initial app release](https://apps.apple.com/us/app/tintoretto2go/id1292594289){:target="_blank"}, I actively worked with the team to update the visual markers every week to enhance the city hunt amusement. {% raw %}<span style="display: inline-block">🏃🏻‍♂️🏃🏼‍♀️</span>{% endraw %}
+Later, I conducted user tests on our prototype, collected feedback, and further brought improvements on our 👾 game experience. After the [initial app release](https://apps.apple.com/us/app/tintoretto2go/id1292594289), I actively worked with the team to update the visual markers every week to enhance the city hunt amusement. {% raw %}<span style="display: inline-block">🏃🏻‍♂️🏃🏼‍♀️</span>{% endraw %}
 
 ![On-site testing for AR storytelling](/images/portfolio/tintoretto-test-compressed.jpg)
 

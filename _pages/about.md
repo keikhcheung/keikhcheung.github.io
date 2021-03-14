@@ -9,7 +9,7 @@ My name is 👨🏻‍💻 Kei. I am an Experience Designer currently based in 
 
 In my spare time, I read about {% raw %}<span style="display: inline-block">📚📰 socio-politics</span>{% endraw %}, think about {% raw %}<span style="display: inline-block">🕹🔀 interactions</span>{% endraw %}, write on {% raw %}<span style="display: inline-block">✏️💬 current issues</span>{% endraw %}, do literary & audiovisual explorations, and take care of 🌵 plants. You can check out some of my thoughts [on my public notes](https://notes.keikhcheung.com).
 
-I speak English, French, Cantonese, Mandarin Chinese, and GIF; also a bit of German, Portuguese, HTML, CSS, and JavaScript. Write me on [Twitter](https://twitter.com/{{ site.twitter.username }}){:target="_blank"} [E-mail](mailto:{{ site.email }}) [LinkedIn]({{ site.linkedin }}){:target="_blank"}
+I speak English, French, Cantonese, Mandarin Chinese, and GIF; also a bit of German, Portuguese, HTML, CSS, and JavaScript. Write me on [Twitter](https://twitter.com/{{ site.twitter.username }}) [E-mail](mailto:{{ site.email }}) [LinkedIn]({{ site.linkedin }})
 
 -------
 
@@ -22,7 +22,7 @@ I speak English, French, Cantonese, Mandarin Chinese, and GIF; also a bit of Ger
 
 I have worked in 🇩🇪 Germany, 🇫🇷 France, 🇭🇰 Hong Kong and 🇺🇸 the USA in the creative industry, education, and on the customer front.
 
-At the moment, I am doing product design for the student platform [*Studydrive*](https://www.studydrive.net/){:target="_blank"} by day.
+At the moment, I am doing product design for the student platform [*Studydrive*](https://www.studydrive.net/) by day.
 
 <div class="about-sec" markdown="1">
 Some companies/organisations for which I did creative work include:
@@ -96,4 +96,4 @@ I am also fond of:
 
 My background crosses design, socio-politics and digital humanities. I am an alumnus of *École Normale Supérieure de Lyon*, Hong Kong Baptist University and *Université Sorbonne Nouvelle Paris 3*.
 
-I wrote my master’s thesis on UX of voice assistants, where I explored how to design for anticipatory assistance based on usage environments’ context. You can [read it online](https://dumas.ccsd.cnrs.fr/dumas-01981716){:target="_blank"}. I also gave a guest lecture at MacEwan University’s Design Studies about UX in voice user interface (DESN 341).
+I wrote my master’s thesis on UX of voice assistants, where I explored how to design for anticipatory assistance based on usage environments’ context. You can [read it online](https://dumas.ccsd.cnrs.fr/dumas-01981716). I also gave a guest lecture at MacEwan University’s Design Studies about UX in voice user interface (DESN 341).

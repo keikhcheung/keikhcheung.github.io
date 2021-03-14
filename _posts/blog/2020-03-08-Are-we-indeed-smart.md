@@ -140,5 +140,5 @@ Tricky is the way we think, trickier than we know it and are aware of it. There 
 5. Experience does not mean memory, vice versa. Which one are you talking about?
 
 <div class="extras" markdown="1">
-This article is also published on [Medium](https://medium.com/denkwerk-stories/are-we-indeed-smart-or-foolisher-than-we-think-45010c02ded1){:target="_blank"}.
+This article is also published on [Medium](https://medium.com/denkwerk-stories/are-we-indeed-smart-or-foolisher-than-we-think-45010c02ded1).
 </div>

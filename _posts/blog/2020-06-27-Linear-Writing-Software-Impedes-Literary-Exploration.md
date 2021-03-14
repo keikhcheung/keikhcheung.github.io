@@ -71,7 +71,7 @@ We may use features like commenting, suggestion and change tracking. These are g
 
 ![A lot of highlights, comments and suggestions on the subject text. It's hard to focus on reading or writing.](/images/blog/LWrit-Visual-Redundancy.jpg)
 <div class="extras cap" markdown="1">
-An example of working on Google Docs. When it is a heavily amended, visual redundancy is severe. You could hardly focus on reading or writing. (Draft for [PlayBase Medium post][PlayBase Medium]{:target="_blank"})
+An example of working on Google Docs. When it is a heavily amended, visual redundancy is severe. You could hardly focus on reading or writing. (Draft for [PlayBase Medium post][PlayBase Medium])
 </div>
 
 ### Contextually Dependent & Source-Bound
@@ -89,11 +89,11 @@ Comments, suggestions, change tracking are all drawn to the linear stream of tex
 -------
 
 ## Thoughts on Possible Improvements
-As Ryan Singer [tweeted][Tweet 1]{:target="_blank"}: When designers work on visual exploration, we put variations side by side on a canvas to compare versions. Can digital writing not handle literary exploration and alternatives similarly, while keeping the original narrative intact and without leaving the current copy?
+As Ryan Singer [tweeted][Tweet 1]: When designers work on visual exploration, we put variations side by side on a canvas to compare versions. Can digital writing not handle literary exploration and alternatives similarly, while keeping the original narrative intact and without leaving the current copy?
 
 ![Variations of an app screen juxtaposed next to each other.](/images/blog/LWrit-Explore-Design.jpg)
 <div class="extras cap" markdown="1">
-Juxtaposing variations of a screen before deciding on a final design is a frequent approach amongst designers. ([Project Athens][Athens]{:target="_blank"})
+Juxtaposing variations of a screen before deciding on a final design is a frequent approach amongst designers. ([Project Athens][Athens])
 </div>
 
 Developers use Git to track changes and diffs. They fork out branches, make variations, push and compare versions later before merging pull requests. Likewise in managing a design system, alternative components can be explored, compared and reviewed, before publishing changes to affect the overall design. Can we make use of the same technology/method for digital writing?
