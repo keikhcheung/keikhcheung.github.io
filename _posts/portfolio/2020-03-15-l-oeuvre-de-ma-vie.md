@@ -5,7 +5,9 @@ image:     '/images/fun/l-oeuvre-de-ma-vie-header.jpg'
 time:      Feb 2017
 setup:     with Nicolas Carion, Milo Donnelly, Adrien Foutelet, Amélie Josserand, Guilhem Manchon, and Romain Versaevel; with the support of <i>Champ Libre</i> association and <i>ensmédia</i>.
 lead:      <i>Monsieur</i> receives a notice of imminent death. Can he finish his bucket list in time?
-permalink: /l-oeuvre-de-ma-vie/
+permalink: /l-oeuvre-de-ma-vie
+redirect_from:
+  - /l-oeuvre-de-ma-vie/
 tags:
   - short-film
   - shooting

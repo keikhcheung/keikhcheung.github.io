@@ -21,7 +21,7 @@ linkedin:    https://www.linkedin.com/in/kei-cheung/
 facebook:    ''
 
 markdown:  kramdown
-permalink: pretty
+permalink: /:categories/:title # pretty == /:categories/:year/:month/:day/:title/
 paginate:  10
 
 sass:
@@ -31,6 +31,7 @@ plugins:
   - jekyll-paginate
   - jekyll/tagging
   - jekyll-seo-tag
+  - jekyll-redirect-from
 
 include:
   - _pages

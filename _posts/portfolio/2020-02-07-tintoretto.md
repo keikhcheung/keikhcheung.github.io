@@ -5,7 +5,9 @@ image:     '/images/portfolio/tintoretto-screenshots.jpg'
 time:      Jun ~ Nov 2017
 setup:     with denkwerk GmbH for Wallraf-Richartz Museum & Fondation Corboud.
 lead:      How to make classical art appealing to young people?
-permalink: /tintoretto/
+permalink: /tintoretto
+redirect_from:
+  - /tintoretto/
 tags:
   - AR
   - museum

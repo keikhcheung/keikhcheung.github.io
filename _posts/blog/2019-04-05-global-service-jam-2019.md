@@ -4,6 +4,8 @@ category:  'blog'
 title:     Global Service Jam 2019&colon; Do you even space-travel?
 image:     '/images/blog/GSJ19-Group.jpg'
 lead:      Making space travel and sustainability work in 2 days&mdash;&mdash;the magic of Service Design jam!
+redirect_from:
+  - /blog/2019/04/05/Global-Service-Jam-2019-Do-you-even-space-travel/
 tags:
   - service-design
   - environment

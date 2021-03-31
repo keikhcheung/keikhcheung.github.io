@@ -4,7 +4,9 @@ title:     Visual Poetry
 image:     '/images/fun/vp00.jpg'
 time:      May 2010 ~ Sep 2013
 lead:      56 pages of traces.
-permalink: /visual-poetry/
+permalink: /visual-poetry
+redirect_from:
+  - /visual-poetry/
 tags:
   - photography
   - poetry

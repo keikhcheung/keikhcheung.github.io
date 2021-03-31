@@ -2,7 +2,7 @@
 layout:    page
 title:     About
 image: 
-permalink: /about/
+permalink: /about
 ---
 
 My name is 👨🏻‍💻 Kei. I am an Experience Designer currently based in Cologne, Germany. I work predominantly for designing <mark>human-centred digital services & products</mark>, with attention to the <mark>social connections</mark> & <mark>systems behind</mark>.

@@ -4,7 +4,9 @@ title:     dancing lights
 image:     '/images/fun/dancing-lights-02.jpg'
 time:      Aug 2010
 lead:      On the road in dark.
-permalink: /dancing-lights/
+permalink: /dancing-lights
+redirect_from:
+  - /dancing-lights/
 tags:
   - photography
 ---

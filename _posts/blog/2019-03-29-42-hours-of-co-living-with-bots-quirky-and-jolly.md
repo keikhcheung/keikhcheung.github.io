@@ -4,6 +4,8 @@ category:  'blog'
 title:     42 hours of co-living with bots&colon; quirky and jolly
 image:     '/images/blog/MM2019-Sophia-header.jpg'
 lead:      Do robots always have to be linked to work or the apocalypse? I tried living with them for 42 hours and found better alternatives.💫
+redirect_from:
+  - /blog/2019/03/29/42-hours-of-co-living-with-bots-quirky-and-jolly/
 tags:
   - AI
   - robotics

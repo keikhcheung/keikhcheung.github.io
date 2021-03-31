@@ -4,6 +4,8 @@ category:  'blog'
 title:     On Digital Reference Keeping
 image:     '/images/blog/DRef-Referencing.jpg'
 lead:      COVID-19 has brought me time to stay at home. I spent it on improving my digital reference-keeping habit.
+redirect_from:
+  - /blog/2020/05/23/On-Digital-Reference-Keeping/
 tags:
   - knowledge-management
   - information-architecture
