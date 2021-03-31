@@ -21,7 +21,7 @@ linkedin:    https://www.linkedin.com/in/kei-cheung/
 facebook:    ''
 
 markdown:  kramdown
-permalink: /:categories/:title # pretty == /:categories/:year/:month/:day/:title/
+permalink: /:categories/:slug # pretty == /:categories/:year/:month/:day/:title/
 paginate:  10
 
 sass:
