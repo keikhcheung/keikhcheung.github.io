@@ -22,7 +22,7 @@
         <p class='c-post-card__title'>{{ post.title }}</p>
       </a>
       <p class='c-post-card__excerpt'>
-        {{ post.lead | strip_html | truncatewords: 30, '…' }}
+        {{ post.lede | strip_html | truncatewords: 30, '…' }}
       </p>
       <span class='c-post-card__date'>{{ post.date | date: '%d %b %Y' }}</span>
     </div>

@@ -3,7 +3,7 @@ layout:    post
 category:  'blog'
 title:     Are we indeed smart, or foolisher than we think?
 image:     '/images/blog/Thinking-cover.png'
-lead:      We take pride in being the smartest creature so far on earth. Yet with that intelligence, we still commit mistakes. What are our limits? How can we overcome them?
+lede:      We take pride in being the smartest creature so far on earth. Yet with that intelligence, we still commit mistakes. What are our limits? How can we overcome them?
 redirect_from:
   - /blog/2020/03/08/Are-we-indeed-smart/
 tags:

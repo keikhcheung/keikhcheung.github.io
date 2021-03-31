@@ -4,7 +4,7 @@ title:     Bikespector&colon; shared bikes prediction
 image:     '/images/portfolio/bikespector-radar.jpg'
 time:      Apr ~ Aug 2019
 setup:     machine learning research with data visualisation in denkwerk.
-lead:      Can I count on my shared bike?🚲 Forecasting bike hire availability for reliable shared mobility.
+lede:      Can I count on my shared bike?🚲 Forecasting bike hire availability for reliable shared mobility.
 permalink: /bikespector
 redirect_from:
   - /bikespector/

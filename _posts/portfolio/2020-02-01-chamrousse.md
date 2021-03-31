@@ -4,7 +4,7 @@ title:     Chamrousse&colon; Tourism Office remade!
 image:     '/images/portfolio/chamrousse01-logo.jpg'
 time:      Sep ~ Nov 2016
 setup:     with Delphine Delfieu, Mélissa Dufour, Paul-Henri Dumas, and Léa Guiraud.
-lead:      Revamping a ski tourism office website from 2010.
+lede:      Revamping a ski tourism office website from 2010.
 permalink: /chamrousse
 redirect_from:
   - /chamrousse/

@@ -12,8 +12,8 @@
   <!--- more Open Graph meta tags --->
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <meta property="og:title" content="{% if page.title %}{{ page.title | append: ' | ' | append: site.tagline }}{% else %}{{ site.title }}{% endif %}">
-  {% if page.lead %}
-    <meta property="og:description" content="{{ page.lead }}">
+  {% if page.lede %}
+    <meta property="og:description" content="{{ page.lede }}">
   {% endif %}
   {% if page.image %}
     <meta property="og:image" content="{{ page.image | prepend: site.url }}">

@@ -3,7 +3,7 @@ layout:    post
 category:  'blog'
 title:     Linear Writing Software Impedes Literary Exploration
 image:     '/images/blog/LWrit-Writing.jpg'
-lead:      Thinking is not a linear process, nor shall writing be. Why do digital writing apps make it so? 
+lede:      Thinking is not a linear process, nor shall writing be. Why do digital writing apps make it so? 
 redirect_from:
   - /blog/2020/06/27/Linear-Writing-Software-Impedes-Literary-Exploration/
 tags:

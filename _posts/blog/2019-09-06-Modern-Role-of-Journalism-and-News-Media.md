@@ -3,7 +3,7 @@ layout:    post
 category:  'blog'
 title:     Modern Role of Journalism and News Media
 image:     '/images/blog/CF19-Newspapers.jpg'
-lead:      Does news help us? Do we become enlightened or puzzled by consuming news? How can journalism better help solve problems?
+lede:      Does news help us? Do we become enlightened or puzzled by consuming news? How can journalism better help solve problems?
 redirect_from:
   - /blog/2019/09/06/Modern-Role-of-Journalism-and-News-Media/
 tags:
