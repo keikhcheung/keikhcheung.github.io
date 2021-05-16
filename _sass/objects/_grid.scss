@@ -24,8 +24,8 @@ $grid-gutter: $base-spacing-unit;
 
       &.wide {
         max-width: 100%;
-        margin-left: auto;
-        margin-right: auto;
+        // margin-left: auto;    /* Removed to inherit from .o-grid .o-grid which compensates with negative $grid-gutter. */
+        // margin-right: auto;   /* Removed to inherit from .o-grid .o-grid which compensates with negative $grid-gutter. */
       }
     }
   }

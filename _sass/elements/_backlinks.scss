@@ -1,0 +1,22 @@
+/*------------------------------------*\
+  Elements > Backlinks
+\*------------------------------------*/
+
+.backlink-box {
+  // background: $bg-color-gray;
+  padding: 0.5em 0;
+  // border-radius: 4px;
+  
+}
+
+.invalid-link {
+  color: $color-invalid-link;
+  cursor: help;
+  background: $bg-color-gray;
+  padding: 0 0.1em;
+}
+
+.invalid-link-brackets {
+  color: $color-lg;
+  cursor: help;
+}

@@ -25,6 +25,7 @@ permalink: /:categories/:slug # pretty == /:categories/:year/:month/:day/:title/
 paginate:  10
 
 sass:
+  sass_dir: _sass
   style: compressed
 
 plugins:
@@ -32,6 +33,7 @@ plugins:
   - jekyll/tagging
   - jekyll-seo-tag
   - jekyll-redirect-from
+  - jekyll-last-modified-at
 
 include:
   - _pages
@@ -46,9 +48,19 @@ tag_page_dir:         tag
 tag_page_layout:      tag_page
 tag_permalink_style:  pretty
 
-# Pages path
+# Collectinos
+collections:
+  notes:
+    output: true
+    permalink: /notes/:slug
+
+# Pages path AND default layout applied
 defaults:
   - scope:
       path: '_pages'
     values:
       permalink: /:basename:output_ext
+  - scope:
+      path: '_notes/**/*.md'
+    values:
+      layout: "note"

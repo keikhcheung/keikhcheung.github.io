@@ -21,7 +21,7 @@ layout: default
 
         <div class='c-post__lede'>{{ page.lede }}</div>
 
-        <time class='c-post__date' datetime='{{ page.date | date_to_xmlschema }}' itemprop='datePublished'>{{ page.date | date: '%d %b %Y' }}</time>
+        <time class='c-post__date' datetime='{{ page.date | date_to_xmlschema }}' itemprop='datePublished'>{{ page.date | date: '%-d %b %Y' }}</time>
 
         {%- include reading-estimate.html -%}
   
