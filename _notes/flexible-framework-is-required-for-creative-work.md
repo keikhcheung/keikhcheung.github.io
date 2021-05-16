@@ -2,6 +2,7 @@
 title: "Flexible framework is required for creative work"
 tags:
   - creativity
+last_modified_at: 2021-02-18
 ---
 
 Planning for open-ended work like research or creative tasks forces us to work in a rigid framework, which contradicts the serendipitous discovery of insights and emergence of ideas. Instead of focusing on primary planning, we should **foster a smooth workflow that allows the arrival of new ideas** and **maximises how they may benefit our work.** (Ahrens; ch. 1)
@@ -25,8 +26,6 @@ Keeping ideas in a flexible framework—which is still a framework—may sound s
 ==> [[Note-taking is different from note-making]]
 
 - A clear structure allows us to explore the internal possibilities of something. Even the act of breaking with convention depends on it. (Ahrens; ch. 12)
-
-*Last update: 2021-02-18*
 
 * * *
 

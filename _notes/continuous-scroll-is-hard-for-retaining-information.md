@@ -2,6 +2,7 @@
 title: "Continuous scroll is hard for retaining information"
 tags:
   - ux-ui
+last_modified_at: 2020-07-26
 ---
 
 Continuous scroll in digital environment is hard for retaining information. It weakens **spatial recognition**. One reason is that it does not allow perpetuating ideas. It is hard to retain the level/depth of scroll in our mind and associate it with information/ideas which come across. The gesture we perform to progress is uniform, confined in a restricted, two-dimensional space (e.g. touchpad, touchscreen, or browser window associated with the mouse wheel).
@@ -23,8 +24,6 @@ Continuous scroll draws focus to the instantaneous part of information that is b
 When you read, do you get more discouraged when need to scroll for long, or even when you do not know how much is left to scroll, compared to having a page number in mind?  
 ==> [[Visual markers help assimilate information]]  
 ==> [[Visibility of status empowers user control]]
-
-*Last update: 2020-07-26*
 
 [^1]: Matuschak, Andy. ‘Continuous-scroll digital reading uncomfortably disrupts object permanence’. _Andyʼs working notes_. [notes.andymatuschak.org/z6cxCDMXRWBritiSgzs4cdKd737H5U9XLBaFr](https://notes.andymatuschak.org/z6cxCDMXRWBritiSgzs4cdKd737H5U9XLBaFr). Accessed 15 May 2020.
 [^2]: Matuschak, Andy. ‘Applications don’t reliably maintain scroll positions’. _Andyʼs working notes_. [notes.andymatuschak.org/z2aEsmuNMnFH15r8LstXK3SpX3uuHGoP4HLN](https://notes.andymatuschak.org/z2aEmuNMnFH15r8LstXK3SpX3uuHGoP4HLN). Accessed 15 May 2020.

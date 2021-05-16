@@ -2,6 +2,7 @@
 title: "Trust is weaken when beliefs are shaken"
 tags:
   - trust-building
+last_modified_at: 2020-09-19
 ---
 
 **We hold expectation** when we enter in trust bond. We expect the outcome to be realised in the way as how the transaction is prescribed (or promised) on this trust bond.
@@ -18,8 +19,6 @@ Accountability (and the deed and manner to bear responsibilities) is crucial in 
 - New institutions (e.g. Uber, Airbnb) are taking the role of _middleman_ between two parties. Compared to traditional companies, their role is ambiguous when incidents happen as the boundaries of responsibility remains unclear (Botsman; ch. 4).
 - When AI kills, who bears the responsibility? The code, the coder, or the code owner? The ambiguity is remarkable compared to dogs and dog owners (Botsman; ch. 8).
 - [Court case][Uber case] for the first kill by self-driving car has acquitted Uber of responsibility but the driver’s. How much would/can drivers still rely on these vehicles/technology/company?
-
-*Last update: 2020-09-19*
 
 * * *
 

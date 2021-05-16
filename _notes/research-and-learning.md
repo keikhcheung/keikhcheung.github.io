@@ -2,6 +2,7 @@
 title: "Research and learning"
 tags:
   - education
+last_modified_at: 2021-02-19
 ---
 
 Learning in life is so much more beyond what we planned at the first place or what we were taught by others. Our own discoveries along the way make the greatest part. (Ahrens; ch. 2)
@@ -26,8 +27,6 @@ To keep learning learning (how to learn), we would have to keep varying learning
 ## Related
 
 - [[Learning in public]]
-
-*Last update: 2021-02-19*
 
 ---
 

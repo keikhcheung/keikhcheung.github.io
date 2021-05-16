@@ -3,6 +3,7 @@ title: "Remote work rituals"
 tags:
   - collaboration
   - work-culture
+last_modified_at: 2021-04-18
 ---
 
 Good advice collected online and in real life, as well as after pondering over collaborative workflow while being physically remote:
@@ -32,8 +33,6 @@ Good advice collected online and in real life, as well as after pondering over c
 ## Related
 
 - [[Cultivate shared understanding to tactically save resources]]
-
-*Last update: 2021-04-18*
 
 ---
 

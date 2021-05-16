@@ -2,6 +2,7 @@
 title: "Transparency can but not always help establish trust"
 tags:
   - trust-building
+last_modified_at: 2020-08-08
 ---
 
 In customer service and product development, transparency can **externalise status and difficulties** from the provider’s end and bring them to customers’ understanding. This can help dissolve their doubts and reinforces the approachable/human image. Sometimes, being open and transparent to customers/users can even turn dissatisfaction into **helpful collaboration** (e.g. via helpful, constructive feedback), fortify the trust, and hence the relationship.
@@ -30,8 +31,6 @@ Exposing legal terms & conditions of service agreement does not really attract a
 
 - Is convenience too often overvalued as advantage?
   - New technology enables trust leap but can also introduce new ‘risky’ behaviour. We do not always know the limit and the far-reaching effects of the powerful technology which we create; nor do we know how to regulate it right away (but rather and only through time and gradual revision loop).
-
-*Last update: 2020-08-08*
 
 * * *
 

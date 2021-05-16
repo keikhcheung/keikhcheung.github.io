@@ -3,6 +3,7 @@ title: "Attention, work and workflow"
 tags:
   - productivity
   - cognitive-science
+last_modified_at: 2021-02-18
 ---
 
 We can **focus on only 1 thing** when we work. Keep our attention focus by reducing other distractions, or by offloading them.  
@@ -32,8 +33,6 @@ Writing down things allows they to become objective. It also helps us to compare
 ## Related
 
 - [[Mental tricks for shower thoughts]] -->
-
-*Last update: 2021-02-18*
 
 ---
 

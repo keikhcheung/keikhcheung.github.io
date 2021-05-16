@@ -2,6 +2,7 @@
 title: "Mastery/expertise vs performance"
 tags:
   - education
+last_modified_at: 2021-02-18
 ---
 
 There are differences between *passive* information consumption and *active* retention.
@@ -22,8 +23,6 @@ Mastery/expertise ≠ good performance of what is taught. To improve on what we 
 ## Related
 
 - [[Research and learning]]
-
-*Last update: 2021-02-18*
 
 ---
 

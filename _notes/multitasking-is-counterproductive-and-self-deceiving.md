@@ -3,6 +3,7 @@ title: "Multitasking is counterproductive and self-deceiving"
 tags:
   - productivity
   - cognitive-bias
+last_modified_at: 2021-02-21
 ---
 
 Multitasking means **rapidly shifting our attention focus** from one thing to another. It gives us the illusion of having done more whilst actually accomplished less. It floods our working selves non-stop with distractions.
@@ -24,8 +25,6 @@ Different tasks require different kinds of attention  (Ahrens). It is important 
 ## Related
 
 - [[Attention, work and workflow]] 
-
-*Last update: 2021-02-21*
 
 ---
 

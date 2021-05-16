@@ -2,6 +2,7 @@
 title: "Knowledge is locked up if not freed from the source context"
 tags:
   - note-taking
+last_modified_at: 2021-02-16
 ---
 
 When we learn or conduct research, we may take notes. It is important to **extract what we learn** from what we read/listen/watch, and to especially translocate any notes we have taken _away_ from their sources.
@@ -21,8 +22,6 @@ Besides, leaving our notes with their originating sources **contextually locks w
 ## Related
 
 - [[Atomic research helps consolidate locked up knowledge in an organisation]]
-
-*Last update: 2021-02-16*
 
 ---
 

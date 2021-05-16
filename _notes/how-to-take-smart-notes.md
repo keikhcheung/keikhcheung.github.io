@@ -6,6 +6,7 @@ tags:
   - note-taking
   - knowledge-management
 type: book
+last_modified_at: 2021-02-13
 ---
 
 *How To Take Smart Notes* is a guidebook on the information management, written and self-published by Sönke Ahrens in 2014.
@@ -23,5 +24,3 @@ The second sections first problematises how creative work is often misregarded a
 This book analyses steps we should consider in our information consumption habit. It provides support for why an external scaffolding structure (like the slip-box) can help retaining, transforming and developing ideas. It guides the reader to reflect on their workflow, habits and personal knowledge management.
 
 If you feel like having read a lot every day without recalling or being able to apply much of anything, this book could be a good entry point on to a solution-seeking path.
-
-*Last update: 2021-02-13*

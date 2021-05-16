@@ -2,6 +2,7 @@
 title: "Trust is different from trustworthiness"
 tags:
   - trust-building
+last_modified_at: 2020-06-20
 ---
 
 Trust is different from trustworthiness. **Trust is an investment** given out between two entities/parties and is contextual/purposeful. It responds to the question whether or not to place trust (in a person, institution or system). This can imply good and bad decisions. **Trustworthiness is a quality** unilaterally _earned_ from one side. It responds to the question whether the trust placed is really worth it. Aligning trust with trustworthiness gives the best outcome.
@@ -29,8 +30,6 @@ Trustworthiness, as a quality, implies **reliability** and can be interpreted as
 
 Informed transparency can help earning trustworthiness and eventually realise trust leap (build the trust and take it into action) or boost existing trust.  
 ==> [[Transparency can but not always help establish trust]]
-
-*Last update: 2020-06-20*
 
 * * *
 

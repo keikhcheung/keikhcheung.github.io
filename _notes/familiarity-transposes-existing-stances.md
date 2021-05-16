@@ -2,6 +2,7 @@
 title: "Familiarity transposes existing stances"
 tags:
   - cognitive-science
+last_modified_at: 2021-01-24
 ---
 
 If a new person/object demonstrates traits of something/somebody we are used to trusting, we are more likely to **shift our existing trust** to this new entity. Similarly, distrust and other sentiments may also work in the same way.
@@ -30,8 +31,6 @@ We are used to **scanning for familiar traits** when we encounter unfamiliar mat
 - To moderate bias, We can relativise our judgement by taking the known instance as just a base rate, then consider other possible factors, then the available data about all these factors, before finally making a decision. Often we will, hence, obtain a relative regression towards the mean (Kahneman; ch. 18).
 
 [Mere-exposure effect]: https://en.wikipedia.org/wiki/Mere-exposure_effect
-
-*Last update: 2021-01-24*
 
 * * *
 

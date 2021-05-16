@@ -2,6 +2,7 @@
 title: "Boundaries for a working slip-box system"
 tags:
   - knowledge-management
+last_modified_at: 2021-02-21
 ---
 
 Keeping the slip-box system effective requires being selective with note-taking and keeping clear boundaries of 3 types of notes.
@@ -30,8 +31,6 @@ A lean slip-box system is durable and timeless. Maintaining these hygiene factor
   ==> [[Atomic research helps consolidate locked up knowledge in an organisation]]
 - Permanent notes can be revised and rewritten as their content and our thoughts become stimulated by other findings later.
 - Ongoing discussions/corroboration/challenges to and with our permanent notes interweave and enrich our knowledge.
-
-*Last update: 2021-02-21*
 
 ## References
 

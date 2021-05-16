@@ -3,6 +3,7 @@ title: "Note-taking is different from note-making"
 tags:
   - note-taking
   - knowledge-management
+last_modified_at: 2021-02-13
 ---
 
 Note-taking is for **rapid capture** and [quick reference later][Anne-Laure Le Cunff]. It is instant.[^1] Note-taken information touches only the surface of our memory entry and is poorly assimilated. In general, it has low retrievability. What we wrote down as a short note for recall tend to fade away quickly over time.(Ahrens; ch. 10)
@@ -26,8 +27,6 @@ Even though not every note may appear to be useful for the moment, note-making a
 
 [Generation effect]: https://en.wikipedia.org/wiki/Generation_effect
 [Anne-Laure Le Cunff]: https://nesslabs.com/from-note-taking-to-note-making.
-
-*Last update: 2021-02-13*
 
 * * *
  

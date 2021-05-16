@@ -2,6 +2,7 @@
 title: "Intuition is feeble and unreliable"
 tags:
   - cognitive-science
+last_modified_at: 2021-02-12
 ---
 
 Intuition may develop from pure gut feeling and trained expertise.
@@ -20,8 +21,6 @@ That being said, it is noteworthy that intuition—incorporated, sedimented expe
 
 ## Questions
 - What is the critical mass of intuition?
-
-*Last update: 2021-02-12*
 
 * * *
 

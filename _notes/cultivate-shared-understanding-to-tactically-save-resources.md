@@ -3,6 +3,7 @@ title: "Cultivate shared understanding to tactically save resources"
 tags:
   - knowledge-management
   - collaboration
+last_modified_at: 2020-11-08
 ---
 
 In collaborative work, focus on building **shared understanding amongst the team**. This encourages everyone to acquire first-hand information, helps them retain their knowledge, reduces documentation, hand-offs & subsequent briefing, and enables team members to become proactive (Gothelf and Seiden).
@@ -24,8 +25,6 @@ Lean UX suggests that ‘Even if 90% of a meeting is not relevant to your immedi
 ## Related
 
 - [[Learning in public]]
-
-*Last update: 2020-11-08*
 
 * * *
 

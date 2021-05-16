@@ -2,6 +2,7 @@
 title: "Brainstorming and its limitations"
 tags:
   - creativity
+last_modified_at: 2021-02-14
 ---
 
 We retrieve recently acquired ideas more readily because they are more available in our memory. This may engender a bias in confirmation as our mind tends to think towards them whilst they may not be the most relevant ideas. (Ahrens ch. 12)
@@ -20,8 +21,6 @@ In consequence, it is worth while to employ an external system which helps us no
 
 - [[Note-taking is different from note-making]]
 - [[Knowledge is locked up if not freed from the source context]]
-
-*Last update: 2021-02-14*
 
 ---
 

@@ -2,6 +2,7 @@
 tags:
   - knowledge-management
   - education
+last_modified_at: 2021-03-21
 ---
 
 If we want to keep insights alive to ourselves, we must always carry them with us. This becomes a burden or even pain of silently remembering what we have learnt or know.  
@@ -16,8 +17,6 @@ Sharing knowledge with others not only helps keep ideas alive but also provide a
 - > 'Education should focus on the exchange of thoughts, discussion around arguments, and corroboration based on facts. The students and the professor are not in the classroom for one another but the above-mentioned dialogue and its product: the pursuit of truth. The author or speaker does not count but the idea.' *(Ahrens)*
 
 ==> [[Research and learning]]
-
-*Last update: 2021-03-21*
 
 ---
 

@@ -6,44 +6,43 @@
 <body>
 
   {% include analytics.html %}
-    <div class="c-flex-page">
+  <div class="c-flex-page">
     <!--
     <div class='js-off-canvas-container c-off-canvas-container'>
       {\% include header.html %}
     -->
 
-      <!-- Added div.content here for links.scss to append &UpperRightArrow; ('\2197') to a:after within content area of the webpage -->
-      <div class="content">
+    <!-- Added div.content here for links.scss to append &UpperRightArrow; ('\2197') to a:after within content area of the webpage -->
+    <div class="content">
 
-        <div class="c-progress-bar" id="scrollBar"></div>
+      <div class="c-progress-bar" id="scrollBar"></div>
 
-        <!-- Replaced by adding SEO security rel tags
-             https://jamie.evawin.uk/seo-friendly-nofollow-links-jekyll-github-pages/
-          \{\{ content \}\} -->
-          {{ content | replace: '<a href="http', '<a rel="noopener noreferrer" target="_blank" href="http' }}
+      <!-- Replaced by adding SEO security rel tags
+            https://jamie.evawin.uk/seo-friendly-nofollow-links-jekyll-github-pages/
+        \{\{ content \}\} -->
+      {{ content | replace: '<a href="http', '<a rel="noopener noreferrer" target="_blank" href="http' }}
 
-          <!--- ⚠️ Draggable has to be put after [[ content ]] for z-index stacking order;
-                    but not in footer as the the 'top' position will be erroneous upon dragging! --->
-          <!-- Draggable container -- >
-          <div id="containment-wrapper">
+      <!--- ⚠️ Draggable has to be put after [[ content ]] for z-index stacking order;
+                  but not in footer as the 'top' position will be erroneous upon dragging! --->
+      <!-- Draggable container -- >
+      <div id="containment-wrapper">
 
         <!-- Pin to bottom -->
         <div class='o-grid__col o-grid__col--1-4-s pin-layer'>
-
           <a class="drag-dot" href="{% if page.url == '/' %}javascript:void(0){% else %}{{ site.url }}{% endif %}">
           <!-- Draggable -->
           <div id="draggable" class="ui-widget-content">
             <span>kei<sup>&UpperRightArrow;</sup></span>
           </div>
           </a>
-
         </div>
 
       </div>
 
       {% include footer.html %}
-    <!-- </div> -->
+      
     </div>
+  </div>
 
   <script src="{{ '/js/jquery-3.5.1.min.js' | prepend: site.baseurl }}"> </script>  
   <script src="{{ '/js/evil-icons.min.js' | prepend: site.baseurl }}">   </script>

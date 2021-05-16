@@ -3,6 +3,7 @@ title: "Peripheral vision enhances discoverability"
 tags:
   - ux-ui
   - workspace
+last_modified_at: 2020-07-26
 ---
 
 Peripheral vision offers _in situ_ context on matters. A book next to your work computer means something in the book is related to work. **Margin notes on a page carries the significance** of the notes to the surrounding paragraphs.
@@ -14,8 +15,6 @@ For reading in the digital environment, annotations have been built to emulate p
 A messy desk helps creativity[^2]. It **provides triggers and affordance** of ideas which are encapsulated in surrounding objects. It favours cross-context touchpoints/junctions if you are working on multiple topics at the same time.
 
 This is similar to having secondary or even tertiary UI elements, which may at times intrigue our curiosity to interact with them. They need not be blastingly flashy, but can remain subtle when we have some attention to spare.
-
-*Last update: 2020-07-26*
 
 * * *
 

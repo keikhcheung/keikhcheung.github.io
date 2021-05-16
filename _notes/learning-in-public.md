@@ -2,6 +2,7 @@
 title: "Learning in public"
 tags:
   - education
+last_modified_at: 2021-02-12
 ---
 
 Learning in public is about the act of sharing progressive knowledge with everyone.
@@ -40,5 +41,3 @@ At other times, we may simply feel unsure and **insecure** about making what we 
 [^6]: Ahrens, *op. cit.*, ch. 5.
 
 [Joel Hooks]: https://joelhooks.com/on-writing-more
-
-*Last update: 2021-02-12*

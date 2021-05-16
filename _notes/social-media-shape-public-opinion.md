@@ -2,6 +2,7 @@
 title: "Social media shape public opinion"
 tags:
   - social-media
+last_modified_at: 2021-01-10
 ---
 
 Social media vector **public attention**. Public attention frames public ‘objective’ perspectives and what appears to be **genuine**. Hence, depending on where their attention is put, what the public believe can alter, especially when the diffused information in focus shares a certain degree of familiarity.  
@@ -20,8 +21,6 @@ Amidst all, our action & inaction both play a role as **information becomes part
 This open participation may make us feel that the Web is free (and democratic). Indeed, it has grown to become the opposite as public use of Internet converges on a few online services. The control lies in the hands of these few tech giants that have prospered from it.
 
 - As Tim Berners-Lee has written, “The web that many connected to years ago is not what new users will find today. What was once a rich selection of blogs and websites has been compressed under the powerful weight of a few dominant platforms. This concentration of power creates a new set of gatekeepers, allowing a handful of platforms to control which ideas and opinions are seen and shared... What’s more, the fact that power is concentrated among so few companies has made it possible to [weaponize] the web at scale.” (Singer and Brooking; ch. 2)
-
-*Last update: 2021-01-10*
 
 * * *
 

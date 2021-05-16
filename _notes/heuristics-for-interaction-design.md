@@ -1,6 +1,7 @@
 ---
 tags:
   - ux-ui
+last_modified_at: 2021-02-01
 ---
 
 Jakob Nielsen listed [10 general principles][NN/g] for heuristic evaluation. These principles are highly flexible and transposable to many different contexts beyond usability and interaction design.
@@ -30,5 +31,3 @@ In short, and as a checklist when needed:
 **Keep it simple**
 
 - Aesthetic & minimalist
-
-*Last update: 2021-02-01*

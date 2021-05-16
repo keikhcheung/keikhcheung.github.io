@@ -3,6 +3,7 @@ title: "Design research tips"
 tags:
   - research
   - ux-ui
+last_modified_at: 2020-08-08
 ---
 
 Design research helps **ground decision making on solid basis** and substantiate subsequent direction (instead of following our gut feeling).  
@@ -29,8 +30,6 @@ Development and testing is not the only way to get input for insights.
 Running design research takes time. It may not always fit into the increment cycle in Scrum for demonstrating deliverables. Yet, to maintain transparency across a working team, show the incremental progress in design research. This provides a platform for feedback collection, and can perhaps enrich insights coming from other input sources.
 
 - For Scrum in Agile: Incremental deliverables are to make work done transparent. It is not an exclusive framework to deny longer, yet meaningful tasks which need more time than the increment’s length (Seiden).
-
-*Last update: 2020-08-08*
 
 * * *
 
