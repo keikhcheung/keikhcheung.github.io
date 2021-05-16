@@ -1,0 +1,18 @@
+/*------------------------------------*\
+  Components > Flex Page
+\*------------------------------------*/
+
+.c-flex-page {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.content {
+  flex: 1;
+
+}
+
+.c-footer {
+  flex-shrink: 0;
+}

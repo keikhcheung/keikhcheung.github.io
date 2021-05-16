@@ -10,5 +10,5 @@ $( document ).ready(function() {
     });   
     
     // Hide footnotes at the bottom of the page.
-    $(".footnotes").hide()
+    // $(".footnotes").hide()
 });

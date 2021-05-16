@@ -6,7 +6,7 @@
 <body>
 
   {% include analytics.html %}
-
+    <div class="c-flex-page">
     <!--
     <div class='js-off-canvas-container c-off-canvas-container'>
       {\% include header.html %}
@@ -22,12 +22,10 @@
           \{\{ content \}\} -->
           {{ content | replace: '<a href="http', '<a rel="noopener noreferrer" target="_blank" href="http' }}
 
-      </div>
-
-      <!--- ⚠️ Draggable has to be put after [[ content ]] for z-index stacking order;
-                but not in footer as the the 'top' position will be erroneous upon dragging! --->
-      <!-- Draggable container -- >
-      <div id="containment-wrapper">
+          <!--- ⚠️ Draggable has to be put after [[ content ]] for z-index stacking order;
+                    but not in footer as the the 'top' position will be erroneous upon dragging! --->
+          <!-- Draggable container -- >
+          <div id="containment-wrapper">
 
         <!-- Pin to bottom -->
         <div class='o-grid__col o-grid__col--1-4-s pin-layer'>
@@ -45,6 +43,7 @@
 
       {% include footer.html %}
     <!-- </div> -->
+    </div>
 
   <script src="{{ '/js/jquery-3.5.1.min.js' | prepend: site.baseurl }}"> </script>  
   <script src="{{ '/js/evil-icons.min.js' | prepend: site.baseurl }}">   </script>
