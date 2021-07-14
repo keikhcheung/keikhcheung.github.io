@@ -29,9 +29,11 @@
     }*/
   }
 
-  margin-bottom: $line-height-medium + half(quarter($line-height-medium));
+  margin-top: $line-height-medium;
+  // margin-bottom: $line-height-medium + half(quarter($line-height-medium));
 
   @include mq($until: tablet) {
-    margin-bottom: $line-height-medium - half(quarter($line-height-medium));
+    margin-top: $line-height-medium;
+    margin-bottom: $line-height-medium + half(quarter($line-height-medium));
   }
 }

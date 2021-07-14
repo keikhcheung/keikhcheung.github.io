@@ -5,6 +5,7 @@ Special thanks:
 - [Kat Fukui](http://katfukui.com) for her documentation on Jekyll and GitHub Pages with which this site has been established.
 - Lazy load for images thanks to the script by [Craig Buckler](https://github.com/craigbuckler/progressive-image.js), optimisation for mobile, and SEO.
 - [Type theme](https://github.com/aspirethemes/type) for layout remake.
+- [Ahmad Ajml](https://github.com/ahmadajmi) for the [Type theme](https://github.com/aspirethemes/type), on which the layout remake is initially based.
 
 See also:
 
