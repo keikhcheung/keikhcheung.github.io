@@ -16,13 +16,18 @@ tags:
   - awards
 websites:
   - https://www.tintoretto2go.de/
+  - https://web.archive.org/web/20210714194639/https://www.tintoretto2go.de/
   - https://www.pipipi.de/tintoretto_en.html
+  - https://web.archive.org/web/20210714194651/https://www.pipipi.de/tintoretto_en.html
   - https://www.pipipi.de/tintoretto_de.html
+  - https://web.archive.org/web/20210714194659/https://www.pipipi.de/tintoretto_de.html
   - Ranking https://www.redbox.de/sites/default/files/ranking/ranking2019/details/215.htm
   - Econ Megaphon Awards https://www.econforum.de/beitraege/econ-megaphon-awards/2019/mobileapps/tintoretto2go (exp)
   - https://winners.lovieawards.eu/#!y=2018&m=274 (exp)
   - https://winners.lovieawards.com/#!y=2018&m=275
-  - http://www.goldenawardmontreux.com/winners2018/winners2018-digital.html (exp)
+  - https://web.archive.org/web/20210714193204/https%3A%2F%2Fwinners.lovieawards.com%2F
+  - http://www.goldenawardmontreux.com/winners2018/winners2018-digital.html
+  - https://web.archive.org/web/20190915173402/http://www.goldenawardmontreux.com/winners2018/winners2018-digital.html
 ---
 
 <div class="extras" markdown="1">

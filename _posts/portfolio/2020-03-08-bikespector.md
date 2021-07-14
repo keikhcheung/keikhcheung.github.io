@@ -17,12 +17,20 @@ tags:
   - sharing-economy
   - awards
 websites:
+  - https://www.bikespector.de
+  - https://web.archive.org/web/20210714194911/https://www.bikespector.de/
   - https://winners.webbyawards.com/2020/websites/features-design/best-user-experience/129177/bikespector
+  - https://web.archive.org/web/20210714191948/https%3A%2F%2Fwinners.webbyawards.com%2F2020%2Fwebsites%2Ffeatures-design%2Fbest-user-experience%2F129177%2Fbikespector
   - https://www.denkwerk.com/en/blog/the-webby-award-goes-to-deepl-and-denkwerk
-  - http://www.goldenawardmontreux.com/winners2020/finalists.php?entrytype=DIGITAL%20/%20INTERACTIVE (exp)
+  - https://web.archive.org/web/20210714194312/https://www.denkwerk.com/en/blog/the-webby-award-goes-to-deepl-and-denkwerk
+  - http://www.goldenawardmontreux.com/winners2020/finalists.php?entrytype=DIGITAL%20/%20INTERACTIVE
+  - https://web.archive.org/web/20210714191522/http://www.goldenawardmontreux.com/winners2020/finalists.php?entrytype=DIGITAL+%2F+INTERACTIVE
   - https://www.denkwerk.com/en/blog/denkwerk-second-best-agency-in-europe-at-the-golden-award-of-montreux
+  - https://web.archive.org/web/20210714193657/https://www.denkwerk.com/en/blog/denkwerk-second-best-agency-in-europe-at-the-golden-award-of-montreux
   - http://hellojury.de/bikespector/
+  - https://web.archive.org/web/20210714194826/https://player.vimeo.com/video/389712478?color=ff333d&title=0&byline=0&portrait=0&badge=0&autoplay=true
   - https://www.denkwerk.com/en/blog/red-dot-award-2020-goes-to-bikespector
+  - https://web.archive.org/web/20210714193057if_/https://www.denkwerk.com/en/blog/red-dot-award-2020-goes-to-bikespector
 ---
 
 <div class="extras" markdown="1">
@@ -31,7 +39,7 @@ websites:
 
 - [Red Dot Awards 2020](https://www.denkwerk.com/en/blog/red-dot-award-2020-goes-to-bikespector): User Interface Design, 'Interface & User Experience Design' in Brands & Communication Design
 - [Webby Awards 2020 Nominee](https://winners.webbyawards.com/2020/websites/features-design/best-user-experience/129177/bikespector): *Best User Experience* in 'Websites'
-- [Golden Awards of Montreux 2020](https://www.denkwerk.com/en/blog/denkwerk-second-best-agency-in-europe-at-the-golden-award-of-montreux): Finalist, 'Community Applications' and 'Retail/Travel/Hotels/Tourism' in Digital/Interactive
+- [Golden Awards of Montreux 2020](https://web.archive.org/web/20210714191522/http://www.goldenawardmontreux.com/winners2020/finalists.php?entrytype=DIGITAL+%2F+INTERACTIVE): Finalist, 'Community Applications' and 'Retail/Travel/Hotels/Tourism' in Digital/Interactive
 
 </div>
 
