@@ -191,6 +191,9 @@ h6 {
     p, h1, h2:not(#references), h3, h4, h5, h6, blockquote, pre, dl, dd, li:not([role='doc-endnote']), hr {
       max-width: 75%;
     }
+    li > p {
+      max-width: initial;
+    }
   }
 }
 
