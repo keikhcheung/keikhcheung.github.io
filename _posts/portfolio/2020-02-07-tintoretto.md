@@ -20,14 +20,17 @@ websites:
   - https://www.pipipi.de/tintoretto_de.html
   - Ranking https://www.redbox.de/sites/default/files/ranking/ranking2019/details/215.htm
   - Econ Megaphon Awards https://www.econforum.de/beitraege/econ-megaphon-awards/2019/mobileapps/tintoretto2go (exp)
+  - https://winners.lovieawards.eu/#!y=2018&m=274 (exp)
+  - https://winners.lovieawards.com/#!y=2018&m=275
+  - http://www.goldenawardmontreux.com/winners2018/winners2018-digital.html (exp)
 ---
 
 <div class="extras" markdown="1">
 
 ##### Awards
 
-- [Golden Awards of Montreux 2018](http://www.goldenawardmontreux.com/winners2018/winners2018-digital.html): Gold Medal, 'Digital Out of Home'
-- [Lovie Awards 2018](https://winners.lovieawards.eu/#!y=2018&m=274): Bronze, *Best User Experience* in 'Mobile & Applications'
+- [Golden Awards of Montreux 2018](https://web.archive.org/web/20190915173402/http://www.goldenawardmontreux.com/winners2018/winners2018-digital.html): Gold Medal, 'Digital Out of Home'
+- [Lovie Awards 2018](https://winners.lovieawards.com/#!y=2018&m=275): Bronze, *Best User Experience* in 'Mobile & Applications'
 <!--- Facebook post: https://www.facebook.com/denkwerk/posts/10156682556103426/
 	  Twitter: https://twitter.com/denkwerk/status/1051809941558886400
 	  iOS App: https://apps.apple.com/us/app/tintoretto2go/id1292594289 --->
