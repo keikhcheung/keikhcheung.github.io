@@ -23,6 +23,7 @@ websites:
   - https://web.archive.org/web/20210714194659/https://www.pipipi.de/tintoretto_de.html
   - Ranking https://www.redbox.de/sites/default/files/ranking/ranking2019/details/215.htm
   - Econ Megaphon Awards https://www.econforum.de/beitraege/econ-megaphon-awards/2019/mobileapps/tintoretto2go (exp)
+  - https://web.archive.org/web/20200803084343/https://www.econforum.de/beitraege/econ-megaphon-awards/2019/mobileapps/tintoretto2go
   - https://winners.lovieawards.eu/#!y=2018&m=274 (exp)
   - https://winners.lovieawards.com/#!y=2018&m=275
   - https://web.archive.org/web/20210714193204/https%3A%2F%2Fwinners.lovieawards.com%2F
